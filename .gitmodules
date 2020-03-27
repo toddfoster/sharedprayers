@@ -1,0 +1,6 @@
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/onetwothree"]
+	path = themes/onetwothree
+	url = https://github.com/schollz/onetwothree.git
