@@ -1,0 +1,12 @@
+baseURL = "http://sharedprayers.net/"
+languageCode = "en-us"
+title = "Shared Prayers"
+theme = "zen"
+
+[markup.goldmark.renderer]
+      hardWraps = true
+
+[params]
+copyright = "CC-SA-4.0"
+jquery = false
+mainsections = ""
