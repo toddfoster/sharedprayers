@@ -1,7 +1,9 @@
-baseURL = "http://sharedprayers.net/"
+baseURL = "http://toddfoster.github.io/sharedprayers/"
 languageCode = "en-us"
 title = "Shared Prayers"
 theme = "zen"
+
+publishDir = "docs"
 
 [markup.goldmark.renderer]
       hardWraps = true
