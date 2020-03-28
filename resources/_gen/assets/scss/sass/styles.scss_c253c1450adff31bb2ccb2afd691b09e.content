@@ -854,8 +854,8 @@ figure.podcast audio {
   background-color: #fff0f0; }
 
 /* rubrics */
-#single-view h4 {
-  font-size: x-small;
+h5 {
+  font-size: small;
   font-style: italic;
   font-weight: normal; }
 

@@ -23,7 +23,7 @@ _Preparations for Evening Prayer need not be complex. Light a candle if possible
 
 -------------
 
-#### The Officiant begins the service with the following sentence of Scripture:
+##### The Officiant begins the service with the following sentence of Scripture:
 > I will bless the Lord who gives me counsel; my heart teaches me, night after night.  I have set the Lord always before me; because he is at my right hand, I shall not fall.  _(Psalm 16:7,8)_
 
 ### Confession of Sin
@@ -79,8 +79,8 @@ Officiant:
 > and to be glorified through all the worlds.**
 
 ### The Psalm Appointed
-#### The People are seated.
-#### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
+##### The People are seated.
+##### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
 **Psalm 70** --- _Deus, in adjutorium_ --- _BCP 682_
 
 > 1 Be pleased, O God, to deliver me; *
@@ -153,7 +153,7 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-#### The People stand as able.
+##### The People stand as able.
 **The Song of Mary**	--- _Magnificat_ --- _Luke 1:46-55_
 
 > **My soul proclaims the greatness of the Lord,
@@ -176,7 +176,7 @@ Reader:
 > Glory to the Father and to the Son, and to the Holy Spirit: *
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
-#### The People are seated.
+##### The People are seated.
 
 Reader:
 > A Reading from the book of Hebrews.
@@ -191,7 +191,7 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-#### The People stand as able.
+##### The People stand as able.
 
 **The Song of Simeon** --- _Nunc Dimittis_  --- _Luke 2:29-32_
 > **Lord, you now have set your servant free *
@@ -204,7 +204,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: *
 as it was in the beginning, is now, and will be for ever. Amen.**
 
 
-#### The People are seated.
+##### The People are seated.
 Reader:
 > A Reading from John’s Gospel.
 >
@@ -218,10 +218,10 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-#### A brief homily, spiritual conversation, or moment of silence may be placed here.
+##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 
 ### The Apostles' Creed
-#### Officiant and People together, all standing
+##### Officiant and People together, all standing
 > I believe in God, **the Father almighty,
 > creator of heaven and earth.
 > I believe in Jesus Christ, his only Son, our Lord.
@@ -242,7 +242,7 @@ Reader:
 > and the life everlasting.  Amen.**
 
 ## The Prayers
-#### The people stand or kneel
+##### The people stand or kneel
 Officiant:
 > The Lord be with you.
 
@@ -305,7 +305,7 @@ Officiant:
 **People:**
 > **We entreat you, O Lord.**
 
-#### Collects may be said by the Officiant or by the people together, or they may be said in turn.
+##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 _Collect Proper to the Day_
 > Lord God, whose blessed Son our Savior gave his body to be whipped and his face to be spit upon: Give us grace to accept joyfully the sufferings of the present time, confident of the glory that shall be revealed; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.  **Amen.**
@@ -316,9 +316,9 @@ _A Collect for the Presence of Christ_
 _A Prayer for Mission_
 > Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  **Amen.**
 
-#### Here may be sung a hymn or anthem.
+##### Here may be sung a hymn or anthem.
 
-#### Intercessions and thanksgivings may follow.
+##### Intercessions and thanksgivings may follow.
 
 _The General Thanksgiving_
 
@@ -348,5 +348,5 @@ Officiant:
 **People:**
 > **Thanks be to God.**
 
-#### The Officiant then concludes with the following sentence of scripture:
+##### The Officiant then concludes with the following sentence of scripture:
 Glory to God whose power, working in us, can do infinitely more than we can ask or imagine:  Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
