@@ -8,7 +8,11 @@ publishDir = "docs"
 [markup.goldmark.renderer]
       hardWraps = true
 
+[menu]
+[[menu.main]]
+
 [params]
 copyright = "CC-SA-4.0"
 jquery = false
 mainsections = ""
+mobileMenu = false

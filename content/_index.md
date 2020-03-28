@@ -2,9 +2,9 @@
 
 ### Full Liturgies
 * [The Sunday of the Passion: Palm Sunday](liturgies/palmsunday)
-* [Holy Monday](http://www.boidem.org/stt2020-epmon)
-* [Holy Tuesday](http://www.boidem.org/stt2020-eptue)
-* [Holy Wednesday](http://www.boidem.org/stt2020-epwed)
+* [Holy Monday](liturgies/holywk-epmon)
+* [Holy Tuesday](liturgies/holywk-eptue)
+* [Holy Wednesday](liturgies/holywk-epwed)
 
 ### Readings Only
 * [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)

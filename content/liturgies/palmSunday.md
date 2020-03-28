@@ -278,7 +278,7 @@ Reader:
 > **Thanks be to God.**
 
 ***The Passion*** ---	_Matthew 26.14–27.66_
-#### Separate Passion reading booklets are provided at [https://is.gd/PassionMatthew](https://is.gd/PassionMatthew). The congregation may be seated for the first part of the Passion. **At the verse which mentions the arrival at Golgotha all stand.**
+#### Separate Passion reading booklets are provided [here](https://is.gd/PassionMatthew). The congregation may be seated for the first part of the Passion. **At the verse which mentions the arrival at Golgotha all stand.**
 
 #### There follows a great silence. Please remain standing if you are able.
 

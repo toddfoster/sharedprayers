@@ -853,4 +853,10 @@ figure.podcast audio {
 .js-submitted textarea:invalid {
   background-color: #fff0f0; }
 
+/* rubrics */
+#single-view h4 {
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal; }
+
 /*# sourceMappingURL=styles.css.map */
