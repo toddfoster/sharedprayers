@@ -857,6 +857,7 @@ figure.podcast audio {
 h5 {
   font-size: small;
   font-style: italic;
-  font-weight: normal; }
+  font-weight: normal;
+  line-height: 100%; }
 
 /*# sourceMappingURL=styles.css.map */

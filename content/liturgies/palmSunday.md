@@ -5,8 +5,6 @@ date: 2020-03-27T16:59:14-04:00
 _according to the Book of Common Prayer (p. 270)
 5 April 2020_
 
-
-# TODO: PoP
 ------------
 
 ## Share These Prayers
@@ -275,16 +273,363 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-***The Passion*** ---	_Matthew 26.14–27.66_
+## The Passion
 ##### Separate Passion reading booklets are provided [here](https://is.gd/PassionMatthew). The congregation may be seated for the first part of the Passion. **At the verse which mentions the arrival at Golgotha all stand.**
 
-##### There follows a great silence. Please remain standing if you are able.
+**The Passion of our Lord according to MATTHEW** -- _Matthew 26:14–27:66 (RCL Year A)_
+
+_Dramatis personæ: 	People, Judas, Narrator, Jesus, Peter, High Priest, Witness/Servant/Pilate’s Wife, Pilate_
+
+-------------------------------------------------------------------------------
+
+_Narrator:_	The Passion of our Lord Jesus Christ according to Matthew.
+
+_Narrator:_	One of the twelve, who was called Judas Iscariot, went to the chief priests and said,
+
+_Judas:_	What will you give me if I betray him to you?
+
+_Narrator:_	They paid him thirty pieces of silver. And from that moment he began to look for an opportunity to betray him.
+
+On the first day of Unleavened Bread the disciples came to Jesus, saying,
+
+**_People:_ 	Where do you want us to make the preparations for you to eat the Passover?**
+
+_Narrator:_	Jesus said,
+
+_Jesus:_	Go into the city to a certain man, and say to him, “The Teacher says, My time is near; I will keep the Passover at your house with my disciples.”
+
+_Narrator:_	So the disciples did as Jesus had directed them, and they prepared the Passover meal.
+
+When it was evening, he took his place with the twelve; and while they were eating, he said,
+
+_Jesus:_	Truly I tell you, one of you will betray me.
+
+_Narrator:_	And they became greatly distressed and began to say to him one after another,
+
+**_People:_ 	Surely not I, Lord?**
+
+_Jesus:_	The one who has dipped his hand into the bowl with me will betray me. The Son of Man goes as it is written of him, but woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born.
+
+_Narrator:_	Judas, who betrayed him, said,
+
+_Judas:_	Surely not I, Rabbi?
+
+_Jesus:_	You have said so.
+
+_Narrator:_	While they were eating, Jesus took a loaf of bread, and after blessing it he broke it, gave it to the disciples, and said,
+
+_Jesus:_	Take, eat; this is my body.
+
+_Narrator:_	Then he took a cup, and after giving thanks he gave it to them, saying,
+
+_Jesus:_	Drink from it, all of you; for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father’s kingdom.
+
+_Narrator:_	When they had sung the hymn, they went out to the Mount of Olives. Then Jesus said to them,
+
+_Jesus:_	You will all become deserters because of me this night; for it is written,
+> ‘I will strike the shepherd,
+> the sheep of the flock will be
+> scattered.’
+
+But after I am raised up, I will go ahead of you to Galilee.
+
+_Narrator:_	Peter said to him,
+
+_Peter:_	Though all become deserters because of you, I will never desert you.
+
+_Jesus:_	Truly I tell you, this very night, before the cock crows, you will deny me three times.
+
+_Peter:_	Even though I must die with you, I will not deny you.
+
+_Narrator:_	And so said all the disciples.
+
+Then Jesus went with them to a place called Gethsemane; and he said to his disciples,
+
+_Jesus:_	Sit here while I go over there and pray.
+
+_Narrator:_	He took with him Peter and the two sons of Zebedee, and began to be grieved and agitated. Then he said to them,
+
+_Jesus:_	I am deeply grieved, even to death; remain here, and stay awake with me.
+
+_Narrator:_	And going a little farther, he threw himself on the ground and prayed,
+_Jesus:_	My Father, if it is possible, let this cup pass from me; yet not what I want but what you want.
+
+_Narrator:_	Then he came to the disciples and found them sleeping; and he said to Peter,
+
+_Jesus:_	So, could you not stay awake with me one hour? Stay awake and pray that you may not come into the time of trial; the spirit indeed is willing, but the flesh is weak.
+
+_Narrator:_	Again he went away for the second time and prayed,
+
+_Jesus:_	My Father, if this cannot pass unless I drink it, your will be done.
+
+_Narrator:_	Again he came and found them sleeping, for their eyes were heavy. So leaving them again, he went away and prayed for the third time, saying the same words. Then he came to the disciples and said to them,
+
+_Jesus:_	Are you still sleeping and taking your rest? See, the hour is at hand, and the Son of Man is betrayed into the hands of sinners. Get up, let us be going. See, my betrayer is at hand.
+
+_Narrator:_	While he was still speaking, Judas, one of the twelve, arrived; with him was a large crowd with swords and clubs, from the chief priests and the elders of the people. Now the betrayer had given them a sign, saying,
+
+_Judas:_	The one I will kiss is the man; arrest him.
+
+_Narrator:_	At once he came up to Jesus and kissed him.
+
+_Judas:_	Greetings, Rabbi!
+
+_Jesus:_	Friend, do what you are here to do.
+
+_Narrator:_	Then they came and laid hands on Jesus and arrested him. Suddenly, one of those with Jesus put his hand on his sword, drew it, and struck the slave of the high priest, cutting off his ear. Then Jesus said to him,
+
+_Jesus:_	Put your sword back into its place; for all who take the sword will perish by the sword. Do you think that I cannot appeal to my Father, and he will at once send me more than twelve legions of angels? But how then would the scriptures be fulfilled, which say it must happen in this way?
+
+_Narrator:_	At that hour Jesus said to the crowds,
+
+_Jesus:_	Have you come out with swords and clubs to arrest me as though I were a bandit? Day after day I sat in the temple teaching, and you did not arrest me. But all this has taken place, so that the scriptures of the prophets may be fulfilled.
+
+_Narrator:_	Then all the disciples deserted him and fled.
+
+Those who had arrested Jesus took him to Caiaphas the high priest, in whose house the scribes and the elders had gathered. But Peter was following him at a distance, as far as the courtyard of the high priest; and going inside, he sat with the guards in order to see how this would end. Now the chief priests and the whole council were looking for false testimony against Jesus so that they might put him to death, but they found none, though many false witnesses came forward. At last two came forward and said,
+
+_Witness:_	This fellow said, “I am able to destroy the temple of God and to build it in three days.”
+
+_Narrator:_	The high priest stood up and said,
+
+_H. Priest:_	Have you no answer? What is it that they testify against you?
+
+_Narrator:_	But Jesus was silent.
+
+_H. Priest:_	I put you under oath before the living God, tell us if you are the Messiah, the Son of God.
+
+_Jesus:_	You have said so. But I tell you,
+> From now on you will see the Son of Man
+> seated at the right hand of Power
+> and coming on the clouds of heaven.
+
+_Narrator:_	Then the high priest tore his clothes.
+
+_H. Priest:_	He has blasphemed! Why do we still need witnesses? You have now heard his blasphemy. What is your verdict?
+
+**_People:_	He deserves death.**
+
+_Narrator:_	Then they spat in his face and struck him; and some slapped him, saying,
+
+**_People:_	Prophesy to us, you Messiah! Who is it that struck you?**
+
+_Narrator:_	Now Peter was sitting outside in the courtyard. A servant-girl came to him and said,
+
+_Servant:_	You also were with Jesus the Galilean.
+
+_Narrator:_	But he denied it before all of them.
+
+_Peter:_	I do not know what you are talking about.
+
+_Narrator:_	When he went out to the porch, another servant-girl saw him, and she said to the bystanders,
+
+_Servant:_	This man was with Jesus of Nazareth.
+
+_Narrator:_	Again he denied it with an oath.
+
+_Peter:_	I do not know the man.
+
+_Narrator:_	After a little while the bystanders came up and said to Peter,
+
+
+**_People:_	Certainly you are also one of them, for your accent betrays you.**
+
+_Narrator:_	Then he began to curse, and he swore an oath,
+
+_Peter:_	I do not know the man!
+
+_Narrator:_	At that moment the cock crowed. Then Peter remembered what Jesus had said:
+
+_Jesus:_	Before the cock crows, you will deny me three times.
+
+_Narrator:_	And he went out and wept bitterly.
+
+_Narrator:_	When morning came, all the chief priests and the elders of the people conferred together against Jesus in order to bring about his death. They bound him, led him away, and handed him over to Pilate the governor.
+
+When Judas, his betrayer, saw that Jesus was condemned, he repented and brought back the thirty pieces of silver to the chief priests and the elders.
+
+_Judas:_	I have sinned by betraying innocent blood.
+
+_H. Priest:_	What is that to us? See to it yourself.
+
+_Narrator:_	Throwing down the pieces of silver in the temple, he departed; and he went and hanged himself. But the chief priests, taking the pieces of silver, said,
+
+_H. Priest:_	It is not lawful to put them into the treasury, since they are blood money.
+
+
+_Narrator:_	After conferring together, they used them to buy the potter’s field as a place to bury foreigners. For this reason that field has been called the Field of Blood to this day. Then was fulfilled what had been spoken through the prophet Jeremiah, “And they took the thirty pieces of silver, the price of the one on whom a price had been set, on whom some of the people of Israel had set a price, and they gave them for the potter’s field, as the Lord commanded me.”
+
+Now Jesus stood before the governor; and the governor asked him,
+
+_Pilate:_	Are you the King of the Jews?
+
+_Jesus:_	You say so.
+
+_Narrator:_	But when he was accused by the chief priests and elders, he did not answer.
+
+_Pilate:_	Do you not hear how many accusations they make against you?
+
+_Narrator:_	But he gave him no answer, not even to a single charge, so that the governor was greatly amazed.
+
+Now at the festival the governor was accustomed to release a prisoner for the crowd, anyone whom they wanted. At that time they had a notorious prisoner, called Jesus Barabbas. So after they had gathered, Pilate said to them,
+
+_Pilate:_	Whom do you want me to release for you, Jesus Barabbas or Jesus who is called the Messiah?
+
+_Narrator:_	For he realized that it was out of jealousy that they had handed him over. While he was sitting on the judgment seat, his wife sent word to him,
+
+_Wife:_	Have nothing to do with that innocent man, for today I have suffered a great deal because of a dream about him.
+
+_Narrator:_	Now the chief priests and the elders persuaded the crowds to ask for Barabbas and to have Jesus killed. The governor again said to them,
+
+_Pilate:_	Which of the two do you want me to release for you?”
+
+**_People:_	Barabbas.**
+
+_Pilate:_ 	Then what should I do with Jesus who is called the Messiah?
+
+**_People:_	Let him be crucified!**
+
+_Pilate:_	Why, what evil has he done?
+
+**_People:_	(shouting) Let him be crucified!**
+
+_Narrator:_	So when Pilate saw that he could do nothing, but rather that a riot was beginning, he took some water and washed his hands before the crowd.
+
+_Pilate:_	I am innocent of this man’s blood; see to it yourselves.
+
+_Narrator:_	Then the people as a whole answered,
+
+**_People:_	His blood be on us and on our children!**
+
+_Narrator:_	So he released Barabbas for them; and after flogging Jesus, he handed him over to be crucified.
+
+_Narrator:_	Then the soldiers of the governor took Jesus into the governor’s headquarters, and they gathered the whole cohort around him. They stripped him and put a scarlet robe on him, and after twisting some thorns into a crown, they put it on his head. They put a reed in his right hand and knelt before him and mocked him, saying,
+
+**_People:_	Hail, King of the Jews!**
+
+_Narrator:_	They spat on him, and took the reed and struck him on the head. After mocking him, they stripped him of the robe and put his own clothes on him. Then they led him away to crucify him.
+
+As they went out, they came upon a man from Cyrene named Simon; they compelled this man to carry his cross. And when they came to a place called Golgotha (which means Place of a Skull), they offered him wine to drink, mixed with gall; but when he tasted it, he would not drink it.
+
+**SILENCE		   (The Congregation stands at this time.)**
+
+_Narrator:_	And when they had crucified him, they divided his clothes among themselves by casting lots; then they sat down there and kept watch over him. Over his head they put the charge against him, which read, “This is Jesus, the King of the Jews.”
+
+Then two bandits were crucified with him, one on his right and one on his left. Those who passed by derided him, shaking their heads and saying,
+
+**_People:_	You who would destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross.**
+
+_Narrator:_	In the same way the chief priests also, along with the scribes and elders, were mocking him, saying,
+
+**_People:_	He saved others; he cannot save himself. He is the King of Israel; let him come down from the cross now, and we will believe in him. He trusts in God; let God deliver him now, if he wants to; for he said, “I am God’s Son.”**
+
+_Narrator:_	The bandits who were crucified with him also taunted him in the same way.
+
+_Narrator:_	From noon on, darkness came over the whole land until three in the afternoon. And about three o’clock Jesus cried with a loud voice.
+
+_Jesus:_	Eli, Eli, lema sabachthani?
+
+_Narrator:_	That is, “My God, my God, why have you forsaken me?” When some of the bystanders heard it, they said,
+
+**_People:_	This man is calling for Elijah.**
+
+_Narrator:_	At once one of them ran and got a sponge, filled it with sour wine, put it on a stick, and gave it to him to drink. But the others said,
+
+**_People:_	Wait, let us see whether Elijah will come to save him.**
+
+_Narrator:_	Then Jesus cried again with a loud voice and breathed his last. At that moment the curtain of the temple was torn in two, from top to bottom. The earth shook, and the rocks were split. The tombs also were opened, and many bodies of the saints who had fallen asleep were raised. After his resurrection they came out of the tombs and entered the holy city and appeared to many. Now when the centurion and those with him, who were keeping watch over Jesus, saw the earthquake and what took place, they were terrified and said,
+**_People:_	Truly this man was God’s Son!**
+
+_Narrator:_	Many women were also there, looking on from a distance; they had followed Jesus from Galilee and had provided for him. Among them were Mary Magdalene, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+
+When it was evening, there came a rich man from Arimathea, named Joseph, who was also a disciple of Jesus. He went to Pilate and asked for the body of Jesus; then Pilate ordered it to be given to him. So Joseph took the body and wrapped it in a clean linen cloth and laid it in his own new tomb, which he had hewn in the rock. He then rolled a great stone to the door of the tomb and went away. Mary Magdalene and the other Mary were there, sitting opposite the tomb.
+
+_Narrator:_	The next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate and said,
+
+_H. Priest:_	Sir, we remember what that impostor said while he was still alive, “After three days I will rise again.” Therefore command the tomb to be made secure until the third day; otherwise his disciples may go and steal him away, and tell the people, “He has been raised from the dead,” and the last deception would be worse than the first.
+
+_Pilate:_	You have a guard of soldiers; go, make it as secure as you can.
+
+_Narrator:_	So they went with the guard and made the tomb secure by sealing the stone.
+
+**There follows a great silence. Please remain standing if you are able.**
+
+##### Text adapted from New Revised Standard Version Bible: Anglicized Edition, Copyright © 1989, 1995 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide. http://nrsvbibles.org
+
+-------------------------------------------------------------------------------
 
 ### The Prayers of the People
-TODO: Provide in full-- finish with the Lord’s Prayer!
-Today, the response to “let us pray” is “Lord, have mercy.”
-The prayers of the people conclude with: Remembering the blessed Virgin Mary, blessed Thomas, and all the saints, let us offer ourselves and one another to the living God through Christ. To you, O Lord.
-Celebrant:	And now, as our Savior Christ has taught us, we are bold to say,
+Officiant:
+> As we begin these sacred three days and prepare through fasting and prayer to celebrate the paschal feast, let us earnestly pray to God for all those gathered tonight with Christ and for all peoples everywhere.
+
+Reader:
+> For the holy catholic church throughout the world, sharing the death and resurrection of Christ, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For Justin, Archbishop of Canterbury, for Michael, Presiding Bishop of the Episcopal Church, for _William_ our bishop, for all bishops, presbyters and deacons and all who minister in Christ, and for all the holy people of God, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For all catechumens and their sponsorss, for all seeking baptism, confirmation, or reaffirmation, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For all nations, peoples, tribes, clans, and families, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For our President, Donald, our Governor, Phil, our Mayor, John, and for justice, mercy, and peace in all the world, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For all who are tempted, oppressed, afflicted, or in need, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For all those who have suffered and have been affected by the Covid-19 Virus; for healing in mind, body, spirit and community;  for our governing bodies that they may respond with dignity and respect for all citizens, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For the dying and the dead, and for those who mourn, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> For our families, friends, and companions, and for all those we love, let us pray.
+
+**People:**
+> **Lord, have mercy.**
+
+Reader:
+> Remembering the blessed Virgin Mary, _blessed Thomas_, and all the saints, let us offer ourselves and one another to the living God through Christ.
+
+**People:**
+> **To you, O Lord.**
+
+Officiant:
+> Blessed are you, O Lord our God, who gives us food and drink as the body and blood of Christ. Receive the prayers we offer this day for all those in need in every place and grant that all who come to your table may love and serve you and one another; through Jesus Christ our Lord.
+
+**People:**
+> **Amen.**
+
+Officiant:
+> And now, as our Savior Christ has taught us, we are bold to say,
 
 **Officiant and People:**
 > Our Father in heaven,
