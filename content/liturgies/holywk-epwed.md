@@ -106,7 +106,7 @@ Officiant:
 
 
 ## The Lessons
-
+**The First Lesson** --- _Isaiah 50:4--9a_
 Reader:
 > A Reading from the prophet Isaiah.
 >
@@ -145,7 +145,6 @@ Reader:
 >>
 >> It is the Lord God who helps me;
 >> who will declare me guilty?
->> _(Isaiah 50:4--9a)_
 
 Reader:
 > The Word of the Lord.
@@ -177,13 +176,13 @@ Reader:
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
 ##### The People are seated.
-
+**The Second Lesson** --- _Hebrews 12:1--3_
 Reader:
 > A Reading from the book of Hebrews.
 >
 >> Since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and the sin that clings so closely, and let us run with perseverance the race that is set before us, looking to Jesus the pioneer and perfecter of our faith, who for the sake of the joy that was set before him endured the cross, disregarding its shame, and has taken his seat at the right hand of the throne of God.
 >>
->> Consider him who endured such hostility against himself from sinners, so that you may not grow weary or lose heart. _(Hebrews 12:1--3)_
+>> Consider him who endured such hostility against himself from sinners, so that you may not grow weary or lose heart.
 
 Reader:
 > The Word of the Lord.
@@ -205,12 +204,13 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 
 ##### The People are seated.
+**The Third Lesson** --- _John 13:21-32_
 Reader:
 > A Reading from John’s Gospel.
 >
 >> At supper with his friends, Jesus was troubled in spirit, and declared, "Very truly, I tell you, one of you will betray me." The disciples looked at one another, uncertain of whom he was speaking. One of his disciples-- the one whom Jesus loved-- was reclining next to him; Simon Peter therefore motioned to him to ask Jesus of whom he was speaking. So while reclining next to Jesus, he asked him, "Lord, who is it?" Jesus answered, "It is the one to whom I give this piece of bread when I have dipped it in the dish." So when he had dipped the piece of bread, he gave it to Judas son of Simon Iscariot. After he received the piece of bread, Satan entered into him. Jesus said to him, "Do quickly what you are going to do." Now no one at the table knew why he said this to him. Some thought that, because Judas had the common purse, Jesus was telling him, "Buy what we need for the festival"; or, that he should give something to the poor. So, after receiving the piece of bread, he immediately went out. And it was night.
 >>
->> When he had gone out, Jesus said, "Now the Son of Man has been glorified, and God has been glorified in him. If God has been glorified in him, God will also glorify him in himself and will glorify him at once." _(John 13:21-32)_
+>> When he had gone out, Jesus said, "Now the Son of Man has been glorified, and God has been glorified in him. If God has been glorified in him, God will also glorify him in himself and will glorify him at once."
 
 Reader:
 > The Word of the Lord.

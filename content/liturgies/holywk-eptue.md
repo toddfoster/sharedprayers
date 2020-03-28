@@ -130,7 +130,7 @@ Officiant:
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
 ## The Lessons
-
+**The First Lesson** --- _Isaiah 49:1--7 NRSV_
 Reader:
 > A Reading from the prophet Isaiah.
 >
@@ -183,7 +183,7 @@ Reader:
 >>
 >> because of the Lord, who is faithful,
 >> the Holy One of Israel, who has chosen you."
->> _(Isaiah 49:1--7 NRSV)_
+
 
 Reader:
 > The Word of the Lord.
@@ -215,7 +215,7 @@ Reader:
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
 ##### The People are seated.
-
+**The Second Lesson** --- _1 Corinthians 1:18--31_
 Reader:
 > A Reading from Paul's first letter to the church in Corinth.
 >
@@ -226,7 +226,7 @@ Reader:
 >>
 >> Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? For since, in the wisdom of God, the world did not know God through wisdom, God decided, through the foolishness of our proclamation, to save those who believe. For Jews demand signs and Greeks desire wisdom, but we proclaim Christ crucified, a stumbling block to Jews and foolishness to Gentiles, but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God. For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength.
 >>
->> Consider your own call, brothers and sisters: not many of you were wise by human standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, things that are not, to reduce to nothing things that are, so that no one might boast in the presence of God. He is the source of your life in Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption, in order that, as it is written, "Let the one who boasts, boast in the Lord." _(1 Corinthians 1:18--31)_
+>> Consider your own call, brothers and sisters: not many of you were wise by human standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, things that are not, to reduce to nothing things that are, so that no one might boast in the presence of God. He is the source of your life in Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption, in order that, as it is written, "Let the one who boasts, boast in the Lord."
 
 Reader:
 > The Word of the Lord.
@@ -248,6 +248,7 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 
 ##### The People are seated.
+**The Third Lesson** --- _John 12:20-36_
 Reader:
 > A Reading from John’s Gospel.
 >
@@ -255,7 +256,7 @@ Reader:
 >>
 >> "Now my soul is troubled. And what should I say-- `Father, save me from this hour'? No, it is for this reason that I have come to this hour. Father, glorify your name." Then a voice came from heaven, "I have glorified it, and I will glorify it again." The crowd standing there heard it and said that it was thunder. Others said, "An angel has spoken to him." Jesus answered, "This voice has come for your sake, not for mine. Now is the judgment of this world; now the ruler of this world will be driven out. And I, when I am lifted up from the earth, will draw all people to myself." He said this to indicate the kind of death he was to die. The crowd answered him, "We have heard from the law that the Messiah remains forever. How can you say that the Son of Man must be lifted up? Who is this Son of Man?" Jesus said to them, "The light is with you for a little longer. Walk while you have the light, so that the darkness may not overtake you. If you walk in the darkness, you do not know where you are going. While you have the light, believe in the light, so that you may become children of light."
 >>
->> After Jesus had said this, he departed and hid from them. _(John 12:20-36)_
+>> After Jesus had said this, he departed and hid from them.
 
 Reader:
 > The Word of the Lord.
