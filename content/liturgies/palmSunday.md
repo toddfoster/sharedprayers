@@ -575,7 +575,7 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> For all catechumens and their sponsorss, for all seeking baptism, confirmation, or reaffirmation, let us pray.
+> For all catechumens and their sponsors, for all seeking baptism, confirmation, or reaffirmation, let us pray.
 
 **People:**
 > **Lord, have mercy.**
@@ -587,7 +587,7 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> For our President, Donald, our Governor, Phil, our Mayor, John, and for justice, mercy, and peace in all the world, let us pray.
+> For Donald, our President, Phil, our Governor, John, our Mayor, and for justice, mercy, and peace in all the world, let us pray.
 
 **People:**
 > **Lord, have mercy.**
