@@ -13,6 +13,8 @@ publishDir = "docs"
 
 [params]
 copyright = "CC-SA-4.0"
+favicon = "apple-touch-icon.png"
+realfavicongenerator = true
 jquery = false
-mainsections = ""
 mobileMenu = false
+mainsections = ""
