@@ -193,7 +193,7 @@ Reader:
 
 ##### The People stand as able.
 **The Song of Mary**	--- _Magnificat_ --- _Luke 1:46-55_
-
+**All:**
 > **My soul proclaims the greatness of the Lord,
 > 	my spirit rejoices in God my Savior; *
 > From this day all generations will call me blessed: *
@@ -215,7 +215,7 @@ Reader:
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
 ##### The People are seated.
-**The Second Lesson** --- _1 Corinthians 1:18--31_
+**The Second Lesson** --- _1 Corinthians 1:18--31 NRSV_
 Reader:
 > A Reading from Paul's first letter to the church in Corinth.
 >
@@ -237,6 +237,7 @@ Reader:
 ##### The People stand as able.
 
 **The Song of Simeon** --- _Nunc Dimittis_  --- _Luke 2:29-32_
+**All:**
 > **Lord, you now have set your servant free *
 to go in peace as you have promised;
 For these eyes of mine have seen the Savior, *
@@ -248,7 +249,7 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 
 ##### The People are seated.
-**The Third Lesson** --- _John 12:20-36_
+**The Third Lesson** --- _John 12:20-36 NRSV_
 Reader:
 > A Reading from John’s Gospel.
 >
@@ -346,7 +347,7 @@ Officiant:
 > **We entreat you, O Lord.**
 
 Officiant:
-> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, Blessed Thomas, and all your saints, entrusting one another and all our life to Christ,
+> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, _Blessed Thomas,_ and all your saints, entrusting one another and all our life to Christ,
 
 **People:**
 > **We entreat you, O Lord.**
@@ -396,3 +397,7 @@ Officiant:
 
 ##### The Officiant then concludes with the following sentence of scripture:
 May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit.  **Amen.** _(Romans 15:13)_
+
+--------------
+
+##### Scriptures from New Revised Standard Version Bible: Anglicized Edition, Copyright © 1989, 1995 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide. http://nrsvbibles.org

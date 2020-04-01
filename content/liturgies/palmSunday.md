@@ -19,23 +19,23 @@ Invite someone to scan this QR code to pray with you.
 
 ## Preparing for the Liturgy
 
-_Palms or other greens may be gathered to carry in procession. Choose a Celebrant and a reader. Light a candle. If you wish to participate in the congregation’s worship online at 10am, go to: [https://zoom.us/j/6676782042](https://zoom.us/j/6676782042) or to call in with a telephone, dial (646) 558-8656 and use Meeting ID: 667 678 2042. (Alternate phone numbers: (312)626-6799 or (301)715-8592)_
+_Palms or other greens may be gathered to carry in procession. Choose a Celebrant and a reader. Light a candle._
 
 -------------
 
 ## The Liturgy of the Palms
 ##### The People stand.
-Celebrant:
+Officiant:
 > Blessed is the King who comes in the name of the Lord.
 
 **People:**
 > **Peace in heaven and glory in the highest.**
 
-Celebrant:
+Officiant:
 > Let us pray.
 > Assist us mercifully with your help, O Lord God of our salvation, that we may enter with joy upon the contemplation of those mighty acts, whereby you have given us life and immortality; through Jesus Christ our Lord. Amen.
 
-Celebrant:
+Officiant:
 > A Reading from Matthew’s Gospel.
 
 >> When they had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, ‘Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, “The Lord needs them.” And he will send them immediately.’ This took place to fulfil what had been spoken through the prophet, saying,
@@ -53,7 +53,7 @@ Celebrant:
 >>
 >> When he entered Jerusalem, the whole city was in turmoil, asking, ‘Who is this?’ The crowds were saying, ‘This is the prophet Jesus from Nazareth in Galilee.’ _(Matthew 21.1–11 NRSV)_
 
-Celebrant:
+Officiant:
 > The Word of the Lord.
 
 **People:**
@@ -61,29 +61,29 @@ Celebrant:
 
 
 ### The Blessing of the Palms
-Celebrant:
+Officiant:
 > The Lord be with you.
 
 **People:**
 > **And also with you.**
 
-Celebrant:
+Officiant:
 > Let us give thanks to the Lord our God.
 
 **People:**
 > **It is right to give him thanks and praise.**
 
-Celebrant:
+Officiant:
 > It is right to praise you, Almighty God, for the acts of love by which you have redeemed us through your Son Jesus Christ our Lord. On this day he entered the holy city of Jerusalem in triumph, and was proclaimed as King of kings by those who spread their garments and branches of palm along his way. Let these branches be for us signs of his victory, and grant that we who bear them in his name may ever hail him as our King, and follow him in the way that leads to eternal life; who lives and reigns in glory with you and the Holy Spirit, now and for ever. **Amen.**
 
-Celebrant:
+Officiant:
 > Blessed is he who comes in the name of the Lord.
 
 **People:**
 > **Hosanna in the highest.**
 
 ### The Procession
-Celebrant:
+Officiant:
 > Let us go forth in peace.
 
 **People:**
@@ -148,7 +148,7 @@ Celebrant:
 > his mercy endures for ever.
 >
 > **Antiphon: 	Hosanna in the highest.**
-##### The people find their seats.
+##### The people find their seats and remain standing.
 
 ## The Liturgy of the Word
 ##### The People stand.
@@ -560,7 +560,7 @@ _Narrator:_	So they went with the guard and made the tomb secure by sealing the 
 
 ### The Prayers of the People
 Officiant:
-> As we begin these sacred three days and prepare through fasting and prayer to celebrate the paschal feast, let us earnestly pray to God for all those gathered tonight with Christ and for all peoples everywhere.
+> As we journey this week with Christ and celebrate the paschal mystery of his death and resurrection, let us earnestly pray to God for those following the way of the cross and for all peoples everywhere, saying: Lord have mercy.
 
 Reader:
 > For the holy catholic church throughout the world, sharing the death and resurrection of Christ, let us pray.
@@ -587,13 +587,13 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> For Donald, our President, Phil, our Governor, John, our Mayor, and for justice, mercy, and peace in all the world, let us pray.
+> For all nations and their leaders, including Donald, our President; members of the U.S. Congress, _Phil,_ our Governor, and _John, our Mayor_; for justice, mercy, and peace in all the world, let us pray.
 
 **People:**
 > **Lord, have mercy.**
 
 Reader:
-> For all who are tempted, oppressed, afflicted, or in need, let us pray.
+> For all who are tempted, oppressed, afflicted, or in need, especially... let us pray.
 
 **People:**
 > **Lord, have mercy.**
@@ -605,7 +605,7 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> For the dying and the dead, and for those who mourn, let us pray.
+> For the dying and the dead, remembering... and for those who mourn, let us pray.
 
 **People:**
 > **Lord, have mercy.**
@@ -623,7 +623,7 @@ Reader:
 > **To you, O Lord.**
 
 Officiant:
-> Blessed are you, O Lord our God, who gives us food and drink as the body and blood of Christ. Receive the prayers we offer this day for all those in need in every place and grant that all who come to your table may love and serve you and one another; through Jesus Christ our Lord.
+> Blessed are you, Lord our God, who sent your Son among us to bear the pain and grief of humankind. Receive the prayers we offer this day for all those in need in every place and as we near the holy mountain grant us strength on our journey; through Jesus Christ our Lord.
 
 **People:**
 > **Amen.**
@@ -632,20 +632,18 @@ Officiant:
 > And now, as our Savior Christ has taught us, we are bold to say,
 
 **Officiant and People:**
-> Our Father in heaven,
-> **hallowed be your Name,
-> your kingdom come,
-> your will be done,
-> on earth as in heaven.
-> Give us today our daily bread.
-> Forgive us our sins
-> as we forgive those
-> 	who sin against us.
-> Save us from the time of trial,
-> and deliver us from evil.
-> For the kingdom, the power,
-> and the glory are yours,
-> now and for ever.  Amen**
+> Our Father, who art in heaven,
+> **hallowed be thy Name,
+> 	thy kingdom come,
+> 	thy will be done,
+> 		on earth as it is in heaven.
+> Give us this day our daily bread.
+> And forgive us our trespasses,
+> 	as we forgive those who trespass against us.
+> And lead us not into temptation,
+> 	but deliver us from evil.
+> For thine is the kingdom, and the power, and the glory,
+> 	for ever and ever. Amen.**
 
 
 ### Confession and Absolution
@@ -675,7 +673,7 @@ Officiant:
 > and by the power of the Holy Spirit keep us in eternal life. **Amen.**
 
 ### The Peace
-Celebrant:
+Officiant:
 > The peace of the Lord be always with you.
 
 **People:**
@@ -684,11 +682,11 @@ Celebrant:
 ##### We greet one another in the name of the Lord.
 
 ### Prayer Over the People
-Celebrant:
-> Almighty God, we pray you graciously to behold this your family, for whom our Lord Jesus Christ was willing to be betrayed, and given into the hands of sinners, and to suffer death upon the cross; who lives and reigns for ever and ever. Amen.
+Officiant:
+> Almighty God, we pray you graciously to behold this your family, for whom our Lord Jesus Christ was willing to be betrayed, and given into the hands of sinners, and to suffer death upon the cross; who lives and reigns for ever and ever. **Amen.**
 
 ### Dismissal
-Celebrant:
+Officiant:
 > Let us bless the Lord.
 
 **People:**

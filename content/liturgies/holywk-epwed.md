@@ -106,7 +106,7 @@ Officiant:
 
 
 ## The Lessons
-**The First Lesson** --- _Isaiah 50:4--9a_
+**The First Lesson** --- _Isaiah 50:4--9a NRSV_
 Reader:
 > A Reading from the prophet Isaiah.
 >
@@ -154,7 +154,7 @@ Reader:
 
 ##### The People stand as able.
 **The Song of Mary**	--- _Magnificat_ --- _Luke 1:46-55_
-
+**All:**
 > **My soul proclaims the greatness of the Lord,
 > 	my spirit rejoices in God my Savior; *
 > From this day all generations will call me blessed: *
@@ -176,7 +176,7 @@ Reader:
 > as it was in the beginning, is now, and will be for ever. Amen.**
 
 ##### The People are seated.
-**The Second Lesson** --- _Hebrews 12:1--3_
+**The Second Lesson** --- _Hebrews 12:1--3 NRSV_
 Reader:
 > A Reading from the book of Hebrews.
 >
@@ -204,7 +204,7 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 
 ##### The People are seated.
-**The Third Lesson** --- _John 13:21-32_
+**The Third Lesson** --- _John 13:21-32 NRSV_
 Reader:
 > A Reading from John’s Gospel.
 >
@@ -300,7 +300,7 @@ Officiant:
 > **We entreat you, O Lord.**
 
 Officiant:
-> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, Blessed Thomas, and all your saints, entrusting one another and all our life to Christ,
+> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, _Blessed Thomas,_ and all your saints, entrusting one another and all our life to Christ,
 
 **People:**
 > **We entreat you, O Lord.**
@@ -350,3 +350,7 @@ Officiant:
 
 ##### The Officiant then concludes with the following sentence of scripture:
 Glory to God whose power, working in us, can do infinitely more than we can ask or imagine:  Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
+
+--------------
+
+##### Scriptures from New Revised Standard Version Bible: Anglicized Edition, Copyright © 1989, 1995 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide. http://nrsvbibles.org
