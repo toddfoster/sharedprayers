@@ -1,10 +1,13 @@
 # Holy Week Resources for 2020
 
-### Full Liturgies
+### Full Liturgies for Holy Week
 * [The Sunday of the Passion: Palm Sunday](liturgies/palmsunday)
 * [Holy Monday](liturgies/holywk-epmon)
 * [Holy Tuesday](liturgies/holywk-eptue)
 * [Holy Wednesday](liturgies/holywk-epwed)
+
+#### The Great Three Days
+* [Maundy Thursday](liturgies/holywk-maundythurs)
 
 ### Readings Only
 * [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
