@@ -9,7 +9,7 @@ _according to the Book of Common Prayer (p. 274ff.)
 
 ## Share These Prayers
 
-![http://www.sharedprayer.net/litugies/holywk-maundythurs](/images/qr/holywk-maundyth.gif)
+![http://www.sharedprayer.net/litugies/holywk-maundythurs](/images/qr/holywk-maundythurs.gif)
 
 Invite someone to scan this QR code to pray with you.
 
