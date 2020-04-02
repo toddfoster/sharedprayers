@@ -9,6 +9,7 @@
 #### The Great Three Days
 * [Act I: Maundy Thursday](liturgies/holywk-maundythurs)
 * [Act II: Good Friday](liturgies/holywk-goodfri)
+* [Act III: The Great Vigil of Easter](liturgies/holywk-vigil)
 
 ### Readings Only
 * [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
