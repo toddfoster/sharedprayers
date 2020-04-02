@@ -340,7 +340,7 @@ Officiant:
 
 ##### The final rite of the Maundy Thursday services is the stripping of the altar. [Here](https://buildfaith.org/maundy-thursday-at-home/) you will find a suggestion for how you might live into this rite at home.
 
-##### The Three Days continue tomorrow with the service for Good Friday.
+##### The Three Days continue tomorrow with the service for [Good Friday](liturgies/holywk-goodfri/).
 
 --------------
 
