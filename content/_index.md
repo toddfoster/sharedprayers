@@ -23,3 +23,11 @@
 * [Good Friday](https://lectionarypage.net/YearABC_RCL/HolyWk/GoodFri_RCL.html)
 * [Great Vigil of Easter](https://lectionarypage.net/YearABC_RCL/HolyWk/HolySat_RCL.html)
 * [Easter Sunday](https://lectionarypage.net/YearA_RCL/Easter/AEasterPrin_RCL.html)
+
+------------
+
+## Share These Prayers
+
+![http://www.sharedprayer.net/](/images/qr/sharedprayers.gif)
+
+Invite someone to scan this QR code to pray with you.
