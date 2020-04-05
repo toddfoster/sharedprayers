@@ -3,7 +3,7 @@
 ### Full Liturgies for Holy Week
 * [The Sunday of the Passion: Palm Sunday](liturgies/palmsunday)
   * Additional resources:
-     * Music for [Procession of the Palms](https://youtu.be/h3a8fTTrAdE)
+     * Hymn for [Procession of the Palms](https://youtu.be/h3a8fTTrAdE)
 	 * Anthem before the Passion: ["O Sacred Head" by Ben Burnham](https://s3.amazonaws.com/cdn.boidem.org/2020/BB-OSacredHead.mp3)
 * [Holy Monday](liturgies/holywk-epmon)
 * [Holy Tuesday](liturgies/holywk-eptue)
