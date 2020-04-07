@@ -14,6 +14,9 @@
 * [Act II: Good Friday](liturgies/holywk-goodfri)
 * [Act III: The Great Vigil of Easter](liturgies/holywk-vigil)
 
+#### Easter Sunday
+* [The Sunday of the Resurrection: Easter Sunday](liturgies/holywk-easter)
+
 ### Readings Only
 * [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
 * [Holy Monday](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
