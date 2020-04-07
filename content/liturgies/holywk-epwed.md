@@ -157,6 +157,7 @@ Reader:
 **All:**
 > **My soul proclaims the greatness of the Lord,
 > 	my spirit rejoices in God my Savior; *
+>   for he has looked with favor on his lowly servant.
 > From this day all generations will call me blessed: *
 > the Almighty has done great things for me,
 > 	and holy is his Name.
