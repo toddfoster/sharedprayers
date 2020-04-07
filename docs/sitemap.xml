@@ -4,17 +4,22 @@
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-goodfri/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/liturgies/holywk-easter/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/liturgies/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/liturgies/holywk-goodfri/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
