@@ -72,7 +72,7 @@ Officiant:
 >
 > **Now as we come to the setting of the sun,
 > and our eyes behold the vesper light,
-> we sing your praised, O God:  Father, Son, and Holy Spirit.**
+> we sing your praises, O God:  Father, Son, and Holy Spirit.**
 >
 > **You are worthy at all times to be praised by happy voices,
 > O Son of God, O Giver of Life,
