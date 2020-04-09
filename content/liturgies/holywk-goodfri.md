@@ -317,6 +317,8 @@ Officiant:
 Officiant:
 > O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever. **Amen.**
 
+##### A hymn or anthem may be sung here: e.g., _The Old Rugged Cross_ (LEVAS 38).
+
 ### The Veneration of the Cross
 ##### Here you may sit or kneel before the cross in silence, and during the anthem that follows.
 
