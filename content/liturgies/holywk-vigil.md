@@ -19,7 +19,7 @@ Invite someone to scan this QR code to pray with you.
 
 ## Preparing for the Liturgy
 
-_Sit before an unlit candle and a bowl of water._
+_Sit before an unlit candle and a bowl of water. Have a bell nearby._
 
 -------------
 
