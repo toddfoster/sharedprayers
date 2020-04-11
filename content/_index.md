@@ -24,7 +24,7 @@
 * [Holy Wednesday](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyWed_RCL.html)
 * [Maundy Thursday](https://lectionarypage.net/YearABC_RCL/HolyWk/MaundyTh_RCL.html)
 * [Good Friday](https://lectionarypage.net/YearABC_RCL/HolyWk/GoodFri_RCL.html)
-* [Great Vigil of Easter](https://lectionarypage.net/YearABC_RCL/HolyWk/HolySat_RCL.html)
+* [Great Vigil of Easter](https://lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html)
 * [Easter Sunday](https://lectionarypage.net/YearA_RCL/Easter/AEasterPrin_RCL.html)
 
 ------------
