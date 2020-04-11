@@ -307,7 +307,7 @@ Officiant:
 
 ##### Silence
 Officiant:
-> Let us pray for all who have not received the Gospel of Christ; For those who have never heard the word of salvation For those who have lost their faith; For those hardened by sin or indifference; For the contemptuous and the scornful; For those who are enemies of the cross of Christ and persecutors of his disciples; For those who in the name of Christ have persecuted others; That God will open their hearts to the truth, and lead them to faith and obedience.
+> Let us pray for all who have not received the Gospel of Christ; For those who have never heard the word of salvation; For those who have lost their faith; For those hardened by sin or indifference; For the contemptuous and the scornful; For those who are enemies of the cross of Christ and persecutors of his disciples; For those who in the name of Christ have persecuted others; That God will open their hearts to the truth, and lead them to faith and obedience.
 
 ##### Silence
 Officiant:
