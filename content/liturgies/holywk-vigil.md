@@ -450,7 +450,7 @@ Officiant:
 Officiant:
 > Let us pray.
 >
-> O God, you led your ancient people by a pillar of cloud by day and a pillar of fire by night: Grant that we, who serve you now on earth, may come to the joy of that heavenly Jerusalem, where all tears are wiped away and where your saints for ever sing your > praise; through Jesus Christ our Lord. **Amen.**
+> O God, you led your ancient people by a pillar of cloud by day and a pillar of fire by night: Grant that we, who serve you now on earth, may come to the joy of that heavenly Jerusalem, where all tears are wiped away and where your saints for ever sing your praise; through Jesus Christ our Lord. **Amen.**
 
 
 **VI. The Valley of Dry Bones** --- _Ezekiel 37:1-14 NRSV_
@@ -591,7 +591,7 @@ Officiant:
 Officiant:
 > Let us pray.
 >
-> O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of > salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord. **Amen.**
+> O God of unchangeable power and eternal light: Look favorably on your whole Church, that wonderful and sacred mystery; by the effectual working of your providence, carry out in tranquillity the plan of salvation; let the whole world see and know that things which were cast down are being raised up, and things which had grown old are being made new, and that all things are being brought to their perfection by him through whom all things were made, your Son Jesus Christ our Lord. **Amen.**
 
 ##### Our campfire tale climaxes with:
 ### The Proclamation of the Resurrection
