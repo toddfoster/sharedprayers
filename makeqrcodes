@@ -62,6 +62,7 @@ for filetype in $SRCTYPES ; do
 	    # decode output filename
 	    trimmed=${item#"$SRCDIR/"} # remove srcdir
 	    trimmed=${trimmed%".$filetype"} #remove ext
+	    trimmed=${trimmed/_/} #remove underscores
 	    outfile="$DESTDIR/$trimmed.png"
 
 	    # Ensure enclosing directories exist
