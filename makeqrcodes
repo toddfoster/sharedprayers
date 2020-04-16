@@ -53,12 +53,10 @@ if [ $HELP ]; then
 fi
 
 if [ $PURGE ]; then
-    $DEBUG $DRYRUN rm -fr $DESTDIR/*
+    $DRYRUN rm -fr $DESTDIR/*
 fi
 
 for filetype in $SRCTYPES ; do
-    $DEBUG $DRYRUN echo "Working on $filetype"
-
     find $SRCDIR -name \*.$filetype -print0 |
 	while IFS= read -r -d '' item; do
 	    # decode output filename
@@ -72,6 +70,6 @@ for filetype in $SRCTYPES ; do
    	    url=${url%/} # cutting down trailing "/" to one!
 	    url="$url/"
 
-	    $DEBUG $DRYRUN $CMD -n $outfile $url
+	    $DRYRUN $CMD -n $outfile $url
         done
 done
