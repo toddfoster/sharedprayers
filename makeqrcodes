@@ -1,0 +1,77 @@
+#!/bin/bash
+#
+# Generate QR codes for every page in this website
+#
+# Caution! Will blindly obliterate DESTDIR on command.
+# Don't put things in there manually that you don't want
+# to lose!
+#
+# TEF, 16 April 2020
+# Licensed under GPLv3: https://www.gnu.org/licenses/gpl-3.0.txt
+
+DEBUG="echo DEBUG:"
+
+CMD="myqr"
+command -v $CMD >/dev/null || { echo "$CMD command not found."; exit 1; }
+
+SRCDIR="content"
+SRCTYPES="md html org"
+DESTDIR="static/images/qr"
+BASEURL="https://www.sharedprayers.net"
+
+usage() {
+    echo "Usage: $0 -h     # help" 1>&2
+    echo "       $0 -p     # purge" 1>&2
+    echo "       $0 -t     # test (dryrun)" 1>&2
+    echo
+    echo "Search out files of type ($SRCTYPES) in directory ($SRCDIR) and create a qr code for each with the same name, in the same directory structure under ($DESTDIR)"
+    echo
+}
+
+exit_abnormal() {
+    usage
+    exit 1
+}
+
+unset HELP
+unset PURGE
+DRYRUN=""
+
+
+while getopts "htp" opt
+do
+    case $opt in
+	h) HELP=true ;;
+	p) PURGE=true ;;
+	t) DRYRUN=echo ;;
+    esac
+done
+
+if [ $HELP ]; then
+    usage
+    exit 0
+fi
+
+if [ $PURGE ]; then
+    $DEBUG $DRYRUN rm -fr $DESTDIR/*
+fi
+
+for filetype in $SRCTYPES ; do
+    $DEBUG $DRYRUN echo "Working on $filetype"
+
+    find $SRCDIR -name \*.$filetype -print0 |
+	while IFS= read -r -d '' item; do
+	    # decode output filename
+	    trimmed=${item#"$SRCDIR/"} # remove srcdir
+	    trimmed=${trimmed%".$filetype"} #remove ext
+	    outfile="$DESTDIR/$trimmed.png"
+
+	    trimmed=${trimmed%_index} # chuck the _index
+	    url="$BASEURL/$trimmed/"
+	    url=${url%/} # spent too much time; brute force
+   	    url=${url%/} # cutting down trailing "/" to one!
+	    url="$url/"
+
+	    $DEBUG $DRYRUN $CMD -n $outfile $url
+        done
+done
