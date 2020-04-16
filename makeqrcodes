@@ -72,7 +72,7 @@ for filetype in $SRCTYPES ; do
 	    fi
 
 	    if [ ! -f "$outfile" ]; then
-		trimmed=${trimmed%_index} # chuck the _index
+		trimmed=${trimmed%index} # chuck the _index
 		url="$BASEURL/$trimmed/"
 		url=${url%/} # spent too much time; brute force
    		url=${url%/} # cutting down trailing "/" to one!
