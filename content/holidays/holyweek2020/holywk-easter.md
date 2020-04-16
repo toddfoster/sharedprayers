@@ -10,8 +10,7 @@ _according to the Book of Common Prayer (p. 355)
 
 ## Share These Prayers
 
-![https://www.sharedprayer.net/litugies/holywk-easter/](/images/qr/holywk-easter.gif)
-
+![http://www.sharedprayers.net/holidays/holyweek2020/holywk-easter](/images/qr/holidays/holyweek2020/holywk-easter.gif)
 Invite someone to scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)

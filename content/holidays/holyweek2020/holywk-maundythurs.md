@@ -9,8 +9,7 @@ _according to the Book of Common Prayer (p. 274ff.)
 
 ## Share These Prayers
 
-![http://www.sharedprayer.net/litugies/holywk-maundythurs](/images/qr/holywk-maundythurs.gif)
-
+![http://www.sharedprayers.net/holidays/holyweek2020/holywk-maundythurs](/images/qr/holidays/holyweek2020/holywk-maundythurs.gif)
 Invite someone to scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/MaundyTh_RCL.html)

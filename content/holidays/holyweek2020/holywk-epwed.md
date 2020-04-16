@@ -9,9 +9,7 @@ Wednesday, 8 April 2020_
 
 ## Share These Prayers
 
-![http://www.sharedprayer.net/litugies/holywk-epwed](/images/qr/holywk-epwed.gif)
-
-
+![http://www.sharedprayers.net/holidays/holyweek2020/holywk-epwed](/images/qr/holidays/holyweek2020/holywk-epwed.gif)
 Invite someone to scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyWed_RCL.html)
