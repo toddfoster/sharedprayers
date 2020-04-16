@@ -1,5 +1,6 @@
 ---
 title: Holy Week at Home 2020
+layout: single
 ---
 
 ### Full Liturgies for Holy Week
@@ -8,7 +9,7 @@ title: Holy Week at Home 2020
      * Hymn for [Procession of the Palms](https://youtu.be/h3a8fTTrAdE)
 	 * Anthem before the Passion: ["O Sacred Head" by Ben Burnham](https://s3.amazonaws.com/cdn.boidem.org/2020/BB-OSacredHead.mp3)
 * [Holy Monday](holywk-epmon/)
-* [Holy Tuesday](holywk-eptue/)
+* [Holy Tuesday](holywk-eptue/index.html)
 * [Holy Wednesday](holywk-epwed.html)
 
 #### The Great Three Days

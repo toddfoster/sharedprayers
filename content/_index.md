@@ -3,7 +3,7 @@ title: Shared Prayers
 ---
 
 - [Pray the Daily Office](daily/)
-- [Celebrating Holy Week at Home in 2020](holidays/holy_week)
+- [Celebrating Holy Week at Home in 2020](holidays/holyweek2020)
 
 ------------
 
