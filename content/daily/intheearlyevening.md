@@ -9,7 +9,7 @@ _according to the Book of Common Prayer (p. 139)_
 
 ## Share These Prayers
 
-![https://www.sharedprayer.net/litugies/dailydev-eve](/images/qr/dailydev-eve.gif)
+![https://www.sharedprayer.net/daily/intheearlyevening/](/images/qr/daily/intheearlyevening.gif)
 
 Invite someone to scan this QR code to pray with you.
 
