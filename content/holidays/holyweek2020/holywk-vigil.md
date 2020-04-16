@@ -7,10 +7,7 @@ _according to the Book of Common Prayer (p. 285ff.)
 
 ------------
 
-## Share These Prayers
-
-![http://www.sharedprayers.net/holidays/holyweek2020/holywk-vigil](/images/qr/holidays/holyweek2020/holywk-vigil.gif)
-Invite someone to scan this QR code to pray with you.
+{{< sharetheseprayers >}}
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html)
 

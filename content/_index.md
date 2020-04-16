@@ -7,8 +7,4 @@ title: Shared Prayers
 
 ------------
 
-## Share These Prayers
-
-![http://www.sharedprayers.net/](/images/qr/sharedprayers.gif)
-
-Invite someone to scan this QR code to pray with you.
+{{< sharetheseprayers >}}

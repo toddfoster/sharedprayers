@@ -9,8 +9,8 @@ layout: single
      * Hymn for [Procession of the Palms](https://youtu.be/h3a8fTTrAdE)
 	 * Anthem before the Passion: ["O Sacred Head" by Ben Burnham](https://s3.amazonaws.com/cdn.boidem.org/2020/BB-OSacredHead.mp3)
 * [Holy Monday](holywk-epmon/)
-* [Holy Tuesday](holywk-eptue/index.html)
-* [Holy Wednesday](holywk-epwed.html)
+* [Holy Tuesday](holywk-eptue/)
+* [Holy Wednesday](holywk-epwed/)
 
 #### The Great Three Days
 * [Act I: Maundy Thursday](holywk-maundythurs/)

@@ -7,10 +7,7 @@ _according to the Book of Common Prayer (p. 270)
 
 ------------
 
-## Share These Prayers
-
-![http://www.sharedprayers.net/holidays/holyweek2020/palmsunday](/images/qr/holidays/holyweek2020/palmsunday.gif)
-Invite someone to scan this QR code to pray with you.
+{{< sharetheseprayers >}}
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
 

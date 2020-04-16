@@ -7,7 +7,7 @@ Monday, 6 April 2020_
 
 -----------
 
-{{% sharetheseprayers %}}
+{{< sharetheseprayers >}}
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
 
