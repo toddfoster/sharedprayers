@@ -11,7 +11,7 @@
 
 DEBUG="echo DEBUG:"
 
-CMD="myqr"
+CMD="myqr -v 1 -l M "
 command -v $CMD >/dev/null || { echo "$CMD command not found."; exit 1; }
 
 SRCDIR="content"
@@ -63,6 +63,12 @@ for filetype in $SRCTYPES ; do
 	    trimmed=${item#"$SRCDIR/"} # remove srcdir
 	    trimmed=${trimmed%".$filetype"} #remove ext
 	    outfile="$DESTDIR/$trimmed.png"
+
+	    # Ensure enclosing directories exist
+	    directory=$(dirname "${outfile}")
+	    if [ ! -d "directory" ]; then
+		$DRYRUN mkdir -p $directory
+	    fi
 
 	    if [ ! -f "$outfile" ]; then
 		trimmed=${trimmed%_index} # chuck the _index
