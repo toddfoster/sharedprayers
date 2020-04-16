@@ -64,12 +64,14 @@ for filetype in $SRCTYPES ; do
 	    trimmed=${trimmed%".$filetype"} #remove ext
 	    outfile="$DESTDIR/$trimmed.png"
 
-	    trimmed=${trimmed%_index} # chuck the _index
-	    url="$BASEURL/$trimmed/"
-	    url=${url%/} # spent too much time; brute force
-   	    url=${url%/} # cutting down trailing "/" to one!
-	    url="$url/"
+	    if [ ! -f "$outfile" ]; then
+		trimmed=${trimmed%_index} # chuck the _index
+		url="$BASEURL/$trimmed/"
+		url=${url%/} # spent too much time; brute force
+   		url=${url%/} # cutting down trailing "/" to one!
+		url="$url/"
 
-	    $DRYRUN $CMD -n $outfile $url
+		$DRYRUN $CMD -n $outfile $url
+	    fi
         done
 done
