@@ -8,10 +8,6 @@ pluralizelisttitles = false
 [markup.goldmark.renderer]
       hardWraps = true
 
-#[menu]
-#  [[menu.main]]
-
-
 [params]
 copyright = "CC-SA-4.0"
 favicon = "apple-touch-icon.png"
