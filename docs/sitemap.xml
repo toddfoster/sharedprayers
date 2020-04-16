@@ -3,58 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/intheearlyevening/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/dailydev-eve/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/liturgies/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-easter/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-easter/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-goodfri/</loc>
+    <loc>http://www.sharedprayers.net/holidays/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-goodfri/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-vigil/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-vigil/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-maundythurs/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-maundythurs/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-epwed/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-epwed/</loc>
     <lastmod>2020-03-27T21:35:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-eptue/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-eptue/</loc>
     <lastmod>2020-03-27T21:33:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/holywk-epmon/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/holywk-epmon/</loc>
     <lastmod>2020-03-27T21:30:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/liturgies/palmsunday/</loc>
+    <loc>http://www.sharedprayers.net/holidays/holyweek2020/palmsunday/</loc>
     <lastmod>2020-03-27T16:59:14-04:00</lastmod>
   </url>
   
