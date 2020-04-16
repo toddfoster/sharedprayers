@@ -1,20 +1,21 @@
+title = "Shared Prayers"
 baseURL = "http://www.sharedprayers.net"
 languageCode = "en-us"
-title = "Shared Prayers"
 theme = "zen"
-
 publishDir = "docs"
+pluralizelisttitles = false
 
 [markup.goldmark.renderer]
       hardWraps = true
 
-[menu]
-[[menu.main]]
+#[menu]
+#  [[menu.main]]
+
 
 [params]
 copyright = "CC-SA-4.0"
 favicon = "apple-touch-icon.png"
 realfavicongenerator = true
 jquery = false
-mobileMenu = false
+mobileMenu = true
 mainsections = ""

@@ -1,3 +1,7 @@
+---
+title: Shared Prayers
+---
+
 # Holy Week Resources for 2020
 
 ### Full Liturgies for Holy Week

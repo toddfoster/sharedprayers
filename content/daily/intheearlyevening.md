@@ -1,7 +1,8 @@
 ---
-title: Daily Devotions --- In the Early Evening
+title: In the Early Evening
 date: 2020-04-15
 ---
+# Daily Devotions --- In the Early Evening
 _according to the Book of Common Prayer (p. 139)_
 
 ------------
@@ -14,10 +15,7 @@ Invite someone to scan this QR code to pray with you.
 
 -----------
 
-
 ##### This devotion may be used before or after the evening meal.
-
-##### The Order of Worship for the Evening, page 109, may be used instead.
 
 > O gracious light,
 > pure brightness of the everliving Father in heaven,
