@@ -1,8 +1,8 @@
 ---
-title: In the Early Evening
+title: Daily Devotions -- In the Early Evening
 date: 2020-04-15
+weight: 503
 ---
-# Daily Devotions --- In the Early Evening
 _according to the Book of Common Prayer (p. 139)_
 
 ------------
@@ -26,7 +26,7 @@ _according to the Book of Common Prayer (p. 139)_
 > and to be glorified through all the worlds.
 
 ## A Reading
-> It is not ourselves that we proclaim; we proclaim Christ Jesus as Lord, and ourselves as your servants, for Jesus’ sake. For the same God who said, “Out of darkness let light shine,” has caused his light to shine within us, to give the light of revelation--the revelation of the glory of God in the face of Jesus Christ. (_2 Corinthians 4:5-6_)
+> It is not ourselves that we proclaim; we proclaim Christ Jesus as Lord, and ourselves as your servants, for Jesus’ sake. For the same God who said, “Out of darkness let light shine,” has caused his light to shine within us, to give the light of revelation--the revelation of the glory of God in the face of Jesus Christ. _(2 Corinthians 4:5-6)_
 
 ##### Prayers may be offered for ourselves and others.
 
@@ -44,7 +44,7 @@ _according to the Book of Common Prayer (p. 139)_
 > and deliver us from evil.
 > For the kingdom, the power,
 > and the glory are yours,
-> now and for ever.  Amen
+> now and for ever.  **Amen.**
 
 ## The Collect
-> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread. Grant this for the sake of your love. Amen.
+> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread. Grant this for the sake of your love. **Amen.**
