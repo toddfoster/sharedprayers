@@ -1,5 +1,5 @@
 ---
-title: Daly Devotions -- At Noon
+title: Daily Devotions -- At Noon
 date: 2020-04-19
 weight: 502
 ---

@@ -1,5 +1,5 @@
 ---
-title: Daly Devotions --  In the Morning
+title: Daily Devotions --  In the Morning
 date: 2020-04-19
 weight: 501
 ---

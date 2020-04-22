@@ -1,5 +1,5 @@
 ---
-title: Daly Devotions --  At the Close of Day
+title: Daily Devotions --  At the Close of Day
 date: 2020-04-19
 weight: 504
 ---
