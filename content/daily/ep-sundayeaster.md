@@ -20,9 +20,6 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 {{% ep-invitatorypsalter %}}
 
-##### At the end of the Psalms is sung or said
-{{% gloriapatri %}}
-
 ## The Lessons
 Lector:
 > A Reading from...
