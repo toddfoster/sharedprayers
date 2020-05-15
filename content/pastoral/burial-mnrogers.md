@@ -1,6 +1,6 @@
 ---
 title: Burial Office for Mary N. Rogers
-date: 2020-05-17
+date: 2020-05-15
 ---
 _An Order for Burial_
 _according to the Book of Common Prayer (p. 506)
