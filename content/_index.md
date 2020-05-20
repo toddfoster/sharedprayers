@@ -7,8 +7,7 @@ title: Shared Prayers
 
 -------------
 
-[Burial Office for Patricia Owen: 16 May 2020](pastoral/burial-psowen/)
-[Burial Office for Mary Rogers: 18 May 2020](pastoral/burial-mnrogers/)
+[Ante-Communion for Ascension](holidays/ascension2020/)
 
 ------------
 
