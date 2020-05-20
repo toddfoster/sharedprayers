@@ -1,5 +1,4 @@
 ---
 title: Holy Days
+weight: 100
 ---
-
-- [/other/holyweek2020](Holy Week at Home 2020)
