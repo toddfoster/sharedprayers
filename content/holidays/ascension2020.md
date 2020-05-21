@@ -150,21 +150,21 @@ Leader:
 
 
 Leader:
-> For all nations and their leaders, including Donald, our President; members of the U.S. Congress; Phil, our Governor; and John, our mayor; that they may have wisdom and courage to know and to do God's will, ever mindful of their calling to serve God's people, let us pray.
+> For all nations and their leaders, including Donald, our President; members of the U.S. Congress; Phil, our Governor; and John, our Mayor; that they may have wisdom and courage to know and to do God's will, ever mindful of their calling to serve God's people, let us pray.
 
 **People:**
 > **Glory and praise to you, O living God.**
 
 
 Leader:
-> For the Borough of Glassboro and its residents including students, faculty and staff of Rowan University and Glassboro Public Schools; that they may be safe and protected from Covid-9 and any adversity, let us pray.
+> For the Borough of Glassboro and its residents including students, faculty and staff of Rowan University and Glassboro Public Schools; that they may be safe and protected from any adversity, let us pray.
 
 **People:**
 > **Glory and praise to you, O living God.**
 
 
 Leader:
-> For all those affected by Covid-19, all those helping to relieve the suffering brought on by the global pandemic, and for all those working to develop a vaccine for this dreadful disease, let us pray.
+> For all those affected by Covid-19, all those helping to relieve the suffering brought on by the global pandemic, and for all those working to develop a vaccine for this dreadful disease, that God's life-giving power will be seen by all at this time, let us pray.
 
 **People:**
 > **Glory and praise to you, O living God.**
@@ -178,7 +178,7 @@ Leader:
 
 
 Leader:
-> For those on our parish prayer list, including Dennis, Marge, Dot, Tina, Don, Brad, Joann, Chester, Ruth, Chuck, Sarah, Jim, Medical Personnel threatened, sickened, and dying from their service to patients with Covid-19, Carol, Bob, Armand, Roy, Joe, Dee, Mike, KOH volunteers and those they serve, Bryan, Bill, Tracy, Sandy, Catherine, Michelle, Kris, Owen Family, Tom, Gwendolyn, Simkins Family, the Family of Dorothy Johnson, and Tracy, let us pray:
+> For those on our parish prayer list, including Dennis, Marge, Dot, Tina, Don, Brad, Joann, Chester, Ruth, Chuck, Sarah, Jim, Medical Personnel threatened, sickened, and dying from their service to patients with Covid-19, Carol, Bob, Armand, Roy, Joe, Dee, Mike, KOH volunteers and those they serve, Bryan, Bill, Tracy, Sandy, Catherine, Michelle, Kris, Owen Family, Tom, Gwendolyn, Simkins Family, the Family of Dorothy Johnson, and Tracy, let us pray.
 
 **People:**
 > **Glory and praise to you, O living God.**
@@ -205,6 +205,7 @@ Presider:
 
 Officiant:
 > And now, as our Savior Christ has taught us, we are bold to say,
+
 {{% lordsprayer %}}
 
 ### The Blessing
