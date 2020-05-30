@@ -9,7 +9,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/holidays/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,12 +43,17 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/holidays/ascension2020/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/holidays/pentecost2020/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/holidays/ascension2020/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
