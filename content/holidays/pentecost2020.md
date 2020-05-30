@@ -170,7 +170,7 @@ Leader:
 > **Glory and praise to you, O living God.**
 
 Leader:
-> For Justin, Archbishop of Canterbury; Michael, Presiding Bishop of the Episcopal Church; William, our Diocesan Bishop; John, our Deacon; Todd, our Rector; for Jeannie, Postulant for Holy Orders, and all who minister in Christ, let us pray.
+> For Justin, Archbishop of Canterbury; Michael, Presiding Bishop of the Episcopal Church; William, our Diocesan Bishop;... and all who minister in Christ, let us pray.
 **People:**
 > **Glory and praise to you, O living God.**
 
@@ -180,12 +180,12 @@ Leader:
 > **Glory and praise to you, O living God.**
 
 Leader:
-> For the world and its leaders, including Donald, our President, Phil, our Governor, and John, our Mayor. For legislatures and courts. For our nation and its people and for all nations, as together we face our common enemies of disease and deprivation, let us pray.
+> For the world and its leaders, including Donald, our President, Phil, our Governor, and.... For legislatures and courts. For our nation and its people and for all nations, as together we face our common enemies of disease and deprivation, let us pray.
 **People:**
 > **Glory and praise to you, O living God.**
 
 Leader:
-> For our own communities: for the Borough of Glassboro and its residents including students, faculty and staff of Rowan University and for Glassboro Public Schools, let us pray.
+> For our own communities... let us pray.
 **People:**
 > **Glory and praise to you, O living God.**
 Leader:
