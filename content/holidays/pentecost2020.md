@@ -10,7 +10,7 @@ _according to the Book of Common Prayer (p. 355)
 
 {{< sharetheseprayers >}}
 
-[Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Easter/AAscension_RCL.html)
+[Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Pentecost/APentDay_RCL.html)
 
 -----------
 
@@ -218,7 +218,8 @@ Leader:
 **People:**
 > **Glory and praise to you, O living God.**
 
-Presider: Blessed are you, O Lord our God, who pours out your Spirit on all flesh. Hear our prayers which we offer in confidence and breathe upon us with your Holy Spirit; through Jesus Christ our Lord.
+Officiant:
+> Blessed are you, O Lord our God, who pours out your Spirit on all flesh. Hear our prayers which we offer in confidence and breathe upon us with your Holy Spirit; through Jesus Christ our Lord.
 **All:**
 > **Amen**
 
