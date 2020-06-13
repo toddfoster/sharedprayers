@@ -6,7 +6,7 @@ title: Shared Prayers
 
 -------------
 
-[Ante-Communion for Trinity Sunday](holidays/trinity2020/)
+[Evening Prayer for Sundays in Pentecost](daily/ep-sundaypentecost/)
 
 ------------
 
