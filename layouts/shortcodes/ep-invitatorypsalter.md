@@ -7,7 +7,7 @@ Officiant:
 
 **All:**
 > **Glory to the Father, and to the Son, and to the Holy Spirit:
-> as it was in the beginning, is now, and will be for ever.  Amen.**
+> as it was in the beginning, is now, and will be for ever.  Amen. Alleluia.**
 
 **O Gracious Light** ---   _Phos hilaron_
 
