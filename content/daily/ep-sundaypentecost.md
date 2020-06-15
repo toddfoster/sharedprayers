@@ -81,21 +81,7 @@ Officiant:
 Officiant:
 > Let us pray.
 
-**Officiant and People:**
-> Our Father in heaven,
-> **hallowed be your Name,
-> your kingdom come,
-> your will be done,
-> on earth as in heaven.
-> Give us today our daily bread.
-> Forgive us our sins
-> as we forgive those
-> 	who sin against us.
-> Save us from the time of trial,
-> and deliver us from evil.
-> For the kingdom, the power,
-> and the glory are yours,
-> now and for ever.  Amen**
+{{% lordsprayer1 %}}
 
 {{% ep-suffragesb %}}
 
@@ -104,19 +90,31 @@ Officiant:
 _Collect Proper to the Day_
 
 _A Collect for Sundays_
-> O God, you make us glad with the weekly remembrance of
-the glorious resurrection of you Son our Lord:  Give us this
-day such blessing through our worship of you, that the week
-to come may be spent in your favor; through Jesus Christ our
-Lord.  **Amen.**
+> O God, you make us glad with the weekly remembrance
+of the glorious resurrection of you Son our Lord:
+Give us this day such blessing through our worship of you,
+that the week to come may be spent in your favor;
+through Jesus Christ our Lord.  **Amen.**
 
 _A Collect for the Presence of Christ_
-> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  **Amen.**
+> Lord Jesus, stay with us,
+for evening is at hand and the day is past;
+be our companion in the way,
+kindle our hearts, and awaken hope,
+that we may know you as you are revealed in Scripture
+and the breaking of bread.
+Grant this for the sake of your love.  **Amen.**
 
 {{% collect-oppressed %}}
 
 _A Prayer for Mission_
-> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  **Amen.**
+> Keep watch, dear Lord,
+with those who work, or watch, or weep this night,
+and give your angels charge over those who sleep.
+Tend the sick, Lord Christ; give rest to the weary,
+bless the dying, soothe the suffering,
+pity the afflicted, shield the joyous;
+and all for your love's sake.  **Amen.**
 
 ##### Here may be sung a hymn or anthem.
 
