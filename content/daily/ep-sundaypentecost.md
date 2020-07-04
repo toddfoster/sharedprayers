@@ -105,9 +105,11 @@ that we may know you as you are revealed in Scripture
 and the breaking of bread.
 Grant this for the sake of your love.  **Amen.**
 
+{{% collect-unemployed %}}
+
 {{% collect-oppressed %}}
 
-_A Prayer for Mission_
+_A Prayer for Mission (BCP 124)_
 > Keep watch, dear Lord,
 with those who work, or watch, or weep this night,
 and give your angels charge over those who sleep.

@@ -12,8 +12,11 @@ we confess that we have sinned against you
 in thought, word, and deed,
 by what we have done,
 and by what we have left undone.
-We have not loved you with our whole heart; we have not loved our neighbors as ourselves. We are truly sorry and we humbly repent.
-For the sake of your Son Jesus Christ, have mercy on us and forgive us;
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
 that we may delight in your will,
 and walk in your ways,
 to the glory of your Name. Amen.**
