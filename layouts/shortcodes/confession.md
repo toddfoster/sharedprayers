@@ -2,9 +2,7 @@
 Officiant:
 > Let us confess our sins against God and our neighbor.
 
-##### Silence may be kept.
-
-##### All kneel.
+##### The people kneel or stand as able. Silence may be kept.
 
 **Officiant and People:**
 > **Most merciful God,

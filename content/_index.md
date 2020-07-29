@@ -8,6 +8,8 @@ title: Shared Prayers
 
 [Evening Prayer for Sundays in Pentecost](daily/ep-sundaypentecost/)
 
+[Holy Eucharist for Sundays in Pentecost during Covid-tide](archive/he-pentecost-covid)
+
 ------------
 
 {{< sharetheseprayers >}}

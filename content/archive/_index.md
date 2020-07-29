@@ -1,4 +1,4 @@
 ---
-title: Pastoral
+title: Archive
 weight: 175
 ---
