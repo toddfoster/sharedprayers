@@ -16,14 +16,7 @@ _At St. Thomas' in 2020, we are using "Track A" or the "Semi-continuous" track o
 
 -----------
 
-## Preparing for the Liturgy at Home
-
-_Choose an Officiant and a reader. Light a candle._
-
-
--------------
-
-## Preparing for the Liturgy in Community
+## Preparing for the Liturgy
 
 During this season of coronavirus infections, please demonstrate your love for your friends and neighbors by:
 

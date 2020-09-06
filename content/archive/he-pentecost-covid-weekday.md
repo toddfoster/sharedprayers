@@ -15,13 +15,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 -----------
 
-## Preparing for the Liturgy at Home
-
-_Choose an Officiant and a reader. Light a candle._
-
--------------
-
-## Preparing for the Liturgy in Community
+## Preparing for the Liturgy
 
 During this season of coronavirus infections, please demonstrate your love for your friends and neighbors by:
 
