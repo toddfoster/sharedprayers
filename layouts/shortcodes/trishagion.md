@@ -1,6 +1,6 @@
 Officiant:
 > Holy God,
-> Holy and Might,
+> Holy and Mighty,
 > Holy Immortal One,
 
 **People:**
