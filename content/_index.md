@@ -10,6 +10,8 @@ title: Shared Prayers
 
 [Holy Eucharist for Sundays in Pentecost during Covid-tide](archive/he-pentecost-covid)
 
+[Holy Eucharist for Weekdays in Pentecost during Covid-tide](archive/he-pentecost-covid-weekday)
+
 ------------
 
 {{< sharetheseprayers >}}
