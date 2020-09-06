@@ -1,6 +1,6 @@
 ---
-title: Holy Eucharist, Rite II (Pentecost, Covid-tide)
-date: 2020-07-29
+title: Holy Eucharist, Rite II (Pentecost Weekday, Covid-tide)
+date: 2020-09-06
 ---
 Holy Eucharist
 _for a weekday after Pentecost during Covid-tide_
