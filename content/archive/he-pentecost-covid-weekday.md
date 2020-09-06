@@ -3,7 +3,7 @@ title: Holy Eucharist, Rite II (Pentecost, Covid-tide)
 date: 2020-07-29
 ---
 Holy Eucharist
-_for a Sunday or other Major Feast after Pentecost during Covid-tide_
+_for a weekday after Pentecost during Covid-tide_
 _according to the Book of Common Prayer (p. 355ff.)_
 
 
@@ -11,15 +11,13 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
 
-[Click here to find the lessons for this liturgy.](https://lectionarypage.net)
-_At St. Thomas' in 2020, we are using "Track A" or the "Semi-continuous" track of the lectionary._
+[The lessons for weekdays will normally correspond to the remembrance of a particular saint.](https://lectionarypage.net/CalndrsIndexes/TxtIndexLFF.html)
 
 -----------
 
 ## Preparing for the Liturgy at Home
 
 _Choose an Officiant and a reader. Light a candle._
-
 
 -------------
 
@@ -46,7 +44,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% collect-purity %}}
 
-{{% trishagion %}}
+{{% lordhavemercy %}}
 
 
 ### Salutation and Collect
@@ -99,9 +97,10 @@ Deacon:
 ## We Respond in Faith
 
 {{% rubric-stand %}}
-{{% nicenecreed %}}
 
 ### The Prayers of the People
+
+{{% pop-form3 %}}
 
 {{% confession-he %}}
 
