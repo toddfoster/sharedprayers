@@ -6,7 +6,14 @@ title: Shared Prayers
 
 -------------
 
-[Evening Prayer for Sundays in Pentecost](daily/ep-sundaypentecost/)
+**Liturgies for this week:**
+
+[Holy Eucharist for Sunday, 20 September](archive/he-pentecost-covid-current)
+
+
+**Seasonal Liturgies:**
+
+[Evening Prayer for Sundays in Autumn](daily/ep-sundayautumn/)
 
 [Holy Eucharist for Sundays in Pentecost during Covid-tide](archive/he-pentecost-covid)
 
