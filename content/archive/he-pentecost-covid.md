@@ -1,13 +1,11 @@
 ---
-title: Holy Eucharist, Rite II (Pentecost, Covid-tide)
+title: Holy Eucharist, Rite II (Proper 20, Covid-tide)
 date: 2020-07-29
 ---
-Holy Eucharist
-_for a Sunday or other Major Feast after Pentecost during Covid-tide_
-_according to the Book of Common Prayer (p. 355ff.)_
-
-
+The Sixteenth Sunday after Pentecost
 ------------
+20 September 2020
+_according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
 
@@ -41,30 +39,92 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% trishagion %}}
 
-
 ### Salutation and Collect
 {{% letuspray %}}
 
-##### The Collect of the Day is used here.
+##### The Collect of the Day
+Presider:
+> Grant us, Lord, not to be anxious about earthly things, but to love things heavenly; and even now, while we are placed among things that are passing away, to hold fast to those that shall endure; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+
+**People:**
+> **Amen.**
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
+_Exodus 16:2-15_
+
 Lector:
-> A reading from...
-> ...
+> A reading from Exodus.
+>
+> The whole congregation of the Israelites complained against Moses and Aaron in the wilderness. The Israelites said to them, “If only we had died by the hand of the Lord in the land of Egypt, when we sat by the fleshpots and ate our fill of bread; for you have brought us out into this wilderness to kill this whole assembly with hunger.”
+>
+> Then the Lord said to Moses, “I am going to rain bread from heaven for you, and each day the people shall go out and gather enough for that day. In that way I will test them, whether they will follow my instruction or not. On the sixth day, when they prepare what they bring in, it will be twice as much as they gather on other days.” So Moses and Aaron said to all the Israelites, “In the evening you shall know that it was the Lord who brought you out of the land of Egypt, and in the morning you shall see the glory of the Lord, because he has heard your complaining against the Lord. For what are we, that you complain against us?” And Moses said, “When the Lord gives you meat to eat in the evening and your fill of bread in the morning, because the Lord has heard the complaining that you utter against him—what are we? Your complaining is not against us but against the Lord.”
+>
+> Then Moses said to Aaron, “Say to the whole congregation of the Israelites, ‘Draw near to the Lord, for he has heard your complaining.’“ And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud. The Lord spoke to Moses and said, “I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’“
+>
+> In the evening quails came up and covered the camp; and in the morning there was a layer of dew around the camp. When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground. When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat.
+
+Lector:
 > The word of the Lord.
 
 **People:**
 > **Thanks be to God.**
 
-**The Psalm**
+**The Psalm** 105:1-6, 37-45
+_Confitemini Domino_
+
+> 1 Give thanks to the Lord and call upon his Name; *
+ make known his deeds among the peoples.
+ **2 Sing to him, sing praises to him, *
+ and speak of all his marvelous works.**
+
+> 3 Glory in his holy Name; *
+let the hearts of those who seek the Lord rejoice.
+**4 Search for the Lord and his strength; *
+continually seek his face.**
+
+> 5 Remember the marvels he has done, *
+his wonders and the judgments of his mouth,
+**6 O offspring of Abraham his servant, *
+O children of Jacob his chosen.**
+
+> 37 He led out his people with silver and gold; *
+in all their tribes there was not one that stumbled.
+**38 Egypt was glad of their going, *
+because they were afraid of them.**
+
+> 39 He spread out a cloud for a covering *
+and a fire to give light in the night season.
+**40 They asked, and quails appeared, *
+and he satisfied them with bread from heaven.**
+
+> 41 He opened the rock, and water flowed, *
+so the river ran in the dry places.
+**42 For God remembered his holy word *
+and Abraham his servant.**
+
+> 43 So he led forth his people with gladness, *
+his chosen with shouts of joy.
+**44 He gave his people the lands of the nations, *
+and they took the fruit of others' toil,**
+
+> 45 That they might keep his statutes *
+and observe his laws.
+**Hallelujah!**
+
 
 **The Second Lesson**
+_Philippians 1:21-30_
 
 Lector:
-> A reading from...
-> ...
+> A reading from the letter to the Philippians
+
+> To me, living is Christ and dying is gain. If I am to live in the flesh, that means fruitful labor for me; and I do not know which I prefer. I am hard pressed between the two: my desire is to depart and be with Christ, for that is far better; but to remain in the flesh is more necessary for you. Since I am convinced of this, I know that I will remain and continue with all of you for your progress and joy in faith, so that I may share abundantly in your boasting in Christ Jesus when I come to you again.
+>
+> Only, live your life in a manner worthy of the gospel of Christ, so that, whether I come and see you or am absent and hear about you, I will know that you are standing firm in one spirit, striving side by side with one mind for the faith of the gospel, and are in no way intimidated by your opponents. For them this is evidence of their destruction, but of your salvation. And this is God's doing. For he has graciously granted you the privilege not only of believing in Christ, but of suffering for him as well-- since you are having the same struggle that you saw I had and now hear that I still have.
+
+Lector:
 > The word of the Lord.
 
 **People:**
@@ -72,14 +132,17 @@ Lector:
 
 ##### The people stand as able.
 **The Holy Gospel**
-Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to...
+_Matthew 20:1-16_
 
+Deacon:
+> The Holy Gospel of our Lord Jesus Crist according to Matthew.
 **People:**
 > **Glory to you, Lord Christ.**
 
 Deacon:
-> ...
+> Jesus said, “The kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. After agreeing with the laborers for the usual daily wage, he sent them into his vineyard. When he went out about nine o’clock, he saw others standing idle in the marketplace; and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. When he went out again about noon and about three o’clock, he did the same. And about five o’clock he went out and found others standing around; and he said to them, ‘Why are you standing here idle all day?’ They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ When those hired about five o’clock came, each of them received the usual daily wage. Now when the first came, they thought they would receive more; but each of them also received the usual daily wage. And when they received it, they grumbled against the landowner, saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for the usual daily wage? Take what belongs to you and go; I choose to give to this last the same as I give to you. Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ So the last will be first, and the first will be last.”
+
+Deacon:
 > The Gospel of the Lord.
 
 **People:**
