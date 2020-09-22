@@ -8,16 +8,14 @@ title: Shared Prayers
 
 **Liturgies for this week:**
 
-[Holy Eucharist for Sunday, 20 September](archive/he-pentecost-covid-current)
+[Holy Eucharist for Wednesday, 23 September](archive/he-pentecost-covid-weekday-current)
+
+[Holy Eucharist for Saturday and Sunday, 26-27 September](archive/he-pentecost-covid-current)
 
 
 **Seasonal Liturgies:**
 
 [Evening Prayer for Sundays in Autumn](daily/ep-sundayautumn/)
-
-[Holy Eucharist for Sundays in Pentecost during Covid-tide](archive/he-pentecost-covid)
-
-[Holy Eucharist for Weekdays in Pentecost during Covid-tide](archive/he-pentecost-covid-weekday)
 
 ------------
 
