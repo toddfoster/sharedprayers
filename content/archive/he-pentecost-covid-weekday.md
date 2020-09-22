@@ -205,17 +205,7 @@ If you do not wish to receive communion physically:
 1. Cross your arms over your chest. The presider will offer you a blessing instead, again without touching.
 2. You are invited to utter the _Prayer for Spiritual Communion_ while communion is being distributed.
 
-### Prayer for Spiritual Communion
-> _My Jesus, I believe that you are truly present
-in the Blessed Sacrament of the Altar.
-I love you above all things, and long for you in my soul.
-Since I cannot now receive you sacramentally,
-come at least spiritually into my heart.
-As though you have already come,
-I embrace you and unite myself entirely to you;
-never permit me to be separated from you. Amen._
->
-> _(Attributed to St. Alphonsus de Liguori, 1696-1787)_
+{{% spiritualcommunion %}}
 
 ##### If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)
 
