@@ -1,6 +1,6 @@
 ---
-title: Daily Evening Prayer- Rite Two
-date: 2020-06-13
+title: Daily Evening Prayer - Rite Two - Autumn
+date: 2020-09-13
 weight: 400
 ---
 ### for a Sunday in the Season after Pentecost

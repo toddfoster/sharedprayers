@@ -1,5 +1,5 @@
 ---
-title: Daily Evening Prayer- Rite Two
+title: Daily Evening Prayer - Rite Two - Easter
 date: 2020-04-22
 weight: 450
 ---
