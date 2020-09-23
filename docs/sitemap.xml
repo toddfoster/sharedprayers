@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/daily/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,21 +14,21 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/ep-sundayautumn/</loc>
+    <loc>http://www.sharedprayers.net/archive/ep-sundayautumn/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/ep-sundaypentecost/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/ep-sundaypentecost/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/daily/ep-sundayeaster/</loc>
+    <loc>http://www.sharedprayers.net/archive/ep-sundayeaster/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,17 +53,22 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/archive/mp-sundayautumn/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-current/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-proper21a/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
