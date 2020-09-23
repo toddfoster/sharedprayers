@@ -1,0 +1,29 @@
+##### The People stand as able.
+**Canticle 16: The Song of Zechariah**	--- _Benedictus Dominus Deus_ --- _Luke 1:68--79_
+**All:**
+> **Blessed be the Lord, the God of Israel; *
+he has come to his people and set them free.
+He has raised up for us a mighty savior, *
+born of the house of his servant David.
+Through his holy prophets he promised of old,
+that he would save us from our enemies, *
+from the hands of all who hate us.
+He promised to show mercy to our fathers *
+and to remember his holy covenant.
+This was the oath he swore to our father Abraham, *
+to set us free from the hands of our enemies,
+Free to worship him without fear, *
+holy and righteous in his sight all the days of our life.**
+
+> **You, my child, shall be called the prophet of the Most High, *
+for you will go before the Lord to prepare his way,
+To give his people knowledge of salvation *
+by the forgiveness of their sins.
+In the tender compassion of our God *
+the dawn from on high shall break upon us,
+To shine on those who dwell in darkness and the shadow of death, *
+and to guide our feet into the way of peace.**
+
+> **Glory to the Father and to the Son, and to the Holy Spirit: *
+> as it was in the beginning, is now, and will be for ever. Amen.**
+##### The People are seated.
