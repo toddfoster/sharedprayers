@@ -3,7 +3,7 @@ title: Daily Morning Prayer - Rite Two - Autumn
 date: 2020-09-23
 ---
 ### for a Sunday in the Season after Pentecost
-_according to the Book of Common Prayer (p. 115ff.)_
+_according to the Book of Common Prayer (p. 78ff.)_
 
 [Find the lessons for today using the calendar here](https://lectionarypage.net/)
 
