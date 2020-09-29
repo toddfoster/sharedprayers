@@ -2,7 +2,7 @@
 title: Holy Eucharist, Rite II (Proper 21, Covid-tide)
 date: 2020-09-22
 ---
-The Sixteenth Sunday after Pentecost
+The Seventeenth Sunday after Pentecost
 ------------
 27 September 2020
 _according to the Book of Common Prayer (p. 355ff.)_
