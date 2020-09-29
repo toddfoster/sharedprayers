@@ -13,6 +13,8 @@ title: Shared Prayers
 
 [Morning Prayer for Sundays in Autumn 2020](archive/mp-sundayautumn)
 
+[Evening Prayer for Sundays (and Saturday nights) in Autumn 2020](archive/ep-sundayautumn)
+
 ------------
 
 {{< sharetheseprayers >}}
