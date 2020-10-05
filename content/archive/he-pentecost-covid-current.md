@@ -1,10 +1,10 @@
 ---
-title: Holy Eucharist, Rite II (Proper 22, Covid-tide)
+title: Holy Eucharist, Rite II (Proper 23, Covid-tide)
 date: 2020-09-29
 ---
-The Eighteenth Sunday after Pentecost
+The Nineteenth Sunday after Pentecost
 ------------
-4 October 2020
+11 October 2020
 _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
@@ -41,7 +41,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ##### The Collect of the Day
 Presider:
-> Almighty and everlasting God, you are always more ready to hear than we to pray, and to give more than we either desire or deserve: Pour upon us the abundance of your mercy, forgiving us those things of which our conscience is afraid, and giving us those good things for which we are not worthy to ask, except through the merits and mediation of Jesus Christ our Savior; who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+> Lord, we pray that your grace may always precede and follow us, that we may continually be given to good works; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.
 
 **People:**
 > **Amen.**
@@ -49,34 +49,16 @@ Presider:
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
-_Exodus 20:1-4, 7-9, 12-20_
+_Exodus 32:1-14_
 
 Lector:
 > A reading from Exodus.
 >
-> Then God spoke all these words:
+> When the people saw that Moses delayed to come down from the mountain, the people gathered around Aaron, and said to him, “Come, make gods for us, who shall go before us; as for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.” Aaron said to them, “Take off the gold rings that are on the ears of your wives, your sons, and your daughters, and bring them to me.” So all the people took off the gold rings from their ears, and brought them to Aaron. He took the gold from them, formed it in a mold, and cast an image of a calf; and they said, “These are your gods, O Israel, who brought you up out of the land of Egypt!” When Aaron saw this, he built an altar before it; and Aaron made proclamation and said, “Tomorrow shall be a festival to the Lord.” They rose early the next day, and offered burnt offerings and brought sacrifices of well-being; and the people sat down to eat and drink, and rose up to revel.
 >
-> I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me.
+> The Lord said to Moses, “Go down at once! Your people, whom you brought up out of the land of Egypt, have acted perversely; they have been quick to turn aside from the way that I commanded them; they have cast for themselves an image of a calf, and have worshiped it and sacrificed to it, and said, ‘These are your gods, O Israel, who brought you up out of the land of Egypt!’” The Lord said to Moses, “I have seen this people, how stiff-necked they are. Now let me alone, so that my wrath may burn hot against them and I may consume them; and of you I will make a great nation.”
 >
-> You shall not make for yourself an idol, whether in the form of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth.
->
-> You shall not make wrongful use of the name of the Lord your God, for the Lord will not acquit anyone who misuses his name.
->
-> Remember the sabbath day, and keep it holy. For six days you shall labour and do all your work.
->
->Honor your father and your mother, so that your days may be long in the land that the Lord your God is giving you.
->
->You shall not murder.
-
-> You shall not commit adultery.
->
-> You shall not steal.
->
-> You shall not bear false witness against your neighbor.
->
-> You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or male or female slave, or ox, or donkey, or anything that belongs to your neighbor.
->
-> When all the people witnessed the thunder and lightning, the sound of the trumpet, and the mountain smoking, they were afraid and trembled and stood at a distance, and said to Moses, “You speak to us, and we will listen; but do not let God speak to us, or we will die.” Moses said to the people, “Do not be afraid; for God has come only to test you and to put the fear of him upon you so that you do not sin.”
+> But Moses implored the Lord his God, and said, “O Lord, why does your wrath burn hot against your people, whom you brought out of the land of Egypt with great power and with a mighty hand? Why should the Egyptians say, ‘It was with evil intent that he brought them out to kill them in the mountains, and to consume them from the face of the earth’? Turn from your fierce wrath; change your mind and do not bring disaster on your people. Remember Abraham, Isaac, and Israel, your servants, how you swore to them by your own self, saying to them, ‘I will multiply your descendants like the stars of heaven, and all this land that I have promised I will give to your descendants, and they shall inherit it forever.’” And the Lord changed his mind about the disaster that he planned to bring on his people.
 
 Lector:
 > The word of the Lord.
@@ -84,61 +66,55 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-**The Psalm** 19
-_Caeli enarrant_
+**The Psalm** 106:1-6, 19-23
+_Confitemini Domino, Et fecerunt vitulum_
 
-> 1	The heavens declare the glory of God, *
-and the firmament shows his handiwork.
-**2	One day tells its tale to another, *
-and one night imparts knowledge to another.**
+> 1 Hallelujah! Give thanks to the Lord, for he is good, *
+for his mercy endures for ever.
+**2 Who can declare the mighty acts of the Lord *
+or show forth all his praise?**
 
-> 3	Although they have no words or language, *
-and their voices are not heard,
-**4	Their sound has gone out into all lands, *
-and their message to the ends of the world.**
+> 3 Happy are those who act with justice *
+and always do what is right!
+**4 Remember me, O Lord,
+	with the favor you have for your people, *
+and visit me with your saving help;**
 
-> 5	In the deep has he set a pavilion for the sun; *
-it comes forth like a bridegroom out of his chamber;
-	it rejoices like a champion to run its course.
-**6	It goes forth from the uttermost edge of the heavens
-	and runs about to the end of it again; *
-nothing is hidden from its burning heat.**
+> 5 That I may see the prosperity of your elect
+	and be glad with the gladness of your people, *
+that I may glory with your inheritance.
+**6 We have sinned as our forebears did; *
+we have done wrong and dealt wickedly.**
 
-> 7	The law of the Lord is perfect and revives the soul; *
-the testimony of the Lord is sure and gives wisdom to the innocent.
-**8	The statutes of the Lord are just and rejoice the heart; *
-the commandment of the Lord is clear and gives light to the eyes.**
+> 19 Israel made a bull-calf at Horeb *
+and worshiped a molten image;
+**20 And so they exchanged their Glory *
+for the image of an ox that feeds on grass.**
 
-> 9	The fear of the Lord is clean and endures forever; *
-the judgments of the Lord are true and righteous altogether.
-**10	More to be desired are they than gold, more than much fine gold, *
-sweeter far than honey, than honey in the comb.**
+> 21 They forgot God their Savior, *
+who had done great things in Egypt,
+**22 Wonderful deeds in the land of Ham, *
+and fearful things at the Red Sea.**
 
-> 11	By them also is your servant enlightened, *
-and in keeping them there is great reward.
-**12	Who can tell how often he offends? *
-cleanse me from my secret faults.**
-
-> 13	Above all, keep your servant from presumptuous sins;
-	let them not get dominion over me; *
-then shall I be whole and sound, and innocent of a great offense.
-**14	Let the words of my mouth and the meditation of my heart
-	be acceptable in your sight, *
-O Lord, my strength and my redeemer.**
+> 23 So he would have destroyed them,
+	had not Moses his chosen stood before him in the breach, *
+to turn away his wrath from consuming them.
 
 
 
 **The Second Lesson**
-_Philippians 3:4b-14_
+_Philippians 4:1-9_
 
 Lector:
 > A reading from the letter to the Philippians
 
-> If anyone else has reason to be confident in the flesh, I have more: circumcised on the eighth day, a member of the people of Israel, of the tribe of Benjamin, a Hebrew born of Hebrews; as to the law, a Pharisee; as to zeal, a persecutor of the church; as to righteousness under the law, blameless.
+> My brothers and sisters, whom I love and long for, my joy and crown, stand firm in the Lord in this way, my beloved.
 >
-> Yet whatever gains I had, these I have come to regard as loss because of Christ. More than that, I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things, and I regard them as rubbish, in order that I may gain Christ and be found in him, not having a righteousness of my own that comes from the law, but one that comes through faith in Christ, the righteousness from God based on faith. I want to know Christ and the power of his resurrection and the sharing of his sufferings by becoming like him in his death, if somehow I may attain the resurrection from the dead.
+> I urge Euodia and I urge Syntyche to be of the same mind in the Lord. Yes, and I ask you also, my loyal companion, help these women, for they have struggled beside me in the work of the gospel, together with Clement and the rest of my co-workers, whose names are in the book of life.
 >
-> Not that I have already obtained this or have already reached the goal; but I press on to make it my own, because Christ Jesus has made me his own. Beloved, I do not consider that I have made it my own; but this one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the heavenly call of God in Christ Jesus.
+> Rejoice in the Lord always; again I will say, Rejoice. Let your gentleness be known to everyone. The Lord is near. Do not worry about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+>
+> Finally, beloved, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is pleasing, whatever is commendable, if there is any excellence and if there is anything worthy of praise, think about these things. Keep on doing the things that you have learned and received and heard and seen in me, and the God of peace will be with you.
 
 Lector:
 > The word of the Lord.
@@ -148,7 +124,7 @@ Lector:
 
 ##### The people stand as able.
 **The Holy Gospel**
-_Matthew 21:33-46_
+_Matthew 22:1-14_
 
 Deacon:
 > The Holy Gospel of our Lord Jesus Christ according to Matthew.
@@ -157,7 +133,9 @@ Deacon:
 > **Glory to you, Lord Christ.**
 
 Deacon:
-> Jesus said, “Listen to another parable. There was a landowner who planted a vineyard, put a fence around it, dug a wine press in it, and built a watchtower. Then he leased it to tenants and went to another country. When the harvest time had come, he sent his slaves to the tenants to collect his produce. But the tenants seized his slaves and beat one, killed another, and stoned another. Again he sent other slaves, more than the first; and they treated them in the same way. Finally he sent his son to them, saying, ‘They will respect my son.’ But when the tenants saw the son, they said to themselves, ‘This is the heir; come, let us kill him and get his inheritance.” So they seized him, threw him out of the vineyard, and killed him. Now when the owner of the vineyard comes, what will he do to those tenants?” They said to him, “He will put those wretches to a miserable death, and lease the vineyard to other tenants who will give him the produce at the harvest time.”
+> Once more Jesus spoke to the people in parables, saying: “The kingdom of heaven may be compared to a king who gave a wedding banquet for his son. He sent his slaves to call those who had been invited to the wedding banquet, but they would not come. Again he sent other slaves, saying, ‘Tell those who have been invited: Look, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready; come to the wedding banquet.’ But they made light of it and went away, one to his farm, another to his business, while the rest seized his slaves, mistreated them, and killed them. The king was enraged. He sent his troops, destroyed those murderers, and burned their city. Then he said to his slaves, ‘The wedding is ready, but those invited were not worthy. Go therefore into the main streets, and invite everyone you find to the wedding banquet.’ Those slaves went out into the streets and gathered all whom they found, both good and bad; so the wedding hall was filled with guests.
+>
+> “But when the king came in to see the guests, he noticed a man there who was not wearing a wedding robe, and he said to him, ‘Friend, how did you get in here without a wedding robe?’ And he was speechless. Then the king said to the attendants, ‘Bind him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’ For many are called, but few are chosen.”
 
 Deacon:
 > The Gospel of the Lord.
