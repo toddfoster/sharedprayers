@@ -118,7 +118,7 @@ Lector:
 _Matthew 22:15-22_
 
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to Matthew.
+> The Holy Gospel of our Lord Jesus Christ according to Matthew.
 
 **People:**
 > **Glory to you, Lord Christ.**

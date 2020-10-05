@@ -73,7 +73,7 @@ Lector:
 ##### The people stand as able.
 **The Holy Gospel**
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to...
+> The Holy Gospel of our Lord Jesus Christ according to...
 
 **People:**
 > **Glory to you, Lord Christ.**

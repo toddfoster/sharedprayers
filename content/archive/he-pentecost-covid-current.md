@@ -151,7 +151,7 @@ Lector:
 _Matthew 21:33-46_
 
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to Matthew.
+> The Holy Gospel of our Lord Jesus Christ according to Matthew.
 
 **People:**
 > **Glory to you, Lord Christ.**

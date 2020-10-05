@@ -140,7 +140,7 @@ Lector:
 _Matthew 21:23-32_
 
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to Matthew.
+> The Holy Gospel of our Lord Jesus Christ according to Matthew.
 
 **People:**
 > **Glory to you, Lord Christ.**

@@ -96,7 +96,7 @@ Lector:
 
 **The Gospel** --- _Luke 24:44-53_
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to Luke.
+> The Holy Gospel of our Lord Jesus Christ according to Luke.
 
 **People:**
 > **Glory to you, Lord Christ.**

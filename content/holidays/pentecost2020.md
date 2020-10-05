@@ -129,7 +129,7 @@ Lector:
 
 **The Holy Gospel** --- _John 7:37-39_
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to John.
+> The Holy Gospel of our Lord Jesus Christ according to John.
 
 **People:**
 > **Glory to you, Lord Christ.**

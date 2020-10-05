@@ -122,7 +122,7 @@ Lector:
 
 **The Holy Gospel** --- _Matthew 28:16-20_
 Deacon:
-> The Holy Gospel of our Lord Jesus Crist according to Matthew
+> The Holy Gospel of our Lord Jesus Christ according to Matthew
 
 **People:**
 > **Glory to you, Lord Christ.**
