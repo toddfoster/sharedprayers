@@ -1,10 +1,10 @@
 ---
-title: Holy Eucharist, Rite II (Proper 24, Covid-tide)
+title: Holy Eucharist, Rite II (Proper 25, Covid-tide)
 date: 2020-09-29
 ---
-The Twentieth Sunday after Pentecost
+The Twenty-first Sunday after Pentecost
 ------------
-18 October 2020
+25 October 2020
 _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
@@ -41,7 +41,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ##### The Collect of the Day
 Presider:
-> Almighty and everlasting God, in Christ you have revealed your glory among the nations: Preserve the works of your mercy, that your Church throughout the world may persevere with steadfast faith in the confession of your Name; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
+> Almighty and everlasting God, increase in us the gifts of faith, hope, and charity; and, that we may obtain what you promise, make us love what you command; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.
 
 **People:**
 > **Amen.**
@@ -49,14 +49,18 @@ Presider:
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
-_Exodus  32:1-14_
+_Leviticus 19:1-2,15-18_
 
 Lector:
-> A reading from Exodus.
+> A reading from Leviticus.
 >
-> Moses said to the Lord, “See, you have said to me, ‘Bring up this people’; but you have not let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’ Now if I have found favor in your sight, show me your ways, so that I may know you and find favor in your sight. Consider too that this nation is your people.” He said, “My presence will go with you, and I will give you rest.” And he said to him, “If your presence will not go, do not carry us up from here. For how shall it be known that I have found favor in your sight, I and your people, unless you go with us? In this way, we shall be distinct, I and your people, from every people on the face of the earth.”
+> The Lord spoke to Moses, saying:
 >
-> The Lord said to Moses, “I will do the very thing that you have asked; for you have found favor in my sight, and I know you by name.” Moses said, “Show me your glory, I pray.” And he said, “I will make all my goodness pass before you, and will proclaim before you the name, ‘The Lord’; and I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy. But,” he said, “you cannot see my face; for no one shall see me and live.” And the Lord continued, “See, there is a place by me where you shall stand on the rock; and while my glory passes by I will put you in a cleft of the rock, and I will cover you with my hand until I have passed by; then I will take away my hand, and you shall see my back; but my face shall not be seen.”
+> Speak to all the congregation of the people of Israel and say to them: You shall be holy, for I the Lord your God am holy.
+>
+> You shall not render an unjust judgment; you shall not be partial to the poor or defer to the great: with justice you shall judge your neighbor. You shall not go around as a slanderer among your people, and you shall not profit by the blood of your neighbor: I am the Lord.
+>
+> You shall not hate in your heart anyone of your kin; you shall reprove your neighbor, or you will incur guilt yourself. You shall not take vengeance or bear a grudge against any of your people, but you shall love your neighbor as yourself: I am the Lord.
 
 Lector:
 > The word of the Lord.
@@ -64,48 +68,48 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-**The Psalm** 99
-_Dominus regnavit_
+**The Psalm** 90:1-6, 13-17
+_Domine, refugium_
 
-> 1 The Lord is King; let the people tremble; *
-he is enthroned upon the cherubim; let the earth shake.
-**2 The Lord is great in Zion; *
-he is high above all peoples.**
+> 1 Lord, you have been our refuge *
+from one generation to another.
+**2 Before the mountains were brought forth,
+	or the land and the earth were born, *
+from age to age you are God.**
 
-> 3 Let them confess his Name, which is great and awesome; *
-he is the Holy One.
-**4 "O mighty King, lover of justice, you have established equity; *
-you have executed justice and righteousness in Jacob."**
+> 3 You turn us back to the dust and say, *
+"Go back, O child of earth."
+**4 For a thousand years in your sight are like yesterday when it is past *
+and like a watch in the night.**
 
-> 5 Proclaim the greatness of the Lord our God
-	and fall down before his footstool; *
-he is the Holy One.
-**6 Moses and Aaron among his priests,
-	and Samuel among those who call upon his Name, *
-they called upon the Lord, and he answered them.**
+> 5 You sweep us away like a dream; *
+we fade away suddenly like the grass.
+**6 In the morning it is green and flourishes; *
+in the evening it is dried up and withered.**
 
-> 7 He spoke to them out of the pillar of cloud; *
-they kept his testimonies and the decree that he gave them.
-**8 O Lord our God, you answered them indeed; *
-you were a God who forgave them,
-	yet punished them for their evil deeds.**
+> 13 Return, O Lord; how long will you tarry? *
+be gracious to your servants.
+**14 Satisfy us by your loving-kindness in the morning; *
+so shall we rejoice and be glad all the days of our life.**
 
-> 9 Proclaim the greatness of the Lord our God
-	and worship him upon his holy hill; *
-for the Lord our God is the Holy One.
+> 15 Make us glad by the measure of the days that you afflicted us *
+and the years in which we suffered adversity.
+**16 Show your servants your works *
+and your splendor to their children.**
+
+> 17 May the graciousness of the Lord our God be upon us; *
+prosper the work of our hands; prosper our handiwork.
+
+
 
 
 **The Second Lesson**
-_1 Thessalonians 1:1-10_
+_1 Thessalonians 2:1-8_
 
 Lector:
 > A reading from the first letter to the Thessalonians:
 
-> Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ:
->
-> Grace to you and peace.
->
-> We always give thanks to God for all of you and mention you in our prayers, constantly remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ. For we know, brothers and sisters beloved by God, that he has chosen you, because our message of the gospel came to you not in word only, but also in power and in the Holy Spirit and with full conviction; just as you know what kind of persons we proved to be among you for your sake. And you became imitators of us and of the Lord, for in spite of persecution you received the word with joy inspired by the Holy Spirit, so that you became an example to all the believers in Macedonia and in Achaia. For the word of the Lord has sounded forth from you not only in Macedonia and Achaia, but in every place your faith in God has become known, so that we have no need to speak about it. For the people of those regions report about us what kind of welcome we had among you, and how you turned to God from idols, to serve a living and true God, and to wait for his Son from heaven, whom he raised from the dead-- Jesus, who rescues us from the wrath that is coming.
+> You yourselves know, brothers and sisters, that our coming to you was not in vain, but though we had already suffered and been shamefully mistreated at Philippi, as you know, we had courage in our God to declare to you the gospel of God in spite of great opposition. For our appeal does not spring from deceit or impure motives or trickery, but just as we have been approved by God to be entrusted with the message of the gospel, even so we speak, not to please mortals, but to please God who tests our hearts. As you know and as God is our witness, we never came with words of flattery or with a pretext for greed; nor did we seek praise from mortals, whether from you or from others, though we might have made demands as apostles of Christ. But we were gentle among you, like a nurse tenderly caring for her own children. So deeply do we care for you that we are determined to share with you not only the gospel of God but also our own selves, because you have become very dear to us.
 
 Lector:
 > The word of the Lord.
@@ -115,7 +119,7 @@ Lector:
 
 ##### The people stand as able.
 **The Holy Gospel**
-_Matthew 22:15-22_
+_Matthew 22:34-46_
 
 Deacon:
 > The Holy Gospel of our Lord Jesus Christ according to Matthew.
@@ -124,7 +128,14 @@ Deacon:
 > **Glory to you, Lord Christ.**
 
 Deacon:
-> The Pharisees went and plotted to entrap Jesus in what he said. So they sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are sincere, and teach the way of God in accordance with truth, and show deference to no one; for you do not regard people with partiality. Tell us, then, what you think. Is it lawful to pay taxes to the emperor, or not?” But Jesus, aware of their malice, said, “Why are you putting me to the test, you hypocrites? Show me the coin used for the tax.” And they brought him a denarius. Then he said to them, “Whose head is this, and whose title?” They answered, “The emperor’s.” Then he said to them, “Give therefore to the emperor the things that are the emperor’s, and to God the things that are God’s.” When they heard this, they were amazed; and they left him and went away.
+> When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together, and one of them, a lawyer, asked him a question to test him. “Teacher, which commandment in the law is the greatest?” He said to him, “’You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ This is the greatest and first commandment. And a second is like it: ‘You shall love your neighbor as yourself.’ On these two commandments hang all the law and the prophets.”
+>
+> Now while the Pharisees were gathered together, Jesus asked them this question: “What do you think of the Messiah? Whose son is he?” They said to him, “The son of David.” He said to them, “How is it then that David by the Spirit calls him Lord, saying,
+>>	‘The Lord said to my Lord,
+>>	“Sit at my right hand,
+>>	until I put your enemies under your feet”’?
+>
+> If David thus calls him Lord, how can he be his son?” No one was able to give him an answer, nor from that day did anyone dare to ask him any more questions.
 
 Deacon:
 > The Gospel of the Lord.

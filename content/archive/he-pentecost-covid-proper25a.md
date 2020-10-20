@@ -49,16 +49,18 @@ Presider:
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
-_Exodus  34:1-12_
+_Leviticus 19:1-2,15-18_
 
 Lector:
-> A reading from Exodus.
+> A reading from Leviticus.
 >
-> Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho, and the Lord showed him the whole land: Gilead as far as Dan, all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea, the Negeb, and the Plain—that is, the valley of Jericho, the city of palm trees—as far as Zoar. The Lord said to him, “This is the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your descendants’; I have let you see it with your eyes, but you shall not cross over there.” Then Moses, the servant of the Lord, died there in the land of Moab, at the Lord’s command. He was buried in a valley in the land of Moab, opposite Beth-peor, but no one knows his burial place to this day. Moses was one hundred twenty years old when he died; his sight was unimpaired and his vigor had not abated. The Israelites wept for Moses in the plains of Moab thirty days; then the period of mourning for Moses was ended.
+> The Lord spoke to Moses, saying:
 >
-> Joshua son of Nun was full of the spirit of wisdom, because Moses had laid his hands on him; and the Israelites obeyed him, doing as the Lord had commanded Moses.
+> Speak to all the congregation of the people of Israel and say to them: You shall be holy, for I the Lord your God am holy.
 >
-> Never since has there arisen a prophet in Israel like Moses, whom the Lord knew face to face. He was unequaled for all the signs and wonders that the Lord sent him to perform in the land of Egypt, against Pharaoh and all his servants and his entire land, and for all the mighty deeds and all the terrifying displays of power that Moses performed in the sight of all Israel.
+> You shall not render an unjust judgment; you shall not be partial to the poor or defer to the great: with justice you shall judge your neighbor. You shall not go around as a slanderer among your people, and you shall not profit by the blood of your neighbor: I am the Lord.
+>
+> You shall not hate in your heart anyone of your kin; you shall reprove your neighbor, or you will incur guilt yourself. You shall not take vengeance or bear a grudge against any of your people, but you shall love your neighbor as yourself: I am the Lord.
 
 Lector:
 > The word of the Lord.
