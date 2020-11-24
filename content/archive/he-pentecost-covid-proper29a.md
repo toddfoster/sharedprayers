@@ -131,7 +131,7 @@ Today the response to the Prayers of the People is, *Lord, have mercy.*
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% confession-he %}}
+{{% confession %}}
 
 {{% rubric-stand %}}
 

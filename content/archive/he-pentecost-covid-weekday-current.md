@@ -96,7 +96,7 @@ Deacon:
 
 {{% pop-form3 %}}
 
-{{% confession-he %}}
+{{% confession %}}
 
 {{% rubric-stand %}}
 
