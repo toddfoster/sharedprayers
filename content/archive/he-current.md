@@ -1,13 +1,12 @@
 ---
-title: Holy Eucharist, Rite II (Proper 29, Covid-tide)
-date: 2020-11-18
+title: Holy Eucharist, Rite II (Advent 1, Covid-tide)
+date: 2020-11-24
+aliases: [/archive/he-pentecost-covid-current/]
 ---
-The Last Sunday after Pentecost
+The First Sunday in Advent
 ------------
-Christ the King
-22 November 2020
+29 November 2020
 _according to the Book of Common Prayer (p. 355ff.)_
-_and including The Ingathering of Pledges_
 
 {{< sharetheseprayers >}}
 
@@ -20,7 +19,7 @@ During this season of coronavirus infections, please demonstrate your love for y
 1. Wearing a mask (covering both mouth and nose)
 2. Remaining six feet apart from anyone you don’t live with
 3. Refraining from touching, hugging and shaking hands -- even during the Peace
-4. There will be no singing
+4. Singing is only permitted outdoors, six feet apart, wearing masks
 5. Service bulletins you have touched must be taken home
 6. After the service everyone must disperse with no lingering
 7. No sharing of common objects such as pens, paper, water bottles, etc.
@@ -30,32 +29,62 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 -------------
 
 ## We Gather in God’s Name
+{{% advent/wreath1 %}}
 
 {{% rubric-stand %}}
+##### The Anthem will only be sung at liturgies meeting outdoors.
+
+{{% advent/ocome1 %}}
+
 {{% greeting-blessedbegod %}}
 
 {{% collect-purity %}}
 
-{{% trishagion %}}
+{{% lordhavemercy %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
 
-{{% collectoftheday proper28 %}}
+{{% collectoftheday advent1 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
-_Ezekiel 34:11-16, 20-24_
+_Isaiah 64:1-9_
 
 Lector:
-> A reading from the prophet Ezekiel.
->
-> Thus says the Lord God: I myself will search for my sheep, and will seek them out. As shepherds seek out their flocks when they are among their scattered sheep, so I will seek out my sheep. I will rescue them from all the places to which they have been scattered on a day of clouds and thick darkness. I will bring them out from the peoples and gather them from the countries, and will bring them into their own land; and I will feed them on the mountains of Israel, by the watercourses, and in all the inhabited parts of the land. I will feed them with good pasture, and the mountain heights of Israel shall be their pasture; there they shall lie down in good grazing land, and they shall feed on rich pasture on the mountains of Israel. I myself will be the shepherd of my sheep, and I will make them lie down, says the Lord God. I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, but the fat and the strong I will destroy. I will feed them with justice.
->
-> Therefore, thus says the Lord God to them: I myself will judge between the fat sheep and the lean sheep. Because you pushed with flank and shoulder, and butted at all the weak animals with your horns until you scattered them far and wide, I will save my flock, and they shall no longer be ravaged; and I will judge between sheep and sheep.
->
-> I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd. And I, the Lord, will be their God, and my servant David shall be prince among them; I, the Lord, have spoken.
+> A reading from the prophet Isaiah.
+
+> O that you would tear open the heavens and come down,
+so that the mountains would quake at your presence--
+as when fire kindles brushwood
+and the fire causes water to boil--
+to make your name known to your adversaries,
+so that the nations might tremble at your presence!
+When you did awesome deeds that we did not expect,
+you came down, the mountains quaked at your presence.
+From ages past no one has heard,
+no ear has perceived,
+no eye has seen any God besides you,
+who works for those who wait for him.
+You meet those who gladly do right,
+those who remember you in your ways.
+But you were angry, and we sinned;
+because you hid yourself we transgressed.
+We have all become like one who is unclean,
+and all our righteous deeds are like a filthy cloth.
+We all fade like a leaf,
+and our iniquities, like the wind, take us away.
+There is no one who calls on your name,
+or attempts to take hold of you;
+for you have hidden your face from us,
+and have delivered us into the hand of our iniquity.
+Yet, O Lord, you are our Father;
+we are the clay, and you are our potter;
+we are all the work of your hand.
+Do not be exceedingly angry, O Lord,
+and do not remember iniquity forever.
+Now consider, we are all your people.
 
 Lector:
 > The word of the Lord.
@@ -63,33 +92,50 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-**The Psalm** 100
-_Jubilate Deo_
+**The Psalm** 80:1-7, 16-18
+_Qui regis Israel_
 
-> **1 Be joyful in the Lord, all you lands; *
-serve the Lord with gladness
-	and come before his presence with a song.**
+> 1 Hear, O Shepherd of Israel, leading Joseph like a flock; *
+shine forth, you that are enthroned upon the cherubim.
 
-> **2 Know this: The Lord himself is God; *
-he himself has made us, and we are his;
-	we are his people and the sheep of his pasture.**
+> 2 In the presence of Ephraim, Benjamin, and Manasseh, *
+stir up your strength and come to help us.
 
-> **3 Enter his gates with thanksgiving;
-	go into his courts with praise; *
-give thanks to him and call upon his Name.**
+> **3 Restore us, O God of hosts; *
+show the light of your countenance, and we shall be saved.**
 
-> **4 For the Lord is good;
-	his mercy is everlasting; *
-and his faithfulness endures from age to age.**
+> 4 O Lord God of hosts, *
+how long will you be angered
+despite the prayers of your people?
+
+> 5 You have fed them with the bread of tears; *
+you have given them bowls of tears to drink.
+
+> 6 You have made us the derision of our neighbors, *
+and our enemies laugh us to scorn.
+
+> **7 Restore us, O God of hosts; *
+show the light of your countenance, and we shall be saved.**
+
+> 16 Let your hand be upon the man of your right hand, *
+the son of man you have made so strong for yourself.
+
+> 17 And so will we never turn away from you; *
+give us life, that we may call upon your Name.
+
+> **18 Restore us, O Lord God of hosts; *
+show the light of your countenance, and we shall be saved.**
 
 
 **The Second Lesson**
-_Ephesians 1:15-23_
+_1 Corinthians 1:3-9_
 
 Lector:
-> A reading from the letter to the Ephesians.
+> A reading from the first letter to the church in Corinth
 
->I have heard of your faith in the Lord Jesus and your love toward all the saints, and for this reason I do not cease to give thanks for you as I remember you in my prayers. I pray that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation as you come to know him, so that, with the eyes of your heart enlightened, you may know what is the hope to which he has called you, what are the riches of his glorious inheritance among the saints, and what is the immeasurable greatness of his power for us who believe, according to the working of his great power. God put this power to work in Christ when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the age to come. And he has put all things under his feet and has made him the head over all things for the church, which is his body, the fullness of him who fills all in all.
+> Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+> I give thanks to my God always for you because of the grace of God that has been given you in Christ Jesus, for in every way you have been enriched in him, in speech and knowledge of every kind-- just as the testimony of Christ has been strengthened among you-- so that you are not lacking in any spiritual gift as you wait for the revealing of our Lord Jesus Christ. He will also strengthen you to the end, so that you may be blameless on the day of our Lord Jesus Christ. God is faithful; by him you were called into the fellowship of his Son, Jesus Christ our Lord.
 
 Lector:
 > The word of the Lord.
@@ -99,16 +145,28 @@ Lector:
 
 ##### The people stand as able.
 **The Holy Gospel**
-_Matthew 25:31-46_
+_Mark 13:24-37_
 
 Deacon:
-> The Holy Gospel of our Lord Jesus Christ according to Matthew.
+> The Holy Gospel of our Lord Jesus Christ according to Mark.
 
 **People:**
 > **Glory to you, Lord Christ.**
 
 Deacon:
-> Jesus said, “When the Son of Man comes in his glory, and all the angels with him, then he will sit on the throne of his glory. All the nations will be gathered before him, and he will separate people one from another as a shepherd separates the sheep from the goats, and he will put the sheep at his right hand and the goats at the left. Then the king will say to those at his right hand, ‘Come, you that are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world; for I was hungry and you gave me food, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me, I was naked and you gave me clothing, I was sick and you took care of me, I was in prison and you visited me.’ Then the righteous will answer him, ‘Lord, when was it that we saw you hungry and gave you food, or thirsty and gave you something to drink? And when was it that we saw you a stranger and welcomed you, or naked and gave you clothing? And when was it that we saw you sick or in prison and visited you?’ And the king will answer them, ‘Truly I tell you, just as you did it to one of the least of these who are members of my family, you did it to me.’ Then he will say to those at his left hand, ‘You that are accursed, depart from me into the eternal fire prepared for the devil and his angels; for I was hungry and you gave me no food, I was thirsty and you gave me nothing to drink, I was a stranger and you did not welcome me, naked and you did not give me clothing, sick and in prison and you did not visit me.’ Then they also will answer, ‘Lord, when was it that we saw you hungry or thirsty or a stranger or naked or sick or in prison, and did not take care of you?’ Then he will answer them, ‘Truly I tell you, just as you did not do it to one of the least of these, you did not do it to me.’ And these will go away into eternal punishment, but the righteous into eternal life.”
+
+> Jesus said, “In those days, after that suffering,
+>> the sun will be darkened,
+and the moon will not give its light,
+and the stars will be falling from heaven,
+and the powers in the heavens will be shaken.
+
+> Then they will see ‘the Son of Man coming in clouds’ with great power and glory. Then he will send out the angels, and gather his elect from the four winds, from the ends of the earth to the ends of heaven.
+
+> “From the fig tree learn its lesson: as soon as its branch becomes tender and puts forth its leaves, you know that summer is near. So also, when you see these things taking place, you know that he is near, at the very gates. Truly I tell you, this generation will not pass away until all these things have taken place. Heaven and earth will pass away, but my words will not pass away.
+
+> “But about that day or hour no one knows, neither the angels in heaven, nor the Son, but only the Father. Beware, keep alert; for you do not know when the time will come. It is like a man going on a journey, when he leaves home and puts his slaves in charge, each with his work, and commands the doorkeeper to be on the watch. Therefore, keep awake—for you do not know when the master of the house will come, in the evening, or at midnight, or at cockcrow, or at dawn, or else he may find you asleep when he comes suddenly. And what I say to you I say to all: Keep awake.”
+
 
 Deacon:
 > The Gospel of the Lord.
@@ -126,12 +184,12 @@ Deacon:
 {{% nicenecreed %}}
 
 ### The Prayers of the People
-Today the response to the Prayers of the People is, *Lord, have mercy.*
+Today the response to the prompt, “Restore us, O God of hosts;” is “**show the light of your countenance, and we shall be saved.**”
 
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% confession-he %}}
+{{% confession %}}
 
 {{% rubric-stand %}}
 
