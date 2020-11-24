@@ -14,7 +14,12 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/ep-sunday-advent/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,17 +58,27 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-current/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/archive/mp-sunday-advent/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-proper29a/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/archive/he-covid-advent1b/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/he-current/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-proper29a/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +133,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-weekday-current/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/archive/he-pentecost-covid-weekday/</loc>
+    <loc>http://www.sharedprayers.net/archive/he-covid-weekday/</loc>
     <lastmod>2020-09-06T00:00:00+00:00</lastmod>
   </url>
   
