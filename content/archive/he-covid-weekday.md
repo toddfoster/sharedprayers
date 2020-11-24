@@ -1,9 +1,10 @@
 ---
-title: Holy Eucharist, Rite II (Pentecost Weekday, Covid-tide)
+title: Holy Eucharist, Rite II (Covid-tide)
 date: 2020-09-06
+aliases: [/archive/he-pentecost-covid-weekday, /archive/he-pentecost-covid-weekday-current]
 ---
 Holy Eucharist
-_for a weekday after Pentecost during Covid-tide_
+_for weekdays during Covid-tide_
 _according to the Book of Common Prayer (p. 355ff.)_
 
 
@@ -22,7 +23,7 @@ During this season of coronavirus infections, please demonstrate your love for y
 1. Wearing a mask (covering both mouth and nose)
 2. Remaining six feet apart from anyone you don’t live with
 3. Refraining from touching, hugging and shaking hands -- even during the Peace
-4. There will be no singing
+4. Singing is only permitted outdoors, six feet apart, wearing masks
 5. Service bulletins you have touched must be taken home
 6. After the service everyone must disperse with no lingering
 7. No sharing of common objects such as pens, paper, water bottles, etc.

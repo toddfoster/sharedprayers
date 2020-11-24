@@ -7,13 +7,13 @@ title: Shared Prayers
 -------------
 
 **Liturgies for this week:**
-[Holy Eucharist for this Sunday](archive/he-pentecost-covid-current)
+[Holy Eucharist for this Sunday](archive/he-current)
 
-[Holy Eucharist for Weekdays in Autumn 2020](archive/he-pentecost-covid-weekday-current)
+[Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 
-[Morning Prayer for Sundays in Autumn 2020](archive/mp-sundayautumn)
+[Morning Prayer for Sundays in Advent 2020](archive/mp-sunday-advent)
 
-[Evening Prayer for Sundays (and Saturday nights) in Autumn 2020](archive/ep-sundayautumn)
+[Evening Prayer for Sundays (and Saturday nights) in Advent 2020](archive/ep-sunday-advent)
 
 ------------
 
