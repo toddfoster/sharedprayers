@@ -13,6 +13,8 @@ title: Shared Prayers
 
 [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 
+[Advent Vespers](archive/2020/advent-vespers)
+
 [Morning Prayer for Sundays in Advent 2020](archive/mp-sunday-advent)
 
 [Evening Prayer for Sundays (and Saturday nights) in Advent 2020](archive/ep-sunday-advent)
