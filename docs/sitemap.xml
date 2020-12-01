@@ -14,7 +14,12 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/2020/advent-vespers/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,12 +63,12 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/holidays/he-covid-thanksgiving-a/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/</loc>
+    <loc>http://www.sharedprayers.net/holidays/he-covid-thanksgiving-a/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
