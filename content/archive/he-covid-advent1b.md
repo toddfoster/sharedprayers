@@ -201,15 +201,6 @@ Today the response to the prompt, “Restore us, O God of hosts;” is “**show
 
 ## We Offer Ourselves to God
 
-### The Ingathering of Pledges
-##### All the pledges collected so far are placed upon the altar.
-
-##### The presider prays:
-Gracious and loving God, giver of all that is good and true and beautiful and life-giving. These cards represent our sweat, they represent our lives, they represent our dreams. The pledges which we make on them are but tokens of the awesome gifts that have been given to us and they are pledged in thanksgiving for all we have received, for all we have been inspired to be, for all we are challenged to become, in this place.
-
-May they be the first fruits of all we have and not what we have left over, so that we may live out as closely as possible how you give to us. May we see them as our offering to you, sacred, holy, yet earthy, filled with possibilities. May we hold this image in our hearts and minds so as we watch our offerings each week come to your table, we can see our very selves being part of this offering, it is us on the table, living sacrifices to you. *Amen.*
-
-
 ##### The altar is prepared in silence. Then the people stand as able.
 ## The Great Thanksgiving: Eucharistic Prayer A
 Presider:
