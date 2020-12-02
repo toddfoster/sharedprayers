@@ -7,7 +7,6 @@ title: Shared Prayers
 -------------
 
 **Liturgies for this week:**
-[Holy Eucharist for Thanksgiving](holidays/he-covid-thanksgiving-a)
 
 [Holy Eucharist for this Sunday](archive/he-current)
 
