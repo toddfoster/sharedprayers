@@ -1,0 +1,1 @@
+##### The priest will light a candle of remembrance and place it in the basin on the altar. The basin will be brought around to each pew. If you so desire, you may light your candle from one of those already in the basin, and place it in the basin to represent a memory, concern or burden of heart that you wish to place on the altar for God’s tender ministrations.
