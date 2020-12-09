@@ -14,7 +14,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,12 +63,22 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/holidays/advent2020/longestnight-covid/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/archive/2020/he-covid-advent3b/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/he-current/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/holidays/advent2020/longestnight-covid/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +89,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2020/he-covid-advent2b/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/archive/he-current/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
