@@ -137,6 +137,8 @@ Deacon:
 Deacon:
 > In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came into being through him, and without him not one thing came into being. What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it.
 >
+> And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth.
+>
 > The Gospel of the Lord.
 
 **People:**
