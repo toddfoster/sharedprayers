@@ -1,10 +1,10 @@
 ---
-title: Christmas Eve, 4pm (Covid-tide)
+title: Christmas Eve, 11pm (Covid-tide)
 date: 2020-12-07
 ---
 Christmas Eve
 ------------
-24 December 2020, 4pm
+24 December 2020, 11pm
 _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
@@ -37,8 +37,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ##### The Hymn will only be sung at liturgies meeting outdoors.
 ### Hymn of Praise
-{{% advent/ocomeallyefaithful-3vv %}}
-
+{{% advent/olittletownofbethlehem-3vv %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -151,7 +150,7 @@ Lector:
 > **Thanks be to God.**
 
 ### Sequence Hymn
-{{% advent/onceinroyaldavidscity-3vv %}}
+{{% advent/awayinamanger-3vv %}}
 
 ##### The people stand as able.
 **The Holy Gospel**

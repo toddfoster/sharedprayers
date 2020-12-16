@@ -1,10 +1,10 @@
 ---
-title: Christmas Eve, 4pm (Covid-tide)
+title: Christmas Eve, 7pm (Covid-tide)
 date: 2020-12-07
 ---
 Christmas Eve
 ------------
-24 December 2020, 4pm
+24 December 2020, 7pm
 _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
@@ -35,10 +35,8 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% collect-purity %}}
 
-##### The Hymn will only be sung at liturgies meeting outdoors.
 ### Hymn of Praise
-{{% advent/ocomeallyefaithful-3vv %}}
-
+{{% trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -150,9 +148,6 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-### Sequence Hymn
-{{% advent/onceinroyaldavidscity-3vv %}}
-
 ##### The people stand as able.
 **The Holy Gospel**
 _Luke 2:1-20_
@@ -181,7 +176,7 @@ Deacon:
 > **Praise to you, Lord Christ.**
 
 {{% rubric-sit %}}
-##### A brief homily, spiritual conversation, or moment of silence may be placed here.
+##### A brief homily, spiritual conversation, pageant, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
 ## We Respond in Faith
@@ -256,9 +251,6 @@ Celebrant:
 
 ##### An offering basin will not be passed around. It may be found on the Safety Coordinator’s table, and donations left there as you exit.
 
-### Offertory Hymn
-{{% advent/itcameuponamidnightclear-2vv %}}
-
 {{% he/prayera-pref %}}
 > Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
 {{% /he/prayera-pref %}}
@@ -286,6 +278,8 @@ Presider:
 {{% he/postcommunion-eternal %}}
 
 {{% he/blessing-xmas %}}
+
+##### At this time the congregation will process in silence through the front doors of the Parish Hall, outdoors onto the driveway to stand each six feet apart, wearing masks, and sing together, Silent Night.
 
 ### Processional Hymn
 {{% advent/silentnight %}}

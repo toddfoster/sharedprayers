@@ -17,7 +17,9 @@ title: Shared Prayers
 
 **Seasonal Liturgies:**
 - [Longest Night Mass for Wednesday, 16 December 2020](holidays/advent2020/longestnight-covid)
-
+- [Christmas Eve: 4pm](holidays/advent2020/xmaseve1600-covid)
+- [Christmas Eve: 7pm](holidays/advent2020/xmaseve1900-covid)
+- [Christmas Eve: 11pm](holidays/advent2020/xmaseve2300-covid)
 
 ------------
 
