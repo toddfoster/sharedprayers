@@ -1,4 +1,3 @@
-##### The People stand as able.
 **Canticle 21: You are God**	--- _Te Deum laudamus_
 **All:**
 > **You are God: we praise you;
@@ -29,5 +28,3 @@ Come then, Lord, and help your people,
 bought with the price of your own blood,
 and bring us with your saints
 to glory everlasting.**
-
-##### The People are seated.
