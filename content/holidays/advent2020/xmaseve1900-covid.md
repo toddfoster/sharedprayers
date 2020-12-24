@@ -1,10 +1,10 @@
 ---
-title: Christmas Eve, 7pm (Covid-tide)
+title: Christmas Eve, 7pm, 11pm (Covid-tide, indoor)
 date: 2020-12-07
 ---
 Christmas Eve
 ------------
-24 December 2020, 7pm
+24 December 2020, 7pm & 11pm (indoor services)
 _according to the Book of Common Prayer (p. 355ff.)_
 
 {{< sharetheseprayers >}}
