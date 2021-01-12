@@ -8,6 +8,8 @@ title: Shared Prayers
 
 **Liturgies for this week:**
 
+- [Morning Prayer for Tuesday, 12 January 2021](archive/2021/mp-epiphany-20210112)
+
 - [Holy Eucharist for this Sunday](archive/he-current)
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts in Covid-tide](archive/he-covid-feasts)
