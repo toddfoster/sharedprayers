@@ -143,8 +143,7 @@ Deacon:
 {{% nicenecreed %}}
 
 ### The Prayers of the People
-Today the response to the prompt, “I will thank you because I am marvelously made” is **“your works are wonderful, and I know it well.”**
-
+Today the response to the prompt, "Give us courage to say," is **“Speak, Lord, for your servant is listening.”**
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
