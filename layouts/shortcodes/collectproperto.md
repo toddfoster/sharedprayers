@@ -1,4 +1,4 @@
-{{ $base_path := "layouts/shortcodes/collects" }}
+{{ $base_path := "layouts/shortcodes/collects/propers" }}
 {{ $file_path := .Get 0 }}
 {{ $full_file_path := (path.Join $base_path $file_path ) }}
 ### The Collect of the Day

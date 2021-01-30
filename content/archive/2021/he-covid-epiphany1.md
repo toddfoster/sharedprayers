@@ -39,7 +39,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ### Salutation and Collect
 {{% letuspray %}}
 
-{{% collectoftheday epiphany1 %}}
+{{% collectproperto epiphany1 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

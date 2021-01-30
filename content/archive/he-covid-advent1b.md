@@ -44,7 +44,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ### Salutation and Collect
 {{% letuspray %}}
 
-{{% collectoftheday advent1 %}}
+{{% collectproperto advent1 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
