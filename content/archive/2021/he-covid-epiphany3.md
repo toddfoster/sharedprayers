@@ -1,6 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 3, Covid-tide)
 date: 2021-01-20
+proper: "epiphany3"
 ---
 The Third Sunday in Epiphany
 ------------
@@ -37,7 +38,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ### Salutation and Collect
 {{% letuspray %}}
 
-{{% collectproperto epiphany3 %}}
+{{% propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
