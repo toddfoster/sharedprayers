@@ -208,7 +208,7 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% collectproperto epiphany1 %}}
+{{% propercollect epiphany1 %}}
 
 {{% collects/contemporary/mp-forpeace %}}
 
