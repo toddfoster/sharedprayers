@@ -9,6 +9,10 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 - Push to git hub to deploy
 
 # Tasks
+- ~~propercollect~~
+- ~~propertitle~~
+- Tighten up he-covid to minimize manual bits: he-covid-epiphany, he-covid-lent
+- properpreface (maybe?)
 - Provide scriptures in manner similar to collects
 - Allow SharedPrayers to be customized for different groups
   - what parts of a prayer need to be customized? (e.g., PoP, hymns)
