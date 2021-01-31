@@ -1,9 +1,9 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 4, Covid-tide)
 date: 2021-01-26
+proper: epiphany4
 ---
-The Fourth Sunday in Epiphany
-------------
+{{% propertitle %}}
 31  January 2021
 _according to the Book of Common Prayer (p. 355ff.)_
 

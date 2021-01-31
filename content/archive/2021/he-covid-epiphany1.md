@@ -1,12 +1,9 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 1, Covid-tide)
 date: 2021-01-05
-aliases: [/archive/he-pentecost-covid-current/]
 proper: epiphany1
 ---
-
 {{% propertitle %}}
-
 10 January 2021
 _according to the Book of Common Prayer (p. 355ff.)_
 

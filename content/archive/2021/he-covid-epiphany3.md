@@ -1,10 +1,9 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 3, Covid-tide)
 date: 2021-01-20
-proper: "epiphany3"
+proper: epiphany3
 ---
-The Third Sunday in Epiphany
-------------
+{{% propertitle %}}
 24  January 2021
 _according to the Book of Common Prayer (p. 355ff.)_
 

@@ -1,9 +1,9 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 2, Covid-tide)
 date: 2021-01-14
+proper: epiphany2
 ---
-The Second Sunday in Epiphany
-------------
+{{% propertitle %}}
 17  January 2021
 _according to the Book of Common Prayer (p. 355ff.)_
 
