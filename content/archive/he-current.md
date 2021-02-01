@@ -2,27 +2,12 @@
 title: Holy Eucharist, Rite II (Epiphany 4, Covid-tide)
 date: 2021-01-26
 proper: epiphany4
+liturgydate: 2021-01-31
+bcppage: 355ff.
 ---
-{{% propertitle %}}
-31  January 2021
-_according to the Book of Common Prayer (p. 355ff.)_
-
-{{% preparing-covid %}}
-
--------------
-
-## We Gather in God’s Name
-{{% greeting-blessedbegod %}}
-
-{{% collect-purity %}}
-
-{{% gloriaexcelsis %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect %}}
-
+{{% stt/2021/preparing-covid %}}
+---
+{{% stt/2021/epiphany/he/wegather %}}
 {{% rubric-sit %}}
 ## We Hear God’s Word
 **The First Lesson**
@@ -112,26 +97,7 @@ Deacon:
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
-## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% nicenecreed %}}
-
-### The Prayers of the People
-Today the response to the prompt, “Lord in your mercy” is, **“Hear our prayer.”**
-##### Silence
-##### The Celebrant adds a concluding Collect.
-
-{{% confession %}}
-
-{{% rubric-stand %}}
-
-##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% peace %}}
-
-{{% rubric-sit %}}
-
-### The Announcements
+{{% stt/2021/epiphany/he/werespond %}}
 
 ## We Offer Ourselves to God
 

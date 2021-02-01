@@ -10,7 +10,7 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 
 -----------
 
-{{% preparing-covid %}}
+{{% stt/2021/preparing-covid %}}
 
 -------------
 

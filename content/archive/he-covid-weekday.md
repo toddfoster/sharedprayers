@@ -10,7 +10,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 -----------
 
-{{% preparing-covid %}}
+{{% stt/2021/preparing-covid %}}
 
 -------------
 

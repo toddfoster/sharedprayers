@@ -1,5 +1,5 @@
 ### The Peace
-Presider
+Presider:
 > The peace of the Lord be always with you.
 
 **People:**

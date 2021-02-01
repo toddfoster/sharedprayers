@@ -6,26 +6,32 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 - Add liturgies under content. Try to be tidy (organize by community, by year). Use `hugo server` to preview.
 - Run `./makeqrcodes` in root directory to automatically generate QR codes for every page.
 - Run hugo to build static pages
-- Push to git hub to deploy
+- Push to [github](https://github.com/toddfoster/sharedprayers) to deploy
+
+# Conventions
+- he/yyyy/sss/he/werespond template takes two optional arguments for the call/response of the prayers of the people. Default is "Lord in your mercy" "hear our prayer."
 
 # Tasks
-- ~~propercollect~~
-- ~~propertitle~~
-- ~~Use "single" page templates to include QR code?~~
-- ~~Use "single" template to include optional headers~~
-   + title (read in from file using named proper)
-   + liturgydate
-   + bcppage
-- Translate liturgydate to my preferred form
+- x propercollect
+- x propertitle
+- x Use "single" page templates to include QR code?
+- x Use "single" template to include optional headers
+    + x title (read in from file using named proper)
+    + x liturgydate
+    + x bcppage
+- x Translate liturgydate to my preferred form
 - Tighten up he-covid to minimize manual bits: he-covid-epiphany, he-covid-lent
-- Create omnibus shortcodes (nesting shortcodes doesn't seem to work) to go between hymns, scriptures
-  - wegather
-  - werespond (with parameter for custom generic/custom PoP response?)
-  - greatthanksgiving-a
-  - wereceive
-  - dismissal
-- Optionally imbed hymns in the shortcodes?
-- Share these prayers as part of a page template?
+- Create omnibus shortcodes (nesting shortcodes doesn't seem to work) to go between hymns, scriptures. Or maybe just lots of hierarchies of shortcodes built for each year/season: stt/2021/he/wegather/epiphany.
+    - wegather
+    - werespond (with parameter for custom generic/custom PoP response?)
+    - greatthanksgiving-a
+    - wereceive
+    - dismissal
+- x Share these prayers as part of a page template?
+- Scriptures as links to oremus
+- Optionally embed hymns in the shortcodes?
+
+# Maybe/Someday
 - properpreface (maybe?)
 - Provide scriptures in manner similar to collects
 - Allow SharedPrayers to be customized for different groups
