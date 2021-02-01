@@ -2,8 +2,8 @@
 title: Holy Eucharist, Rite II (Epiphany 2, Covid-tide)
 date: 2021-01-14
 proper: epiphany2
-liturgydate: "17 January 2021"
-bcppage: "355ff."
+liturgydate: 2021-01-17
+bcppage: 355ff.
 ---
 ## Preparing for the Liturgy
 
