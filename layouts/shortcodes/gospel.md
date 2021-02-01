@@ -10,8 +10,14 @@ Deacon:
 > **Glory to you, Lord Christ.**
 
 Deacon:
-
+{{ if gt (len .Inner) 0}}
 {{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
+{{ else }}
+{{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" (.Get 0) }}
+{{ $url := replace $url " " "%20" }}
+{{ $ref := printf "[%s](%s)" (.Get 0) $url }}
+> _This reading can be found at {{ $ref }}_
+{{end}}
 
 Deacon:
 > The Gospel of the Lord.
