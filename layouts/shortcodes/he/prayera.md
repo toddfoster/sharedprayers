@@ -1,4 +1,4 @@
-{{ readFile  "layouts/shortcodes/rubric-stand.md" }}
+##### The people stand as able.
 
 ## The Great Thanksgiving: Eucharistic Prayer A
 Presider:

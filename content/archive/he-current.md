@@ -99,47 +99,8 @@ Deacon:
 
 {{% stt/2021/epiphany/he/werespond %}}
 
-## We Offer Ourselves to God
+{{% stt/2021/epiphany/he/weoffer "hymns/h-493" %}}
 
-##### The altar is prepared
-
-##### At outdoor liturgies, an offertory may be sung:
-
-{{% hymns/h-493 %}}
-
-{{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
-
-### The Breaking of the Bread
-Presider:
-> Alleluia. Christ our Passover is sacrificed for us.
-
-**People:**
-> **Therefore let us keep the feast. Alleluia.**
-
-Presider:
-> The Gifts of God for the People of God.
-
-## We Receive the Gift of God
-{{% he/covid-communion %}}
-
-{{% postcommunion-eternal %}}
-
-### The Blessing
-
-##### The Processional Hymn will only be sung at liturgies meeting outdoors.
-### Processional Hymn
-
-{{% hymns/h-536 %}}
-### The Dismissal
-Deacon:
-> Go in peace to love and serve the Lord.
-
-**People:**
-> **Thanks be to God.**
-
-_In order to minimize the possibility of infecting others,
-please exit the campus immediately._
+{{% stt/2021/epiphany/he/wereceive "hymns/h-536" %}}
 
 {{% nrsv %}}
