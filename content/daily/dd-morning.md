@@ -7,10 +7,6 @@ _according to the Book of Common Prayer (p. 137)_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ## From Psalm 51
 
 > Open my lips, O Lord, *

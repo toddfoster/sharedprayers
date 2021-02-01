@@ -10,10 +10,6 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ##### The Officiant begins the service with a sentence of Scripture.
 
 > Yours is the day, O God, yours also the night; you established the moon and the sun. You fixed all the boundaries of the earth; you made both summer and winter. _(Psalm 74:15, 16)_

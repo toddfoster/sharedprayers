@@ -6,12 +6,6 @@ aliases: [/archive/he-pentecost-covid-weekday, /archive/he-pentecost-covid-weekd
 Holy Eucharist
 _for weekdays during Covid-tide_
 _according to the Book of Common Prayer (p. 355ff.)_
-
-
-------------
-
-{{< sharetheseprayers >}}
-
 [The lessons for weekdays will normally correspond to the remembrance of a particular saint.](https://lectionarypage.net/CalndrsIndexes/TxtIndexLFF.html)
 
 -----------

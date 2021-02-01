@@ -5,10 +5,6 @@ date: 2020-04-02
 _according to the Book of Common Prayer (p. 285ff.)
 11 April 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html)
 
 -----------

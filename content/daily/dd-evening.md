@@ -7,10 +7,6 @@ _according to the Book of Common Prayer (p. 139)_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ##### This devotion may be used before or after the evening meal.
 
 > O gracious light,

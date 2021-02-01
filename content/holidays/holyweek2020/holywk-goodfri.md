@@ -5,10 +5,6 @@ date: 2020-04-02
 _according to the Book of Common Prayer (p. 276ff.)
 10 April 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/GoodFri_RCL.html)
 
 -----------

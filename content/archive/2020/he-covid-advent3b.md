@@ -8,10 +8,6 @@ The Third Sunday in Advent
 13 December 2020
 _according to the Book of Common Prayer (p. 355ff.)_
 
-{{< sharetheseprayers >}}
-
------------
-
 ## Preparing for the Liturgy
 
 During this season of coronavirus infections, please demonstrate your love for your friends and neighbors by:

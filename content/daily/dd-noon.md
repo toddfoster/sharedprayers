@@ -5,10 +5,6 @@ weight: 502
 ---
 _according to the Book of Common Prayer (p. 138)_
 
-------------
-
-{{< sharetheseprayers >}}
-
 -----------
 
 ## From Psalm 113

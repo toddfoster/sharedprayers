@@ -10,10 +10,6 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ##### The Officiant begins the service with a sentence of Scripture.
 
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_

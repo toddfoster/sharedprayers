@@ -11,7 +11,21 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 # Tasks
 - ~~propercollect~~
 - ~~propertitle~~
+- ~~Use "single" page templates to include QR code?~~
+- ~~Use "single" template to include optional headers~~
+   + title (read in from file using named proper)
+   + liturgydate
+   + bcppage
+- Translate liturgydate to my preferred form
 - Tighten up he-covid to minimize manual bits: he-covid-epiphany, he-covid-lent
+- Create omnibus shortcodes (nesting shortcodes doesn't seem to work) to go between hymns, scriptures
+  - wegather
+  - werespond (with parameter for custom generic/custom PoP response?)
+  - greatthanksgiving-a
+  - wereceive
+  - dismissal
+- Optionally imbed hymns in the shortcodes?
+- Share these prayers as part of a page template?
 - properpreface (maybe?)
 - Provide scriptures in manner similar to collects
 - Allow SharedPrayers to be customized for different groups

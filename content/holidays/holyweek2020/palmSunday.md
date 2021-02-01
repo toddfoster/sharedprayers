@@ -5,10 +5,6 @@ date: 2020-03-27T16:59:14-04:00
 _according to the Book of Common Prayer (p. 270)
 5 April 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
 
 -----------

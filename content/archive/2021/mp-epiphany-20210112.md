@@ -7,11 +7,6 @@ _according to the Book of Common Prayer (p. 75ff.)_
 [Find the lessons for today using the calendar here](http://www.satucket.com/lectionary/1epiph1.htm#Tuesday)
 
 ------------
-
-{{< sharetheseprayers >}}
-
------------
-
 ##### The Officiant begins the service with a sentence of Scripture.
 
 > I will give you as a light to the nations, that my salvation may reach to the end of the earth. _(Isaiah 49:6b)_

@@ -5,10 +5,6 @@ weight: 504
 ---
 _according to the Book of Common Prayer (p. 140)_
 
-------------
-
-{{< sharetheseprayers >}}
-
 -----------
 
 

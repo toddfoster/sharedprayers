@@ -6,11 +6,6 @@ Holy Eucharist
 _for a Sunday or other Major Feast after Pentecost during Covid-tide_
 _according to the Book of Common Prayer (p. 355ff.)_
 
-
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to find the lessons for this liturgy.](https://lectionarypage.net)
 _At St. Thomas' in 2020, we are using "Track A" or the "Semi-continuous" track of the lectionary._
 

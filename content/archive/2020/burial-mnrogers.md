@@ -11,10 +11,6 @@ Glassboro, NJ_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ## We Gather in God’s Name
 {{% burial-iamresurrection %}}
 

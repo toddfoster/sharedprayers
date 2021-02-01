@@ -5,10 +5,6 @@ date: 2020-03-27T21:30:00-04:00
 _according to the Book of Common Prayer (p. 115)
 Monday, 6 April 2020_
 
------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
 
 -----------

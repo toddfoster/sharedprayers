@@ -6,10 +6,6 @@ _The Feast of the Ascension_
 _according to the Book of Common Prayer (p. 355)
 21 May 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Easter/AAscension_RCL.html)
 
 -----------

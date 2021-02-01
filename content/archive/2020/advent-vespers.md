@@ -14,10 +14,6 @@ The lessons used for each night may be found here:
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ##### The church is dark, or partially so, when the service is to begin.
 
 ##### All stand, and the Officiant greets the people with these words

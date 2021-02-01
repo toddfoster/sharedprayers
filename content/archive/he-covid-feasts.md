@@ -6,11 +6,6 @@ Holy Eucharist
 _for Sundays and Major Feasts during Covid-tide_
 _according to the Book of Common Prayer (p. 355ff.)_
 
-
-------------
-
-{{< sharetheseprayers >}}
-
 The lessons can often be found at [lectionarypage.net](https://lectionarypage.net/).
 
 -----------

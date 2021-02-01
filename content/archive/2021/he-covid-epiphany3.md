@@ -7,10 +7,6 @@ proper: epiphany3
 24  January 2021
 _according to the Book of Common Prayer (p. 355ff.)_
 
-{{< sharetheseprayers >}}
-
------------
-
 {{% preparing-covid %}}
 
 -------------

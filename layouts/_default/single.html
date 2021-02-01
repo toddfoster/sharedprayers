@@ -1,0 +1,24 @@
+{{ define "main" -}}
+<main class="main layout__main">
+<article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
+<header>
+<h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
+{{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
+{{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
+</header>
+<div class="content">
+  <p>{{ if .Params.proper | default false }} {{ readFile (path.Join "layouts/shortcodes/proper/title" .Params.proper) }}<br />{{ end -}}
+    {{ if .Params.liturgydate | default false }} {{ .Params.liturgydate }}<br />{{ end -}}
+    {{ if.Params.bcppage | default false }}<em>according to the Book of Common Prayer (p. {{ .Params.bcppage }})</em>{{ end -}}
+  </p>
+  <h2 id="share-these-prayers"> Share These Prayers</h2>
+<img src="{{ printf "/images/qr/%s.png" ( replace ( strings.TrimSuffix ".md" .Page.File ) "_" "" ) }}" alt="{{ .Page.Permalink }}" width="200" /><br />
+<p>Invite someone to scan this QR code to pray with you.</p>
+<hr />
+{{ .Content }}
+
+{{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
+</div>
+</article>
+</main>
+{{ end }}

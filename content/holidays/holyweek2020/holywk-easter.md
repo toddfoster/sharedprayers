@@ -6,10 +6,6 @@ _The Sunday of the Resurrection_
 _according to the Book of Common Prayer (p. 355)
 12 April 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
 
 -----------

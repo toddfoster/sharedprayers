@@ -9,10 +9,6 @@ _according to the Book of Common Prayer (p. 78ff.)_
 
 ------------
 
-{{< sharetheseprayers >}}
-
------------
-
 ##### The Officiant begins the service with a sentence of Scripture.
 
 > Grace to you and peace from God our Father and the Lord Jesus Christ. _(Philippians 1:2)_

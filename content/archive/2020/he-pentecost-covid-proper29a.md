@@ -9,10 +9,6 @@ Christ the King
 _according to the Book of Common Prayer (p. 355ff.)_
 _and including The Ingathering of Pledges_
 
-{{< sharetheseprayers >}}
-
------------
-
 ## Preparing for the Liturgy
 
 During this season of coronavirus infections, please demonstrate your love for your friends and neighbors by:

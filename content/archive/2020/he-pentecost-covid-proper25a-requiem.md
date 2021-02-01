@@ -10,10 +10,6 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 _With a requiem Eucharist (preface and post-communion prayer) in remembrance of our sister Lois Robinson, died 20 October 2020._
 
-{{< sharetheseprayers >}}
-
------------
-
 ## Preparing for the Liturgy
 
 During this season of coronavirus infections, please demonstrate your love for your friends and neighbors by:

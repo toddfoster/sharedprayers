@@ -7,10 +7,6 @@ _(The First Sunday after Pentecost)_
 _according to the Book of Common Prayer (p. 355)
 5 June 2020_
 
-------------
-
-{{< sharetheseprayers >}}
-
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearA_RCL/Pentecost/ATrinity_RCL.html)
 
 -----------
