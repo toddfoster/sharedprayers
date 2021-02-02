@@ -33,11 +33,13 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 - Lessons (two parameters: first/second and reference)
     - x automatically provide appropriate introduction to reading
 	- x if lesson is not provided as an inner, provide a link to oremus
+	- add a blank line between paragraphs
 	- provide actual scriptures for HE readings
 	- provide actual scriptures for Office readings
 - Gospels
     - x automatically provide introduction to reading (easier!)
 	- x if lesson not provided as an inner, provide link to oremus
+	- add a blank line between paragraphs
 	- provide actual scriptures for HE readings
 	- provide actual scriptures for Office readings
 - Psalms
