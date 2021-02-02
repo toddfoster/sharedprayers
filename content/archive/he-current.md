@@ -16,35 +16,7 @@ Moses said: The Lord your God will raise up for you a prophet like me from among
 Then the Lord replied to me: “They are right in what they have said. I will raise up for them a prophet like you from among their own people; I will put my words in the mouth of the prophet, who shall speak to them everything that I command. Anyone who does not heed the words that the prophet shall speak in my name, I myself will hold accountable. But any prophet who speaks in the name of other gods, or who presumes to speak in my name a word that I have not commanded the prophet to speak—that prophet shall die.”
 {{% /lesson %}}
 
-**Psalm** 111
-_Confitebor tibi_
-
-> 1 Hallelujah! I will give thanks to the Lord with my whole heart, *
-in the assembly of the upright, in the congregation.
-> **2 Great are the deeds of the Lord! *
-they are studied by all who delight in them.**
-
-> 3 His work is full of majesty and splendor, *
-and his righteousness endures for ever.
-> **4 He makes his marvelous works to be remembered; *
-the Lord is gracious and full of compassion.**
-
-> 5 He gives food to those who fear him; *
-he is ever mindful of his covenant.
-> **6 He has shown his people the power of his works *
-in giving them the lands of the nations.**
-
-> 7 The works of his hands are faithfulness and justice; *
-all his commandments are sure.
-> **8 They stand fast for ever and ever, *
-because they are done in truth and equity.**
-
-> 9 He sent redemption to his people;
-	he commanded his covenant for ever; *
-holy and awesome is his Name.
-> **10 The fear of the Lord is the beginning of wisdom; *
-those who act accordingly have a good understanding;
-	his praise endures for ever.**
+{{% psalm "111" /%}}
 
 {{% lesson "Second"  "1 Corinthians 8:1-13" %}}
 Now concerning food sacrificed to idols: we know that “all of us possess knowledge.” Knowledge puffs up, but love builds up. Anyone who claims to know something does not yet have the necessary knowledge; but anyone who loves God is known by him.
