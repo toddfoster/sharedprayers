@@ -20,16 +20,31 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
     + x liturgydate
     + x bcppage
 - x Translate liturgydate to my preferred form
-- Tighten up he-covid to minimize manual bits: he-covid-epiphany, he-covid-lent
-- Create omnibus shortcodes (nesting shortcodes doesn't seem to work) to go between hymns, scriptures. Or maybe just lots of hierarchies of shortcodes built for each year/season: stt/2021/he/wegather/epiphany.
-    - wegather
-    - werespond (with parameter for custom generic/custom PoP response?)
-    - greatthanksgiving-a
-    - wereceive
-    - dismissal
+- x Tighten up he-covid to minimize manual bits: he-covid-epiphany, he-covid-lent
+- x Create omnibus shortcodes (nesting shortcodes doesn't seem to work) to go between hymns, scriptures. Or maybe just lots of hierarchies of shortcodes built for each year/season: stt/2021/he/wegather/epiphany.
+    - x wegather
+    - x werespond (with parameter for custom generic/custom PoP response?)
+    - x greatthanksgiving-a
+    - x wereceive
+    - x dismissal
 - x Share these prayers as part of a page template?
-- Scriptures as links to oremus
-- Optionally embed hymns in the shortcodes?
+- x Scriptures as links to oremus
+- x Optionally embed hymns in the shortcodes?
+- Lessons (two parameters: first/second and reference)
+    - x automatically provide appropriate introduction to reading
+	- x if lesson is not provided as an inner, provide a link to oremus
+	- provide actual scriptures for HE readings
+	- provide actual scriptures for Office readings
+- Gospels
+    - x automatically provide introduction to reading (easier!)
+	- x if lesson not provided as an inner, provide link to oremus
+	- provide actual scriptures for HE readings
+	- provide actual scriptures for Office readings
+- Psalms
+    - x Encode psalms for responsive reading
+	- x automatically provide Psalm if not in Inner
+	- provide partial Psalms for HE readings
+    - parse out multiple Psalms for office readings
 
 # Maybe/Someday
 - properpreface (maybe?)
