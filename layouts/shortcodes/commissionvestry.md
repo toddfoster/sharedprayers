@@ -3,7 +3,7 @@ _Presenter:_
 > I present to you these persons to be admitted to the ministry of Wardens and Members of the Vestry in this congregation.
 
 _Rector:_
-> Brothers and Sisters in Christ Jesus, we are all baptized by the one Spirit into one Body and given gifts for a variety of ministries for the common good.  Our purpose is to commission these persons in the name of God and this congregation to the special ministries to which they are called. Are these persons prepared by a commitment to Christ as Lord, by regular attendance and by the knowledge of their duties, to exercise their ministry to the honor of God and the well-being of (name of parish) and the Diocese of New Jersey?
+> Brothers and Sisters in Christ Jesus, we are all baptized by the one Spirit into one Body and given gifts for a variety of ministries for the common good.  Our purpose is to commission these persons in the name of God and this congregation to the special ministries to which they are called. Are these persons prepared by a commitment to Christ as Lord, by regular attendance and by the knowledge of their duties, to exercise their ministry to the honor of God and the well-being of St. Thomas' and the Diocese of New Jersey?
 
 _Presenter:_
 > I believe they are.
