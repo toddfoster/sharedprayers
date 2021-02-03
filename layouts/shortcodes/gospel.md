@@ -11,7 +11,7 @@ Deacon:
 
 Deacon:
 {{ if gt (len .Inner) 0}}
-{{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
+{{ .Inner | replaceRE "\n" "\n\n> " | safeHTML }}
 {{ else }}
 {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" (.Get 0) }}
 {{ $url := replace $url " " "%20" }}
