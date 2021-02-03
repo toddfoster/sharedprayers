@@ -12,13 +12,13 @@ _Rector:_
 > You have been called to a ministry in this congregation. Will you, as long as you are engaged in this work, perform it with diligence?
 
 _Wardens and Members of the Vestry:_
-> **I will, with God’s help.**
+> I will, with God’s help.
 
 _Rector:_
 > Will you faithfully and reverently execute the duties of your ministry to the honor of God, and the benefit of the members of this congregation?
 
 _Wardens and Members of the Vestry:_
-> **I will, with God’s help.**
+> I will, with God’s help.
 
 _Rector:_
 > Let us pray.
