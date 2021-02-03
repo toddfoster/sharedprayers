@@ -111,9 +111,9 @@ That evening, at sundown, they brought to him all who were sick or possessed wit
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
-{{% commissionvestry %}}
-{{% birthdaysanniversaries %}}
 {{% stt/2021/epiphany/he/werespond %}}
+{{% commissionvestry %}}
+{{% birthdaysanniversaries "February"%}}
 {{% stt/2021/epiphany/he/weoffer "hymns/levas-189" %}}
 {{% stt/2021/epiphany/he/wereceive "hymns/levas-1" %}}
 {{% nrsv %}}
