@@ -3,34 +3,18 @@ title: Daily
 weight: 50
 ---
 --------
+### The Daily Office
+* [Noonday Prayer](noonday)
+    * [10am](noonday10), [Noon](noonday12), [2pm](noonday14)
+* [Compline](compline)
+    * [Monday](compline1), [Tuesday](compline2), [Wednesday](compline3), [Thursday](compline4), [Friday](compline3), [Saturday](complinesat), [Sunday](compline4)
+
+
 ### Daily Devotions for Individuals and Families
 - [In the Morning](dd-morning)
 - [At Noon](dd-noon)
 - [In the Early Evening](dd-evening)
 - [At the Close of Day](dd-night)
-
-### Paths through the Daily Office
-
-* Monday
-  * [Compline 1](compline1)
-* Tuesday
-  * [Compline 2](compline2)
-* Wednesday
-  * [Compline 3](compline3)
-* Thursday
-	* [Compline 4](compline4)
-* Friday
-  * [Compline 3](compline3)
-* Saturday
-	* [Compline for Saturday](complinesat)
-* Sunday
-	* [Compline 4](compline4)
-
-
-### Complete Offices
-_as found in the Book of Common Prayer_
-
-* [Compline (BCP 127ff.)](compline)
 
 --------
 ### Notes
