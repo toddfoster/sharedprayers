@@ -70,8 +70,8 @@ _Then follows_
 > **R.  Hide us under the shadow of your wings.**
 
 {{% lordhavemercy %}}
-
 {{% office/compline/lordsprayer2-shorter %}}
+{{% office/compline/lordhearourprayer %}}
 
 _Officiant_
 > Lord, hear our prayer;

@@ -66,17 +66,8 @@ _Then follows_
 > **R.  Hide us under the shadow of your wings.**
 
 {{% lordhavemercy %}}
-
 {{% office/compline/lordsprayer2-shorter %}}
-
-_Officiant_
-> Lord, hear our prayer;
-
-**People**
-> **And let our cry come to you.**
-
-_Officiant_
-> Let us pray.
+{{% office/compline/lordhearourprayer %}}
 
 _Officiant_
 > Be our light in the darkness, O Lord, and in your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ.  **Amen.**
