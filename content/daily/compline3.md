@@ -1,5 +1,5 @@
 ---
-title: An Order for Compline (1)
+title: An Order for Compline (3)
 date: 2021-02-03
 bcppage: 127ff.
 ---
@@ -48,11 +48,14 @@ _Officiant_ and **People**
 *Except in Lent, add*
 > **Alleluia.**
 
-{{% psalm "4" /%}}
+{{% psalm "9" /%}}
 {{% gloriapatri %}}
 
 _A lesson is read_
-> Lord, you are in the midst of us, and we are called by your Name:  Do not forsake us, O Lord our God.  _Jeremiah 14:9,22_
+> May the God of peace, who brought again from the dead our Lord Jesus, and great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in you that which is pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever.  _Hebrews 13:20-21_
+
+**People**
+> **Thanks be to God.**
 
 **People**
 > **Thanks be to God.**
@@ -60,6 +63,7 @@ _A lesson is read_
 _A hymn suitable for the evening may be sung._
 
 _Then follows_
+
 > V.  Into your hands, O Lord, I commend my spirit;
 > **R.  For you have redeemed me, O Lord, O God of truth.**
 > V.  Keep us, O Lord, as the apple of your eye;
@@ -90,8 +94,9 @@ _Officiant_
 _Officiant_
 > Let us pray.
 
-_Officiant_
-> Be our light in the darkness, O Lord, and in your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ.  **Amen.**
+_The Officiant then says one of the following Collects_
+
+> Look down, O Lord, from your heavenly throne, and illumine this night with your celestial brightness; that by night as by day your people may glorify your holy Name; through Jesus Christ our Lord.  **Amen.**
 
 > Keep watch, dear Lord, with those who work, or watch, or
 weep this night, and give your angels charge over those who
@@ -103,8 +108,7 @@ _Silence may be kept, and free intercessions and thanksgivings may be offered._
 
 _The service concludes with the Song of Simeon with this Antiphon, which is sung or said by all_
 
-> **Guide us waking, O Lord, and guard us sleeping;
-that awake we may watch with Christ, and asleep we may rest in peace.**
+> **Guide us waking, O Lord, and guard us sleeping; that awake we may watch with Christ, and asleep we may rest in peace.**
 
 _In Easter Season, add_ **Alleluia, alleluia, alleluia.**
 
@@ -124,6 +128,7 @@ _In Easter Season, add_ **Alleluia, alleluia, alleluia.**
 that awake we may watch with Christ, and asleep we may rest in peace.**
 
 _In Easter Season, add_  **Alleluia, alleluia, alleluia.**
+
 
 _Officiant_
 > Let us bless the Lord.

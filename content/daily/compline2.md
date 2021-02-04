@@ -3,9 +3,6 @@ title: An Order for Compline (2)
 date: 2021-02-03
 bcppage: 127ff.
 ---
-
-<An Order for Compline>
-
 *The Officiant begins*
 > The Lord Almighty grant us a peaceful night and a perfect end.
 
@@ -51,14 +48,10 @@ _Officiant_ and **People**
 *Except in Lent, add*
 > **Alleluia.**
 
-_One or more of the following Psalms are sung or said.  Other suitable selections may be substituted._
-
 {{% psalm "8" /%}}
-
-_At the end of the Psalms is sung or said_
-
 {{% gloriapatri %}}
 
+_A lesson is read_
 > Come to me, all who labor and are heavy-laden, and I will give you rest.  Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls.  For my yoke is easy, and my burden is light. _Matthew 11:28-30_
 
 **People**
@@ -97,8 +90,6 @@ _Officiant_
 
 _Officiant_
 > Let us pray.
-
-_The Officiant then says one of the following Collects_
 
 > Be present, O merciful God, and protect us through the hours of this night, so that we who are wearied by the changes and chances of this life may rest in your eternal changelessness; through Jesus Christ our Lord.  **Amen.**
 

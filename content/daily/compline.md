@@ -3,9 +3,6 @@ title: An Order for Compline
 date: 2021-02-03
 bcppage: 127ff.
 ---
-
-<An Order for Compline>
-
 *The Officiant begins*
 > The Lord Almighty grant us a peaceful night and a perfect end.
 
