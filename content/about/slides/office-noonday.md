@@ -1,5 +1,5 @@
 ---
-title: Noonday Prayer(12) Slides
+title: Noonday Prayer
 date: 2021-02-04
 layout: slide
 ---
@@ -21,8 +21,10 @@ _Officiant_
 > **O Lord, make haste to help us.**
 
 _Officiant and **People**_
-> **Glory to the Father, and to the Son, and to the Holy Spirit: *  
-as it was in the beginning, is now, and will be for ever. Amen.**
+> **Glory to the Father, and to the Son,   
+and to the Holy Spirit: *  
+as it was in the beginning, is now,   
+and will be for ever. Amen.**
 
 _Except in Lent, add_  **Alleluia.**
 
@@ -62,8 +64,10 @@ from this time forth for evermore.**
 
 
 
-> **Glory to the Father, and to the Son, and to the Holy Spirit: *  
-as it was in the beginning, is now, and will be for ever. Amen.**
+> **Glory to the Father, and to the Son,  
+and to the Holy Spirit: *  
+as it was in the beginning, is now,   
+and will be for ever. Amen.**
 
 ---
 class: middle
