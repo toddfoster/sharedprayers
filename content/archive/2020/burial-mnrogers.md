@@ -12,7 +12,7 @@ Glassboro, NJ_
 ------------
 
 ## We Gather in God’s Name
-{{% burial-iamresurrection %}}
+{{% burial/iamresurrection %}}
 
 {{% letuspray %}}
 
@@ -35,13 +35,13 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-{{% burial-psalm23 %}}
+{{% burial/psalm23 %}}
 
 ### Homily -- The Rev. Todd Foster
 ##### Silence
 
 ## We Respond in Faith
-{{% burial-creed %}}
+{{% burial/creed %}}
 
 ## The Commital
 ##### All present are invited to cast earth upon the coffin while the commital is spoken:

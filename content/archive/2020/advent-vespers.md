@@ -83,7 +83,7 @@ Lector:
 
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 
-{{% apostlescreed %}}
+{{% office/apostlescreed %}}
 
 
 ##### The people stand or kneel

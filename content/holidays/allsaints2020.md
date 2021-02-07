@@ -234,7 +234,7 @@ Presider:
 Presider:
 > Let us join with those who are committing themselves to Christ and renew our own baptismal covenant.
 
-{{% baptismalcovenant %}}
+{{% he/baptismalcovenant %}}
 
 ### Prayers for the Candidates
 Presider:
@@ -370,7 +370,7 @@ and share with us in his eternal priesthood.**
 
 ## The Announcements
 
-{{% birthdaysanniversaries %}}
+{{% stt/birthdaysanniversaries %}}
 
 
 ## We Offer Ourselves to God

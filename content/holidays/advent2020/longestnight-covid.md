@@ -148,7 +148,7 @@ Deacon:
 {{% advent/litany-remembering %}}
 {{% advent/litany-remembering-instructions-covid %}}
 
-{{% apostlescreed %}}
+{{% office/apostlescreed %}}
 
 {{% advent/longestnight-pop %}}
 

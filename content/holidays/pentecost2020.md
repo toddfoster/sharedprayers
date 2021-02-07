@@ -145,7 +145,7 @@ Deacon:
 
 ## We Respond in Faith
 
-{{% baptismalcovenant %}}
+{{% he/baptismalcovenant %}}
 
 ### The Prayers of the People
 Deacon:

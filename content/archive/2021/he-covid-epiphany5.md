@@ -113,7 +113,7 @@ That evening, at sundown, they brought to him all who were sick or possessed wit
 
 {{% stt/2021/epiphany/he/werespond %}}
 {{% commissionvestry %}}
-{{% birthdaysanniversaries "February"%}}
+{{% stt/birthdaysanniversaries "February"%}}
 {{% stt/2021/epiphany/he/weoffer "hymns/levas-189" %}}
 {{% stt/2021/epiphany/he/wereceive "hymns/levas-1" %}}
 {{% nrsv %}}
