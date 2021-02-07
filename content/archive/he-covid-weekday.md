@@ -21,7 +21,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 {{% he/collect-purity %}}
 
-{{% lordhavemercy %}}
+{{% he/lordhavemercy %}}
 
 
 ### Salutation and Collect

@@ -35,7 +35,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% he/collect-purity %}}
 
-{{% lordhavemercy %}}
+{{% he/lordhavemercy %}}
 
 ### Salutation and Collect
 {{% letuspray %}}

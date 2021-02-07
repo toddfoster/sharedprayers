@@ -28,7 +28,7 @@ _A meditation, silent or spoken, may follow._
 
 _The Officiant then begins the Prayers_
 
-{{% lordhavemercy %}}
+{{% he/lordhavemercy %}}
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 

@@ -22,7 +22,7 @@ _Except in Lent, add_  **Alleluia.**
 **People**
 > Thanks be to God.
 
-{{% lordhavemercy %}}
+{{% he/lordhavemercy %}}
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 

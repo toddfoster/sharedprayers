@@ -21,7 +21,7 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 
 {{% he/collect-purity %}}
 
-{{% lordhavemercy %}}
+{{% he/lordhavemercy %}}
 
 
 ### Salutation and Collect
