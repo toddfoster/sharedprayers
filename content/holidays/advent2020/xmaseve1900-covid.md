@@ -27,7 +27,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% advent/wreath5 %}}
 
 {{% rubric-stand %}}
-{{% greeting-blessedbegod %}}
+{{% he/greeting-blessedbegod %}}
 
 {{% he/collect-purity %}}
 

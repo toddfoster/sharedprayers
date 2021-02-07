@@ -1,5 +1,5 @@
 ## We Gather in God’s Name
-{{ "layouts/shortcodes/greeting-blessedbegod.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/greeting-blessedbegod.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/he/collect-purity.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/he/gloriaexcelsis.md" | readFile | safeHTML }}
 

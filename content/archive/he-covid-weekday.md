@@ -17,7 +17,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 ## We Gather in God’s Name
 
 {{% rubric-stand %}}
-{{% greeting-blessedbegod %}}
+{{% he/greeting-blessedbegod %}}
 
 {{% he/collect-purity %}}
 

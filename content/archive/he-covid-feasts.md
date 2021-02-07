@@ -17,7 +17,7 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 ## We Gather in God’s Name
 
 {{% rubric-stand %}}
-{{% greeting-blessedbegod %}}
+{{% he/greeting-blessedbegod %}}
 
 {{% he/collect-purity %}}
 
