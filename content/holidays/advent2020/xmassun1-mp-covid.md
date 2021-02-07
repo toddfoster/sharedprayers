@@ -116,7 +116,7 @@ Lector:
 > **Thanks be to God.**
 
 #### 8am Canticle:
-{{% mp/cant9-ecce %}}
+{{% canticles/9-ecce %}}
 
 #### 10.30am Carol: _Of the Father's love begotten_ (Hymnal 82)
 
@@ -139,7 +139,7 @@ Lector:
 > **Thanks be to God.**
 
 #### 8am Canticle:
-{{% cant21-tedeumlaudamus %}}
+{{% canticles/21-tedeumlaudamus %}}
 
 #### 10.30am Carol: _Hark! the herald angels_ (Hymnal 87)
 

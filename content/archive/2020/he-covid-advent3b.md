@@ -65,7 +65,7 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-{{% cant15-magnificat %}}
+{{% canticles/15-magnificat %}}
 
 **The Second Lesson**
 _1 Thessalonians 5:16-24_

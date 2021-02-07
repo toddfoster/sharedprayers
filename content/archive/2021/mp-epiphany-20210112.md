@@ -144,7 +144,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% mp/cant13-benedictuses %}}
+{{% canticles/13-benedictuses %}}
 
 ### The Second  Reading: _Ephesians 1.15--23_
 Lector:
@@ -160,7 +160,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% mp/cant18-dignuses %}}
+{{% canticles/18-dignuses %}}
 
 ### The Third  Reading: _Mark 1.14--28_
 

@@ -34,7 +34,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% cant16-benedictusdominus %}}
+{{% canticles/16-benedictusdominus %}}
 
 Lector:
 > A Reading from...
@@ -49,7 +49,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% cant21-tedeumlaudamus %}}
+{{% canticles/21-tedeumlaudamus %}}
 
 Lector:
 > A Reading from...
