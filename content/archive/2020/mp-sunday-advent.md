@@ -13,7 +13,7 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 > Watch, for you do not know when the master of the house will come, in the evening, or at midnight, or at cockcrow, or in the morning, lest he come suddenly and find you asleep. _(Mark 13:35, 36)_
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% office/mp/invitatoryintro %}}
 
@@ -107,7 +107,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

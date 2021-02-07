@@ -33,9 +33,9 @@ Officiant:
 
 ##### The following hymn is then given voice.
 
-{{% ep/phoshilaron %}}
+{{% office/ep/phoshilaron %}}
 
-{{% generic-office-psalms %}}
+{{% office/mp/psalter %}}
 
 ## The Lessons
 Lector:
@@ -98,7 +98,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% ep-suffragesb %}}
+{{% office/ep/suffragesb %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -113,7 +113,7 @@ _20. For the Sick (BCP 260)_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

@@ -16,7 +16,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 {{% he/collect-purity %}}
 
-{{% gloriaexcelsis %}}
+{{% he/gloriaexcelsis %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -117,7 +117,7 @@ Today the response to the prompt, “For God alone my soul in silence waits” i
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% rubric-stand %}}
 

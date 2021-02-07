@@ -49,7 +49,7 @@ _Officiant_ and **People**
 > **Alleluia.**
 
 {{% psalm "4" /%}}
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _A lesson is read_
 > Lord, you are in the midst of us, and we are called by your Name:  Do not forsake us, O Lord our God.  _Jeremiah 14:9,22_

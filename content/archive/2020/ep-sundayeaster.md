@@ -14,7 +14,7 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
 
-{{% ep-invitatorypsalter %}}
+{{% office/ep/invitatorypsalter %}}
 
 ## The Lessons
 Lector:
@@ -91,7 +91,7 @@ Officiant:
 > and the glory are yours,
 > now and for ever.  Amen**
 
-{{% ep-suffragesb %}}
+{{% office/ep/suffragesb %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -108,7 +108,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord. Alleluia, alleluia!

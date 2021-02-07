@@ -112,7 +112,7 @@ That evening, at sundown, they brought to him all who were sick or possessed wit
 ##### Silence follows the homily.
 
 {{% stt/2021/epiphany/he/werespond %}}
-{{% commissionvestry %}}
+{{% stt/commissionvestry %}}
 {{% stt/birthdaysanniversaries "February"%}}
 {{% stt/2021/epiphany/he/weoffer "hymns/levas-189" %}}
 {{% stt/2021/epiphany/he/wereceive "hymns/levas-1" %}}

@@ -184,7 +184,7 @@ Today the response to the prompt, “Restore us, O God of hosts;” is “**show
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% rubric-stand %}}
 

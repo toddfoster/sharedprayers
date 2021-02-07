@@ -69,7 +69,7 @@ his statutes and his judgments to Israel.**
 to them he has not revealed his judgments. Hallelujah!
 
 ##### All stand as able.
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 
 Glory to the Father, and to the Son, and to the Holy Spirit: *
@@ -201,7 +201,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 
 #### 10.30am Carol: _It came upon a midnight clear_ (Hymnal 89)

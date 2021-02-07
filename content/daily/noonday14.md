@@ -10,12 +10,12 @@ _Officiant_
 > **O Lord, make haste to help us.**
 
 _Officiant and **People**_
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _Except in Lent, add_  **Alleluia.**
 
 {{% psalm "126" /%}}
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 > From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of Hosts.  _Malachi 1:11_
 

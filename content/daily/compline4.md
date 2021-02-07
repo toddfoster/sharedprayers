@@ -49,7 +49,7 @@ _Officiant_ and **People**
 > **Alleluia.**
 
 {{% psalm"134" /%}}
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _A lesson is read_
 > Be sober, be watchful.  Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith.  _1 Peter 5:8-9a_

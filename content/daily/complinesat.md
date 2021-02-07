@@ -52,7 +52,7 @@ _One or more of the following Psalms are sung or said.  Other suitable selection
 
 {{% psalm "4" /%}}
 {{% psalm"134" /%}}
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _A lesson is read_
 > Be sober, be watchful.  Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith.  _1 Peter 5:8-9a_

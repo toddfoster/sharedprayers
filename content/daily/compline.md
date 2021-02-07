@@ -57,7 +57,7 @@ _One or more of the following Psalms are sung or said.  Other suitable selection
 
 _At the end of the Psalms is sung or said_
 
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _One of the following, or some other suitable passage of Scripture, is read_
 

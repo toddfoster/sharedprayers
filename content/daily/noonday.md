@@ -10,7 +10,7 @@ _Officiant_
 > **O Lord, make haste to help us.**
 
 _Officiant and **People**_
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _Except in Lent, add_  **Alleluia.**
 
@@ -48,7 +48,7 @@ _Lucerna pedibus meis_
 
 _At the end of the Psalms is sung or said_
 
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _One of the following, or some other suitable passage of Scripture, is read_
 

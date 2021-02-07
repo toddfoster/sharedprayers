@@ -14,9 +14,9 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 > Yours is the day, O God, yours also the night; you established the moon and the sun. You fixed all the boundaries of the earth; you made both summer and winter. _(Psalm 74:15, 16)_
 
-{{% confession %}}
+{{% office/confession %}}
 
-{{% ep-invitatorypsalter %}}
+{{% office/ep/invitatorypsalter %}}
 
 ## The Lessons
 Lector:
@@ -79,7 +79,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% ep-suffragesb %}}
+{{% office/ep/suffragesb %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -104,7 +104,7 @@ and all for your love's sake.  **Amen.**
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

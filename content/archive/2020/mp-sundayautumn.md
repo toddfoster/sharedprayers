@@ -13,7 +13,7 @@ _according to the Book of Common Prayer (p. 78ff.)_
 
 > Grace to you and peace from God our Father and the Lord Jesus Christ. _(Philippians 1:2)_
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% office/mp/invitatoryintro %}}
 
@@ -105,7 +105,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

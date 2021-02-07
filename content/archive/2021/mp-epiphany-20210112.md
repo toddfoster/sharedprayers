@@ -11,7 +11,7 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 > I will give you as a light to the nations, that my salvation may reach to the end of the earth. _(Isaiah 49:6b)_
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% office/mp/invitatoryintro %}}
 
@@ -217,7 +217,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% generalthanksgiving %}}
+{{% office/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

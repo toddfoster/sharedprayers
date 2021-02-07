@@ -9,7 +9,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 ## Preparing for the Liturgy
 
-{{% coronacovenant %}}
+{{% stt/2021/coronacovenant %}}
 
 ### About the Longest Night
 The **winter solstice** happens around 21 December every year. This is the longest night of the year, before the nights start getting shorter and the days longer. The Advent and Christmas seasons can feel like long, dark nights for those who find themselves out of step with the persistent and often artificial “cheer” of the season that assaults us from every side. The backdrop of traditions and cheeriness can remind us of our own losses and sadness. The added stresses of pandemic, politics, unrest, and visible injustice have added to our weight of sadness in 2020. The absence of the sun during this time of year doesn’t help either!

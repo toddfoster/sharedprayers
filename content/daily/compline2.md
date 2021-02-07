@@ -49,7 +49,7 @@ _Officiant_ and **People**
 > **Alleluia.**
 
 {{% psalm "8" /%}}
-{{% gloriapatri %}}
+{{% office/gloriapatri %}}
 
 _A lesson is read_
 > Come to me, all who labor and are heavy-laden, and I will give you rest.  Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls.  For my yoke is easy, and my burden is light. _Matthew 11:28-30_

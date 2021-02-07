@@ -27,7 +27,7 @@ Officiant:
 
 {{% he/collect-purity %}}
 
-{{% gloriaexcelsis %}}
+{{% he/gloriaexcelsis %}}
 
 
 

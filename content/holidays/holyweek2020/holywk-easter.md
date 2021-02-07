@@ -26,7 +26,7 @@ Officiant:
 
 {{% he/collect-purity %}}
 
-{{% gloriaexcelsis %}}
+{{% he/gloriaexcelsis %}}
 
 ### Salutation and Collect
 Officiant:

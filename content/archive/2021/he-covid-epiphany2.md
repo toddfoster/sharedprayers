@@ -26,7 +26,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% he/collect-purity %}}
 
-{{% gloriaexcelsis %}}
+{{% he/gloriaexcelsis %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -141,7 +141,7 @@ Today the response to the prompt, "Give us courage to say," is **“Speak, Lord,
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% confession %}}
+{{% office/confession %}}
 
 {{% rubric-stand %}}
 
