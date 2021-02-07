@@ -89,9 +89,9 @@ _Collect Proper to the Day_
 
 {{% office/ep/collect-forpresence %}}
 
-{{% collect-unemployed %}}
+{{% collects/30-unemployed %}}
 
-{{% collect-oppressed %}}
+{{% collects/36-oppressed %}}
 
 _A Prayer for Mission (BCP 124)_
 > Keep watch, dear Lord,

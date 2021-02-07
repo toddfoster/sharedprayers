@@ -25,7 +25,7 @@ Officiant:
 > **The Lord is risen indeed. Alleluia!**
 
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% gloriaexcelsis %}}
 

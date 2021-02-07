@@ -25,7 +25,7 @@ Officiant:
 **People:**
 > And blessed be God’s kingdom, now and for ever. Amen.
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% gloriaexcelsis %}}
 

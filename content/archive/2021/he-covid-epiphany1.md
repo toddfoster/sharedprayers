@@ -14,7 +14,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 ## We Gather in God’s Name
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% gloriaexcelsis %}}
 

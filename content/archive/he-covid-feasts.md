@@ -19,7 +19,7 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 {{% rubric-stand %}}
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% lordhavemercy %}}
 

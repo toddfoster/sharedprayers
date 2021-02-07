@@ -1,6 +1,6 @@
 ## We Gather in God’s Name
 {{ "layouts/shortcodes/greeting-blessedbegod.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/collect-purity.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/collect-purity.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/gloriaexcelsis.md" | readFile | safeHTML }}
 
 ### Salutation and Collect

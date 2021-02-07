@@ -25,7 +25,7 @@ The **Longest Night Mass** is intended to bring balance to our Advent and Christ
 {{% rubric-stand %}}
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 ##### There will be no singing tonight due to the dangers of the pandemic. You are invited to sit and to listen quietly and meditatively as the hymns are played.
 ### Hymn of Praise

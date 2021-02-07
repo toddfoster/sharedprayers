@@ -29,7 +29,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% rubric-stand %}}
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 ##### The Hymn will only be sung at liturgies meeting outdoors.
 ### Hymn of Praise

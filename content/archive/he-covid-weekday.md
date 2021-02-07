@@ -19,7 +19,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 {{% rubric-stand %}}
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% lordhavemercy %}}
 

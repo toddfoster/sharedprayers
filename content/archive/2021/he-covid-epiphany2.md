@@ -24,7 +24,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ## We Gather in God’s Name
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% gloriaexcelsis %}}
 

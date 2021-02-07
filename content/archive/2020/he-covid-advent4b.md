@@ -34,7 +34,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% greeting-blessedbegod %}}
 
-{{% collect-purity %}}
+{{% he/collect-purity %}}
 
 {{% lordhavemercy %}}
 
