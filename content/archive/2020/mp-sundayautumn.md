@@ -15,9 +15,17 @@ _according to the Book of Common Prayer (p. 78ff.)_
 
 {{% confession %}}
 
-{{% mp-venite %}}
+{{% office/mp/invitatoryintro %}}
 
-{{% mp-psalter %}}
+**All:**
+> **The earth is the Lord's for he made it: Come let us adore him.**
+
+{{% office/mp/venite %}}
+
+**All:**
+> **The earth is the Lord's for he made it: Come let us adore him.**
+
+{{% office/mp/psalter %}}
 
 
 ## The Lessons
@@ -81,7 +89,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% mp-suffragesa %}}
+{{% office/mp/suffragesa %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 

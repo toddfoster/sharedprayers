@@ -15,9 +15,19 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 {{% confession %}}
 
-{{% mp/venite-advent %}}
+{{% office/mp/invitatoryintro %}}
 
-{{% mp-psalter %}}
+**All:**
+> **Our King and Savior now draws near: Come let us adore him.**
+
+{{% office/mp/venite %}}
+
+**All:**
+> **Our King and Savior now draws near: Come let us adore him.**
+
+{{% office/mp/venite-advent %}}
+
+{{% office/mp/psalter %}}
 
 
 ## The Lessons
@@ -81,7 +91,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% mp-suffragesa %}}
+{{% office/mp/suffragesa %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 

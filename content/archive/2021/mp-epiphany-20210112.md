@@ -13,13 +13,13 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 {{% confession %}}
 
-{{% mp/invitatoryintro %}}
+{{% office/mp/invitatoryintro %}}
 
-{{% mp/antiphon-worshipthelord %}}
+{{% office/mp/antiphon-worshipthelord %}}
 
-{{% mp/venite %}}
+{{% office/mp/venite %}}
 
-{{% mp/antiphon-worshipthelord %}}
+{{% office/mp/antiphon-worshipthelord %}}
 
 ### Psalms 5, 6
 ##### The People are seated.
@@ -197,7 +197,7 @@ Officiant:
 
 {{% lordsprayer2 %}}
 
-{{% mp/suffragesb %}}
+{{% office/mp/suffragesb %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 

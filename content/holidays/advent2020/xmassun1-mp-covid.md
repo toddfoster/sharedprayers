@@ -27,13 +27,13 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 > Behold, I bring you good news of a great joy which will come to all the people; for to you is born this day in the city of David, a Savior, who is Christ the Lord. _(Luke 2:10, 11)_
 
-{{% mp/invitatoryintro %}}
+{{% office/mp/invitatoryintro %}}
 #### 8am Invitatory: _Jubilate_ (Psalm 100 -- BCP 80, 82)
 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**
 
-{{% mp/jubilate %}}
+{{% office/mp/jubilate %}}
 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**
@@ -183,7 +183,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% mp/suffragesb %}}
+{{% office/mp/suffragesb %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -196,7 +196,7 @@ _A Collect for Sundays_ (BCP 98)
 
 {{% collects/contemporary/20-ForTheSick-covid %}}
 
-{{% mp/mission1-unison %}}
+{{% office/mp/mission1-unison %}}
 
 ##### Here may be sung a hymn or anthem.
 
@@ -216,7 +216,7 @@ Officiant:
 **People:**
 > **Thanks be to God.**
 
-{{% mp/conclusion-thegrace %}}
+{{% office/mp/conclusion-thegrace %}}
 
 --------------
 
