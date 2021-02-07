@@ -99,7 +99,7 @@ _Collect Proper to the Day_
 
 {{% collect-mp-sundays %}}
 
-{{% collects/contemporary/20-ForTheSick %}}
+{{% collects/20-ForTheSick %}}
 
 {{% collect-mp-mission1 %}}
 

@@ -103,7 +103,7 @@ that we may know you as you are revealed in Scripture
 and the breaking of bread.
 Grant this for the sake of your love.  **Amen.**
 
-{{% collects/contemporary/20-ForTheSick %}}
+{{% collects/20-ForTheSick %}}
 
 _A Prayer for Mission (BCP 124)_
 > Keep watch, dear Lord,

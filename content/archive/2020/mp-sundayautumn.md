@@ -97,7 +97,7 @@ _Collect Proper to the Day_
 
 {{% collect-mp-sundays %}}
 
-{{% collect-21socialjustice %}}
+{{% collects/21-socialjustice %}}
 
 {{% collect-mp-mission1 %}}
 

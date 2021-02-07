@@ -205,11 +205,11 @@ _Collect Proper to the Day_
 
 {{% propercollect epiphany1 %}}
 
-{{% collects/contemporary/mp-forpeace %}}
+{{% collects/mp-forpeace %}}
 
-{{% collects/contemporary/20-ForTheSick-covid %}}
+{{% collects/20-ForTheSick-covid %}}
 
-{{% collects/contemporary/17-ForTheNation %}}
+{{% collects/17-ForTheNation %}}
 
 {{% collect-mp-mission1 %}}
 
