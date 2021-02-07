@@ -107,9 +107,9 @@ _Collect Proper to the Day_
 _20. For the Sick (BCP 260)_
 > Heavenly Father, giver of life and health: Comfort and relieve your sick servants, and give your power of healing to those who minister to their needs, remembering especially those who suffer from Covid-19, that they may be strengthened in their weakness and have confidence in your loving care; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.  **Amen.**
 
-{{% collects/ep-ForProtection %}}
+{{% office/ep/collect-forprotection %}}
 
-{{% collects/ep-OGodYouManifest %}}
+{{% office/ep/collect-ogodyoumanifest %}}
 
 ##### Intercessions and thanksgivings may follow.
 

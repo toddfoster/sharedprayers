@@ -85,34 +85,14 @@ Officiant:
 
 _Collect Proper to the Day_
 
-_A Collect for Sundays_
-> Lord God, whose Son our Savior Jesus Christ
-triumphed over the powers of death
-and prepared for us our place in the new Jerusalem:
-Grant that we,
-who have this day given thanks for his resurrection,
-may praise you in that City of which he is the light,
-and where he lives and reigns for ever and ever. **Amen.**
 
-_A Collect for the Presence of Christ_
-> Lord Jesus, stay with us,
-for evening is at hand and the day is past;
-be our companion in the way,
-kindle our hearts, and awaken hope,
-that we may know you as you are revealed in Scripture
-and the breaking of bread.
-Grant this for the sake of your love.  **Amen.**
+{{% office/ep/collect-sundays %}}
+
+{{% office/ep/collect-forpresence %}}
 
 {{% collects/21-socialjustice %}}
 
-_A Prayer for Mission (BCP 124)_
-> Keep watch, dear Lord,
-with those who work, or watch, or weep this night,
-and give your angels charge over those who sleep.
-Tend the sick, Lord Christ; give rest to the weary,
-bless the dying, soothe the suffering,
-pity the afflicted, shield the joyous;
-and all for your love's sake.  **Amen.**
+{{% office/ep/collect-keepwatch %}}
 
 ##### Here may be sung a hymn or anthem.
 

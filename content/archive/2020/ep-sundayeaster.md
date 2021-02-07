@@ -97,18 +97,12 @@ Officiant:
 
 _Collect Proper to the Day_
 
-_A Collect for Sundays_
-> O God, you make us glad with the weekly remembrance of
-the glorious resurrection of you Son our Lord:  Give us this
-day such blessing through our worship of you, that the week
-to come may be spent in your favor; through Jesus Christ our
-Lord.  **Amen.**
 
-_A Collect for the Presence of Christ_
-> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  **Amen.**
+{{% office/ep/collect-sundays %}}
 
-_A Prayer for Mission_
-> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  **Amen.**
+{{% office/ep/collect-forpresence %}}
+
+{{% office/ep/collect-keepwatch %}}
 
 ##### Here may be sung a hymn or anthem.
 

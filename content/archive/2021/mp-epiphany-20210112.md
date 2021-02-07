@@ -205,13 +205,13 @@ _Collect Proper to the Day_
 
 {{% propercollect epiphany1 %}}
 
-{{% collects/mp-forpeace %}}
+{{% office/mp/collect-forpeace %}}
 
 {{% collects/20-ForTheSick-covid %}}
 
 {{% collects/17-ForTheNation %}}
 
-{{% collect-mp-mission1 %}}
+{{% office/mp/collect-mission1 %}}
 
 ##### Here may be sung a hymn or anthem.
 

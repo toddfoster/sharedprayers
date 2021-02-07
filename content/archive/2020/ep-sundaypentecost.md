@@ -85,23 +85,9 @@ Officiant:
 
 _Collect Proper to the Day_
 
-_A Collect for Sundays_
-> Lord God, whose Son our Savior Jesus Christ
-triumphed over the powers of death
-and prepared for us our place in the new Jerusalem:
-Grant that we,
-who have this day given thanks for his resurrection,
-may praise you in that City of which he is the light,
-and where he lives and reigns for ever and ever. **Amen.**
+{{% office/ep/collect-sundays %}}
 
-_A Collect for the Presence of Christ_
-> Lord Jesus, stay with us,
-for evening is at hand and the day is past;
-be our companion in the way,
-kindle our hearts, and awaken hope,
-that we may know you as you are revealed in Scripture
-and the breaking of bread.
-Grant this for the sake of your love.  **Amen.**
+{{% office/ep/collect-forpresence %}}
 
 {{% collect-unemployed %}}
 

@@ -97,11 +97,11 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% collect-mp-sundays %}}
+{{% office/mp/collect-sundays %}}
 
 {{% collects/20-ForTheSick %}}
 
-{{% collect-mp-mission1 %}}
+{{% office/mp/collect-mission1 %}}
 
 ##### Here may be sung a hymn or anthem.
 
