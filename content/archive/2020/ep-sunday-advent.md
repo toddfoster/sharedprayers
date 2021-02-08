@@ -87,7 +87,7 @@ _Collect Proper to the Day_
 
 {{% office/ep/collect-sundays %}}
 
-{% office/ep/collect-forpresence %}
+{{% office/ep/collect-forpresence %}}
 
 {{% collects/20-ForTheSick %}}
 
