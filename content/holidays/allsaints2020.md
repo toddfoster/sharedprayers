@@ -28,7 +28,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% rubric-stand %}}
 {{% he/greeting-blessedbegod %}}
-{{% onebodyonespirit %}}
+{{% he/greeting-onebody %}}
 
 ### Salutation
 {{% letuspray %}}
@@ -364,7 +364,7 @@ proclaim his resurrection,
 and share with us in his eternal priesthood.**
 
 ##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% peace %}}
+{{% he/peace %}}
 
 {{% rubric-sit %}}
 
@@ -402,7 +402,7 @@ Presider:
 
 > Countless throngs of angels stand before you to serve you night and day; and, beholding the glory of your presence, they offer you unceasing praise. Joining with them, and giving voice to every creature under heaven, we acclaim you, and glorify your Name, as we sing,
 
-{{% sanctus %}}
+{{% he/sanctus %}}
 
 ##### The Presider continues:
 > We acclaim you, holy Lord, glorious in power. Your mighty works reveal your wisdom and love. You formed us in your own image, giving the whole world into our care, so that, in obedience to you, our Creator, we might rule and serve all your creatures. When our disobedience took us far from you, you did not abandon us to the power of death. In your mercy you came to our help, so that in seeking you we might find you. Again and again you called us into covenant with you, and through the prophets you taught us to hope for salvation.
@@ -478,11 +478,11 @@ If you do not wish to receive communion physically:
 1. Cross your arms over your chest. The presider will offer you a blessing instead, again without touching.
 2. You are invited to utter the _Prayer for Spiritual Communion_ while communion is being distributed.
 
-{{% spiritualcommunion %}}
+{{% he/spiritualcommunion %}}
 
 ##### If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)
 
-{{% postcommunion-eternal %}}
+{{% he/postcommunion-eternal %}}
 
 ### The Blessing
 

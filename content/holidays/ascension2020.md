@@ -113,7 +113,7 @@ Deacon:
 
 ## We Respond in Faith
 
-{{% nicenecreed %}}
+{{% he/nicenecreed %}}
 
 ### The Prayers of the People
 Deacon:
@@ -202,7 +202,7 @@ Presider:
 Officiant:
 > And now, as our Savior Christ has taught us, we are bold to say,
 
-{{% lordsprayer %}}
+{{% lordsprayer1 %}}
 
 ### The Blessing
 Officiant:

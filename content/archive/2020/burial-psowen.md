@@ -94,7 +94,7 @@ Officiant:
 > In sure and certain hope of the resurrection to eternal life through our Lord Jesus Christ, we commend to Almighty God our sister Pat, and we commit her body to the ground; earth to earth, ashes to ashes, dust to dust. The Lord bless her and keep her, the Lord make his face to shine upon her and be gracious to her, the Lord lift up his countenance upon her and give her peace. Amen.
 
 {{% letuspray %}}
-{{% lordsprayer %}}
+{{% lordsprayer1 %}}
 
 ##### Other prayers may be added.
 

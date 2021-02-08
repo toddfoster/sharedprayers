@@ -1,7 +1,6 @@
 ## We Receive the Gift of God
 {{ "layouts/shortcodes/he/covid-communion.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/postcommunion-eternal.md" | readFile | safeHTML }}
-{{/* postcommunion-eternal */}}
+{{ "layouts/shortcodes/he/postcommunion-eternal.md" | readFile | safeHTML }}
 
 ### The Blessing
 

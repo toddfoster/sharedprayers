@@ -112,7 +112,7 @@ Deacon:
 ## We Respond in Faith
 
 {{% rubric-stand %}}
-{{% nicenecreed %}}
+{{% he/nicenecreed %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “My soul proclaims the greatness of the Lord,” is “**my spirit rejoices in God my Savior!**”
@@ -125,7 +125,7 @@ Today the response to the prompt, “My soul proclaims the greatness of the Lord
 {{% rubric-stand %}}
 
 ##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% peace %}}
+{{% he/peace %}}
 
 {{% rubric-sit %}}
 
@@ -151,7 +151,7 @@ Presider:
 ## We Receive the Gift of God
 {{% he/covid-communion %}}
 
-{{% postcommunion-eternal %}}
+{{% he/postcommunion-eternal %}}
 
 ### The Blessing
 

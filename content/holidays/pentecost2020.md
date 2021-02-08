@@ -222,7 +222,7 @@ Officiant:
 Officiant:
 > And now, as our Savior Christ has taught us, we are bold to say,
 
-{{% lordsprayer %}}
+{{% lordsprayer1 %}}
 
 ### The Blessing
 Presider:

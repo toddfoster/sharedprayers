@@ -32,7 +32,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% magnificat %}}
+{{% office/ep/magnificat %}}
 
 Lector:
 > A Reading from...
@@ -47,7 +47,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% nunc %}}
+{{% office/ep/nunc %}}
 
 Lector:
 > A Reading from...

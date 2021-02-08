@@ -34,7 +34,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% he/collect-purity %}}
 
-{{% trishagion %}}
+{{% he/trishagion %}}
 
 
 ### Salutation and Collect
@@ -87,7 +87,7 @@ Deacon:
 ## We Respond in Faith
 
 {{% rubric-stand %}}
-{{% nicenecreed %}}
+{{% he/nicenecreed %}}
 
 ### The Prayers of the People
 Today the response to the Prayers of the People is, *Lord, have mercy.*
@@ -100,7 +100,7 @@ Today the response to the Prayers of the People is, *Lord, have mercy.*
 {{% rubric-stand %}}
 
 ##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% peace %}}
+{{% he/peace %}}
 
 {{% rubric-sit %}}
 
