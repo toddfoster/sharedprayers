@@ -30,23 +30,38 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 - x Share these prayers as part of a page template?
 - x Scriptures as links to oremus
 - x Optionally embed hymns in the shortcodes?
+- Stations of the cross slides / liturgy
+- Nested shortcode parameters via scratch or pipe?
 - Lessons (two parameters: first/second and reference)
     - x automatically provide appropriate introduction to reading
 	- x if lesson is not provided as an inner, provide a link to oremus
 	- add a blank line between paragraphs
+	- Provide references for HE readings
+	- Provide references for Office readings
 	- provide actual scriptures for HE readings
 	- provide actual scriptures for Office readings
 - Gospels
     - x automatically provide introduction to reading (easier!)
 	- x if lesson not provided as an inner, provide link to oremus
 	- add a blank line between paragraphs
+	- Provide references for readings
 	- provide actual scriptures for HE readings
-	- provide actual scriptures for Office readings
 - Psalms
     - x Encode psalms for responsive reading
 	- x automatically provide Psalm if not in Inner
+	- Provide references for HE readings
+	- Provide references for Office readings
 	- provide partial Psalms for HE readings
     - parse out multiple Psalms for office readings
+- x Slideshows
+    - Adopt styles from remark.js intro slideshow (e.g., columns, colors)
+- About
+    - Archives
+	- Slides
+ 	- Resources / Tools
+	- Custom
+	- Author
+	- BCP / TEC
 
 # Maybe/Someday
 - properpreface (maybe?)
