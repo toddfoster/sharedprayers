@@ -73,15 +73,6 @@ _Then follows_
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 
-_Officiant_
-> Lord, hear our prayer;
-
-**People**
-> **And let our cry come to you.**
-
-_Officiant_
-> Let us pray.
-
 > _A Collect for Saturdays_
 > We give thanks, O God, for revealing your Son Jesus Christ to us by the light of his resurrection:  Grant that as we sing your glory at the close of this day, our joy may abound in the morning as we celebrate the Paschal mystery; through Jesus Christ our Lord.  **Amen.**
 

@@ -70,15 +70,6 @@ _Then follows_
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 
-_Officiant_
-> Lord, hear our prayer;
-
-**People**
-> **And let our cry come to you.**
-
-_Officiant_
-> Let us pray.
-
 > Be present, O merciful God, and protect us through the hours of this night, so that we who are wearied by the changes and chances of this life may rest in your eternal changelessness; through Jesus Christ our Lord.  **Amen.**
 
 _Silence may be kept, and free intercessions and thanksgivings may be offered._

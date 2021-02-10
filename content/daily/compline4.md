@@ -70,15 +70,6 @@ _Then follows_
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 
-_Officiant_
-> Lord, hear our prayer;
-
-**People**
-> **And let our cry come to you.**
-
-_Officiant_
-> Let us pray.
-
 > Visit this place, O Lord, and drive far from it all snare of the enemy; let your holy angels dwell with us to preserve us in peace; and let your blessing be upon us always; through Jesus Christ our Lord.  **Amen.**
 
 > O God, your unfailing providence sustains the world we live

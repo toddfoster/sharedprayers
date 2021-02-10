@@ -57,9 +57,6 @@ _A lesson is read_
 **People**
 > **Thanks be to God.**
 
-**People**
-> **Thanks be to God.**
-
 _A hymn suitable for the evening may be sung._
 
 _Then follows_
@@ -72,15 +69,6 @@ _Then follows_
 {{% he/lordhavemercy %}}
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
-
-_Officiant_
-> Lord, hear our prayer;
-
-**People**
-> **And let our cry come to you.**
-
-_Officiant_
-> Let us pray.
 
 _The Officiant then says one of the following Collects_
 
