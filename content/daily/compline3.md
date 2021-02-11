@@ -52,7 +52,7 @@ _Officiant_ and **People**
 {{% office/gloriapatri %}}
 
 _A lesson is read_
-> May the God of peace, who brought again from the dead our Lord Jesus, and great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in you that which is pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever.  _Hebrews 13:20-21_
+> May the God of peace, who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in you that which is pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever.  _Hebrews 13:20-21_
 
 **People**
 > **Thanks be to God.**
