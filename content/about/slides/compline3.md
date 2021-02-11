@@ -65,71 +65,56 @@ _Officiant_ and **People**
 > **Alleluia.**
 
 ---
-**Psalm** 9
-_Confitebor tibi_
+**Psalm** 91
+_Qui habitat_
 
-> 1	I will give thanks to you, O LORD,  
-with my whole heart; \*  
-I will tell of all your marvelous works.  
-> **2	I will be glad and rejoice in you; \*  
-I will sing to your Name, O Most High.**
+> 1	He who dwells in the shelter of the Most High, \*  
+abides under the shadow of the Almighty.  
+> **2	He shall say to the LORD,  
+"You are my refuge and my stronghold, \*  
+my God in whom I put my trust."**
 
-> 3	When my enemies are driven back, \*  
-they will stumble and perish at your presence.  
-> **4	For you have maintained my right  
-and my cause; \*  
-you sit upon your throne judging right.**
-
----
-> 5	You have rebuked the ungodly  
-and destroyed the wicked; \*  
-you have blotted out their name for ever and ever.  
-> **6	As for the enemy, they are finished,  
-in perpetual ruin, \*  
-their cities plowed under,  
-the memory of them perished;**
-
-> 7	But the LORD is enthroned for ever; \*  
-he has set up this throne for judgment.  
-> **8	It is he who rules the world with righteousness; \*  
-he judges the peoples with equity.**
-
-> 9	The LORD will be a refuge for the oppressed, \*  
-a refuge in time of trouble.  
-> **10	Those who know your Name  
-will put their trust in you, \*  
-for you never forsake those who seek you, O LORD.**
+> 3	He shall deliver you from the snare of the hunter \*  
+and from the deadly pestilence.  
+> **4	He shall cover you with his pinions,  
+and you shall find refuge under his wings; \*  
+his faithfulness shall be a shield and buckler.**
 
 ---
-> 11	Sing praise to the LORD who dwells in Zion; \*  
-proclaim to the peoples the things he has done.  
-> **12	The Avenger of blood will remember them; \*  
-he will not forget the cry of the afflicted.**
+> 5	You shall not be afraid of any terror by night, \*  
+nor of the arrow that flies by day;  
+> **6	Of the plague that stalks in the darkness, \*  
+nor of the sickness that lays waste at mid-day.**
 
-> 13	Have pity on me, O LORD; \*  
-see the misery I suffer from those who hate me,  
-O you who lift me up from the gate of death;  
-> **14	So that I may tell of all your praises  
-and rejoice in your salvation \*  
-in the gates of the city of Zion.**
-
-> 15	The ungodly have fallen into the pit they dug, \*  
-and in the snare they set is their own foot caught.  
-> **16	The LORD is known by his acts of justice; \*  
-the wicked are trapped  
-in the works of their own hands.**
+> 7	A thousand shall fall at your side  
+and ten thousand at your right hand, \*  
+but it shall not come near you.  
+> **8	Your eyes have only to behold \*  
+to see the reward of the wicked.**
 
 ---
-> 17	The wicked shall be given over to the grave, \*  
-and also all the people that forget God.  
-> **18	For the needy shall not always be forgotten, \*  
-and the hope of the poor shall not perish for ever.**
+> 9	Because you have made the LORD your refuge, \*  
+and the Most High your habitation,  
+> **10	There shall no evil happen to you, \*  
+neither shall any plague come near your dwelling.**
 
-> 19	Rise up, O LORD,  
-let not the ungodly have the upper hand; \*  
-let them be judged before you.  
-> **20	Put fear upon them, O LORD; \*  
-let the ungodly know they are but mortal.**
+> 11	For he shall give his angels charge over you, \*  
+to keep you in all your ways.  
+> **12	They shall bear you in their hands, \*  
+lest you dash your foot against a stone.**
+
+---
+> 13	You shall tread upon the lion and the adder; \*  
+you shall trample the young lion and the serpent under your feet.  
+> **14	Because he is bound to me in love,  
+therefore will I deliver him; \*  
+I will protect him, because he knows my Name.**
+
+> 15	He shall call upon me, and I will answer him; \*  
+I am with him in trouble;  
+I will rescue him and bring him to honor.  
+> **16	With long life will I satisfy him, \*  
+and show him my salvation.**
 
 > **Glory to the Father, and to the Son,  
 and to the Holy Spirit: \*  
