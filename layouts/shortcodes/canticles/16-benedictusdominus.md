@@ -1,4 +1,3 @@
-##### The People stand as able.
 **Canticle 16: The Song of Zechariah**	--- _Benedictus Dominus Deus_ --- _Luke 1:68--79_
 **All:**
 > **Blessed be the Lord, the God of Israel; *

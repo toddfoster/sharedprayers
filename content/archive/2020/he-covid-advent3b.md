@@ -65,6 +65,7 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
+##### The People stand as able.
 {{% canticles/15-magnificat %}}
 
 **The Second Lesson**

@@ -1,4 +1,3 @@
-##### The People stand as able.
 **Canticle 15: The Song of Mary** --- _Magnificat_  --- _Luke 1:46-55_
 **All:**
 > **My soul proclaims the greatness of the Lord,

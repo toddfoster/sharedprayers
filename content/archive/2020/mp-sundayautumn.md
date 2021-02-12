@@ -42,6 +42,7 @@ Lector:
 
 ##### Silence may be kept.
 
+##### The People stand as able.
 {{% canticles/16-benedictusdominus %}}
 
 Lector:
