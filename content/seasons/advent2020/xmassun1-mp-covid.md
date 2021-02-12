@@ -139,7 +139,7 @@ Lector:
 > **Thanks be to God.**
 
 #### 8am Canticle:
-{{% canticles/21-tedeumlaudamus %}}
+{{% canticles/21-tedeum %}}
 
 #### 10.30am Carol: _Hark! the herald angels_ (Hymnal 87)
 

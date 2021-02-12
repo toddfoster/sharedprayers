@@ -160,7 +160,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% canticles/18-dignuses %}}
+{{% canticles/18-dignus %}}
 
 ### The Third  Reading: _Mark 1.14--28_
 

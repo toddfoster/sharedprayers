@@ -59,7 +59,7 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% canticles/21-tedeumlaudamus %}}
+{{% canticles/21-tedeum %}}
 
 Lector:
 > A Reading from...

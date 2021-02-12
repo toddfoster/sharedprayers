@@ -278,3 +278,11 @@ _Reader:_
 {{% canticles/11-surge %}}
 {{% canticles/12-benedicite %}}
 {{% canticles/13-benedictuses %}}
+{{% canticles/14-kyrie %}}
+{{% canticles/15-magnificat %}}
+{{% canticles/16-benedictusdominus %}}
+{{% canticles/17-nunc %}}
+{{% canticles/18-dignus %}}
+{{% canticles/19-magna %}}
+{{% canticles/20-gloria %}}
+{{% canticles/21-tedeum %}}
