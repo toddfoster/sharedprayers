@@ -44,6 +44,7 @@ Lector:
 
 ##### The People stand as able.
 {{% canticles/16-benedictusdominus %}}
+##### The People are seated.
 
 Lector:
 > A Reading from...

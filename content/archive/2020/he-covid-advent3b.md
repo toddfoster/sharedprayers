@@ -67,6 +67,7 @@ Lector:
 
 ##### The People stand as able.
 {{% canticles/15-magnificat %}}
+##### The People are seated.
 
 **The Second Lesson**
 _1 Thessalonians 5:16-24_

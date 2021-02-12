@@ -30,7 +30,9 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% office/ep/magnificat %}}
+##### The People stand as able.
+{{% canticles/15-magnificat %}}
+##### The People are seated.
 
 Lector:
 > A Reading from...
@@ -45,7 +47,9 @@ Lector:
 
 ##### Silence may be kept.
 
-{{% office/ep/nunc %}}
+##### The People stand as able.
+{{% canticles/17-nunc %}}
+##### The People are seated.
 
 Lector:
 > A Reading from...
