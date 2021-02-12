@@ -1,5 +1,5 @@
 ---
-title: An Order of Service for Noonday
+title: An Order of Service for Noonday (Sext)
 date: 2021-02-03
 bcppage: 103ff.
 ---

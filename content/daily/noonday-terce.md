@@ -1,5 +1,5 @@
 ---
-title: An Order of Service for Noonday (mid-morning)
+title: An Order of Service for Noonday (Terce)
 date: 2021-02-03
 bcppage: 103ff.
 ---
