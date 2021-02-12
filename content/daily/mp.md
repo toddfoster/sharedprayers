@@ -272,7 +272,9 @@ _Reader:_
 
 ##### Silence may be kept after each Reading. One of the following Canticles, or one of those on pages 47-52 (Canticles 1-7), is sung or said after each Reading. If three Lessons are used, the Lesson from the Gospel is read after the second Canticle.
 
-
-
-
-
+{{% canticles/8-cantemus %}}
+{{% canticles/9-ecce %}}
+{{% canticles/10-quaerite %}}
+{{% canticles/11-surge %}}
+{{% canticles/12-benedicite %}}
+{{% canticles/13-benedictuses %}}
