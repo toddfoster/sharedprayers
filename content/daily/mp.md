@@ -286,3 +286,67 @@ _Reader:_
 {{% canticles/19-magna %}}
 {{% canticles/20-gloria %}}
 {{% canticles/21-tedeum %}}
+
+{{% office/apostlescreed %}}
+
+# The Prayers
+
+##### The people stand or kneel
+Officiant:
+> The Lord be with you.
+
+**People:**
+> **And also with you.**
+
+Officiant:
+> Let us pray.
+
+{{% lordsprayer1 %}}
+
+##### or
+
+{{% lordsprayer2 %}}
+
+##### Then follows one of these sets of Suffrages
+
+**A**
+{{% office/mp/suffragesa %}}
+
+**B**
+{{% office/mp/suffragesb %}}
+
+##### The Officiant then says one or more of the following Collects
+##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
+
+_Collect Proper to the Day_
+
+{{% office/mp/collect-sundays %}}
+{{% office/mp/collect-fridays %}}
+{{% office/mp/collect-saturdays %}}
+{{% office/mp/collect-renewal %}}
+{{% office/mp/collect-peace %}}
+{{% office/mp/collect-grace %}}
+{{% office/mp/collect-guidance %}}
+
+{{% office/mp/prayer-mission1 %}}
+{{% office/mp/prayer-mission2 %}}
+{{% office/mp/prayer-mission3 %}}
+
+##### Here may be sung a hymn or anthem.
+
+##### Intercessions and thanksgivings may follow.
+
+{{% office/generalthanksgiving %}}
+
+Officiant:
+> Let us bless the Lord.
+
+**People:**
+> **Thanks be to God.**
+
+##### The Officiant then concludes with the following sentence of scripture:
+> Glory to God whose power, working in us, can do inifinitely more than we can ask or imagine: Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
+
+--------------
+
+{{% nrsv %}}

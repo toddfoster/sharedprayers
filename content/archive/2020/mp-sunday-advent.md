@@ -101,7 +101,7 @@ _Collect Proper to the Day_
 
 {{% collects/20-ForTheSick %}}
 
-{{% office/mp/collect-mission1 %}}
+{{% office/mp/prayer-mission1 %}}
 
 ##### Here may be sung a hymn or anthem.
 

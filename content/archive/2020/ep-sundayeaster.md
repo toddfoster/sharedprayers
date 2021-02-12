@@ -104,7 +104,7 @@ _Collect Proper to the Day_
 
 {{% office/ep/collect-sundays %}}
 
-{{% office/ep/collect-forpresence %}}
+{{% office/ep/collect-presence %}}
 
 {{% office/ep/collect-keepwatch %}}
 
