@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/daily/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/mp-template/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/about/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/he-covid-absalomjones/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,17 +148,17 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/noonday12/</loc>
+    <loc>http://www.sharedprayers.net/daily/noonday-none/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/noonday14/</loc>
+    <loc>http://www.sharedprayers.net/daily/noonday-sext/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/noonday10/</loc>
+    <loc>http://www.sharedprayers.net/daily/noonday-terce/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
