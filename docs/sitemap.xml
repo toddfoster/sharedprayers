@@ -9,7 +9,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/seasons/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,12 +63,17 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/mp-template/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/seasons/lent/ashwednesday-covid/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp-template/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
