@@ -148,8 +148,7 @@ _Except in Lent, add_ **Alleluia.**
 ##### Then follows
 ## The Psalm or Psalms Appointed
 ##### At the end of the Psalms is sung or said
-> **Glory to the Father, and to the Son, and to the Holy Spirit: *
-as it was in the beginning, is now, and will be for ever. Amen.**
+{{% office/gloriapatri %}}
 
 # The Lessons
 ##### One or two Lessons, as appointed, are read, the Reader first saying
@@ -191,14 +190,7 @@ _Reader:_
 # The Prayers
 
 ##### The people stand or kneel
-Officiant:
-> The Lord be with you.
-
-**People:**
-> **And also with you.**
-
-Officiant:
-> Let us pray.
+{{% letuspray %}}
 
 {{% lordsprayer1 %}}
 
@@ -248,12 +240,8 @@ Officiant:
 
 ##### From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.
 
-##### The Officiant then concludes with one of the following
-
-> The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. **Amen.** _(2 Corinthians 13:14)_
-
-> May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit. **Amen.** _(Romans 15:13)_
-
-> Glory to God whose power, working in us, can do inifinitely more than we can ask or imagine: Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
+{{% office/mp/conclusion-thegrace %}}
+{{% office/mp/conclusion-maythegod %}}
+{{% office/mp/conclusion-glorytogod %}}
 
 {{% nrsv %}}
