@@ -107,7 +107,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/generalthanksgiving %}}
+{{% office/mp/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

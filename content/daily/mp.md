@@ -48,8 +48,11 @@ Is it nothing to you, all you who pass by? Look and see if there is any sorrow l
 
 _Easter Season, including Ascension Day and the Day of Pentecost_
 
-Alleluia! Christ is risen.
-**The Lord is risen indeed. Alleluia!**
+_Officiant:_
+> Alleluia! Christ is risen.
+
+**People:**
+> **The Lord is risen indeed. Alleluia!**
 
 On this day the Lord has acted; we will rejoice and be glad in it. _(Psalm 118:24)_
 
@@ -108,17 +111,17 @@ Let us confess our sins against God and our neighbor.
 
 _Officiant_ and **People** together, all kneeling:
 > **Most merciful God,
-we confess that we have sinned against you  
-in thought, word, and deed,  
-by what we have done,  
-and by what we have left undone.  
-We have not loved you with our whole heart;  
-we have not loved our neighbors as ourselves.  
-We are truly sorry and we humbly repent.  
-For the sake of your Son Jesus Christ,  
-have mercy on us and forgive us;  
-that we may delight in your will,  
-and walk in your ways,  
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
 to the glory of your Name. Amen.**
 
 _Priest:_
@@ -176,7 +179,7 @@ Worship the Lord in the beauty of holiness: Come let us adore him.
 ##### or this
 The mercy of the Lord is everlasting: Come let us adore him.
 
-##### The Alleluias in the following Antiphons are used only in Easter Season. 
+##### The Alleluias in the following Antiphons are used only in Easter Season.
 
 ##### On Feasts of the Incarnation
 [Alleluia.] The Word was made flesh and dwelt among us: Come let us adore him. [Alleluia.]
@@ -185,71 +188,71 @@ The mercy of the Lord is everlasting: Come let us adore him.
 [Alleluia.] The Lord is glorious in his saints: Come let us adore him. [Alleluia.]
 
 ### Venite _(Psalm 95:1-7)_
-> **Come, let us sing to the Lord; \*  
-let us shout for joy to the Rock of our salvation.  
-Let us come before his presence with thanksgiving \*  
+> **Come, let us sing to the Lord; \*
+let us shout for joy to the Rock of our salvation.
+Let us come before his presence with thanksgiving \*
 and raise a loud shout to him with psalms.**
 
 > **For the Lord is a great God, \*
-and a great King above all gods.  
-In his hand are the caverns of the earth, \*  
-and the heights of the hills are his also.  
-The sea is his, for he made it, \*  
+and a great King above all gods.
+In his hand are the caverns of the earth, \*
+and the heights of the hills are his also.
+The sea is his, for he made it, \*
 and his hands have molded the dry land.**
 
-> **Come, let us bow down, and bend the knee, \*  
-and kneel before the Lord our Maker.  
-For he is our God,  
-and we are the people of his pasture and the sheep of his hand. *  
+> **Come, let us bow down, and bend the knee, \*
+and kneel before the Lord our Maker.
+For he is our God,
+and we are the people of his pasture and the sheep of his hand. *
 Oh, that today you would hearken to his voice!**
 
 ##### or Psalm 95, page 724.
 
 ### Jubilate _(Psalm 100)_
-> **Be joyful in the Lord, all you lands; \*  
-serve the Lord with gladness  
+> **Be joyful in the Lord, all you lands; \*
+serve the Lord with gladness
 and come before his presence with a song.**
 
-> **Know this: The Lord himself is God; *  
-he himself has made us, and we are his;  
+> **Know this: The Lord himself is God; *
+he himself has made us, and we are his;
 we are his people and the sheep of his pasture.**
 
-> **Enter his gates with thanksgiving;  
-go into his courts with praise; \*  
+> **Enter his gates with thanksgiving;
+go into his courts with praise; \*
 give thanks to him and call upon his Name.**
 
-> **For the Lord is good;  
-his mercy is everlasting; \*  
+> **For the Lord is good;
+his mercy is everlasting; \*
 and his faithfulness endures from age to age.**
 
 ##### In Easter Week, in place of an Invitatory Psalm, the following is sung or said. It may also be used daily until the Day of Pentecost.
 
 ### Christ our Passover _(Pascha nostrum)_
 ##### 1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22
-> **Alleluia.  
-Christ our Passover has been sacrificed for us; \*  
-therefore let us keep the feast,  
-Not with the old leaven, the leaven of malice and evil, \*  
+> **Alleluia.
+Christ our Passover has been sacrificed for us; \*
+therefore let us keep the feast,
+Not with the old leaven, the leaven of malice and evil, \*
 but with the unleavened bread of sincerity and truth. Alleluia.**
 
-> **Christ being raised from the dead will never die again; \*  
-death no longer has dominion over him.  
-The death that he died, he died to sin, once for all; \*  
-but the life he lives, he lives to God.  
-So also consider yourselves dead to sin, \*  
+> **Christ being raised from the dead will never die again; \*
+death no longer has dominion over him.
+The death that he died, he died to sin, once for all; \*
+but the life he lives, he lives to God.
+So also consider yourselves dead to sin, \*
 and alive to God in Jesus Christ our Lord. Alleluia.**
 
-> **Christ has been raised from the dead, \*  
-the first fruits of those who have fallen asleep.  
-For since by a man came death, \*  
-by a man has come also the resurrection of the dead.  
-For as in Adam all die, \*  
+> **Christ has been raised from the dead, \*
+the first fruits of those who have fallen asleep.
+For since by a man came death, \*
+by a man has come also the resurrection of the dead.
+For as in Adam all die, \*
 so also in Christ shall all be made alive. Alleluia.**
 
 ##### Then follows
 ## The Psalm or Psalms Appointed
 ##### At the end of the Psalms is sung or said
-> **Glory to the Father, and to the Son, and to the Holy Spirit: *  
+> **Glory to the Father, and to the Son, and to the Holy Spirit: *
 as it was in the beginning, is now, and will be for ever. Amen.**
 
 # The Lessons
@@ -261,7 +264,7 @@ _Reader:_
 ##### A citation giving chapter and verse may be added. After each Lesson the Reader may say
 
 _Reader:_
-> The Word of the Lord. 
+> The Word of the Lord.
 
 **People:**
 > Thanks be to God.
@@ -334,19 +337,27 @@ _Collect Proper to the Day_
 
 ##### Here may be sung a hymn or anthem.
 
-##### Intercessions and thanksgivings may follow.
+##### Authorized intercessions and thanksgivings may follow.
+##### Before the close of the Office one or both of the following may be used
 
-{{% office/generalthanksgiving %}}
+{{% office/mp/generalthanksgiving %}}
+{{% office/mp/prayer-chrysostom %}}
 
+##### Then may be said
 Officiant:
 > Let us bless the Lord.
 
 **People:**
 > **Thanks be to God.**
 
-##### The Officiant then concludes with the following sentence of scripture:
-> Glory to God whose power, working in us, can do inifinitely more than we can ask or imagine: Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
+##### From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.
 
---------------
+##### The Officiant then concludes with one of the following
+
+> The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. **Amen.** _(2 Corinthians 13:14)_
+
+> May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit. **Amen.** _(Romans 15:13)_
+
+> Glory to God whose power, working in us, can do inifinitely more than we can ask or imagine: Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_
 
 {{% nrsv %}}

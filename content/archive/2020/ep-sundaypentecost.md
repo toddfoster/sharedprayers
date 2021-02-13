@@ -110,7 +110,7 @@ and all for your love's sake.  **Amen.**
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/generalthanksgiving %}}
+{{% office/ep/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

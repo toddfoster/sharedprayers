@@ -1,4 +1,4 @@
-**Canticle 19: The Song of the Redeemed** -- _Magna et mirabilia__ (Revelation 15:3-4) (BCP 94)
+**Canticle 19: The Song of the Redeemed** -- _Magna et mirabilia_ (Revelation 15:3-4) (BCP 94)
 **All:**
 > **O ruler of the universe, Lord God,  
 great deeds are they that you have done, \*  
