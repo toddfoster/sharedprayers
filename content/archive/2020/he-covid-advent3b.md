@@ -122,7 +122,7 @@ Today the response to the prompt, “My soul proclaims the greatness of the Lord
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% office/confession %}}
+{{% office/confession2 %}}
 
 {{% rubric-stand %}}
 

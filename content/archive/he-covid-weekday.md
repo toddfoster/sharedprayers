@@ -79,7 +79,7 @@ Deacon:
 
 {{% he/pop-form3 %}}
 
-{{% office/confession %}}
+{{% office/confession2 %}}
 
 {{% rubric-stand %}}
 

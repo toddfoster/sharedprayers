@@ -8,126 +8,72 @@ bcppage: 75ff.
 
 _Advent_
 
-Watch, for you do not know when the master of the house will come, in the evening, or at midnight, or at cockcrow, or in the morning, lest he come suddenly and find you asleep. _(Mark 13:35, 36)_
-
-In the wilderness prepare the way of the Lord, make straight in the desert a highway for our God. _(Isaiah 40:3)_
-The glory of the Lord shall be revealed, and all flesh shall see it together. _(Isaiah 40:5)_
+{{% office/mp/sentence-advent-1 %}}
+{{% office/mp/sentence-advent-2 %}}
+{{% office/mp/sentence-advent-3 %}}
 
 _Christmas_
 
-Behold, I bring you good news of a great joy which will come to all the people; for to you is born this day in the city of David, a Savior, who is Christ the Lord. _(Luke 2:10, 11)_
-
-Behold, the dwelling of God is with mankind. He will dwell with them, and they shall be his people, and God himself will be with them, and be their God. _(Revelation 21:3)_
+{{% office/mp/sentence-xmas-1 %}}
+{{% office/mp/sentence-xmas-2 %}}
 
 _Epiphany_
 
-Nations shall come to your light, and kings to the brightness of your rising. _(Isaiah 60:3)_
-
-I will give you as a light to the nations, that my salvation may reach to the end of the earth. _(Isaiah 49:6b)_
-
-From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of hosts. _(Malachi 1:11)_
+{{% office/mp/sentence-epiphany-1 %}}
+{{% office/mp/sentence-epiphany-2 %}}
+{{% office/mp/sentence-epiphany-3 %}}
 
 _Lent_
 
-If we say we have no sin, we deceive ourselves, and the truth is not in us, but if we confess our sins, God, who is faithful and just, will forgive our sins and cleanse us from all unrighteousness. _(I John 1:8, 9)_
-
-Rend your hearts and not your garments. Return to the Lord your God, for he is gracious and merciful, slow to anger and abounding in steadfast love, and repents of evil. _(Joel 2:13)_
-
-I will arise and go to my father, and I will say to him, “Father, I have sinned against heaven and before you; I am
-no longer worthy to be called your son.” _(Luke 15:18, 19)_
-
-To the Lord our God belong mercy and forgiveness, because we have rebelled against him and have not obeyed the voice of the Lord our God by following his laws which he set before us. _(Daniel 9:9, 10)_
-
-Jesus said,” If anyone would come after me, let him deny himself and take up his cross and follow me.” _(Mark 8:34)_
+{{% office/mp/sentence-lent-1 %}}
+{{% office/mp/sentence-lent-2 %}}
+{{% office/mp/sentence-lent-3 %}}
+{{% office/mp/sentence-lent-4 %}}
+{{% office/mp/sentence-lent-5 %}}
 
 _Holy Week_
 
-All we like sheep have gone astray; we have turned every one to his own way; and the Lord has laid on him the iniquity of us all. _(Isaiah 53:6)_
-
-Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow which was brought upon me, whom the Lord has afflicted. _(Lamentations 1:12)_
+{{% office/mp/sentence-holyweek-1 %}}
+{{% office/mp/sentence-holyweek-2 %}}
 
 _Easter Season, including Ascension Day and the Day of Pentecost_
 
-_Officiant:_
-> Alleluia! Christ is risen.
-
-**People:**
-> **The Lord is risen indeed. Alleluia!**
-
-On this day the Lord has acted; we will rejoice and be glad in it. _(Psalm 118:24)_
-
-Thanks be to God, who gives us the victory through our Lord Jesus Christ. _(1 Corinthians 15:57)_
-
-If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.
-_(Colossians 3:1)_
-
-Christ has entered, not into a sanctuary made with hands, a copy of the true one, but into heaven itself, now to appear in the presence of God on our behalf. _(Hebrews 9:24)_
-
-You shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem, and in all Judea, and Samaria, and to the ends of the earth. _(Acts 1:8)_
+{{% office/mp/sentence-easter-1 %}}
+{{% office/mp/sentence-easter-2 %}}
+{{% office/mp/sentence-easter-3 %}}
+{{% office/mp/sentence-easter-4 %}}
+{{% office/mp/sentence-easter-5 %}}
+{{% office/mp/sentence-easter-6 %}}
 
 _Trinity Sunday_
 
-Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come! _(Revelation 4:8)_
+{{% office/mp/sentence-trinity %}}
 
 _All Saints and other Major Saints’ Days_
 
-We give thanks to the Father, who has made us worthy to share in the inheritance of the saints in light. _(Colossians 1:12)_
-
-You are no longer strangers and sojourners, but fellow citizens with the saints and members of the household of God. _(Ephesians 2:19)_
-
-Their sound has gone out into all lands, and their message to the ends of the world. _(Psalm 19:4)_
+{{% office/mp/sentence-saints-1 %}}
+{{% office/mp/sentence-saints-2 %}}
+{{% office/mp/sentence-saints-3 %}}
 
 _Occasions of Thanksgiving_
 
-Give thanks to the Lord, and call upon his Name; make known his deeds among the peoples. _(Psalm 105:1)_
+{{% office/mp/sentence-thanksgiving %}}
 
 _At any Time_
+{{% office/mp/sentence-any-1 %}}
+{{% office/mp/sentence-any-2 %}}
+{{% office/mp/sentence-any-3 %}}
+{{% office/mp/sentence-any-4 %}}
+{{% office/mp/sentence-any-5 %}}
+{{% office/mp/sentence-any-6 %}}
+{{% office/mp/sentence-any-7 %}}
 
-Grace to you and peace from God our Father and the Lord Jesus Christ. _(Philippians 1:2)_
-
-I was glad when they said to me,” Let us go to the house of the Lord.” _(Psalm 122:1)_
-
-Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my strength and my redeemer. _(Psalm 19:14)_
-
-Send out your light and your truth, that they may lead me, and bring me to your holy hill and to your dwelling.
-_(Psalm 43:3)_
-
-The Lord is in his holy temple; let all the earth keep silence
-before him. _(Habakkuk 2:20)_
-
-The hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth, for such the Father seeks to worship him. _(John 4:23)_
-
-Thus says the high and lofty One who inhabits eternity, whose name is Holy,” I dwell in the high and holy place and also with the one who has a contrite and humble spirit, to revive the spirit of the humble and to revive the heart of the contrite.” _(Isaiah 57:15)_
 
 ##### The following Confession of Sin may then be said; or the Office may continue at once with “Lord, open our lips.”
-## Confession of Sin
-_Officiant_
-Dearly beloved, we have come together in the presence of Almighty God our heavenly Father, to set forth his praise, to hear his holy Word, and to ask, for ourselves and on behalf of others, those things that are necessary for our life and our salvation. And so that we may prepare ourselves in heart and mind to worship him, let us kneel in silence, and with penitent and obedient hearts confess our sins, that we may obtain forgiveness by his infinite goodness and mercy.
 
+{{% office/confession1 %}}
 ##### or this
-Let us confess our sins against God and our neighbor.
-
-##### Silence may be kept.
-
-_Officiant_ and **People** together, all kneeling:
-> **Most merciful God,
-we confess that we have sinned against you
-in thought, word, and deed,
-by what we have done,
-and by what we have left undone.
-We have not loved you with our whole heart;
-we have not loved our neighbors as ourselves.
-We are truly sorry and we humbly repent.
-For the sake of your Son Jesus Christ,
-have mercy on us and forgive us;
-that we may delight in your will,
-and walk in your ways,
-to the glory of your Name. Amen.**
-
-_Priest:_
-Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. **Amen.**
-
-##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
+{{% office/confession2 %}}
 
 # The Invitatory and Psalter
 ##### All stand
@@ -138,7 +84,7 @@ _Officiant:_
 > **And our mouth shall proclaim your praise.**
 
 _Officiant_ and **People**:
-> **Glory to the Father, and to the Son, and to the Holy Spirit: as it was in the beginning, is now, and will be for ever. Amen.**
+{{% office/gloriapatri %}}
 _Except in Lent, add_ **Alleluia.**
 
 ##### Then follows one of the Invitatory Psalms, Venite or Jubilate.
@@ -146,65 +92,51 @@ _Except in Lent, add_ **Alleluia.**
 ##### One of the following Antiphons may be sung or said with the Invitatory Psalm
 
 ##### In Advent
-
-Our King and Savior now draws near: Come let us adore him.
+{{% office/mp/antiphon-advent %}}
 
 ##### On the Twelve Days of Christmas
-Alleluia. To us a child is born: Come let us adore him. Alleluia.
+{{% office/mp/antiphon-xmas %}}
 
 ##### From the Epiphany through the Baptism of Christ, and on the Feasts of the Transfiguration and Holy Cross
-The Lord has shown forth his glory: Come let us adore him.
+{{% office/mp/antiphon-epiphany %}}
 
 ##### In Lent
-The Lord is full of compassion and mercy: Come let us adore him.
+{{% office/mp/antiphon-lent %}}
 
 ##### From Easter Day until the Ascension
-Alleluia. The Lord is risen indeed: Come let us adore him. Alleluia.
+{{% office/mp/antiphon-easter %}}
 
 ##### From Ascension Day until the Day of Pentecost
-Alleluia. Christ the Lord has ascended into heaven: Come let us adore him. Alleluia.
+{{% office/mp/antiphon-ascension %}}
 
 ##### On the Day of Pentecost
-Alleluia. The Spirit of the Lord renews the face of the earth: Come let us adore him. Alleluia.
+{{% office/mp/antiphon-pentecost %}}
 
 ##### On Trinity Sunday
-Father, Son, and Holy Spirit, one God: Come let us adore him.
+{{% office/mp/antiphon-trinity %}}
 
 ##### On other Sundays and weekdays
-The earth is the Lord’s, for he made it: Come let us adore him.
+{{% office/mp/antiphon-other-1 %}}
 
 ##### or this
-Worship the Lord in the beauty of holiness: Come let us adore him.
+{{% office/mp/antiphon-other-2 %}}
 
 ##### or this
-The mercy of the Lord is everlasting: Come let us adore him.
+{{% office/mp/antiphon-other-3 %}}
+
 
 ##### The Alleluias in the following Antiphons are used only in Easter Season.
 
 ##### On Feasts of the Incarnation
-[Alleluia.] The Word was made flesh and dwelt among us: Come let us adore him. [Alleluia.]
+{{% office/mp/antiphon-incarnationeaster %}}
+{{% office/mp/antiphon-incarnation %}}
 
 ##### On All Saints and other Major Saints’ Days
-[Alleluia.] The Lord is glorious in his saints: Come let us adore him. [Alleluia.]
+{{% office/mp/antiphon-saintseaster %}}
+{{% office/mp/antiphon-saints %}}
 
 ### Venite _(Psalm 95:1-7)_
-> **Come, let us sing to the Lord; \*
-let us shout for joy to the Rock of our salvation.
-Let us come before his presence with thanksgiving \*
-and raise a loud shout to him with psalms.**
-
-> **For the Lord is a great God, \*
-and a great King above all gods.
-In his hand are the caverns of the earth, \*
-and the heights of the hills are his also.
-The sea is his, for he made it, \*
-and his hands have molded the dry land.**
-
-> **Come, let us bow down, and bend the knee, \*
-and kneel before the Lord our Maker.
-For he is our God,
-and we are the people of his pasture and the sheep of his hand. *
-Oh, that today you would hearken to his voice!**
+{{% office/mp/venite %}}
 
 ##### or Psalm 95, page 724.
 

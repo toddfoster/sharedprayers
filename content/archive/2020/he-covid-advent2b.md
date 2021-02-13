@@ -192,7 +192,7 @@ Today the response to the prompt, “Mercy and truth have met together;” is �
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% office/confession %}}
+{{% office/confession2 %}}
 
 {{% rubric-stand %}}
 

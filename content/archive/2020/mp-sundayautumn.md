@@ -13,7 +13,7 @@ _according to the Book of Common Prayer (p. 78ff.)_
 
 > Grace to you and peace from God our Father and the Lord Jesus Christ. _(Philippians 1:2)_
 
-{{% office/confession %}}
+{{% office/confession2 %}}
 
 {{% office/mp/invitatoryintro %}}
 
