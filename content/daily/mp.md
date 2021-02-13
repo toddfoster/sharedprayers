@@ -135,51 +135,15 @@ _Except in Lent, add_ **Alleluia.**
 {{% office/mp/antiphon-saintseaster %}}
 {{% office/mp/antiphon-saints %}}
 
-### Venite _(Psalm 95:1-7)_
 {{% office/mp/venite %}}
 
 ##### or Psalm 95, page 724.
 
-### Jubilate _(Psalm 100)_
-> **Be joyful in the Lord, all you lands; \*
-serve the Lord with gladness
-and come before his presence with a song.**
-
-> **Know this: The Lord himself is God; *
-he himself has made us, and we are his;
-we are his people and the sheep of his pasture.**
-
-> **Enter his gates with thanksgiving;
-go into his courts with praise; \*
-give thanks to him and call upon his Name.**
-
-> **For the Lord is good;
-his mercy is everlasting; \*
-and his faithfulness endures from age to age.**
+{{% office/mp/jubilate %}}
 
 ##### In Easter Week, in place of an Invitatory Psalm, the following is sung or said. It may also be used daily until the Day of Pentecost.
 
-### Christ our Passover _(Pascha nostrum)_
-##### 1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22
-> **Alleluia.
-Christ our Passover has been sacrificed for us; \*
-therefore let us keep the feast,
-Not with the old leaven, the leaven of malice and evil, \*
-but with the unleavened bread of sincerity and truth. Alleluia.**
-
-> **Christ being raised from the dead will never die again; \*
-death no longer has dominion over him.
-The death that he died, he died to sin, once for all; \*
-but the life he lives, he lives to God.
-So also consider yourselves dead to sin, \*
-and alive to God in Jesus Christ our Lord. Alleluia.**
-
-> **Christ has been raised from the dead, \*
-the first fruits of those who have fallen asleep.
-For since by a man came death, \*
-by a man has come also the resurrection of the dead.
-For as in Adam all die, \*
-so also in Christ shall all be made alive. Alleluia.**
+{{% office/mp/christourpassover %}}
 
 ##### Then follows
 ## The Psalm or Psalms Appointed
