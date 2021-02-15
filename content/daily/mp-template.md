@@ -75,17 +75,8 @@ _At any Time_
 ##### or this
 {{% office/confession2 %}}
 
-# The Invitatory and Psalter
-##### All stand
-_Officiant:_
-> Lord, open our lips.
+{{% office/mp/invitatory/intro %}}
 
-**People:**
-> **And our mouth shall proclaim your praise.**
-
-_Officiant_ and **People**:
-{{% office/gloriapatri %}}
-_Except in Lent, add_ **Alleluia.**
 
 ##### Then follows one of the Invitatory Psalms, Venite or Jubilate.
 
@@ -135,15 +126,15 @@ _Except in Lent, add_ **Alleluia.**
 {{% office/mp/antiphon/saintseaster %}}
 {{% office/mp/antiphon/saints %}}
 
-{{% office/mp/venite %}}
+{{% office/mp/invitatory/venite %}}
 
 ##### or Psalm 95, page 724.
 
-{{% office/mp/jubilate %}}
+{{% office/mp/invitatory/jubilate %}}
 
 ##### In Easter Week, in place of an Invitatory Psalm, the following is sung or said. It may also be used daily until the Day of Pentecost.
 
-{{% office/mp/christourpassover %}}
+{{% office/mp/invitatory/christourpassover %}}
 
 ##### Then follows
 ## The Psalm or Psalms Appointed

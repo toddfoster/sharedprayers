@@ -15,12 +15,12 @@ _according to the Book of Common Prayer (p. 78ff.)_
 
 {{% office/confession2 %}}
 
-{{% office/mp/invitatoryintro %}}
+{{% office/mp/invitatory/intro %}}
 
 **All:**
 > **The earth is the Lord's for he made it: Come let us adore him.**
 
-{{% office/mp/venite %}}
+{{% office/mp/invitatory/venite %}}
 
 **All:**
 > **The earth is the Lord's for he made it: Come let us adore him.**

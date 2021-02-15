@@ -15,12 +15,12 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 {{% office/confession2 %}}
 
-{{% office/mp/invitatoryintro %}}
+{{% office/mp/invitatory/intro %}}
 
 **All:**
 > **Our King and Savior now draws near: Come let us adore him.**
 
-{{% office/mp/venite %}}
+{{% office/mp/invitatory/venite %}}
 
 **All:**
 > **Our King and Savior now draws near: Come let us adore him.**

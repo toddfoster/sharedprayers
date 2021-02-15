@@ -27,13 +27,13 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 > Behold, I bring you good news of a great joy which will come to all the people; for to you is born this day in the city of David, a Savior, who is Christ the Lord. _(Luke 2:10, 11)_
 
-{{% office/mp/invitatoryintro %}}
+{{% office/mp/invitatory/intro %}}
 #### 8am Invitatory: _Jubilate_ (Psalm 100 -- BCP 80, 82)
 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**
 
-{{% office/mp/jubilate %}}
+{{% office/mp/invitatory/jubilate %}}
 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**

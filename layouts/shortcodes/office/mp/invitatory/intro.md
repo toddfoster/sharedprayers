@@ -1,4 +1,4 @@
-### The Invitatory and Psalter
+## The Invitatory and Psalter
 Officiant:
 > Lord, open our lips.
 
