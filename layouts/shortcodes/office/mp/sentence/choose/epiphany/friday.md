@@ -1,1 +1,1 @@
-From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of hosts. _(Malachi 1:11)_
+../../epiphany3.md
