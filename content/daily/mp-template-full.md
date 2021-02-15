@@ -72,9 +72,9 @@ _At any Time_
 
 ##### The following Confession of Sin may then be said; or the Office may continue at once with “Lord, open our lips.”
 
-{{% office/confession1 %}}
+{{% office/mp/confession/long %}}
 ##### or this
-{{% office/confession2 %}}
+{{% office/mp/confession/short %}}
 
 {{% office/mp/invitatory/intro %}}
 

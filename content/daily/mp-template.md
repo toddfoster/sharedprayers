@@ -4,79 +4,31 @@ date: 2021-02-12
 bcppage: 75ff.
 note: Template
 season: lent
-day: monday
+weekday: monday
 ---
 
-##### The Officiant begins the service with one or more of these sentences of Scripture, or with the versicle “Lord, open our lips” on page 80.
+{{% office/mp/sentence %}}
+{{% comment %}}
+office/mp/sentence can be used in three ways:
+  1. pass it the name of a sentence in office/mp/sentence
+  2. pass it a path in quotes (e.g., "choose/any/tuesday")
+  3. it will implicitly take season and weekday from the frontmatter
+        and choose a sentence in office/mp/sentence/choose
+{{% /comment %}}
 
-_Advent_
-
-{{% office/mp/sentence/advent1 %}}
-{{% office/mp/sentence/advent2 %}}
-{{% office/mp/sentence/advent3 %}}
-
-_Christmas_
-
-{{% office/mp/sentence/xmas1 %}}
-{{% office/mp/sentence/xmas2 %}}
-
-_Epiphany_
-
-{{% office/mp/sentence/epiphany1 %}}
-{{% office/mp/sentence/epiphany2 %}}
-{{% office/mp/sentence/epiphany3 %}}
-
-_Lent_
-
-{{% office/mp/sentence/lent1 %}}
-{{% office/mp/sentence/lent2 %}}
-{{% office/mp/sentence/lent3 %}}
-{{% office/mp/sentence/lent4 %}}
-{{% office/mp/sentence/lent5 %}}
-
-_Holy Week_
-
-{{% office/mp/sentence/holyweek1 %}}
-{{% office/mp/sentence/holyweek2 %}}
-
-_Easter Season, including Ascension Day and the Day of Pentecost_
-
-{{% office/mp/sentence/easter1 %}}
-{{% office/mp/sentence/easter2 %}}
-{{% office/mp/sentence/easter3 %}}
-{{% office/mp/sentence/easter4 %}}
-{{% office/mp/sentence/easter5 %}}
-{{% office/mp/sentence/easter6 %}}
-
-_Trinity Sunday_
-
-{{% office/mp/sentence/trinity %}}
-
-_All Saints and other Major Saints’ Days_
-
-{{% office/mp/sentence/saints1 %}}
-{{% office/mp/sentence/saints2 %}}
-{{% office/mp/sentence/saints3 %}}
-
-_Occasions of Thanksgiving_
-
-{{% office/mp/sentence/thanksgiving %}}
-
-_At any Time_
-{{% office/mp/sentence/any1 %}}
-{{% office/mp/sentence/any2 %}}
-{{% office/mp/sentence/any3 %}}
-{{% office/mp/sentence/any4 %}}
-{{% office/mp/sentence/any5 %}}
-{{% office/mp/sentence/any6 %}}
-{{% office/mp/sentence/any7 %}}
-
+{{% office/mp/confession %}}
+{{% comment %}}
+office/mp/confession can be used in two ways:
+1. specify "short" or "long" as a parameter
+2. it will implicitly take the weekday from frontmatter
+     and choose from office/mp/confession/choose
+{{% /comment %}}
 
 ##### The following Confession of Sin may then be said; or the Office may continue at once with “Lord, open our lips.”
 
-{{% office/confession1 %}}
+{{% office/mp/confession/long %}}
 ##### or this
-{{% office/confession2 %}}
+{{% office/mp/confession/short %}}
 
 {{% office/mp/invitatory/intro %}}
 
