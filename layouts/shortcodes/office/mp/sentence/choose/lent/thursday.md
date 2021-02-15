@@ -1,0 +1,1 @@
+To the Lord our God belong mercy and forgiveness, because we have rebelled against him and have not obeyed the voice of the Lord our God by following his laws which he set before us. _(Daniel 9:9, 10)_

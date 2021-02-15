@@ -1,10 +1,8 @@
 ---
 title: Daily Morning Prayer, Rite Two
-date: 2021-02-12
+date: 2021-02-15
 bcppage: 75ff.
-note: Template
-season: lent
-day: monday
+note: Full template- just cut out what you don't want
 ---
 
 ##### The Officiant begins the service with one or more of these sentences of Scripture, or with the versicle “Lord, open our lips” on page 80.
