@@ -183,7 +183,7 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% office/mp/suffragesb %}}
+{{% office/mp/suffrages/b %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -191,11 +191,11 @@ _Collect Proper to the Day_
 
 {{% propercollect christmas1 %}}
 
-{{% office/mp/collect-sundays %}}
+{{% office/mp/collect/sundays %}}
 
 {{% collects/20-ForTheSick-covid %}}
 
-{{% office/mp/mission1-unison %}}
+{{% office/mp/mission/1-unison %}}
 
 ##### Here may be sung a hymn or anthem.
 
@@ -215,7 +215,7 @@ Officiant:
 **People:**
 > **Thanks be to God.**
 
-{{% office/mp/conclusion-thegrace %}}
+{{% office/mp/conclusion/thegrace %}}
 
 --------------
 

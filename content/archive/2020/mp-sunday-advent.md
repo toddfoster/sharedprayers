@@ -91,17 +91,17 @@ Officiant:
 
 {{% lordsprayer1 %}}
 
-{{% office/mp/suffragesa %}}
+{{% office/mp/suffrages/a %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 _Collect Proper to the Day_
 
-{{% office/mp/collect-sundays %}}
+{{% office/mp/collect/sundays %}}
 
 {{% collects/20-ForTheSick %}}
 
-{{% office/mp/prayer-mission1 %}}
+{{% office/mp/mission/1 %}}
 
 ##### Here may be sung a hymn or anthem.
 

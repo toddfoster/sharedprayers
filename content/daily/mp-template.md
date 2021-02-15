@@ -8,65 +8,65 @@ bcppage: 75ff.
 
 _Advent_
 
-{{% office/mp/sentence-advent-1 %}}
-{{% office/mp/sentence-advent-2 %}}
-{{% office/mp/sentence-advent-3 %}}
+{{% office/mp/sentence/advent1 %}}
+{{% office/mp/sentence/advent2 %}}
+{{% office/mp/sentence/advent3 %}}
 
 _Christmas_
 
-{{% office/mp/sentence-xmas-1 %}}
-{{% office/mp/sentence-xmas-2 %}}
+{{% office/mp/sentence/xmas1 %}}
+{{% office/mp/sentence/xmas2 %}}
 
 _Epiphany_
 
-{{% office/mp/sentence-epiphany-1 %}}
-{{% office/mp/sentence-epiphany-2 %}}
-{{% office/mp/sentence-epiphany-3 %}}
+{{% office/mp/sentence/epiphany1 %}}
+{{% office/mp/sentence/epiphany2 %}}
+{{% office/mp/sentence/epiphany3 %}}
 
 _Lent_
 
-{{% office/mp/sentence-lent-1 %}}
-{{% office/mp/sentence-lent-2 %}}
-{{% office/mp/sentence-lent-3 %}}
-{{% office/mp/sentence-lent-4 %}}
-{{% office/mp/sentence-lent-5 %}}
+{{% office/mp/sentence/lent1 %}}
+{{% office/mp/sentence/lent2 %}}
+{{% office/mp/sentence/lent3 %}}
+{{% office/mp/sentence/lent4 %}}
+{{% office/mp/sentence/lent5 %}}
 
 _Holy Week_
 
-{{% office/mp/sentence-holyweek-1 %}}
-{{% office/mp/sentence-holyweek-2 %}}
+{{% office/mp/sentence/holyweek1 %}}
+{{% office/mp/sentence/holyweek2 %}}
 
 _Easter Season, including Ascension Day and the Day of Pentecost_
 
-{{% office/mp/sentence-easter-1 %}}
-{{% office/mp/sentence-easter-2 %}}
-{{% office/mp/sentence-easter-3 %}}
-{{% office/mp/sentence-easter-4 %}}
-{{% office/mp/sentence-easter-5 %}}
-{{% office/mp/sentence-easter-6 %}}
+{{% office/mp/sentence/easter1 %}}
+{{% office/mp/sentence/easter2 %}}
+{{% office/mp/sentence/easter3 %}}
+{{% office/mp/sentence/easter4 %}}
+{{% office/mp/sentence/easter5 %}}
+{{% office/mp/sentence/easter6 %}}
 
 _Trinity Sunday_
 
-{{% office/mp/sentence-trinity %}}
+{{% office/mp/sentence/trinity %}}
 
 _All Saints and other Major Saints’ Days_
 
-{{% office/mp/sentence-saints-1 %}}
-{{% office/mp/sentence-saints-2 %}}
-{{% office/mp/sentence-saints-3 %}}
+{{% office/mp/sentence/saints1 %}}
+{{% office/mp/sentence/saints2 %}}
+{{% office/mp/sentence/saints3 %}}
 
 _Occasions of Thanksgiving_
 
-{{% office/mp/sentence-thanksgiving %}}
+{{% office/mp/sentence/thanksgiving %}}
 
 _At any Time_
-{{% office/mp/sentence-any-1 %}}
-{{% office/mp/sentence-any-2 %}}
-{{% office/mp/sentence-any-3 %}}
-{{% office/mp/sentence-any-4 %}}
-{{% office/mp/sentence-any-5 %}}
-{{% office/mp/sentence-any-6 %}}
-{{% office/mp/sentence-any-7 %}}
+{{% office/mp/sentence/any1 %}}
+{{% office/mp/sentence/any2 %}}
+{{% office/mp/sentence/any3 %}}
+{{% office/mp/sentence/any4 %}}
+{{% office/mp/sentence/any5 %}}
+{{% office/mp/sentence/any6 %}}
+{{% office/mp/sentence/any7 %}}
 
 
 ##### The following Confession of Sin may then be said; or the Office may continue at once with “Lord, open our lips.”
@@ -92,48 +92,48 @@ _Except in Lent, add_ **Alleluia.**
 ##### One of the following Antiphons may be sung or said with the Invitatory Psalm
 
 ##### In Advent
-{{% office/mp/antiphon-advent %}}
+{{% office/mp/antiphon/advent %}}
 
 ##### On the Twelve Days of Christmas
-{{% office/mp/antiphon-xmas %}}
+{{% office/mp/antiphon/xmas %}}
 
 ##### From the Epiphany through the Baptism of Christ, and on the Feasts of the Transfiguration and Holy Cross
-{{% office/mp/antiphon-epiphany %}}
+{{% office/mp/antiphon/epiphany %}}
 
 ##### In Lent
-{{% office/mp/antiphon-lent %}}
+{{% office/mp/antiphon/lent %}}
 
 ##### From Easter Day until the Ascension
-{{% office/mp/antiphon-easter %}}
+{{% office/mp/antiphon/easter %}}
 
 ##### From Ascension Day until the Day of Pentecost
-{{% office/mp/antiphon-ascension %}}
+{{% office/mp/antiphon/ascension %}}
 
 ##### On the Day of Pentecost
-{{% office/mp/antiphon-pentecost %}}
+{{% office/mp/antiphon/pentecost %}}
 
 ##### On Trinity Sunday
-{{% office/mp/antiphon-trinity %}}
+{{% office/mp/antiphon/trinity %}}
 
 ##### On other Sundays and weekdays
-{{% office/mp/antiphon-other-1 %}}
+{{% office/mp/antiphon/other-1 %}}
 
 ##### or this
-{{% office/mp/antiphon-other-2 %}}
+{{% office/mp/antiphon/other-2 %}}
 
 ##### or this
-{{% office/mp/antiphon-other-3 %}}
+{{% office/mp/antiphon/other-3 %}}
 
 
 ##### The Alleluias in the following Antiphons are used only in Easter Season.
 
 ##### On Feasts of the Incarnation
-{{% office/mp/antiphon-incarnationeaster %}}
-{{% office/mp/antiphon-incarnation %}}
+{{% office/mp/antiphon/incarnationeaster %}}
+{{% office/mp/antiphon/incarnation %}}
 
 ##### On All Saints and other Major Saints’ Days
-{{% office/mp/antiphon-saintseaster %}}
-{{% office/mp/antiphon-saints %}}
+{{% office/mp/antiphon/saintseaster %}}
+{{% office/mp/antiphon/saints %}}
 
 {{% office/mp/venite %}}
 
@@ -201,27 +201,27 @@ _Reader:_
 ##### Then follows one of these sets of Suffrages
 
 **A**
-{{% office/mp/suffragesa %}}
+{{% office/mp/suffrages/a %}}
 
 **B**
-{{% office/mp/suffragesb %}}
+{{% office/mp/suffrages/b %}}
 
 ##### The Officiant then says one or more of the following Collects
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 _Collect Proper to the Day_
 
-{{% office/mp/collect-sundays %}}
-{{% office/mp/collect-fridays %}}
-{{% office/mp/collect-saturdays %}}
-{{% office/mp/collect-renewal %}}
-{{% office/mp/collect-peace %}}
-{{% office/mp/collect-grace %}}
-{{% office/mp/collect-guidance %}}
+{{% office/mp/collect/sundays %}}
+{{% office/mp/collect/fridays %}}
+{{% office/mp/collect/saturdays %}}
+{{% office/mp/collect/renewal %}}
+{{% office/mp/collect/peace %}}
+{{% office/mp/collect/grace %}}
+{{% office/mp/collect/guidance %}}
 
-{{% office/mp/prayer-mission1 %}}
-{{% office/mp/prayer-mission2 %}}
-{{% office/mp/prayer-mission3 %}}
+{{% office/mp/mission/1 %}}
+{{% office/mp/mission/2 %}}
+{{% office/mp/mission/3 %}}
 
 ##### Here may be sung a hymn or anthem.
 
@@ -240,8 +240,8 @@ Officiant:
 
 ##### From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.
 
-{{% office/mp/conclusion-thegrace %}}
-{{% office/mp/conclusion-maythegod %}}
-{{% office/mp/conclusion-glorytogod %}}
+{{% office/mp/conclusion/thegrace %}}
+{{% office/mp/conclusion/maythegod %}}
+{{% office/mp/conclusion/glorytogod %}}
 
 {{% nrsv %}}

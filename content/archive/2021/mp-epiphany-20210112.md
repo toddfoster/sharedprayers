@@ -15,11 +15,11 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 {{% office/mp/invitatoryintro %}}
 
-{{% office/mp/antiphon-worshipthelord %}}
+{{% office/mp/antiphon/worshipthelord %}}
 
 {{% office/mp/venite %}}
 
-{{% office/mp/antiphon-worshipthelord %}}
+{{% office/mp/antiphon/worshipthelord %}}
 
 ### Psalms 5, 6
 ##### The People are seated.
@@ -197,7 +197,7 @@ Officiant:
 
 {{% lordsprayer2 %}}
 
-{{% office/mp/suffragesb %}}
+{{% office/mp/suffrages/b %}}
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
@@ -205,13 +205,13 @@ _Collect Proper to the Day_
 
 {{% propercollect epiphany1 %}}
 
-{{% office/mp/collect-peace %}}
+{{% office/mp/collect/peace %}}
 
 {{% collects/20-ForTheSick-covid %}}
 
 {{% collects/17-ForTheNation %}}
 
-{{% office/mp/prayer-mission1 %}}
+{{% office/mp/mission/1 %}}
 
 ##### Here may be sung a hymn or anthem.
 
