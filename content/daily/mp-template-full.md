@@ -108,13 +108,13 @@ _At any Time_
 {{% office/mp/antiphon/trinity %}}
 
 ##### On other Sundays and weekdays
-{{% office/mp/antiphon/other-1 %}}
+{{% office/mp/antiphon/other1 %}}
 
 ##### or this
-{{% office/mp/antiphon/other-2 %}}
+{{% office/mp/antiphon/other2 %}}
 
 ##### or this
-{{% office/mp/antiphon/other-3 %}}
+{{% office/mp/antiphon/other3 %}}
 
 
 ##### The Alleluias in the following Antiphons are used only in Easter Season.

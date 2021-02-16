@@ -32,51 +32,24 @@ This can be over-ridden by passing a parameter: "lent" or not.
 
 ##### Then follows one of the Invitatory Psalms, Venite or Jubilate.
 
-##### One of the following Antiphons may be sung or said with the Invitatory Psalm
+{{% office/mp/antiphon %}}
+{{% comment %}}
+office/mp/antiphon can be called with the name of the antiphon in office/mp/antiphon/
+Or it will try to find an antiphon matching the frontmatter season.
 
-##### In Advent
-{{% office/mp/antiphon/advent %}}
+Or you can call office/mp/antiphon/other (with optional parameter of a day of the week)
+to use the three "Other" antiphons as divvied up for the days of the week.
 
-##### On the Twelve Days of Christmas
-{{% office/mp/antiphon/xmas %}}
+TODO: Antiphons are a bit more detailed than this. During the weeks when Epiphany
+and Ascension occur, they can change mid-week. There are also special antiphons for
+the Day of Pentecost and Trinity Sunday. And for Feasts of the Incarnation and Other
+Major Saints Days. And All Saints. That's a lot of detail.
 
-##### From the Epiphany through the Baptism of Christ, and on the Feasts of the Transfiguration and Holy Cross
-{{% office/mp/antiphon/epiphany %}}
-
-##### In Lent
-{{% office/mp/antiphon/lent %}}
-
-##### From Easter Day until the Ascension
-{{% office/mp/antiphon/easter %}}
-
-##### From Ascension Day until the Day of Pentecost
-{{% office/mp/antiphon/ascension %}}
-
-##### On the Day of Pentecost
-{{% office/mp/antiphon/pentecost %}}
-
-##### On Trinity Sunday
-{{% office/mp/antiphon/trinity %}}
-
-##### On other Sundays and weekdays
-{{% office/mp/antiphon/other-1 %}}
-
-##### or this
-{{% office/mp/antiphon/other-2 %}}
-
-##### or this
-{{% office/mp/antiphon/other-3 %}}
+TODO: Antiphon comes before and after invitatory. Need a single command to avoid
+double-entry error.
+{{% /comment %}}
 
 
-##### The Alleluias in the following Antiphons are used only in Easter Season.
-
-##### On Feasts of the Incarnation
-{{% office/mp/antiphon/incarnationeaster %}}
-{{% office/mp/antiphon/incarnation %}}
-
-##### On All Saints and other Major Saints’ Days
-{{% office/mp/antiphon/saintseaster %}}
-{{% office/mp/antiphon/saints %}}
 
 {{% office/mp/invitatory/venite %}}
 
