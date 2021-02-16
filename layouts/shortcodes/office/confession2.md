@@ -1,4 +1,4 @@
-### Confession of Sin
+## Confession of Sin
 Officiant:
 > Let us confess our sins against God and our neighbor.
 
