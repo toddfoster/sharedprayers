@@ -24,14 +24,11 @@ office/mp/confession can be used in two ways:
      and choose from office/mp/confession/choose
 {{% /comment %}}
 
-##### The following Confession of Sin may then be said; or the Office may continue at once with “Lord, open our lips.”
-
-{{% office/mp/confession/long %}}
-##### or this
-{{% office/mp/confession/short %}}
-
 {{% office/mp/invitatory/intro %}}
-
+{{% comment %}}
+office/mp/invitatory/intro by default add Alleluia if frontmatter season doesn't set lent.
+This can be over-ridden by passing a parameter: "lent" or not.
+{{% /comment %}}
 
 ##### Then follows one of the Invitatory Psalms, Venite or Jubilate.
 
