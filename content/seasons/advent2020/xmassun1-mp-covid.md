@@ -201,7 +201,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/mp/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 
 
 #### 10.30am Carol: _It came upon a midnight clear_ (Hymnal 89)

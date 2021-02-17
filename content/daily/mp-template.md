@@ -3,8 +3,8 @@ title: Daily Morning Prayer, Rite Two
 date: 2021-02-12
 bcppage: 75ff.
 note: Template
-season: pentecost
-weekday: friday
+season: advent
+weekday: tuesday
 ---
 
 {{% office/mp/sentence %}}
@@ -88,6 +88,17 @@ _Reader:_
 
 {{% office/mp/canticle/second %}}
 
+_Reader:_
+> A Reading (Lesson) from _____________.
+
+> ...
+
+_Reader:_
+> The Word of the Lord.
+
+**People:**
+> Thanks be to God.
+
 {{% office/apostlescreed %}}
 
 # The Prayers
@@ -122,22 +133,31 @@ or point to day of week (e.g., "choose/sunday")
 ##### Here may be sung a hymn or anthem.
 
 ##### Authorized intercessions and thanksgivings may follow.
-##### Before the close of the Office one or both of the following may be used
 
-{{% office/mp/generalthanksgiving %}}
-{{% office/mp/prayer-chrysostom %}}
+{{% office/mp/beforetheclose %}}
+{{% comment %}}
+Uses front matter to decide day of week for the
+general thanks giving or prayer of St. Chrysostom.
+override with parameter
+Parameter can be name of prayer (e.g., generalthanksgiving)
+or point to day of week (e.g., "choose/sunday")
+{{% /comment %}}
 
-##### Then may be said
-Officiant:
-> Let us bless the Lord.
+{{% office/mp/letusbless %}}
+{{% comment %}}
+Uses front matter to decide whether or not it to
+add the Alleluias for Easter, or 
+override with parameter for name of season.
+{{% /comment %}}
 
-**People:**
-> **Thanks be to God.**
-
-##### From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.
-
-{{% office/mp/conclusion/thegrace %}}
-{{% office/mp/conclusion/maythegod %}}
-{{% office/mp/conclusion/glorytogod %}}
+{{% office/mp/conclusion %}}
+{{% comment %}}
+Uses front matter to decide day of week for the conclusion.
+override with parameter
+Parameter can be the first two/three words 
+(e.g., thegrace, maythegod, glorytogod)
+or point to day of week (e.g., "choose/sunday")
+{{% /comment %}}
 
 {{% nrsv %}}
+	

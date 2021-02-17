@@ -220,8 +220,8 @@ _Collect Proper to the Day_
 ##### Authorized intercessions and thanksgivings may follow.
 ##### Before the close of the Office one or both of the following may be used
 
-{{% office/mp/generalthanksgiving %}}
-{{% office/mp/prayer-chrysostom %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
+{{% office/mp/beforetheclose/prayer-chrysostom %}}
 
 ##### Then may be said
 Officiant:
