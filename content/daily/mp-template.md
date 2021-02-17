@@ -7,6 +7,12 @@ season: advent
 weekday: tuesday
 ---
 
+{{% comment %}}
+TODO
+
+Package up into a single shortcode? While allowing lessons to be provided? Maybe have to settle for fewer shortcodes: roll them up like invitatory already is a combination of two others. Allow collect for the liturgical week or event to be provided as well.
+{{% /comment %}}
+
 {{% office/mp/sentence %}}
 {{% comment %}}
 office/mp/sentence can be used in three ways:
