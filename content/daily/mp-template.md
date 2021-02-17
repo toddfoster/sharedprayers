@@ -4,7 +4,7 @@ date: 2021-02-12
 bcppage: 75ff.
 note: Template
 season: pentecost
-weekday: tuesday
+weekday: friday
 ---
 
 {{% office/mp/sentence %}}
@@ -102,22 +102,22 @@ _Reader:_
 Uses front matter to decide day of week; override with parameter
 {{% /comment %}}
 
-##### The Officiant then says one or more of the following Collects
-##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
-
 _Collect Proper to the Day_
 
-{{% office/mp/collect/sundays %}}
-{{% office/mp/collect/fridays %}}
-{{% office/mp/collect/saturdays %}}
-{{% office/mp/collect/renewal %}}
-{{% office/mp/collect/peace %}}
-{{% office/mp/collect/grace %}}
-{{% office/mp/collect/guidance %}}
+{{% office/mp/collect %}}
+{{% comment %}}
+Uses front matter to decide day of week for collect; override with parameter
+Parameter can be name of collect (e.g., guidance) 
+or point to day of week (e.g., "choose/sunday")
+{{% /comment %}}
 
-{{% office/mp/mission/1 %}}
-{{% office/mp/mission/2 %}}
-{{% office/mp/mission/3 %}}
+{{% office/mp/mission %}}
+{{% comment %}}
+Uses front matter to decide day of week for prayer for mission
+override with parameter
+Parameter can be name of prayer (e.g., "1" or "2" or "3") 
+or point to day of week (e.g., "choose/sunday")
+{{% /comment %}}
 
 ##### Here may be sung a hymn or anthem.
 
