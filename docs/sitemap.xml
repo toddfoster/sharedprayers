@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/daily/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +14,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,16 +69,31 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/seasons/lent/ashwednesday-covid/</loc>
-    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/archive/2021/he-covid-lent1/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/he-current/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp-template-full/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/seasons/lent/ashwednesday-covid/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +119,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/he-covid-epiphanylast/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/archive/he-current/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
