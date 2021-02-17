@@ -3,8 +3,8 @@ title: Daily Morning Prayer, Rite Two
 date: 2021-02-12
 bcppage: 75ff.
 note: Template
-season: lent
-weekday: monday
+season: pentecost
+weekday: sunday
 ---
 
 {{% office/mp/sentence %}}
@@ -24,17 +24,19 @@ office/mp/confession can be used in two ways:
      and choose from office/mp/confession/choose
 {{% /comment %}}
 
-{{% office/mp/invitatory/intro %}}
+{{% office/mp/invitatory  %}}
 {{% comment %}}
-office/mp/invitatory/intro by default add Alleluia if frontmatter season doesn't set lent.
+office/mp/invitatory strives to choose antiphon and invitatory
+from the front matter. 
+Override parameters = season invitatory
+Must specify season in order to specify invitatory; by default,
+invitatory is chosen according to the season.
+
+Other commands (not very DRY):
+- office/mp/invitatory/intro by default add Alleluia if frontmatter season doesn't set lent.
 This can be over-ridden by passing a parameter: "lent" or not.
-{{% /comment %}}
 
-##### Then follows one of the Invitatory Psalms, Venite or Jubilate.
-
-{{% office/mp/antiphon %}}
-{{% comment %}}
-office/mp/antiphon can be called with the name of the antiphon in office/mp/antiphon/
+- office/mp/antiphon can be called with the name of the antiphon in office/mp/antiphon/
 Or it will try to find an antiphon matching the frontmatter season.
 
 Or you can call office/mp/antiphon/other (with optional parameter of a day of the week)
@@ -47,19 +49,9 @@ Major Saints Days. And All Saints. That's a lot of detail.
 
 TODO: Antiphon comes before and after invitatory. Need a single command to avoid
 double-entry error.
+
+- office/mp/invitatory/venite (etc.) can be called directly: invitatory only, no intro/antiphon
 {{% /comment %}}
-
-
-
-{{% office/mp/invitatory/venite %}}
-
-##### or Psalm 95, page 724.
-
-{{% office/mp/invitatory/jubilate %}}
-
-##### In Easter Week, in place of an Invitatory Psalm, the following is sung or said. It may also be used daily until the Day of Pentecost.
-
-{{% office/mp/invitatory/christourpassover %}}
 
 ##### Then follows
 ## The Psalm or Psalms Appointed
@@ -67,12 +59,10 @@ double-entry error.
 {{% office/gloriapatri %}}
 
 # The Lessons
-##### One or two Lessons, as appointed, are read, the Reader first saying
-
 _Reader:_
 > A Reading (Lesson) from _____________.
 
-##### A citation giving chapter and verse may be added. After each Lesson the Reader may say
+> ...
 
 _Reader:_
 > The Word of the Lord.
@@ -80,26 +70,23 @@ _Reader:_
 **People:**
 > Thanks be to God.
 
-##### Or the Reader may say
+{{% office/mp/canticle/first %}}
+{{% comment %}}
+Uses front matter to get season, weekday;
+Can override by providing parameters in that order
+{{% /comment %}}
 _Reader:_
-> Here ends the Lesson (Reading).
+> A Reading (Lesson) from _____________.
 
-##### Silence may be kept after each Reading. One of the following Canticles, or one of those on pages 47-52 (Canticles 1-7), is sung or said after each Reading. If three Lessons are used, the Lesson from the Gospel is read after the second Canticle.
+> ...
 
-{{% canticles/8-cantemus %}}
-{{% canticles/9-ecce %}}
-{{% canticles/10-quaerite %}}
-{{% canticles/11-surge %}}
-{{% canticles/12-benedicite %}}
-{{% canticles/13-benedictuses %}}
-{{% canticles/14-kyrie %}}
-{{% canticles/15-magnificat %}}
-{{% canticles/16-benedictusdominus %}}
-{{% canticles/17-nunc %}}
-{{% canticles/18-dignus %}}
-{{% canticles/19-magna %}}
-{{% canticles/20-gloria %}}
-{{% canticles/21-tedeum %}}
+_Reader:_
+> The Word of the Lord.
+
+**People:**
+> Thanks be to God.
+
+{{% office/mp/canticle/second %}}
 
 {{% office/apostlescreed %}}
 
@@ -107,10 +94,6 @@ _Reader:_
 
 ##### The people stand or kneel
 {{% letuspray %}}
-
-{{% lordsprayer1 %}}
-
-##### or
 
 {{% lordsprayer2 %}}
 
