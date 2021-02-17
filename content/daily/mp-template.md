@@ -4,7 +4,7 @@ date: 2021-02-12
 bcppage: 75ff.
 note: Template
 season: pentecost
-weekday: sunday
+weekday: tuesday
 ---
 
 {{% office/mp/sentence %}}
@@ -97,13 +97,10 @@ _Reader:_
 
 {{% lordsprayer2 %}}
 
-##### Then follows one of these sets of Suffrages
-
-**A**
-{{% office/mp/suffrages/a %}}
-
-**B**
-{{% office/mp/suffrages/b %}}
+{{% office/mp/suffrages %}}
+{{% comment %}}
+Uses front matter to decide day of week; override with parameter
+{{% /comment %}}
 
 ##### The Officiant then says one or more of the following Collects
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.

@@ -1,4 +1,4 @@
-### Suffrages
+### Suffrages B
 
 ##### Officiant & People call and respond:
 
