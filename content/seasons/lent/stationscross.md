@@ -17,7 +17,7 @@ _Presider:_
 > Lord, have mercy.
 
 **People:**
-> Christ, have mercy.
+> **Christ, have mercy.**
 
 _Presider:_
 > Lord, have mercy.
@@ -39,7 +39,7 @@ _Presider:_
 > V. We will glory in the cross of our Lord Jesus Christ: 
 
 **People:**
-> R. In whom is our salvation, our life and resurrection.
+> R. **In whom is our salvation, our life and resurrection.**
 
 _Presider:_
 > Let us pray. 
@@ -59,7 +59,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > As soon as it was morning, the chief priests, with the elders and scribes, and the whole council, held a consultation; and they bound Jesus and led him away and delivered him to Pilate. And they all condemned him and said, “He deserves to die.” When Pilate heard these words, he brought Jesus out and sat down on the judgment seat at a place called the Pavement, but in the Hebrew, Gabbatha. Then he handed Jesus over to them to be crucified.
@@ -68,7 +68,7 @@ _Reader:_
 > V. God did not spare his own Son: 
 
 **People:**
-> R. But delivered him up for us all.
+> R. **But delivered him up for us all.**
 
 _Presider:_
 > Let us pray. 
@@ -93,7 +93,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > Jesus went out, bearing his own cross, to the place called the place of a skull, which is called in Hebrew, Golgotha. Although he was a Son, he learned obedience through what he suffered. Like a lamb he was led to the slaughter; and like a sheep that before its shearers is mute, so he opened not his mouth. Worthy is the Lamb who was slain, to receive power and riches and wisdom and strength and honor and glory and blessing.
@@ -102,7 +102,7 @@ _Reader:_
 > V. The Lord has laid on him the iniquity of us all:
 
 **People:**
-> R. For the transgression of my people was he stricken.
+> R. **For the transgression of my people was he stricken.**
 
 _Presider:_
 > Let us pray. 
@@ -128,7 +128,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > Christ Jesus, though he was in the form of God, did not count equality with God a thing to be grasped; but emptied himself, taking the form of a servant, and was born in human likeness. And being found in human form he humbled himself and became obedient unto death, even death on a cross. Therefore God has highly exalted him, and bestowed on him the name which is above every name. Come, let us bow down, and bend the knee, and kneel before the Lord our Maker, for he is the Lord our God.
@@ -137,7 +137,7 @@ _Reader:_
 > V. Surely he has borne our griefs: 
 
 **People:**
-> R. And carried our sorrows.
+> R. **And carried our sorrows.**
 
 _Presider:_
 > Let us pray. 
@@ -163,7 +163,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > To what can I liken you, to what can I compare you, O daughter of Jerusalem? What likeness can I use to comfort you, O virgin daughter of Zion? For vast as the sea is your ruin. Blessed are those who mourn, for they shall be comforted. The Lord will be your everlasting light, and your days of mourning shall be ended.
@@ -172,7 +172,7 @@ _Reader:_
 > V. A sword will pierce your own soul also: 
 
 **People:**
-> R. And fill your heart with bitter pain.
+> R. **And fill your heart with bitter pain.**
 
 _Presider:_
 > Let us pray. 
@@ -198,7 +198,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > As they led Jesus away, they came upon a man of Cyrene, Simon by name, who was coming in from the country, and laid on him the cross to carry it behind Jesus. “If anyone would come after me, let him deny himself and take up his cross and follow me. Take my yoke upon you, and learn from me; for my yoke is easy, and my burden is light.”
@@ -207,7 +207,7 @@ _Reader:_
 > V. Whoever does not bear his own cross and come after me: 
 
 **People:**
-> R. Cannot be my disciple.
+> R. **Cannot be my disciple.**
 
 _Presider:_
 > Let us pray. 
@@ -233,7 +233,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > We have seen him without beauty or majesty, with no looks to attract our eyes. He was despised and rejected by men; a man of sorrows, and acquainted with grief; and as one from whom men hide their faces, he was despised, and we esteemed him not. His appearance was so marred, beyond human semblance, and his form beyond that of the children of men. But he was wounded for our transgressions, he was bruised for our iniquities; upon him was the chastisement that made us whole, and with his stripes we are healed.
@@ -243,7 +243,7 @@ _Reader:_
 
 
 **People:**
-> R. Show the light of your countenance, and we shall be saved.
+> R. **Show the light of your countenance, and we shall be saved.**
 
 _Presider:_
 > Let us pray. 
@@ -269,7 +269,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > Surely, he has borne our griefs and carried our sorrows. All we like sheep have gone astray; we have turned every one to his own way; and the Lord has laid on him the iniquity of us all. He was oppressed, and he was afflicted, yet he opened not his mouth. For the transgression of my people was he stricken.
@@ -278,7 +278,7 @@ _Reader:_
 > V. But as for me, I am a worm and no man: 
 
 **People:**
-> R. Scorned by all and despised by the people.
+> R. **Scorned by all and despised by the people.**
 
 _Presider:_
 > Let us pray. 
@@ -304,7 +304,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > There followed after Jesus a great multitude of the people, and among them were women who bewailed and lamented him. But Jesus turning to them said, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.”
@@ -313,7 +313,7 @@ _Reader:_
 > V. Those who sowed with tears: 
 
 **People:**
-> R. Will reap with songs of joy.
+> R. **Will reap with songs of joy.**
 
 _Presider:_
 > Let us pray. 
@@ -339,7 +339,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > I am the man who has seen affliction under the rod of his wrath; he has driven and brought me into darkness without any light. He has besieged me and enveloped me with bitterness and tribulation; he has made me dwell in darkness like the dead of long ago. Though I call and cry for help, he shuts out my prayer. He has made my teeth grind on gravel, and made me cower in ashes. “Remember, O Lord, my affliction and bitterness, the wormwood and the gall!”
@@ -349,11 +349,10 @@ _Reader:_
 
 
 **People:**
-> R. And like a sheep that before its shearers is mute, so he
+> R. **And like a sheep that before its shearers is mute, so he opened not his mouth.**
 
 _Presider:_
-> opened not his mouth.
-Let us pray. 
+> Let us pray. 
 
 ##### (Silence)
 
@@ -376,7 +375,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > When they came to a place called Golgotha (which means the place of a skull), they offered him wine to drink, mingled with gall; but when he tasted it, he would not drink it. And they divided his garments among them by casting lots. This was to fulfill the scripture which says, “They divided my garments among them; they cast lots for my clothing.”
@@ -386,7 +385,7 @@ _Reader:_
 
 
 **People:**
-> R. And when I was thirsty they gave me vinegar to drink.
+> R. **And when I was thirsty they gave me vinegar to drink.**
 
 _Presider:_
 > Let us pray. 
@@ -412,7 +411,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > When they came to the place which is called The Skull, there they crucified him; and with him they crucified two criminals, one on the right, the other on the left, and Jesus between them. And the scripture was fulfilled which says, “He was numbered with the transgressors.”
@@ -421,7 +420,7 @@ _Reader:_
 > V. They pierce my hands and my feet: 
 
 **People:**
-> R. They stare and gloat over me.
+> R. **They stare and gloat over me.**
 
 _Presider:_
 > Let us pray. 
@@ -447,7 +446,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > When Jesus saw his mother, and the disciple whom he loved standing near, he said to his mother, “Woman, behold your son!” Then he said to the disciple, “Behold your mother!” And when Jesus had received the vinegar, he said, “It is finished!” And then, crying with a loud voice, he said, “Father, into your hands I commend my spirit.” And he bowed his head, and handed over his spirit.
@@ -456,7 +455,7 @@ _Reader:_
 > V. Christ for us became obedient unto death: 
 
 **People:**
-> R. Even death on a cross.
+> R. **Even death on a cross.**
 
 _Presider:_
 > Let us pray. 
@@ -482,7 +481,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > All you who pass by, behold and see if there is any sorrow like my sorrow. My eyes are spent with weeping; my soul is in tumult; my heart is poured out in grief because of the downfall of my people. “Do not call me Naomi (which means Pleasant), call me Mara (which means Bitter); for the Almighty has dealt very bitterly with me.”
@@ -491,7 +490,7 @@ _Reader:_
 > V. Her tears run down her cheeks: 
 
 **People:**
-> R. And she has none to comfort her.
+> R. **And she has none to comfort her.**
 
 _Presider:_
 > Let us pray. 
@@ -517,7 +516,7 @@ _Presider:_
 > We adore you, O Christ, and we bless you:
 
 **People:**
-> Because by your holy cross you have redeemed the world.
+> **Because by your holy cross you have redeemed the world.**
 
 _Reader:_
 > When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. And Joseph took the body, and wrapped it in a clean linen shroud, and laid it in his own new tomb, which he had hewn in the rock; and he rolled a great stone to the door of the tomb.
@@ -526,7 +525,7 @@ _Reader:_
 > V. You will not abandon me to the grave: 
 
 **People:**
-> R. Nor let your holy One see corruption.
+> R. **Nor let your holy One see corruption.**
 
 _Presider:_
 > Let us pray. 

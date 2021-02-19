@@ -9,7 +9,7 @@ title: Shared Prayers
 **Liturgies for this week:**
 
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Ash Wednesday](seasons/lent/ashwednesday-covid)
+- [Stations of the Cross](seasons/lent/stationscross)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
