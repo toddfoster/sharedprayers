@@ -263,6 +263,65 @@ that awake we may watch with Christ, and asleep we may rest in peace.&lt;/strong
     </item>
     
     <item>
+      <title>An Order of Worship for the Evening</title>
+      <link>http://www.sharedprayers.net/about/slides/orderforevening/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.sharedprayers.net/about/slides/orderforevening/</guid>
+      <description>&lt;p&gt;layout: true&lt;br&gt;
+class: middle&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;class: center&lt;/p&gt;
+&lt;h1 id=&#34;an-order-of-worship&#34;&gt;An Order of Worship&lt;/h1&gt;
+&lt;h1 id=&#34;for-the-evening&#34;&gt;for the Evening&lt;/h1&gt;
+&lt;h4 id=&#34;_from-the-book-of-common-prayer-pp-109ff_&#34;&gt;&lt;em&gt;from the Book of Common Prayer, pp. 109ff.&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;???&lt;br&gt;
+emacs was destroying my two-space line breaks.&lt;br&gt;
+Use M-: to evaluate:&lt;br&gt;
+(remove-hook &amp;lsquo;before-save-hook &amp;lsquo;delete-trailing-whitespace)&lt;br&gt;
+Also: M-x electric-indent-mode (to turn off?)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;.smaller[&lt;em&gt;The Officiant begins&lt;/em&gt;]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Light and peace, in Jesus Christ our Lord.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;People&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Officiant&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Let us pray.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Almighty God, we give you thanks for surrounding us, as daylight fades, with the brightness of the vesper light; and we implore you of your great mercy that, as you enfold us with the radiance of this light, so you would shine into our hearts the brightness of your Holy Spirit; through Jesus Christ our Lord. &lt;strong&gt;Amen.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.smaller[&lt;em&gt;The candle is now lighted. During the candle-lighting, silence is kept.&lt;/em&gt;]&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;O gracious Light, Lord Jesus Christ,&lt;br&gt;
+in you the Father&amp;rsquo;s glory shone,&lt;br&gt;
+Immortal, holy, blest is he,&lt;br&gt;
+and blest are you, his holy Son.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Now sunset comes, but light shines forth,&lt;br&gt;
+the lamps are lit to pierce the night,&lt;br&gt;
+Praise Father, Son, and Spirit: God&lt;br&gt;
+who dwells in the eternal light.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Worthy are you of endless praise,&lt;br&gt;
+O Son of God, Life-giving Lord;&lt;br&gt;
+wherefore you are through all the earth&lt;br&gt;
+and in the highest heaven adored.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dwelling-in-the-word&#34;&gt;Dwelling in the Word&lt;/h2&gt;
+&lt;h2 id=&#34;the-lords-prayer&#34;&gt;The Lord&amp;rsquo;s Prayer&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Morning Prayer</title>
       <link>http://www.sharedprayers.net/about/slides/office-mp/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
