@@ -1,16 +1,16 @@
 ---
-title: Daily Morning Prayer - Rite Two - Lent 1
+title: Evening Prayer - Rite Two - Lent 1
 date: 2021-02-20
 proper: lent1
 season: lent
-bcppage: 76ff.
+bcppage: 115ff.
 weekday: sunday
 ---
-{{% office/mp/sentence %}}
+{{% office/ep/sentence "7" %}}
 
-{{% office/mp/confession %}}
+{{% office/ep/confession2 %}}
 
-{{% office/mp/invitatory %}}
+{{% office/ep/invitatory %}}
 
 {{% office/mp/psalm "25:1-9" %}}
 _Ad te, Domine, levavi_
@@ -52,7 +52,7 @@ God said to Noah and to his sons with him, “As for me, I am establishing my co
 ##### Silence may be kept.
 
 ##### The People stand as able.
-{{% office/mp/canticle/first %}}
+{{% office/ep/canticle/first %}}
 ##### The People are seated.
 
 {{% lesson "Second"  "1 Peter 3:18-22" %}}
@@ -61,7 +61,7 @@ Christ also suffered for sins once for all, the righteous for the unrighteous, i
 
 ##### Silence may be kept.
 
-{{% office/mp/canticle/second %}}
+{{% office/ep/canticle/second %}}
 
 {{% lesson "Third" "Mark 1:9-15" %}}
 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And just as he was coming up out of the water, he saw the heavens torn apart and the Spirit descending like a dove on him. And a voice came from heaven, “You are my Son, the Beloved; with you I am well pleased.”
@@ -75,21 +75,14 @@ Now after John was arrested, Jesus came to Galilee, proclaiming the good news of
 
 {{% office/apostlescreed %}}
 
-
 ##### The people stand or kneel
 {{% letuspray %}}
-
 {{% lordsprayer1 %}}
-
-{{% office/mp/suffrages %}}
-
+{{% office/ep/suffragesb %}}
 {{% propercollect %}}
-
 {{% office/mp/collect/sundays %}}
-
 {{% collects/20-ForTheSick-covid %}}
-
-{{% office/mp/mission/1 %}}
+{{% office/mp/mission %}}
 
 {{% lent/greatlitany %}}
 

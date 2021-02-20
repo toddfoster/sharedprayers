@@ -30,6 +30,8 @@ This is a static site to share liturgies for prayer. The top of each liturgy can
 - x Share these prayers as part of a page template?
 - x Scriptures as links to oremus
 - x Optionally embed hymns in the shortcodes?
+- Eliminate "season" front matter in favor of proper (translate for daily office?)
+- Finish tidying up evening prayer
 - Stations of the cross slides / liturgy
 - Nested shortcode parameters via scratch or pipe?
 - Lessons (two parameters: first/second and reference)
