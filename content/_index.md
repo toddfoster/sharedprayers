@@ -8,6 +8,8 @@ title: Shared Prayers
 
 **Liturgies for this week:**
 
+- [Evening Prayer for Lent 1](archive/2021/ep-covid-lent1)
+- [Morning Prayer for Lent 1](archive/2021/mp-covid-lent1)
 - [Holy Eucharist for this Sunday](archive/he-current)
 - [Stations of the Cross](seasons/lent/stationscross)
 

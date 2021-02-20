@@ -1,5 +1,5 @@
 ---
-title: Daily Morning Prayer - Rite Two - Lent 1
+title: Morning Prayer - Rite Two - Lent 1
 date: 2021-02-20
 proper: lent1
 season: lent
