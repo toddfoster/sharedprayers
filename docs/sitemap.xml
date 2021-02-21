@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/daily/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,6 +73,46 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-fri-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-mon-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-sat-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-sun-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-thu-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-tue-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-lent-wed-covid/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/about/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url>
@@ -98,11 +138,6 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/</loc>
-    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.sharedprayers.net/archive/2021/he-covid-lent4-confirmations/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -118,7 +153,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/mp-template-full/</loc>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-template-full/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +163,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/daily/mp-template/</loc>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-template/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
   </url>
   
