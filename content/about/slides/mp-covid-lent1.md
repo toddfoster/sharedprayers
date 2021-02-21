@@ -1,5 +1,5 @@
 ---
-title: Evening Prayer for Lent 1
+title: Morning Prayer for Lent 1
 date: 2021-02-20
 layout: slide
 ---
