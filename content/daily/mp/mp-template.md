@@ -1,5 +1,5 @@
 ---
-title: Daily Morning Prayer, Rite Two
+title: Daily Morning Prayer, Rite Two -- Automated Template
 date: 2021-02-12
 bcppage: 75ff.
 note: Template

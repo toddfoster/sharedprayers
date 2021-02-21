@@ -1,5 +1,5 @@
 ---
-title: Daily Morning Prayer, Rite Two
+title: Daily Morning Prayer, Rite Two - Full Static Template
 date: 2021-02-15
 bcppage: 75ff.
 note: Full template- just cut out what you don't want

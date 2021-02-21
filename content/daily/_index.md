@@ -4,6 +4,8 @@ weight: 50
 ---
 --------
 ### The Daily Office
+* Morning Prayer
+  * [Monday](mp/mp-lent-mon-covid), [Tuesday](mp/mp-lent-tue-covid), [Wednesday](mp/mp-lent-wed-covid), [Thursday](mp/mp-lent-thu-covid), [Friday](mp/mp-lent-fri-covid), [Saturday](mp/mp-lent-sat-covid), [Sunday](mp/mp-lent-sat-covid)
 * [Noonday Prayer](noonday)
     * [9am](noonday-terce), [Noon](noonday-sext), [3pm](noonday-none)
 * [Compline](compline)
