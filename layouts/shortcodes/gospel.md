@@ -2,7 +2,7 @@
 **The Holy Gospel**
 _{{ .Get 0 }}_
 
-{{$gospel :=  strings.TrimRight " .:-0123456789" (.Get 0)}}
+{{$gospel :=  strings.TrimRight " .,:-0123456789" (.Get 0)}}
 Deacon:
 > The Holy Gospel of our Lord Jesus Christ according to {{$gospel}}.
 
