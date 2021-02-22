@@ -54,7 +54,7 @@ That it may please thee to illumine all bishops, priests, and deacons, with true
 That it may please thee to bless and keep all thy people,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to send forth laborers into thy harvest, and to draw all mankind into thy kingdom, 
+That it may please thee to send forth laborers into thy harvest, and to draw all humankind into thy kingdom, 
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to give to all people increase of grace to hear and receive thy Word, and to bring forth the fruits of the Spirit,
@@ -94,7 +94,7 @@ That it may please thee to visit the lonely; to strengthen all who suffer in min
 That it may please thee to support, help, and comfort all who are in danger, necessity, and tribulation,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to have mercy upon all mankind,
+That it may please thee to have mercy upon all people,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to give us true repentance; to forgive us all our sins, negligences, and ignorances; and to endue
