@@ -69,15 +69,7 @@ He called the crowd with his disciples, and said to them, “If any want to beco
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
-## We Respond in Faith
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
-##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% he/peace %}}
-
-{{% rubric-sit %}}
-### The Announcements
-
+{{% stt/2021/lent/he/werespond %}}
 {{% stt/2021/lent/he/weoffer "hymns/levas-184" %}}
 {{% stt/2021/lent/he/wereceive "hymns/levas-1" %}}
 {{% nrsv %}}

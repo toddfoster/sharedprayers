@@ -71,25 +71,7 @@ Deacon:
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
-## We Respond in Faith
-
-{{% rubric-stand %}}
-
-### The Prayers of the People
-
-{{% he/pop-form3 %}}
-
-{{% office/confession2 %}}
-
-{{% rubric-stand %}}
-
-##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
-{{% he/peace %}}
-
-{{% rubric-sit %}}
-
-### The Announcements
-
+{{% stt/2021/lent/he/werespond-weekday %}}
 {{% stt/2021/lent/he/weoffer %}}
 {{% stt/2021/lent/he/wereceive %}}
 {{% nrsv %}}

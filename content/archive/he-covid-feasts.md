@@ -90,7 +90,6 @@ Deacon:
 {{% rubric-sit %}}
 
 ### The Announcements
-
 {{% stt/2021/lent/he/weoffer %}}
 {{% stt/2021/lent/he/wereceive %}}
 {{% nrsv %}}
