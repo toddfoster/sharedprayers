@@ -16,6 +16,8 @@ title: Shared Prayers
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts in Covid-tide](archive/he-covid-feasts)
 
+**Liturgies for pastoral occasions:**
+- Ministration at the time of death [for him](archive/occasions/atdeath-m), [for her](archive/occasions/atdeath-f)
 ------------
 
 {{< sharetheseprayers >}}
