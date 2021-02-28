@@ -9,6 +9,8 @@ bcppage: 355ff.
 ---
 {{% lent/penitentialorder %}}
 
+{{% he/songofpraise/kyrie %}}
+
 ### Salutation and Collect
 {{% letuspray %}}
 
@@ -33,7 +35,7 @@ stand in awe of him, O offspring of Israel;
 but when they cry to him he hears them.**
 
 24 My praise is of him in the great assembly; *
-I will perform my vows 
+I will perform my vows
 	in the presence of those who worship him.
 **25 The poor shall eat and be satisfied,
 	and those who seek the Lord shall praise him: *
@@ -69,7 +71,7 @@ He called the crowd with his disciples, and said to them, “If any want to beco
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
-{{% stt/2021/lent/he/werespond %}}
+{{% stt/2021/lent/he/werespond "let us pray" "Lord, have mercy." %}}
 {{% stt/2021/lent/he/weoffer "hymns/levas-184" %}}
 {{% stt/2021/lent/he/wereceive "hymns/levas-1" %}}
 {{% nrsv %}}
