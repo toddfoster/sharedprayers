@@ -42,8 +42,6 @@ So one of the men who have accompanied us during all the time that the Lord Jesu
 
 {{% psalm-responsive "15" %}}
 
-> **Thanks be to God.**
-
 **The Psalm**
 
 {{% lesson "Second" "Philippians 3:13-21" %}}
