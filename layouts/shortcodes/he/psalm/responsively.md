@@ -1,0 +1,34 @@
+{{/* reference is passed in, by proper, else generic */}}
+{{ $reference := "" }}
+{{ with .Get 0 }}
+  {{ $reference = . }}
+{{ else }}
+    {{ if and $.Page.Params.lectionaryyear $.Page.Params.proper }}
+        {{ $reffile := printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper }}
+        {{ if (fileExists $reffile) }}
+            {{ $reference = $reffile | readFile | safeHTML }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
+{{ if not $reference }}
+##### A Psalm, hymn, or anthem may follow each Reading.
+{{ else }}
+**Psalm** {{ $reference }}
+
+{{/* Text is provide in .Inner or in readings or by oremus */}}
+{{ with .Inner }}
+{{ . | replaceRE "\n" "\n> " | safeHTML }}
+{{ else }}
+{{ $slug := $reference | replaceRE "[.,:;-]*" "" }}
+{{ $filename := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
+    {{ if fileExists $filename }}
+{{ $filename | readFile | replaceRE "\n" "\n> " | safeHTML }}
+	{{ else }}
+	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=Psalm %s" $reference }}
+            {{ $url = replace $url " " "%20" }}
+> _This reading can be found at [Psalm {{ $reference }}]({{ $url }})_
+	{{ end }}
+{{ end }}
+{{ end }}

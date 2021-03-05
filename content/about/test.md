@@ -6,6 +6,9 @@ proper: lent2
 liturgydate: 2021-02-28
 bcppage: 355ff.
 ---
+[Non-proper test](/about/test-generic/)
+------------
+
 # TEST: preparing-covid
 {{% stt/2021/preparing-covid %}}
 
@@ -61,8 +64,18 @@ With two paragraphs.
 ## TEST: text in file
 {{% he/lesson "Fourth" "1 John 3:1-3" /%}}
 
-# TODO TEST: psalms/responsively
-{% he/psalms/responsively %}}
+# TEST: psalms/responsively
+{{% he/psalm/responsively /%}}
+
+## TEST: psalm - file
+{{% he/psalm/responsively "1" /%}}
+
+## Test: psalm - inner
+{{% he/psalm/responsively "144" %}}
+A psalm
+**doesn't have to be responsive.**
+But it's nice.
+{{% /he/psalm/responsively %}}
 
 TODO:
 - he/psalm: handle canticles, allow parameter specifying psalm, if no Psalm, provide link, allow .Inner override,
