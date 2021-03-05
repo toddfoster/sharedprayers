@@ -1,5 +1,3 @@
-## We Offer Ourselves to God
-
 ##### The altar is prepared
 
 {{ if (.Get 0)}}
