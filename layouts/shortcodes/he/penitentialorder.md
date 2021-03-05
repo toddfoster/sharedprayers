@@ -1,11 +1,4 @@
 ## A Penitential Order
-
-Celebrant:
-> Bless the Lord who forgives all our sins.
-
-**People:**
-> **His mercy endures for ever.**
-
 ##### The people kneel or stand as able.
 
 ### The Decalogue
@@ -46,8 +39,16 @@ Celebrant:
 > You shall not covet anything that belongs to your neighbor.
 > **Amen. Lord have mercy.**
 
+{{ $week := "default" }}
+{{ with default $.Page.Params.proper (.Get 0) }}
+{{ $week = . }}
+{{ end }}
+{{ $sentence := printf "layouts/shortcodes/he/penitentialordersentence/%s.md" $week }}
+{{ if not (fileExists $sentence) }}
+  {{ $sentence = "layouts/shortcodes/he/penitentialordersentence/default.md" }}
+{{ end}}
 Officiant:
-> Since we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. _(Hebrews 4:14, 16)_
+> {{ readFile $sentence }}
 
 Deacon or Celebrant:
 > Let us confess our sins against God and our neighbor.

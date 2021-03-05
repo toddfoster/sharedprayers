@@ -1,3 +1,4 @@
+##### The people stand as able.
 ### The Nicene Creed
 Officiant and People:
 > We believe in one God,
