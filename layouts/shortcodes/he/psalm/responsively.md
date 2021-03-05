@@ -21,10 +21,10 @@
 {{ with .Inner }}
 {{ . | replaceRE "\n" "\n> " | safeHTML }}
 {{ else }}
-{{ $slug := $reference | replaceRE "[.,:;-]*" "" }}
-{{ $filename := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
+    {{ $slug := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
+    {{ $filename := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
     {{ if fileExists $filename }}
-{{ $filename | readFile | replaceRE "\n" "\n> " | safeHTML }}
+{{ $filename | readFile | safeHTML }}
 	{{ else }}
 	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=Psalm %s" $reference }}
             {{ $url = replace $url " " "%20" }}

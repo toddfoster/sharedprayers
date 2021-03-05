@@ -1,5 +1,5 @@
-{{ $ordinal := "Wrong" }}
-{{ $reference := "Hezekiah 13" }}
+{{ $ordinal := "" }}
+{{ $reference := "" }}
 {{/* One parameter = first/secondLesson ; Two = "First" "Gen 17" */}}
 {{ if len .Params | eq 1 }}
     {{ $which := .Get 0 }}

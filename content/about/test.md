@@ -82,22 +82,48 @@ TODO:
 - he/gospel: one parameter: ref, check for full text, else link, allow .Inner override,
 - change spreadsheet to reference hymns directly: e.g., hymns/levas-184
 
+# TEST: gospel - default
+{{% he/gospel /%}}
 
-{% he/gospel %}}
-{% he/homily/brief %}}
-{% he/creed/nicene %}}
-{% he/pop/lordhavemercy %}}
-{% stt/2021/he/covid-peace %}}
-{% stt/announcements %}}
-{% he/offertory %}}
-{% hymns/levas-184 %}}
-{% he/prayera %}}
-{% he/lordsprayer1 %}}
-{% he/fraction/short-lent %}}
-{% stt/2021/covid-communion %}}
-{% hymns/levas-184 %}}
-{% he/postcommunion-eternal %}}
-{% he/blessings/lent2 %}}
-{% he/hymn levas-1 %}}
-{% he/dismissal/generic %}}
-{% stt/2021/postscript-covid %}}
+## TEST: gospel -- alternate
+{{% he/gospel "John 3.16" /%}}
+
+## TEST: gospel -- none
+{{% he/gospel " " /%}}
+
+## TEST: gospel -- override
+{{% he/gospel "John 145.67" %}}
+This is not really part of the Gospel of John.
+
+But it does have two paragraphs.
+{{% /he/gospel %}}
+
+# TEST: homily
+{{% he/homily/brief %}}
+
+{{% he/creed/nicene %}}
+{{% he/pop/lordhavemercy %}}
+{{% stt/2021/peace-covid %}}
+{{% stt/2021/announcements %}}
+
+# TEST: offertory without hymn
+{{% stt/2021/offertory-covid %}}
+
+# TEST: offertory with hymn
+{{% stt/2021/offertory-covid "hymns/levas-184" %}}
+
+# TEST: prayer a
+{{% he/eucharisticprayer/a %}}
+{{% he/lordsprayer/1 %}}
+{{% he/fraction/short-lent %}}
+{{% stt/2021/communion-covid %}}
+{{% hymns/levas-184 %}}
+{{% he/postcommunion/eternal %}}
+{{% he/blessings/lent %}}
+{{% he/dismissal/goinpeace %}}
+{{% stt/2021/postscript-covid %}}
+{{% nrsv %}}
+
+----
+
+[Non-proper test](/about/test-generic/)
