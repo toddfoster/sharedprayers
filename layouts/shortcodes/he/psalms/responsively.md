@@ -1,20 +1,33 @@
-{{/* TODO: Handle canticles */}}
-{{ $psalm := "151" }}
+{{/* reference is passed in, by proper, else generic */}}
+{{ $reference := "" }}
 {{ if len .Params | eq 1 }}
-{{/* single parameter = manual override */}}
-{{ $psalm = .Get 0 }}
-{{ else }}
-{{ $psalm = ( printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper  ) | readFile | safeHTML }}
+{{ $reference = .Get 0 }}
+{{ else if (isset $.Page.Params.proper) }}
+    {{ $reffile := printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper }}
+    {{ if (fileExists $reffile) }}
+        {{ $reference = $reffile | readFile | safeHTML }}
+    {{ end}}
 {{ end }}
-{{/* Check for non-numeric reference (canticle), else add "Psalm" */}}
-{{ $psalm = printf "Psalm %s" $psalm }}
-{{ $slug := $psalm | lower | replaceRE "^(..[a-z]).*"  "$1" }}
-{{ $slug := replace $slug " " "" }}
-{{/* TODO: Check for Inner, or responsive full-text, else link. */}}
-{{ $slug := printf "layouts/shortcodes/readings/pss/responsively/%s" (.Get 0) }}
-{{ $slug | readFile | safeHTML }}
-{{ $text := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $psalm }}
+
+{{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
+{{ if len $reference | eq 0 }}
+##### A Psalm, hymn, or anthem may follow each Reading.
+{{ else }}
+**Psalm** $reference
+{{ end }}
+
+{{/* Text is provide in .Inner or in readings or by oremus */}}
+{{ if len .Inner | gt 0 }}
+{{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
+{{ else }}
+{{ $filename := $reference | replace " " "" | replace "," " " | replace "." "" | replace ":" "" | replace "-" "" | replace ";" "" }}
+{{ $filename = ( printf "layouts/shortcodes/readings/pss/responsively/%s" $filename ) }}
+    {{ if fileExists $filename }}
+{{ $filename | readFile | safeHTML }}
+	{{ else }}
+{{ $text := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
 {{ $text = replace $text " " "%20" }}
 {{ $text = printf "[%s](%s)" $reference $text }}
-**{{ $psalm }}**
 {{ $text }}
+	{{ end }}
+{{ end }}

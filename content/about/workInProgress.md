@@ -4,6 +4,8 @@ date: 2021-03-04
 ---
 
 ## To Do
+- Automatic 2021
+    - Handle canticles that take the place of Psalms
 - Alternate page template for non-prayers
 - About
     - Inspiration & Intended uses
@@ -17,6 +19,7 @@ date: 2021-03-04
 	- check formatting of downloaded text for suitability
 	- generate slugs for passages by removing spaces, punctuation
 	- loop through references & download texts
+- Link lectionaryyear: abc to 'a'
 - Refactor
     - script to translate from week to season?
 	    Won't necessarily work for Major Feasts on edges of moving seasons
