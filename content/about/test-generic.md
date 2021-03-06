@@ -71,6 +71,6 @@ But it does have two paragraphs.
 {{% stt/2021/communion-covid %}}
 {{% hymns/levas-184 %}}
 {{% he/postcommunion/eternal %}}
-{{% he/blessings/lent %}}
+{{% he/blessing/lent %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript-covid %}}

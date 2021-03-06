@@ -149,8 +149,7 @@ Presider:
 > The Gifts of God for the People of God.
 
 ## We Receive the Gift of God
-{{% he/covid-communion %}}
-
+{{% stt/2021/communion-covid %}}
 {{% he/postcommunion-eternal %}}
 
 ### The Blessing
