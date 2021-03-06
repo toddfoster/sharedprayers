@@ -5,6 +5,8 @@ date: 2021-03-04
 
 ## To Do
 - Automatic 2021
+    - Python: only generate liturgies for after current date
+	- Adapt spreadsheet to reflect he-current
     - Handle canticles that take the place of Psalms
 - Alternate page template for non-prayers
 - About
