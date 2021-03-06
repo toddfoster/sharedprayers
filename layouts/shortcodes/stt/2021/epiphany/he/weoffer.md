@@ -9,7 +9,7 @@
 {{ $filename | readFile | safeHTML }}
 {{end}}
 
-{{ "layouts/shortcodes/he/prayera.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/eucharisticprayer/a.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/he/lordsprayer/1.md" | readFile | safeHTML }}
 
 ### The Breaking of the Bread

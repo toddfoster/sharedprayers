@@ -30,7 +30,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% he/collect-purity %}}
 
 ### Hymn of Praise
-{{% he/trishagion %}}
+{{% he/songofpraise/trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -243,9 +243,9 @@ Celebrant:
 
 ##### An offering basin will not be passed around. It may be found on the Safety Coordinator’s table, and donations left there as you exit.
 
-{{% he/prayera-pref %}}
+{{% he/todo/prayera-pref %}}
 > Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
-{{% /he/prayera-pref %}}
+{{% /he/todo/prayera-pref %}}
 
 ### The Lord's Prayer
 Presider:

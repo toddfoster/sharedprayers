@@ -32,7 +32,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% he/collect-purity %}}
 
-{{% he/trishagion %}}
+{{% he/songofpraise/trishagion %}}
 
 
 ### Salutation and Collect

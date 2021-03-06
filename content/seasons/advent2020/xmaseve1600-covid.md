@@ -251,9 +251,9 @@ Celebrant:
 ### Offertory Hymn
 {{% advent/itcameuponamidnightclear-2vv %}}
 
-{{% he/prayera-pref %}}
+{{% he/todo/prayera-pref %}}
 > Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
-{{% /he/prayera-pref %}}
+{{% /he/todo/prayera-pref %}}
 
 ### The Lord's Prayer
 Presider:

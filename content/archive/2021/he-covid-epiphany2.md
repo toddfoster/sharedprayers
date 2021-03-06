@@ -159,7 +159,7 @@ Today the response to the prompt, "Give us courage to say," is **“Speak, Lord,
 
 ##### At outdoor liturgies, an offertory may be sung:
 {{% hymns/h-707 %}}
-{{% he/prayera %}}
+{{% he/eucharisticprayer/a %}}
 {{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
