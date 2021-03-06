@@ -147,7 +147,7 @@ Today the response to the prompt, “For I am persuaded that your love is establ
 ## We Offer Ourselves to God
 
 ##### The altar is prepared in silence.
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread

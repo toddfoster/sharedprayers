@@ -22,7 +22,11 @@ Presider:
 The Presider continues:
 > It is right, and a good and joyful thing, always and everywhere to give thanks to you, Father Almighty, Creator of heaven and earth.
 
+{{ with .Inner }}
+> {{ strings.TrimLeft "\n " . }}
+{{ else }}
 ##### A Proper Preface may be used here.
+{{end}}
 
 > Therefore we praise you, joining our voices with Angels and Archangels and with all the company of heaven, who for ever sing this hymn to proclaim the glory of your Name:
 

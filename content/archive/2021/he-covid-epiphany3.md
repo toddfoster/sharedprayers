@@ -126,7 +126,7 @@ Today the response to the prompt, “For God alone my soul in silence waits” i
 
 ##### At outdoor liturgies, an offertory may be sung:
 {{% hymns/h-533 %}}
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread

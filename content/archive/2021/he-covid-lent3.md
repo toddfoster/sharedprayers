@@ -29,7 +29,7 @@ bcppage: 355ff.
 {{% stt/2021/announcements %}}
 ## We Offer Ourselves To God
 {{% stt/2021/offertory-covid "hymns/h-431" %}}
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short-lent %}}
 {{% stt/2021/communion-covid %}}

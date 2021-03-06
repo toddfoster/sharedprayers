@@ -65,7 +65,7 @@ But it does have two paragraphs.
 {{% stt/2021/offertory-covid "hymns/levas-184" %}}
 
 # TEST: prayer a
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short-lent %}}
 {{% stt/2021/communion-covid %}}

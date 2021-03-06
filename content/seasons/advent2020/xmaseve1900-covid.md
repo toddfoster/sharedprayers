@@ -239,9 +239,9 @@ Celebrant:
 
 ##### An offering basin will not be passed around. It may be found on the Safety Coordinator’s table, and donations left there as you exit.
 
-{{% he/todo/prayera-pref %}}
-> Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
-{{% /he/todo/prayera-pref %}}
+{{% he/eucharisticprayer/a %}}
+Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
+{{% /he/eucharisticprayer/a %}}
 
 ### The Lord's Prayer
 Presider:

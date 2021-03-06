@@ -134,7 +134,7 @@ Today the response to the prompt, “Ascribe to the Lord the glory due his Name,
 
 ##### At outdoor liturgies, an offertory may be sung:
 {{% hymns/h-304-3vv %}}
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread

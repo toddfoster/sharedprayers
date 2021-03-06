@@ -126,7 +126,7 @@ Today the response to the prompt, “My soul proclaims the greatness of the Lord
 ## We Offer Ourselves to God
 
 ##### The altar is prepared in silence.
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
