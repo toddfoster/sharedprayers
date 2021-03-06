@@ -3,7 +3,7 @@
 {{/* One parameter = first/secondLesson ; Two = "First" "Gen 17" */}}
 {{ if len .Params | eq 1 }}
     {{ $which := .Get 0 }}
-    {{ $ordinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $which )  | readFile | safeHTML }}
+    {{ $ordinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $which ) | readFile | chomp | safeHTML }}
     {{ $reference = ( printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $.Page.Params.lectionaryyear $.Page.Params.proper $which ) | readFile | safeHTML }}
 {{ else }}
     {{ $ordinal = .Get 0 }}
@@ -13,7 +13,6 @@
 {{ $slug := replace $slug " " "" }}
 {{ $slug := substr $slug 0 5 }}
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
-{{/* TODO: Check for full-text & include if it exists; else link. */}}
 **The {{ $ordinal }} Lesson**
 _{{  $reference  }}_
 
