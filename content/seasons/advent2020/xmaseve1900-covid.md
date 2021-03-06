@@ -262,7 +262,7 @@ Presider:
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
-{{% he/blessing/xmas %}}
+{{% he/blessing/xmas-long %}}
 
 ##### At this time the congregation will process in silence through the front doors of the Parish Hall, outdoors onto the driveway to stand each six feet apart, wearing masks, and sing together, Silent Night.
 

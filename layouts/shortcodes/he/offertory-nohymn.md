@@ -1,0 +1,1 @@
+##### The altar is prepared
