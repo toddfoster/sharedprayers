@@ -5,9 +5,11 @@ date: 2021-03-04
 
 ## To Do
 - Automatic 2021
-    - Python: only generate liturgies for after current date
-	- Adapt spreadsheet to reflect he-current
-    - Handle canticles that take the place of Psalms
+    - x Python: only generate liturgies for after current date
+	- x Adapt spreadsheet to reflect he-current
+	- Move to sharedprayers project, creating bin folder
+	- Automatically [export from librecalc](https://ask.libreoffice.org/en/question/50035/convert-to-csv-via-command-line-with-all-text-fields-quoted/)
+- Handle canticles that take the place of Psalms
 - Alternate page template for non-prayers
 - About
     - Inspiration & Intended uses
@@ -30,6 +32,7 @@ date: 2021-03-04
     -  Add greetings for other seasons (manually / logically chosen)
 	-  x Move out of Lent into (into root directory of shortcodes?)
 - Daily Office
+    - For each season
 - Eucharist
     - For each season
     - For Major Feasts during each season
