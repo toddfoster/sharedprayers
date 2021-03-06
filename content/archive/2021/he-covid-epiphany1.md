@@ -115,9 +115,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/baptismalvowsrenewal %}}
+{{% he/creed/baptismalvowsrenewal %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “Ascribe to the Lord the glory due his Name,” is “**worship the Lord in the beauty of holiness.**”
