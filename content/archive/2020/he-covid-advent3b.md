@@ -33,10 +33,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/lordhavemercy %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-{{% propercollect advent3 %}}
+{{% he/propercollect advent3 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

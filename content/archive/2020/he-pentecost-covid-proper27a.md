@@ -25,15 +25,9 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
 {{% he/songofpraise/trishagion %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect proper27 %}}
+{{% he/propercollect proper27 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

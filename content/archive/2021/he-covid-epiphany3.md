@@ -13,15 +13,9 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
 {{% he/songofpraise/gloriaexcelsis %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect %}}
+{{% he/propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

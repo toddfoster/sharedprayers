@@ -8,13 +8,8 @@ bcppage: 355ff.
 {{% stt/2021/preparing-covid %}}
 ---
 {{% lent/penitentialorder %}}
-
 {{% he/songofpraise/kyrie %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect %}}
+{{% he/propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -53,9 +48,9 @@ The message about the cross is foolishness to those who are perishing, but to us
 Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? For since, in the wisdom of God, the world did not know God through wisdom, God decided, through the foolishness of our proclamation, to save those who believe. For Jews demand signs and Greeks desire wisdom, but we proclaim Christ crucified, a stumbling block to Jews and foolishness to Gentiles, but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God. For God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength.
 {{% /lessonverse %}}
 
-{{% gospel "John 2:13-22" %}}
+{{% he/gospel "John 2:13-22" %}}
 The Passover of the Jews was near, and Jesus went up to Jerusalem. In the temple he found people selling cattle, sheep, and doves, and the money changers seated at their tables. Making a whip of cords, he drove all of them out of the temple, both the sheep and the cattle. He also poured out the coins of the money changers and overturned their tables. He told those who were selling the doves, “Take these things out of here! Stop making my Father’s house a marketplace!” His disciples remembered that it was written, “Zeal for your house will consume me.” The Jews then said to him, “What sign can you show us for doing this?” Jesus answered them, “Destroy this temple, and in three days I will raise it up.” The Jews then said, “This temple has been under construction for forty-six years, and will you raise it up in three days?” But he was speaking of the temple of his body. After he was raised from the dead, his disciples remembered that he had said this; and they believed the scripture and the word that Jesus had spoken.
-{{% /gospel %}}
+{{% /he/gospel %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
