@@ -182,9 +182,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “Mercy and truth have met together;” is “**righteousness and peace have kissed each other.**”

@@ -174,9 +174,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “Restore us, O God of hosts;” is “**show the light of your countenance, and we shall be saved.**”

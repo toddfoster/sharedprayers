@@ -133,9 +133,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “For I am persuaded that your love is established for ever;” is “**you have set your faithfulness firmly in the heavens.**”

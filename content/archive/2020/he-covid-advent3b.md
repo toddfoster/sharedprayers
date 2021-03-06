@@ -112,9 +112,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “My soul proclaims the greatness of the Lord,” is “**my spirit rejoices in God my Savior!**”

@@ -108,9 +108,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “For God alone my soul in silence waits” is, **“truly, my hope is in him.”**

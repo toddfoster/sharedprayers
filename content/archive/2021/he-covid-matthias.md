@@ -60,10 +60,7 @@ Jesus said, “I am the true vine, and my Father is the vinegrower. Whoever does
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 

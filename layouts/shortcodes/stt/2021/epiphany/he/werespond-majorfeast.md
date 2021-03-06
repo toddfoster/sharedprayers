@@ -1,6 +1,5 @@
 ## We Respond in Faith
-{{ "layouts/shortcodes/rubric-stand.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/he/nicenecreed.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/creed/nicene.md" | readFile | safeHTML }}
 
 ### The Prayers of the People
 {{ "layouts/shortcodes/he/pop-form3.md" | readFile | safeHTML }}
