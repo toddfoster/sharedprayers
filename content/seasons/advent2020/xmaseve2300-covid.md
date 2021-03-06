@@ -272,7 +272,7 @@ Presider:
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
-{{% he/postcommunion-eternal %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas %}}
 
 ### Processional Hymn

@@ -2,7 +2,7 @@
 {{ "layouts/shortcodes/he/creed/nicene.md" | readFile | safeHTML }}
 
 ### The Prayers of the People
-{{ "layouts/shortcodes/he/pop-form3.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/pop/form3.md" | readFile | safeHTML }}
 
 Presider:
 

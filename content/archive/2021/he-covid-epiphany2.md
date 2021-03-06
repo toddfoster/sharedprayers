@@ -158,12 +158,9 @@ Today the response to the prompt, "Give us courage to say," is **“Speak, Lord,
 ##### The altar is prepared
 
 ##### At outdoor liturgies, an offertory may be sung:
-
 {{% hymns/h-707 %}}
-
 {{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
+{{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
 Presider:
@@ -177,7 +174,7 @@ Presider:
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
-{{% he/postcommunion-eternal %}}
+{{% he/postcommunion/eternal %}}
 
 ### The Blessing
 

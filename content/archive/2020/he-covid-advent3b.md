@@ -31,14 +31,11 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ##### The Anthem will only be sung at liturgies meeting outdoors.
 {{% advent/ocome3 %}}
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
-
 {{% propercollect advent3 %}}
 
 {{% rubric-sit %}}
@@ -133,8 +130,7 @@ Today the response to the prompt, “My soul proclaims the greatness of the Lord
 
 ##### The altar is prepared in silence.
 {{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
+{{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
 Presider:
@@ -148,7 +144,7 @@ Presider:
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
-{{% he/postcommunion-eternal %}}
+{{% he/postcommunion/eternal %}}
 
 ### The Blessing
 

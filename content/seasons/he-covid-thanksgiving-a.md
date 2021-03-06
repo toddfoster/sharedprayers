@@ -27,10 +27,8 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 
 
 ### Salutation and Collect

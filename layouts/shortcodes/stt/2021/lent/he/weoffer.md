@@ -11,7 +11,7 @@
 {{end}}
 
 {{ "layouts/shortcodes/he/prayera.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/he/lordsprayer1.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/lordsprayer/1.md" | readFile | safeHTML }}
 
 ### The Breaking of the Bread
 Presider:

@@ -72,7 +72,7 @@ Deacon:
 
 ### The Prayers of the People
 
-{{% he/pop-form3 %}}
+{{% he/pop/form3 %}}
 
 {{% rubric-stand %}}
 

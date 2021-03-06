@@ -31,10 +31,8 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ##### The Anthem will only be sung at liturgies meeting outdoors.
 {{% advent/ocome2 %}}
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 
 ### Salutation and Collect
 {{% letuspray %}}

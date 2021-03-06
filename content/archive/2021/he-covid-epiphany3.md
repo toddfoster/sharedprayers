@@ -131,12 +131,9 @@ Today the response to the prompt, “For God alone my soul in silence waits” i
 ##### The altar is prepared
 
 ##### At outdoor liturgies, an offertory may be sung:
-
 {{% hymns/h-533 %}}
-
 {{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
+{{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
 Presider:
@@ -150,7 +147,7 @@ Presider:
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
-{{% he/postcommunion-eternal %}}
+{{% he/postcommunion/eternal %}}
 
 ### The Blessing
 

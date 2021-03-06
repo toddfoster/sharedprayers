@@ -14,10 +14,8 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
-
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 
 
 ### Salutation and Collect
@@ -77,7 +75,7 @@ Jesus said, “This is my commandment, that you love one another as I have loved
 
 ### The Prayers of the People
 
-{{% he/pop-form3 %}}
+{{% he/pop/form3 %}}
 
 {{% office/confession2 %}}
 

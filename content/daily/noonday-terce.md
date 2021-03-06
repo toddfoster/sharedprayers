@@ -46,7 +46,7 @@ _Lucerna pedibus meis_
 **People**
 > Thanks be to God.
 
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 
