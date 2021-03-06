@@ -22,11 +22,11 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 -------------
 
 ## We Gather in God’s Name
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
-{{% he/gloriaexcelsis %}}
+{{% he/songofpraise/gloriaexcelsis %}}
 
 ### Salutation and Collect
 {{% letuspray %}}

@@ -1,5 +1,3 @@
-### Greeting
-
 Officiant:
 > There is one Body and one Spirit;
 

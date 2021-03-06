@@ -21,9 +21,7 @@ The **Longest Night Mass** is intended to bring balance to our Advent and Christ
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 

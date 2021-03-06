@@ -29,10 +29,8 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% rubric-stand %}}
 ##### The Anthem will only be sung at liturgies meeting outdoors.
-
 {{% advent/ocome2 %}}
-
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 

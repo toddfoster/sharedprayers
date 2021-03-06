@@ -25,10 +25,8 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
-{{% he/greeting-onebody %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/greeting/onebody %}}
 
 ### Salutation
 {{% letuspray %}}

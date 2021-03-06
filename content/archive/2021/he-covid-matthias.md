@@ -10,19 +10,12 @@ _according to the Book of Common Prayer (p. 355ff.)_
 {{% stt/2021/preparing-covid %}}
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessthelord %}}
-
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
-
 {{% he/trishagion %}}
 
-
 ### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect stmatthias %}}
+{{% he/propercollect stmatthias %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -41,8 +34,6 @@ So one of the men who have accompanied us during all the time that the Lord Jesu
 
 
 {{% psalm-responsive "15" %}}
-
-**The Psalm**
 
 {{% lesson "Second" "Philippians 3:13-21" %}}
 This one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the heavenly call of God in Christ Jesus. Let those of us then who are mature be of the same mind; and if you think differently about anything, this too God will reveal to you. Only let us hold fast to what we have attained.
@@ -63,14 +54,10 @@ Jesus said, “I am the true vine, and my Father is the vinegrower. Whoever does
 {{% he/creed/nicene %}}
 
 ### The Prayers of the People
-
 {{% he/pop-form3 %}}
-
 {{% rubric-stand %}}
-
 ##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
 {{% he/peace %}}
-
 {{% rubric-sit %}}
 
 ### The Announcements

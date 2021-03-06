@@ -1,3 +1,4 @@
+##### The people stand as able.
 ### Greeting
 
 Officiant:

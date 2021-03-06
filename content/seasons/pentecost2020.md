@@ -27,7 +27,7 @@ Officiant:
 
 {{% he/collect-purity %}}
 
-{{% he/gloriaexcelsis %}}
+{{% he/songofpraise/gloriaexcelsis %}}
 
 
 
@@ -144,8 +144,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% he/baptismalcovenant %}}
+{{% he/creed/baptismalvowsrenewal %}}
 
 ### The Prayers of the People
 Deacon:

@@ -16,14 +16,9 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessthelord %}}
-
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
-
 {{% he/trishagion %}}
-
 
 ### Salutation and Collect
 {{% letuspray %}}
