@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% he/lesson "firstReading" /%}}
 {{% he/psalm/responsively /%}}
 {{% he/lesson "secondReading" /%}}
-{{% he/gospel "John 2:13-22" /%}}
+{{% he/gospel /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
