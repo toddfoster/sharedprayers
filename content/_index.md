@@ -9,7 +9,7 @@ title: Shared Prayers
 **Liturgies for this week:**
 
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for the Feast of Perpetua and Felicity, Martyrs](archive/2021/he-covid-perpetua)
+- [Holy Eucharist for the Feast of James Theodore Holly, Bishop](archive/2021/he-covid-jamestheodoreholly)
 - [Stations of the Cross](seasons/lent/stationscross)
 
 **Liturgies for any week:**
