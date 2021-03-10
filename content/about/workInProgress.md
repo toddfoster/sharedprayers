@@ -9,6 +9,7 @@ date: 2021-03-04
 	- x Adapt spreadsheet to reflect he-current
 	- Move to sharedprayers project, creating bin folder
 	- Automatically [export from librecalc](https://ask.libreoffice.org/en/question/50035/convert-to-csv-via-command-line-with-all-text-fields-quoted/)
+- Fill out he/blessing stubs
 - Handle canticles that take the place of Psalms
 - Alternate page template for non-prayers
 - About
