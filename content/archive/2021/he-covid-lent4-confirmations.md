@@ -7,8 +7,6 @@ bcppage: 413ff.
 ---
 {{% stt/2021/preparing-covid %}}
 ---
-TODO: Hymns
-
 ### Greeting
 
 Bishop:
@@ -100,67 +98,65 @@ Jesus said, “Just as Moses lifted up the serpent in the wilderness, so must th
 ## Presentation and Examination of the Candidates
 {{% rubric-stand %}}
 
-Bishop:	
+Bishop:
 > The Candidates will now be presented.
 
-Presenters:	
-> I present Scott Carr for Confirmation.
-I present Don Davis for Confirmation.
-I present Jonathan Wilson for Confirmation.
+Presenters:
+> I present N. N.  for Confirmation.
 
 ##### The Bishop asks the candidates
-Bishop:	
+Bishop:
 > Do you reaffirm your renunciation of evil?
 
-Candidate:	
+Candidate:
 > I do.
 
-Bishop:	
+Bishop:
 > Do you renew your commitment to Jesus Christ?
 
-Candidate:	
+Candidate:
 > I do, and with God’s grace I will follow him as my Savior and Lord.
 
 ##### The people stand as able. After all have been presented, the Bishop addresses the congregation, saying
-Bishop:	
+Bishop:
 > Will you who witness these vows do all in your power to support these persons in their life in Christ?
 
 **People:**
 > **We will.**
 
-Bishop:	
+Bishop:
 > Let us join with those who are committing themselves to Christ and renew our own baptismal covenant.
 
 ### The Renewal of Baptismal Vows
 
-Bishop:	
+Bishop:
 > Do you reaffirm your renunciation of evil and renew your commitment to Jesus Christ?
 
 **People:**
 > **I do.**
 
-Bishop: 	
+Bishop:
 > Do you believe in God the Father?
 **People:**
 > **I believe in God, the Father almighty, creator of heaven and earth.**
 
 
-Bishop: 	
+Bishop:
 > Do you believe in Jesus Christ, the Son of God?
 
 **People:**
-> **I believe in Jesus Christ, his only Son, our Lord. 
+> **I believe in Jesus Christ, his only Son, our Lord.
 He was conceived by the power of the Holy Spirit
-and born of the Virgin Mary. 
+and born of the Virgin Mary.
 He suffered under Pontius Pilate,
-was crucified, died, and was buried. 
+was crucified, died, and was buried.
 He descended to the dead.
 On the third day he rose again.
 He ascended into heaven,
-and is seated at the right hand of the Father. 
+and is seated at the right hand of the Father.
 He will come again to judge the living and the dead.**
 
-Bishop: 	
+Bishop:
 > Do you believe in God the Holy Spirit?
 
 **People:**
@@ -168,31 +164,31 @@ Bishop:
 the communion of saints, the forgiveness of sins,
 the resurrection of the body, and the life everlasting.**
 
-Bishop: 	
+Bishop:
 > Will you continue in the apostles’ teaching and fellowship, in the breaking of bread, and in the prayers?
 
 **People:**
 > **I will, with God’s help.**
 
-Bishop: 	
+Bishop:
 > Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?
 
 **People:**
 > **I will, with God’s help.**
 
-Bishop: 	
+Bishop:
 > Will you proclaim by word and example the Good News of God in Christ?
 
 **People:**
 > **I will, with God’s help.**
 
-Bishop: 	
+Bishop:
 > Will you seek and serve Christ in all persons, loving your neighbor as yourself?
 
 **People:**
 > **I will, with God’s help.**
 
-Bishop: 	
+Bishop:
 > Will you strive for justice and peace among all people, and respect the dignity of every human being?
 
 **People:**
@@ -200,23 +196,23 @@ Bishop:
 
 ### Prayers for the Candidates
 
-Bishop:	
+Bishop:
 > Let us now pray for these persons who have renewed their commitment to Christ.
 
-Leader:	
+Leader:
 > Deliver them, O Lord, from the way of sin and death.
 
 **People:**
 > **Lord, hear our prayer.**
 
-Leader:	
-> Open their hearts to your grace and truth. 
+Leader:
+> Open their hearts to your grace and truth.
 
 **People:**
 > **Lord, hear our prayer.**
 
 Leader:
-> Fill them with your holy and life-giving Spirit. 
+> Fill them with your holy and life-giving Spirit.
 
 **People:**
 > **Lord, hear our prayer.**
@@ -228,24 +224,24 @@ Leader:
 > **Lord, hear our prayer.**
 
 Leader:
-> Teach them to love others in the power of the Spirit. 
+> Teach them to love others in the power of the Spirit.
 
 **People:**
 > **Lord, hear our prayer.**
 
 Leader:
-> Send them into the world in witness to your love. 
+> Send them into the world in witness to your love.
 
 **People:**
 > **Lord, hear our prayer.**
 
 Leader:
-> Bring them to the fullness of your peace and glory. 
+> Bring them to the fullness of your peace and glory.
 
 **People:**
 > **Lord, hear our prayer.**
 
-##### A period of silence follows. 
+##### A period of silence follows.
 
 Bishop:
 > Almighty God, we thank you that by the death and resurrection of your Son Jesus Christ you have overcome sin and brought us to yourself, and that by the sealing of your Holy Spirit you have bound us to your service. Renew in these your servants the covenant you made with them at their Baptism. Send them forth in the power of that Spirit to perform the service you set before them; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.
@@ -284,8 +280,7 @@ Bishop:
 ##### At outdoor liturgies, an offertory may be sung:
 
 ### Offertory Hymn
-TODO
-
+{{% hymns/levas-111 %}}
 
 ## The Great Thanksgiving: Eucharistic Prayer A
 Bishop:
@@ -417,11 +412,11 @@ to love and serve you
 with gladness and singleness of heart;
 through Christ our Lord. Amen.**
 
-### The Prayer over the People
+{{% he/blessing/episcopal %}}
 
 ##### The Processional Hymn will only be sung at liturgies meeting outdoors.
 ### Processional Hymn
-{{% hymns/h-528 %}}
+{{% hymns/h-529 %}}
 
 ### The Dismissal
 Deacon:
