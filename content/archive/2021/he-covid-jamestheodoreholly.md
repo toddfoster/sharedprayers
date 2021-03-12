@@ -53,9 +53,9 @@ so that those who hate me may see it and be ashamed; *
 because you, O Lord, have helped me and comforted me.
 {{% /psalm %}}
 
-{{% gospel "John 4:31-38" %}}
+{{% he/gospel "John 4:31-38" %}}
 The disciples were urging Jesus, “Rabbi, eat something.” But he said to them, “I have food to eat that you do not know about.” So the disciples said to one another, “Surely no one has brought him something to eat?” Jesus said to them, “My food is to do the will of him who sent me and to complete his work. Do you not say, ‘Four months more, then comes the harvest’? But I tell you, look around you, and see how the fields are ripe for harvesting. The reaper is already receiving wages and is gathering fruit for eternal life, so that sower and reaper may rejoice together. For here the saying holds true, ‘One sows and another reaps.’ I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor.”
-{{% /gospel %}}
+{{% /he/gospel %}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
