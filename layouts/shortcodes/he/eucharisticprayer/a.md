@@ -1,5 +1,3 @@
-##### The people stand as able.
-
 ## The Great Thanksgiving: Eucharistic Prayer A
 Presider:
 > The Lord be with you.
@@ -22,8 +20,8 @@ Presider:
 The Presider continues:
 > It is right, and a good and joyful thing, always and everywhere to give thanks to you, Father Almighty, Creator of heaven and earth.
 
-{{ with .Inner }}
-> {{ strings.TrimLeft "\n " . }}
+{{ if .Inner }}
+> {{ strings.TrimLeft "\n " .Inner }}
 {{ else }}
 ##### A Proper Preface may be used here.
 {{end}}
