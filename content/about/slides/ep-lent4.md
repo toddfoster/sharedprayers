@@ -19,7 +19,7 @@ Also: M-x electric-indent-mode (to turn off?)
 
 ---
 Officiant:
-> If I say, “Surely :the darkness will cover me, and the light around me turn to night,” darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike. .smaller[_Psalm 139:10, 11_]
+> If I say, “Surely the darkness will cover me, and the light around me turn to night,” darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike. .smaller[_Psalm 139:10, 11_]
 
 
 ## Confession of Sin
@@ -131,7 +131,11 @@ Lector:
 
 > A reading from the book of Numbers.
 
-> ...
+> From Mount Hor the Israelites set out by the way to the Red Sea, to go around the land of Edom; but the people became impatient on the way. The people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we detest this miserable food.” Then the Lord sent poisonous serpents among the people, and they bit the people, so that many Israelites died. 
+
+
+---
+> The people came to Moses and said, “We have sinned by speaking against the Lord and against you; pray to the Lord to take away the serpents from us.” So Moses prayed for the people. And the Lord said to Moses, “Make a poisonous serpent, and set it on a pole; and everyone who is bitten shall look at it and live.” So Moses made a serpent of bronze, and put it upon a pole; and whenever a serpent bit someone, that person would look at the serpent of bronze and live.
 
 > The word of the Lord.
 
@@ -180,7 +184,10 @@ Lector:
 
 > A reading from the epistle to the Ephesians.
 
-> ...
+> You were dead through the trespasses and sins in which you once lived, following the course of this world, following the ruler of the power of the air, the spirit that is now at work among those who are disobedient. All of us once lived among them in the passions of our flesh, following the desires of flesh and senses, and we were by nature children of wrath, like everyone else. But God, who is rich in mercy, out of the great love with which he loved us even when we were dead through our trespasses, made us alive together with Christ-- by grace you have been saved-- and raised us up with him 
+
+---
+> and seated us with him in the heavenly places in Christ Jesus, so that in the ages to come he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith, and this is not your own doing; it is the gift of God-- not the result of works, so that no one may boast. For we are what he has made us, created in Christ Jesus for good works, which God prepared beforehand to be our way of life.
 
 > The word of the Lord.
 
@@ -215,7 +222,12 @@ Lector:
 
 > A reading from John’s Gospel.
 
-> ...
+> Jesus said, “Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
+
+> “For God so loved the world that he gave his only Son, so that everyone who believes in him may not perish but may have eternal life.
+
+---
+> “Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him. Those who believe in him are not condemned; but those who do not believe are condemned already, because they have not believed in the name of the only Son of God. And this is the judgment, that the light has come into the world, and people loved darkness rather than light because their deeds were evil. For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed. But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.”
 
 > The word of the Lord.
 
@@ -223,9 +235,7 @@ Lector:
 
 > **Thanks be to God.**
 
-##### Silence may be kept.
-
-##### A brief homily, spiritual conversation, or moment of silence may be placed here.
+##### Silence may be kept. A brief homily, spiritual conversation, or moment of silence may be placed here.
 
 
 ---
@@ -266,7 +276,7 @@ Officiant:
 > Let us pray.
 
 ---
-Officiant and **People:**
+ Officiant and **People:**
 
 > Our Father, **who art in heaven,  
 hallowed be thy Name,  
@@ -303,7 +313,7 @@ Officiant:
 > **We entreat you, O Lord.**
 
 ---
-Officiant:
+ Officiant:
 
 > That we may be pardoned and forgiven for our sins and offenses,
 
@@ -320,7 +330,7 @@ Officiant:
 > **We entreat you, O Lord.**
 
 ---
-Officiant:
+ Officiant:
 
 > That we may depart this life in your faith and fear, and not be condemned before the great judgment seat of Christ,
 
@@ -375,7 +385,8 @@ Officiant:
 > **Amen.**
 
 ---
-Officiant:
+
+ Officiant:
 
 > Let us bless the Lord.
 
