@@ -9,7 +9,7 @@ title: Shared Prayers
 **Liturgies for this week:**
 
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for the Feast of James Theodore Holly, Bishop](archive/2021/he-covid-jamestheodoreholly)
+- [Holy Eucharist for the Feast of Saint Joseph](archive/2021/he-covid-joseph)
 - [Stations of the Cross](seasons/lent/stationscross)
 
 **Liturgies for any week:**
