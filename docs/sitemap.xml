@@ -14,7 +14,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +69,17 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/2021/auto/he-annunciation/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,11 +89,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/he-current/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +113,17 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/archive/2021/auto/he-lent5/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/about/slides/ep-lent4/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/2021/auto/he-stjoseph/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -355,6 +370,16 @@
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/he-covid-epiphany1/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/about/test/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/about/test-generic/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
