@@ -96,7 +96,7 @@ _Then follows_
 > V.  Keep us, O Lord, as the apple of your eye;
 > **R.  Hide us under the shadow of your wings.**
 
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 {{% office/compline/lordsprayer2-shorter %}}
 {{% office/compline/lordhearourprayer %}}
 

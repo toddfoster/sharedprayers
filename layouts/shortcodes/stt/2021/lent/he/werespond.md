@@ -1,6 +1,5 @@
 ## We Respond in Faith
-{{ "layouts/shortcodes/rubric-stand.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/he/nicenecreed.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/creed/nicene.md" | readFile | safeHTML }}
 
 ### The Prayers of the People
 Today the response to the prompt, {{ if and (.Get 0) (.Get 1)}}"{{ .Get 0 }}" is, **"{{.Get 1}}"**{{else}}"Lord in your mercy” is, **“Hear our prayer.”**{{end}} The final verse and response, as we “offer ourselves and one another to the living God through Christ,” is **“To you, O Lord.”**

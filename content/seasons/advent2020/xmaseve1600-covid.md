@@ -25,21 +25,14 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ## We Gather in God’s Name
 {{% advent/wreath5 %}}
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
 ##### The Hymn will only be sung at liturgies meeting outdoors.
 ### Hymn of Praise
 {{% advent/ocomeallyefaithful-3vv %}}
-
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect nativity2 %}}
+{{% he/propercollect nativity2 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -181,9 +174,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Deacon:
@@ -255,9 +246,9 @@ Celebrant:
 ### Offertory Hymn
 {{% advent/itcameuponamidnightclear-2vv %}}
 
-{{% he/prayera-pref %}}
-> Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
-{{% /he/prayera-pref %}}
+{{% he/eucharisticprayer/a %}}
+Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
+{{% /he/eucharisticprayer/a %}}
 
 ### The Lord's Prayer
 Presider:
@@ -276,12 +267,9 @@ Presider:
 > The Gifts of God for the People of God.
 
 ## We Receive the Gift of God
-
-{{% he/covid-communion %}}
-
-{{% he/postcommunion-eternal %}}
-
-{{% he/blessing-xmas %}}
+{{% stt/2021/communion-covid %}}
+{{% he/postcommunion/eternal %}}
+{{% he/blessing/xmas-long %}}
 
 ### Processional Hymn
 {{% advent/silentnight %}}

@@ -15,14 +15,9 @@ _according to the Book of Common Prayer (p. 355ff.)_
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessthelord %}}
-
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
-
-{{% he/trishagion %}}
-
+{{% he/songofpraise/trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}

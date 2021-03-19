@@ -8,11 +8,7 @@ bcppage: 355ff.
 {{% stt/2021/preparing-covid %}}
 ---
 {{% lent/greatlitany %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect %}}
+{{% he/propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -55,19 +51,20 @@ to those who keep his covenant and his testimonies.
 Christ also suffered for sins once for all, the righteous for the unrighteous, in order to bring you to God. He was put to death in the flesh, but made alive in the spirit, in which also he went and made a proclamation to the spirits in prison, who in former times did not obey, when God waited patiently in the days of Noah, during the building of the ark, in which a few, that is, eight persons, were saved through water. And baptism, which this prefigured, now saves you-- not as a removal of dirt from the body, but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, who has gone into heaven and is at the right hand of God, with angels, authorities, and powers made subject to him.
 {{% /lesson %}}
 
-{{% gospel "Mark 1:9-15" %}}
+{{% he/gospel "Mark 1:9-15" %}}
 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And just as he was coming up out of the water, he saw the heavens torn apart and the Spirit descending like a dove on him. And a voice came from heaven, “You are my Son, the Beloved; with you I am well pleased.”
+
 And the Spirit immediately drove him out into the wilderness. He was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels waited on him.
+
 Now after John was arrested, Jesus came to Galilee, proclaiming the good news of God, and saying, “The time is fulfilled, and the kingdom of God has come near; repent, and believe in the good news.”
-{{% /gospel %}}
+{{% /he/gospel %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 ##### Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.
 {{% he/peace %}}
 

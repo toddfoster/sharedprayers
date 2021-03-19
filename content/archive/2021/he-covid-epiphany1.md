@@ -12,16 +12,10 @@ _according to the Book of Common Prayer (p. 355ff.)_
 -------------
 
 ## We Gather in God’s Name
-{{% he/greeting-blessedbegod %}}
-
+{{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-
-{{% he/gloriaexcelsis %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect %}}
+{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -115,9 +109,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/baptismalvowsrenewal %}}
+{{% he/creed/baptismalvowsrenewal %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “Ascribe to the Lord the glory due his Name,” is “**worship the Lord in the beauty of holiness.**”
@@ -141,12 +133,9 @@ Today the response to the prompt, “Ascribe to the Lord the glory due his Name,
 ##### The altar is prepared
 
 ##### At outdoor liturgies, an offertory may be sung:
-
 {{% hymns/h-304-3vv %}}
-
-{{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
+{{% he/eucharisticprayer/a /%}}
+{{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
 Presider:
@@ -159,9 +148,8 @@ Presider:
 > The Gifts of God for the People of God.
 
 ## We Receive the Gift of God
-{{% he/covid-communion %}}
-
-{{% he/postcommunion-eternal %}}
+{{% stt/2021/communion-covid %}}
+{{% he/postcommunion/eternal %}}
 
 ### The Blessing
 

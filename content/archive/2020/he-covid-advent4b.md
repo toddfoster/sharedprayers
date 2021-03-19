@@ -29,19 +29,11 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 {{% rubric-stand %}}
 ##### The Anthem will only be sung at liturgies meeting outdoors.
-
 {{% advent/ocome4 %}}
-
-{{% he/greeting-blessedbegod %}}
-
+{{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect advent4 %}}
+{{% he/songofpraise/lordhavemercy %}}
+{{% he/propercollect advent4 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -133,9 +125,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the prompt, “For I am persuaded that your love is established for ever;” is “**you have set your faithfulness firmly in the heavens.**”
@@ -157,9 +147,8 @@ Today the response to the prompt, “For I am persuaded that your love is establ
 ## We Offer Ourselves to God
 
 ##### The altar is prepared in silence.
-{{% he/prayera %}}
-
-{{% he/lordsprayer1 %}}
+{{% he/eucharisticprayer/a /%}}
+{{% he/lordsprayer/1 %}}
 
 ### The Breaking of the Bread
 Presider:
@@ -172,9 +161,8 @@ Presider:
 > The Gifts of God for the People of God.
 
 ## We Receive the Gift of God
-{{% he/covid-communion %}}
-
-{{% he/postcommunion-eternal %}}
+{{% stt/2021/communion-covid %}}
+{{% he/postcommunion/eternal %}}
 
 ### The Blessing
 

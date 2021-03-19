@@ -1,7 +1,7 @@
 ## We Gather in God’s Name
-{{ "layouts/shortcodes/he/greeting-blessedbegod.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/greeting/blessedbegod.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/he/collect-purity.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/he/lordhavemercy.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/songofpraise/lordhavemercy.md" | readFile | safeHTML }}
 
 ### Salutation and Collect
 {{ "layouts/shortcodes/letuspray.md" | readFile | safeHTML }}

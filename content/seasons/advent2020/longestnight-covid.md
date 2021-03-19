@@ -21,9 +21,7 @@ The **Longest Night Mass** is intended to bring balance to our Advent and Christ
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
@@ -168,7 +166,7 @@ Deacon:
 ### Offertory Hymn
 _A stable lamp is lighted_
 
-{{% he/prayerd-begin %}}
+{{% he/todo/prayerd-begin %}}
 
 Remember those whom we now name, silently or aloud: all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
 
@@ -178,7 +176,7 @@ Remember those whom we now name, silently or aloud: those who yet live, from who
 
 ##### The people are invited to call aloud names they wish to add to the prayer.
 
-{{% he/prayerd-end "Blessed Thomas" %}}
+{{% he/todo/prayerd-end "Blessed Thomas" %}}
 
 ### The Lord's Prayer
 Presider:
@@ -216,11 +214,11 @@ If you do not wish to receive communion physically:
 1. Cross your arms over your chest. The presider will offer you a blessing instead, again without touching.
 2. You are invited to utter the _Prayer for Spiritual Communion_ while communion is being distributed.
 
-{{% he/spiritualcommunion %}}
+{{% stt/2020/spiritualcommunion %}}
 
 ##### If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)
 
-{{% he/postcommunion-burial2 %}}
+{{% he/postcommunion/burial2 %}}
 
 ### The Blessing
 

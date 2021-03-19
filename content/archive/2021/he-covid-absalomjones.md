@@ -13,13 +13,9 @@ _according to the Book of Common Prayer (p. 355ff.)_
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
-
+{{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-
-{{% he/lordhavemercy %}}
+{{% he/songofpraise/lordhavemercy %}}
 
 
 ### Salutation and Collect
@@ -65,9 +61,9 @@ I tell you of them.
 **The Psalm**
 {{% psalm-responsive "126" %}}
 
-{{% gospel "John 15:12-15" %}}
+{{% he/gospel "John 15:12-15" %}}
 Jesus said, “This is my commandment, that you love one another as I have loved you. No one has greater love than this, to lay down one’s life for one’s friends. You are my friends if you do what I command you. I do not call you servants any longer, because the servant does not know what the master is doing; but I have called you friends, because I have made known to you everything that I have heard from my Father."
-{{% /gospel %}}
+{{% /he/gospel %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
@@ -79,7 +75,7 @@ Jesus said, “This is my commandment, that you love one another as I have loved
 
 ### The Prayers of the People
 
-{{% he/pop-form3 %}}
+{{% he/pop/form3 %}}
 
 {{% office/confession2 %}}
 
@@ -190,7 +186,7 @@ If you do not wish to receive communion physically:
 1. Cross your arms over your chest. The presider will offer you a blessing instead, again without touching.
 2. You are invited to utter the _Prayer for Spiritual Communion_ while communion is being distributed.
 
-{{% he/spiritualcommunion %}}
+{{% stt/2020/spiritualcommunion %}}
 
 ##### If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)
 

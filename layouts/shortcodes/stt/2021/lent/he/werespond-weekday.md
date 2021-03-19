@@ -1,7 +1,7 @@
 ## We Respond in Faith
 ### The Prayers of the People
 {{ "layouts/shortcodes/rubric-stand.md" | readFile | safeHTML }}
-{{ "layouts/shortcodes/he/pop-form3.md" | readFile | safeHTML }}
+{{ "layouts/shortcodes/he/pop/form3.md" | readFile | safeHTML }}
 {{ "layouts/shortcodes/office/confession2.md" | readFile | safeHTML }}
 
 {{ "layouts/shortcodes/rubric-stand.md" | readFile | safeHTML }}

@@ -16,9 +16,7 @@ during Covid-tide_
 {{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/trishagion %}}
-### Salutation and Collect
-{{% letuspray %}}
-{{% propercollect perpetua %}}
+{{% he/propercollect perpetua %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -36,9 +34,9 @@ But we are not among those who shrink back and so are lost, but among those who 
 **The Psalm**
 {{% psalm-responsive "124" %}}
 
-{{% gospel "Matthew 24:9–14" %}}
+{{% he/gospel "Matthew 24:9–14" %}}
 Jesus said, “They will hand you over to be tortured and will put you to death, and you will be hated by all nations because of my name. Then many will fall away, and they will betray one another and hate one another. And many false prophets will arise and lead many astray. And because of the increase of lawlessness, the love of many will grow cold. But the one who endures to the end will be saved. And this good news of the kingdom will be proclaimed throughout the world, as a testimony to all the nations; and then the end will come."
-{{% /gospel %}}
+{{% /he/gospel %}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.

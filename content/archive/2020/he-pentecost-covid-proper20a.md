@@ -29,13 +29,11 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
-{{% he/trishagion %}}
+{{% he/songofpraise/trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -151,9 +149,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the Prayers of the People is, *Lord, have mercy.*

@@ -8,10 +8,7 @@ bcppage: 264ff.
 {{% stt/2021/preparing-covid %}}
 ---
 ## We Gather in God’s Name
-
-### Salutation and Collect
-{{% letuspray %}}
-{{% propercollect %}}
+{{% he/propercollect %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -75,13 +72,17 @@ and on a day of salvation I have helped you."
 See, now is the acceptable time; see, now is the day of salvation! We are putting no obstacle in anyone's way, so that no fault may be found with our ministry, but as servants of God we have commended ourselves in every way: through great endurance, in afflictions, hardships, calamities, beatings, imprisonments, riots, labors, sleepless nights, hunger; by purity, knowledge, patience, kindness, holiness of spirit, genuine love, truthful speech, and the power of God; with the weapons of righteousness for the right hand and for the left; in honor and dishonor, in ill repute and good repute. We are treated as impostors, and yet are true; as unknown, and yet are well known; as dying, and see-- we are alive; as punished, and yet not killed; as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing everything.
 {{% /lessonverse %}}
 
-{{% gospel "Matthew 6:1-6,16-21" %}}
+{{% he/gospel "Matthew 6:1-6,16-21" %}}
 Jesus said, "Beware of practicing your piety before others in order to be seen by them; for then you have no reward from your Father in heaven.
+
 "So whenever you give alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, so that they may be praised by others. Truly I tell you, they have received their reward. But when you give alms, do not let your left hand know what your right hand is doing, so that your alms may be done in secret; and your Father who sees in secret will reward you.
+
 "And whenever you pray, do not be like the hypocrites; for they love to stand and pray in the synagogues and at the street corners, so that they may be seen by others. Truly I tell you, they have received their reward. But whenever you pray, go into your room and shut the door and pray to your Father who is in secret; and your Father who sees in secret will reward you.
+
 "And whenever you fast, do not look dismal, like the hypocrites, for they disfigure their faces so as to show others that they are fasting. Truly I tell you, they have received their reward. But when you fast, put oil on your head and wash your face, so that your fasting may be seen not by others but by your Father who is in secret; and your Father who sees in secret will reward you.
+
 "Do not store up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal; but store up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there your heart will be also."
-{{% /gospel %}}
+{{% /he/gospel %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
@@ -99,51 +100,51 @@ I invite you, therefore, in the name of the Church, to the observance of a holy 
 **Psalm** 51
 _Miserere mei, Deus_
 
-> 1	Have mercy on me, O God, according to your loving-kindness; \*  
-in your great compassion blot out my offenses.  
-> **2	Wash me through and through from my wickedness \*  
-and cleanse me from my sin.**  
-  
-> 3	For I know my transgressions, \*  
-and my sin is ever before me.  
-> **4	Against you only have I sinned \*  
-and done what is evil in your sight.**  
-  
-> 5	And so you are justified when you speak \*  
-and upright in your judgment.  
-> **6	Indeed, I have been wicked from my birth, \*  
-a sinner from my mother's womb.**  
-  
-> 7	For behold, you look for truth deep within me, \*  
-and will make me understand wisdom secretly  
-> **8	Purge me from my sin, and I shall be pure; \*  
-wash me, and I shall be clean indeed.**  
-  
-> 9	Make me hear of joy and gladness, \*  
-that the body you have broken may rejoice.  
-> **10	Hide your face from my sins \*  
-and blot out all my iniquities.**  
-  
-> 11	Create in me a clean heart, O God, \*  
-and renew a right spirit within me.  
-> **12	Cast me not away from your presence \*  
-and take not your holy Spirit from me.**  
-  
-> 13	Give me the joy of your saving help again \*  
-and sustain me with your bountiful Spirit.  
-> **14	I shall teach your ways to the wicked, \*  
-and sinners shall return to you.**  
-  
-> 15	Deliver me from death, O God, \*  
-and my tongue shall sing of your righteousness,  
-O God of my salvation.  
-> **16	Open my lips, O Lord, \*  
-and my mouth shall proclaim your praise.**  
-  
-> 17	Had you desired it, I would have offered sacrifice, \*  
-but you take no delight in burnt-offerings.  
-> **18	The sacrifice of God is a troubled spirit; \*  
-a broken and contrite heart, O God, you will not despise.**  
+> 1	Have mercy on me, O God, according to your loving-kindness; \*
+in your great compassion blot out my offenses.
+> **2	Wash me through and through from my wickedness \*
+and cleanse me from my sin.**
+
+> 3	For I know my transgressions, \*
+and my sin is ever before me.
+> **4	Against you only have I sinned \*
+and done what is evil in your sight.**
+
+> 5	And so you are justified when you speak \*
+and upright in your judgment.
+> **6	Indeed, I have been wicked from my birth, \*
+a sinner from my mother's womb.**
+
+> 7	For behold, you look for truth deep within me, \*
+and will make me understand wisdom secretly
+> **8	Purge me from my sin, and I shall be pure; \*
+wash me, and I shall be clean indeed.**
+
+> 9	Make me hear of joy and gladness, \*
+that the body you have broken may rejoice.
+> **10	Hide your face from my sins \*
+and blot out all my iniquities.**
+
+> 11	Create in me a clean heart, O God, \*
+and renew a right spirit within me.
+> **12	Cast me not away from your presence \*
+and take not your holy Spirit from me.**
+
+> 13	Give me the joy of your saving help again \*
+and sustain me with your bountiful Spirit.
+> **14	I shall teach your ways to the wicked, \*
+and sinners shall return to you.**
+
+> 15	Deliver me from death, O God, \*
+and my tongue shall sing of your righteousness,
+O God of my salvation.
+> **16	Open my lips, O Lord, \*
+and my mouth shall proclaim your praise.**
+
+> 17	Had you desired it, I would have offered sacrifice, \*
+but you take no delight in burnt-offerings.
+> **18	The sacrifice of God is a troubled spirit; \*
+a broken and contrite heart, O God, you will not despise.**
 
 ## Litany of Penitence
 ##### The Celebrant and **People** together, all kneeling

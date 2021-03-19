@@ -1,3 +1,4 @@
+##### The people stand as able.
 ### The Renewal of Baptismal Vows
 Officiant:
 > Do you reaffirm your renunciation of evil and renew your commitment to Jesus Christ?

@@ -25,19 +25,13 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ## We Gather in God’s Name
 {{% advent/wreath5 %}}
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
 ### Hymn of Praise
-{{% he/trishagion %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-
-{{% propercollect nativity2 %}}
+{{% he/songofpraise/trishagion %}}
+{{% he/propercollect nativity2 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
@@ -176,9 +170,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Deacon:
@@ -247,9 +239,9 @@ Celebrant:
 
 ##### An offering basin will not be passed around. It may be found on the Safety Coordinator’s table, and donations left there as you exit.
 
-{{% he/prayera-pref %}}
-> Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
-{{% /he/prayera-pref %}}
+{{% he/eucharisticprayer/a %}}
+Because you gave Jesus Christ, your only Son, to be born for us; who, by the mighty power of the Holy Spirit, was made perfect Man of the flesh of the Virgin Mary his mother; so that we might be delivered from the bondage of sin, and receive power to become your children.
+{{% /he/eucharisticprayer/a %}}
 
 ### The Lord's Prayer
 Presider:
@@ -268,12 +260,9 @@ Presider:
 > The Gifts of God for the People of God.
 
 ## We Receive the Gift of God
-
-{{% he/covid-communion %}}
-
-{{% he/postcommunion-eternal %}}
-
-{{% he/blessing-xmas %}}
+{{% stt/2021/communion-covid %}}
+{{% he/postcommunion/eternal %}}
+{{% he/blessing/xmas-long %}}
 
 ##### At this time the congregation will process in silence through the front doors of the Parish Hall, outdoors onto the driveway to stand each six feet apart, wearing masks, and sing together, Silent Night.
 

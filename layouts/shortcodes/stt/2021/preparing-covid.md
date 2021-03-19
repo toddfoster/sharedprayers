@@ -11,3 +11,5 @@ During this season of coronavirus infections, please demonstrate your love for y
 7. No sharing of common objects such as pens, paper, water bottles, etc.
 
 If you are feeling ill or think you may have been exposed to someone ill within the last two weeks, _please stay home_ and participate with us online instead of in person.
+
+---

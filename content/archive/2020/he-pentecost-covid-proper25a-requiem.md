@@ -27,13 +27,11 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 
 {{% he/collect-purity %}}
 
-{{% he/trishagion %}}
+{{% he/songofpraise/trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -147,9 +145,7 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 Today the response to the Prayers of the People is, *Lord, have mercy.*
@@ -266,11 +262,11 @@ If you do not wish to receive communion physically:
 1. Cross your arms over your chest. The presider will offer you a blessing instead, again without touching.
 2. You are invited to utter the _Prayer for Spiritual Communion_ while communion is being distributed.
 
-{{% he/spiritualcommunion %}}
+{{% stt/2020/spiritualcommunion %}}
 
 ##### If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)
 
-{{% he/postcommunion-burial2 %}}
+{{% he/postcommunion/burial2 %}}
 
 ### The Blessing
 

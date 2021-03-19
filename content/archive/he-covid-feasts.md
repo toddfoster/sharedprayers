@@ -16,14 +16,9 @@ The lessons can often be found at [lectionarypage.net](https://lectionarypage.ne
 -------------
 
 ## We Gather in God’s Name
-
-{{% rubric-stand %}}
-{{% he/greeting-blessthelord %}}
-
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
-
-{{% he/trishagion %}}
-
+{{% he/songofpraise/trishagion %}}
 
 ### Salutation and Collect
 {{% letuspray %}}
@@ -73,14 +68,11 @@ Deacon:
 ##### Silence follows the homily.
 
 ## We Respond in Faith
-
-{{% rubric-stand %}}
-
-{{% he/nicenecreed %}}
+{{% he/creed/nicene %}}
 
 ### The Prayers of the People
 
-{{% he/pop-form3 %}}
+{{% he/pop/form3 %}}
 
 {{% rubric-stand %}}
 
