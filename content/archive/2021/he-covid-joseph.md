@@ -32,25 +32,25 @@ Now therefore thus you shall say to my servant David: Thus says the Lord of host
 {{% psalm "89:1-4, 26-29" %}}
 _Misericordias Domini_
 
-> 1	Your love, O LORD, for ever will I sing; \*  
-from age to age my mouth will proclaim your faithfulness.  
-> **2	For I am persuaded that your love is established for ever; \*  
-you have set your faithfulness firmly in the heavens.**  
-  
-> 3	"I have made a covenant with my chosen one; \*  
-I have sworn an oath to David my servant:  
-> **4	'I will establish your line for ever, \*  
-and preserve your throne for all generations.'"**  
-  
-> 26	He will say to me, 'You are my Father, \*  
-my God, and the rock of my salvation.'   
-> **27	I will make him my firstborn \*  
-and higher than the kings of the earth.**  
+> 1	Your love, O LORD, for ever will I sing; \*
+from age to age my mouth will proclaim your faithfulness.
+> **2	For I am persuaded that your love is established for ever; \*
+you have set your faithfulness firmly in the heavens.**
 
-> 28	I will keep my love for him for ever, \*  
-and my covenant will stand firm for him.  
-> **29	I will establish his line for ever \*  
-and his throne as the days of heaven."**  
+> 3	"I have made a covenant with my chosen one; \*
+I have sworn an oath to David my servant:
+> **4	'I will establish your line for ever, \*
+and preserve your throne for all generations.'"**
+
+> 26	He will say to me, 'You are my Father, \*
+my God, and the rock of my salvation.'
+> **27	I will make him my firstborn \*
+and higher than the kings of the earth.**
+
+> 28	I will keep my love for him for ever, \*
+and my covenant will stand firm for him.
+> **29	I will establish his line for ever \*
+and his throne as the days of heaven."**
 {{% /psalm %}}
 
 {{% lesson "Second" "Romans 4:13-18" %}}
@@ -58,11 +58,11 @@ The promise that he would inherit the world did not come to Abraham or to his de
 For this reason it depends on faith, in order that the promise may rest on grace and be guaranteed to all his descendants, not only to the adherents of the law but also to those who share the faith of Abraham (for he is the father of all of us, as it is written, "I have made you the father of many nations") -- in the presence of the God in whom he believed, who gives life to the dead and calls into existence the things that do not exist. Hoping against hope, he believed that he would become "the father of many nations," according to what was said, "So numerous shall your descendants be."
 {{% /lesson %}}
 
-{{% gospel "Luke 2:41-52" %}}
+{{% he/gospel "Luke 2:41-52" %}}
 Every year Jesus' parents went to Jerusalem for the festival of the Passover. And when he was twelve years old, they went up as usual for the festival. When the festival was ended and they started to return, the boy Jesus stayed behind in Jerusalem, but his parents did not know it. Assuming that he was in the group of travelers, they went a day's journey. Then they started to look for him among their relatives and friends. When they did not find him, they returned to Jerusalem to search for him. After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions. And all who heard him were amazed at his understanding and his answers. When his parents saw him they were astonished; and his mother said to him, "Child, why have you treated us like this? Look, your father and I have been searching for you in great anxiety." He said to them, "Why were you searching for me? Did you not know that I must be in my Father's house?" But they did not understand what he said to them. Then he went down with them and came to Nazareth, and was obedient to them. His mother treasured all these things in her heart.
 
 And Jesus increased in wisdom and in years, and in divine and human favor.
-{{% /gospel %}}
+{{% /he/gospel %}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.
