@@ -27,6 +27,7 @@ bcppage: 355ff.
 {{% stt/2021/peace-covid %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/2021/announcements %}}
+
 ## We Offer Ourselves To God
 {{% stt/2021/offertory-covid "hymns/h-431" %}}
 {{% he/eucharisticprayer/a /%}}
