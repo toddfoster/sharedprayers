@@ -4,7 +4,13 @@
 {{ if len .Params | eq 1 }}
     {{ $which := .Get 0 }}
     {{ $ordinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $which ) | readFile | chomp | safeHTML }}
-    {{ $reference = ( printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $.Page.Params.lectionaryyear $.Page.Params.proper $which ) | readFile | safeHTML }}
+	{{ $reffile := "" }}
+	{{/* Try to find the proper reference as a Sunday or a Holy Day */}}
+	{{ $reffile = (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $.Page.Params.lectionaryyear $.Page.Params.proper $which) }}
+	{{ if  not (fileExists $reffile) }}
+		{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $.Page.Params.proper $which) }}
+    {{ end }}
+    {{ $reference = ($reffile | readFile | safeHTML) }}
 {{ else }}
     {{ $ordinal = .Get 0 }}
     {{ $reference = .Get 1 }}
