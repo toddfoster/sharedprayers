@@ -2,7 +2,7 @@
 title: Holy Eucharist, Rite II (Thanksgiving Day)
 date: 2021-11-19
 lectionaryyear: yearb
-proper: thanksgiving
+proper: thanksgivingb
 liturgydate: 2021-11-25
 bcppage: 355ff.
 ---
