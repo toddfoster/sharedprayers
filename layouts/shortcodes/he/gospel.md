@@ -4,7 +4,11 @@
     {{ $reference = .Get 0 }}
 {{ else }}
     {{ if and $.Page.Params.lectionaryyear $.Page.Params.proper }}
+    	{{/* Try to find the proper reference as a Sunday or a Holy Day */}}
         {{ $reffile := printf "layouts/shortcodes/readings/%s/opinionated/%s/gospel" $.Page.Params.lectionaryyear $.Page.Params.proper }}
+    	{{ if  not (fileExists $reffile) }}
+	    	{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/gospel" $.Page.Params.proper) }}
+        {{ end }}
         {{ if (fileExists $reffile) }}
             {{ $reference = $reffile | readFile | safeHTML }}
         {{ end }}
