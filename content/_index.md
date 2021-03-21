@@ -9,7 +9,7 @@ title: Shared Prayers
 **Liturgies for this week:**
 
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for the Feast of Saint Joseph](archive/2021/he-covid-joseph)
+- [Holy Eucharist for the Feast of the Annunciation](archive/2021/auto/he-annunciation)
 - [Stations of the Cross](seasons/lent/stationscross)
 
 **Liturgies for any week:**
