@@ -4,6 +4,7 @@ languageCode = "en-us"
 theme = "zen"
 publishDir = "docs"
 pluralizelisttitles = false
+buildfuture = true
 
 [markup.goldmark.renderer]
       hardWraps = true

@@ -15,9 +15,8 @@
     {{ $ordinal = .Get 0 }}
     {{ $reference = .Get 1 }}
 {{ end }}
-{{ $slug := $reference | lower | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
-{{ $slug := replace $slug " " "" }}
-{{ $slug := substr $slug 0 5 }}
+{{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
+{{ $slug = substr $slug 0 5 }}
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
 **The {{ $ordinal }} Lesson**
 _{{  $reference  }}_
