@@ -8,7 +8,8 @@
 </header>
 <div class="content">
   <p>{{ if .Params.proper | default false }} {{ readFile (path.Join "layouts/shortcodes/proper/title" .Params.proper) }}<br />{{ end -}}
-    {{ if .Params.liturgydate | default false }} {{ dateFormat "2 January 2006" .Params.liturgydate }}<br />{{ end -}}
+    {{ if .Params.liturgydate | default false }} {{ dateFormat "2 January 2006" .Params.liturgydate }}<br />
+	{{else if .Params.date | default false }} {{dateFormat "2 January 2006" .Params.date }}<br />{{ end -}}
     {{ if.Params.bcppage | default false }}<em>according to the Book of Common Prayer (p. {{ .Params.bcppage }})</em>{{ end -}}
   </p>
   <h2 id="share-these-prayers"> Share These Prayers</h2>
