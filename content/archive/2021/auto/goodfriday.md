@@ -15,10 +15,9 @@ bcppage: 276ff.
 {{% he/psalm/responsively /%}}
 {{% he/lesson "secondReading" /%}}
 {{% he/goodfriday/passion-homily %}}
-{{% he/goodfriday/hymn %}}
 {{% he/goodfriday/solemncollects %}}
 {{% he/goodfriday/hymn-devotions %}}
-{{% he/lordsprayer/1 %}}
+{{% he/lordsprayer/letuspray %}}
 {{% he/goodfriday/shortconclusion %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
