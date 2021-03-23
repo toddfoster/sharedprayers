@@ -16,16 +16,17 @@ Celebrant:
 
 ##### A deacon or other person appointed reads the following
 Reader:
-> A Reading from Mark’s Gospel.
+> A Reading from Luke’s Gospel.
 
-> When they were approaching Jerusalem, at Bethphage and Bethany, near the Mount of Olives, he sent two of his disciples and said to them, ‘Go into the village ahead of you, and immediately as you enter it, you will find tied there a colt that has never been ridden; untie it and bring it. If anyone says to you, “Why are you doing this?” just say this, “The Lord needs it and will send it back here immediately.” ’ They went away and found a colt tied near a door, outside in the street. As they were untying it, some of the bystanders said to them, ‘What are you doing, untying the colt?’ They told them what Jesus had said; and they allowed them to take it. Then they brought the colt to Jesus and threw their cloaks on it; and he sat on it. Many people spread their cloaks on the road, and others spread leafy branches that they had cut in the fields. Then those who went ahead and those who followed were shouting,
->> ‘Hosanna!
-   Blessed is the one who comes in the name of the Lord!
-   Blessed is the coming kingdom of our ancestor David!
-Hosanna in the highest heaven!’
+> After telling a parable to the crowd at Jericho, Jesus went on ahead, going up to Jerusalem. When he had come near Bethphage and Bethany, at the place called the Mount of Olives, he sent two of the disciples, saying, "Go into the village ahead of you, and as you enter it you will find tied there a colt that has never been ridden. Untie it and bring it here. If anyone asks you, 'Why are you untying it?' just say this, 'The Lord needs it.'" So those who were sent departed and found it as he had told them. As they were untying the colt, its owners asked them, "Why are you untying the colt?" They said, "The Lord needs it." Then they brought it to Jesus; and after throwing their cloaks on the colt, they set Jesus on it. As he rode along, people kept spreading their cloaks on the road. As he was now approaching the path down from the Mount of Olives, the whole multitude of the disciples began to praise God joyfully with a loud voice for all the deeds of power that they had seen, saying,
 
-> Then he entered Jerusalem and went into the temple; and when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.
-_(Mark 11.1-11a NRSV)_
+>> "Blessed is the king
+who comes in the name of the Lord!
+Peace in heaven,
+and glory in the highest heaven!"
+
+> Some of the Pharisees in the crowd said to him, "Teacher, order your disciples to stop." He answered, "I tell you, if these were silent, the stones would shout out."
+_(Luke 19.28-40 NRSV)_
 
 Reader:
 > The Word of the Lord.

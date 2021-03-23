@@ -16,16 +16,23 @@ Celebrant:
 
 ##### A deacon or other person appointed reads the following
 Reader:
-> A Reading from Mark’s Gospel.
+> A Reading from Mathew’s Gospel.
 
-> When they were approaching Jerusalem, at Bethphage and Bethany, near the Mount of Olives, he sent two of his disciples and said to them, ‘Go into the village ahead of you, and immediately as you enter it, you will find tied there a colt that has never been ridden; untie it and bring it. If anyone says to you, “Why are you doing this?” just say this, “The Lord needs it and will send it back here immediately.” ’ They went away and found a colt tied near a door, outside in the street. As they were untying it, some of the bystanders said to them, ‘What are you doing, untying the colt?’ They told them what Jesus had said; and they allowed them to take it. Then they brought the colt to Jesus and threw their cloaks on it; and he sat on it. Many people spread their cloaks on the road, and others spread leafy branches that they had cut in the fields. Then those who went ahead and those who followed were shouting,
->> ‘Hosanna!
-   Blessed is the one who comes in the name of the Lord!
-   Blessed is the coming kingdom of our ancestor David!
-Hosanna in the highest heaven!’
+> When Jesus and his disciples had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, "Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, `The Lord needs them.' And he will send them immediately." This took place to fulfill what had been spoken through the prophet, saying,
 
-> Then he entered Jerusalem and went into the temple; and when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.
-_(Mark 11.1-11a NRSV)_
+>> "Tell the daughter of Zion,
+Look, your king is coming to you,
+humble, and mounted on a donkey,
+and on a colt, the foal of a donkey."
+
+> The disciples went and did as Jesus had directed them; they brought the donkey and the colt, and put their cloaks on them, and he sat on them. A very large crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. The crowds that went ahead of him and that followed were shouting,
+
+>> "Hosanna to the Son of David!
+Blessed is the one who comes in the name of the Lord!
+Hosanna in the highest heaven!"
+
+> When he entered Jerusalem, the whole city was in turmoil, asking, "Who is this?" The crowds were saying, "This is the prophet Jesus from Nazareth in Galilee."
+_(Matthew 21:1-11 NRSV)_
 
 Reader:
 > The Word of the Lord.

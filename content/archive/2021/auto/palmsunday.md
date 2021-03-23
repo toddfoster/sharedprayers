@@ -6,9 +6,12 @@ proper: palmsunday
 bcppage: 270ff.
 ---
 {{% stt/2021/preparing-covid %}}
+{{% comment "procession left out for covid-tide" /%}}
+{{% he/palmsunday/palms/b %}}
+##### A hymn may be sung at outdoor celebrations or at home:
+{{% hymns/h-154 %}}
 
 ## We Gather in God's Name
-{{% he/palmsunday/palms/b %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -16,16 +19,15 @@ bcppage: 270ff.
 {{% he/lesson "firstReading" /%}}
 {{% he/psalm/responsively /%}}
 {{% he/lesson "secondReading" /%}}
-{{% he/gospel /%}}
 {{% he/palmsunday/passion/b %}}
 
 ## We Respond in Faith
-{{% he/pop/lordhavemercy %}}
+{{% he/palmsunday/prayers %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% stt/2021/offertory-covid "hymns/levas-37" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short-lent %}}
@@ -34,7 +36,7 @@ bcppage: 270ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% he/processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/processional "hymns/levas-31" %}}
+{{% he/dismissal/letusbless %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
