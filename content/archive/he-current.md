@@ -1,36 +1,33 @@
 ---
-title: Holy Eucharist (The Fifth Sunday in Lent, Covid-tide)
-date: 2021-03-18
+title: Holy Eucharist, Rite II (The Sunday of the Passion- Palm Sunday)
+date: 2021-03-28
 lectionaryyear: yearb
-proper: lent5
-liturgydate: 2021-03-21
-bcppage: 351ff.
+proper: palmsunday
+bcppage: 270ff.
 ---
 {{% stt/2021/preparing-covid %}}
+{{% comment "procession left out for covid-tide" /%}}
+{{% he/palmsunday/palms/b %}}
+##### A hymn may be sung at outdoor celebrations or at home:
+{{% hymns/h-154 %}}
 
-{{% lent/penitentialorder %}}
-{{% he/songofpraise/kyrie %}}
-
-### Salutation and Collect
-{{% letuspray %}}
-{{% propercollect %}}
+## We Gather in God's Name
+{{% he/propercollect %}}
 {{% rubric-sit %}}
 
-## We Hear God’s Word
+## We Hear God's Word
 {{% he/lesson "firstReading" /%}}
-{{% he/psalm/responsively "51" /%}}
+{{% he/psalm/responsively /%}}
 {{% he/lesson "secondReading" /%}}
-{{% he/gospel /%}}
-{{% he/homily/brief %}}
+{{% he/palmsunday/passion/b %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/palmsunday/prayers %}}
 {{% stt/2021/peace-covid %}}
-{{% stt/2021/announcements %}}
+{{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid "hymns/levas-54" %}}
+{{% stt/2021/offertory-covid "hymns/levas-37" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short-lent %}}
@@ -38,8 +35,8 @@ bcppage: 351ff.
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
-{{% he/blessing/lent %}}
-{{% he/processional "hymns/levas-184" %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/blessing/palmsunday %}}
+{{% he/processional "hymns/levas-31" %}}
+{{% he/dismissal/letusbless %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
