@@ -14,6 +14,7 @@
         {{ end }}
     {{ end }}
 {{ end }}
+{{ $reference = $reference | chomp }}
 ##### The people stand as able.
 **The Holy Gospel**
 {{ if gt ( len $reference) 3 }}_{{ $reference }}_{{ end }}
