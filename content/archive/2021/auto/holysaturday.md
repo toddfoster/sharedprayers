@@ -8,9 +8,6 @@ bcppage: 283/355ff.
 {{% stt/2021/preparing-covid %}}
 
 ## We Gather in God's Name
-{{% he/greeting/blessthelord %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/lordhavemercy %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -22,11 +19,8 @@ bcppage: 283/355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
+**Anthem**
 {{% burial/inthemidstoflife %}}
-{{% he/lordsprayer/1 %}}
-
-## We Offer Ourselves To God
-
-## We Receive the Gift of God
-{{% stt/2021/postscript-covid %}}
+{{% he/lordsprayer/letuspray %}}
+{{% office/thegrace %}}
 {{% nrsv %}}
