@@ -9,26 +9,26 @@ bcppage: 355ff.
 
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+### Entrance Hymn
+{{% hymns/h-207 %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "firstReading" /%}}
+{{% he/lesson "firstReading" "Acts 10:34-43" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "secondReading" /%}}
-{{% he/gospel /%}}
+{{% he/lesson "secondReading" "1 Corinthians 15:1-11"/%}}
+{{% he/gospel "Mark 16:1-8" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid %}}
+{{% he/offertory "hymns/levas-41" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -37,7 +37,7 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/easter-long %}}
-{{% he/processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/processional "hymns/h-296" %}}
+{{% he/dismissal/easter/letusbless %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
