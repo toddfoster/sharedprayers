@@ -8,9 +8,8 @@ bcppage: 274/355ff.
 {{% stt/2021/preparing-covid %}}
 
 ## We Gather in God's Name
-{{% he/greeting/blessthelord %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% lent/penitentialorder %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -24,7 +23,6 @@ bcppage: 274/355ff.
 ## We Respond in Faith
 {{% he/maundythursday/washfeet %}}
 {{% he/pop/lordhavemercy %}}
-{{% he/confession %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
