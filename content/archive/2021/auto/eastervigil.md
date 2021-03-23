@@ -7,27 +7,30 @@ bcppage: 285ff.
 ---
 {{% stt/2021/preparing-covid %}}
 
-## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}
 {{% he/eastervigil/liturgyword %}}
-{{% he/creed/baptismalvowsrenewal %}}
 {{% he/eastervigil/transition %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% he/lesson "firstReading" /%}}
-{{% he/psalm/responsively /%}}
-{{% he/gospel /%}}
 {{% he/eastervigil/greatalleluia %}}
+{{% he/gospel /%}}
+{{% comment %}}
+TODO: rubric to stand should come before invitation to renewal
+ - but hopefully still standing from Gospel
+{{% /comment %}}
+{{% he/eastervigil/invitationtorenewal %}}
+{{% he/creed/baptismalvowsrenewal %}}
 
 ## We Respond in Faith
-{{% he/pop/hearourprayer %}}
+{{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "hymns/h-679" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -36,7 +39,7 @@ bcppage: 285ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/easter-long %}}
-{{% he/processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/processional "hymns/h-490"%}}
+{{% he/dismissal/easter/letusbless %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
