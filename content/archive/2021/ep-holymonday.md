@@ -4,10 +4,10 @@ date: 2021-03-29
 proper: holymonday
 season: lent
 bcppage: 115ff.
-weekday: sunday
+weekday: monday
 ---
 {{% office/ep/sentence "1" %}}
-{{% office/confession2 %}}
+{{% he/confession %}}
 {{% office/ep/invitatory %}}
 
 {{% he/psalm/responsively "36:5-11" /%}}
@@ -45,5 +45,5 @@ weekday: sunday
 
 {{% office/ep/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion/thegrace %}}
+{{% office/mp/conclusion %}}
 {{% nrsv %}}
