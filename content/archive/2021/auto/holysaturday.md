@@ -22,5 +22,5 @@ bcppage: 283/355ff.
 **Anthem**
 {{% burial/inthemidstoflife %}}
 {{% he/lordsprayer/letuspray %}}
-{{% office/thegrace %}}
+{{% office/mp/conclusion/thegrace %}}
 {{% nrsv %}}
