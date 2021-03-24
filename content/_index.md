@@ -15,6 +15,10 @@ title: Shared Prayers
 **Liturgies and Resources for Holy Week**
 - [Palm Sunday: The Sunday of the Passion](archive/2021/auto/palmsunday)
     - [All Glory, Laud, and Honor](https://www.youtube.com/watch?v=h3a8fTTrAdE)
+- Evening Prayer for:
+    - [Holy Monday](archive/2021/ep-holymonday)
+    - [Holy Tuesday](archive/2021/ep-holytuesday)
+    - [Holy Wednesday](archive/2021/ep-holywednesday)
 - [Maundy Thursday](archive/2021/auto/maundythursday)
 - [Good Friday](archive/2021/auto/goodfriday)
     - [Ah, Holy Jesus](https://vimeo.com/522382442)
