@@ -3,12 +3,12 @@
 {{ with .Get 0 }}
   {{ $reference = . }}
 {{ else }}
-    {{ if and $.Page.Params.lectionaryyear $.Page.Params.proper }}
-        {{ $reffile := printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper }}
-        {{ if (fileExists $reffile) }}
-            {{ $reference = $reffile | readFile | safeHTML }}
-        {{ end }}
+	{{/* Try to find the proper reference as a Sunday or a Holy Day */}}
+	{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper) }}
+	{{ if  not (fileExists $reffile) }}
+		{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/psalm" $.Page.Params.proper ) }}
     {{ end }}
+    {{ $reference = ($reffile | readFile | safeHTML) }}
 {{ end }}
 
 {{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
