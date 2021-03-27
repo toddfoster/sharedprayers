@@ -6,11 +6,12 @@ title: Shared Prayers
 
 -------------
 
+{{% comment %}}
 **Liturgies for this week:**
-
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for the Feast of the Annunciation](archive/2021/auto/annunciation)
+- [Holy Eucharist for Palm Sunday](archive/2021/auto/palmsunday)
 - [Stations of the Cross](seasons/lent/stationscross)
+{{% /comment %}}
 
 **Liturgies and Resources for Holy Week**
 - [Palm Sunday: The Sunday of the Passion](archive/2021/auto/palmsunday)

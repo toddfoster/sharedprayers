@@ -4,29 +4,24 @@ layout: single
 ---
 # WIP
 
-### Full Liturgies for Holy Week
-* [The Sunday of the Passion: Palm Sunday](palmsunday/)
-  * Additional resources:
-     * Hymn for [Procession of the Palms](https://youtu.be/h3a8fTTrAdE)
-	 * Anthem before the Passion: ["O Sacred Head" by Ben Burnham](https://s3.amazonaws.com/cdn.boidem.org/2020/BB-OSacredHead.mp3)
-* [Holy Monday](holywk-epmon/)
-* [Holy Tuesday](holywk-eptue/)
-* [Holy Wednesday](holywk-epwed/)
+## Liturgies and Resources for Holy Week
 
-#### The Great Three Days
-* [Act I: Maundy Thursday](holywk-maundythurs/)
-* [Act II: Good Friday](holywk-goodfri/)
-* [Act III: The Great Vigil of Easter](holywk-vigil/)
+### Palm Sunday
+- [Palm Sunday: The Sunday of the Passion](archive/2021/auto/palmsunday)
+    - [All Glory, Laud, and Honor](https://www.youtube.com/watch?v=h3a8fTTrAdE)
 
-#### Easter Sunday
-* [The Sunday of the Resurrection: Easter Sunday](holywk-easter/)
+### Evening Prayer for:
+    - [Holy Monday](archive/2021/ep-holymonday)
+    - [Holy Tuesday](archive/2021/ep-holytuesday)
+    - [Holy Wednesday](archive/2021/ep-holywednesday)
 
-### Readings Only
-* [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
-* [Holy Monday](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
-* [Holy Tuesday](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyTue_RCL.html)
-* [Holy Wednesday](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyWed_RCL.html)
-* [Maundy Thursday](https://lectionarypage.net/YearABC_RCL/HolyWk/MaundyTh_RCL.html)
-* [Good Friday](https://lectionarypage.net/YearABC_RCL/HolyWk/GoodFri_RCL.html)
-* [Great Vigil of Easter](https://lectionarypage.net/YearA_RCL/Easter/AEasVigil_RCL.html)
-* [Easter Sunday](https://lectionarypage.net/YearA_RCL/Easter/AEasterPrin_RCL.html)
+### The Great Three Days
+- [Maundy Thursday](archive/2021/auto/maundythursday)
+- [Good Friday](archive/2021/auto/goodfriday)
+    - [Ah, Holy Jesus](https://vimeo.com/522382442)
+	- [Overnight watch](https://www.stthomasglassboro.org/zoom)
+- [Holy Saturday Prayer Office](archive/2021/auto/holysaturday)
+- [The Great Vigil of Easter](archive/2021/auto/eastervigil)
+
+### Easter Sunday
+- [The Feast of the Resurrection: Easter Sunday](archive/2021/auto/resurrection3)
