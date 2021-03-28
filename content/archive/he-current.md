@@ -1,42 +1,43 @@
 ---
-title: Holy Eucharist, Rite II (The Sunday of the Passion- Palm Sunday)
-date: 2021-03-28
+title: Holy Eucharist, Rite II (The Sunday of the Resurrection, or Easter Day)
+date: 2021-04-04
 lectionaryyear: yearb
-proper: palmsunday
-bcppage: 270ff.
+proper: resurrection3
+bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
-{{% comment "procession left out for covid-tide" /%}}
-{{% he/palmsunday/palms/b %}}
-##### A hymn may be sung at outdoor celebrations or at home:
-{{% hymns/h-154 %}}
 
 ## We Gather in God's Name
+{{% he/greeting/alleluia %}}
+### Entrance Hymn
+{{% hymns/h-207 %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "firstReading" /%}}
+{{% he/lesson "firstReading" "Acts 10:34-43" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "secondReading" /%}}
-{{% he/palmsunday/passion/b %}}
+{{% he/lesson "secondReading" "1 Corinthians 15:1-11"/%}}
+{{% he/gospel "Mark 16:1-8" /%}}
+{{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/palmsunday/prayers %}}
+{{% he/creed/baptismalvowsrenewal %}}
+{{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid "hymns/levas-37" %}}
+{{% he/offertory "hymns/levas-41" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/short-lent %}}
+{{% he/fraction/short %}}
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
-{{% he/blessing/palmsunday %}}
-{{% he/processional "hymns/levas-31" %}}
-{{% he/dismissal/letusbless %}}
+{{% he/blessing/easter-long %}}
+{{% he/processional "hymns/h-296" %}}
+{{% he/dismissal/easter/letusbless %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
