@@ -15,9 +15,9 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "firstReading" "Acts 10:34-43" /%}}
+{{% he/lesson "First" "Acts 10:34-43" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "secondReading" "1 Corinthians 15:1-11"/%}}
+{{% he/lesson "Second" "1 Corinthians 15:1-11"/%}}
 {{% he/gospel "Mark 16:1-8" /%}}
 {{% he/homily/brief %}}
 
