@@ -29,26 +29,24 @@ Officiant:
 ---
 > Officiant and **People**:
 
-> **Most merciful God,
-we confess that we have sinned against you
-in thought, word, and deed,
-by what we have done,
-and by what we have left undone.
-We have not loved you with our whole heart;
-we have not loved our neighbors as ourselves.
-We are truly sorry and we humbly repent.
-For the sake of your Son Jesus Christ,
-have mercy on us and forgive us;
-that we may delight in your will,
-and walk in your ways,
+> **Most merciful God,  
+we confess that we have sinned against you  
+in thought, word, and deed,  
+by what we have done,  
+and by what we have left undone.  
+We have not loved you with our whole heart;  
+we have not loved our neighbors as ourselves.  
+We are truly sorry and we humbly repent.  
+For the sake of your Son Jesus Christ,  
+have mercy on us and forgive us;  
+that we may delight in your will,  
+and walk in your ways,  
 to the glory of your Name. Amen.**
 
 ---
-> Priest:
+> Officiant:
 
-> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. Amen.
-
-##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
+> Almighty God have mercy on us, forgive us all our sins through our Lord Jesus Christ, strengthen us in all goodness, and by the power of the Holy Spirit keep us in eternal life. Amen.
 
 ---
 ## The Invitatory and Psalter
@@ -101,6 +99,7 @@ you are my crag and my stronghold.
 **4 Deliver me, my God, from the hand of the wicked, \*  
 from the clutches of the evildoer and the oppressor.**
 
+---
 5 For you are my hope, O Lord God, \*  
 my confidence since I was young.  
 **6 I have been sustained by you ever since I was born;  
@@ -117,6 +116,7 @@ forsake me not when my strength fails.
 **10 For my enemies are talking against me, \*  
 and those who lie in wait for my life take counsel together.**
 
+---
 11 They say, “God has forsaken him;  
 go after him and seize him; \*  
 because there is none who will save.”  
@@ -347,7 +347,7 @@ Save us from the time of trial,
 and deliver us from evil.  
 For the kingdom, the power,  
 and the glory are yours,  
-now and for ever. Amen**
+now and for ever. Amen.**
 
 ---
 ## Suffrages

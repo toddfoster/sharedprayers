@@ -29,26 +29,24 @@ Officiant:
 ---
 > Officiant and **People**:
 
-> **Most merciful God,
-we confess that we have sinned against you
-in thought, word, and deed,
-by what we have done,
-and by what we have left undone.
-We have not loved you with our whole heart;
-we have not loved our neighbors as ourselves.
-We are truly sorry and we humbly repent.
-For the sake of your Son Jesus Christ,
-have mercy on us and forgive us;
-that we may delight in your will,
-and walk in your ways,
+> **Most merciful God,  
+we confess that we have sinned against you  
+in thought, word, and deed,  
+by what we have done,  
+and by what we have left undone.  
+We have not loved you with our whole heart;  
+we have not loved our neighbors as ourselves.  
+We are truly sorry and we humbly repent.  
+For the sake of your Son Jesus Christ,  
+have mercy on us and forgive us;  
+that we may delight in your will,  
+and walk in your ways,  
 to the glory of your Name. Amen.**
 
 ---
-> Priest:
+> Officiant:
 
-> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. Amen.
-
-##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
+> Almighty God have mercy on us, forgive us all our sins through our Lord Jesus Christ, strengthen us in all goodness, and by the power of the Holy Spirit keep us in eternal life. Amen.
 
 ---
 ## The Invitatory and Psalter
