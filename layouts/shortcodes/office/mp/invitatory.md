@@ -13,13 +13,17 @@ Officiant:
 > as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
 
 {{ $antiphon := printf "layouts/shortcodes/office/mp/antiphon/%s.md" $season }}
+{{ if not (eq $season "easter") }}
 **People:**
 > **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
+{{ end }}
 
 {{ $invitatory := default $season (.Get 1) }}
 {{ if and (eq $season "lent") (eq $.Page.Params.weekday "friday") }}{{ $invitatory = "psalm95" }}{{ end }}
 {{ $invitatory = printf "layouts/shortcodes/office/mp/invitatory/%s.md" $invitatory }}
 {{ readFile $invitatory | safeHTML }}
 
+{{ if not (eq $season "easter") }}
 **People:**
 > **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
+{{ end }}
