@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/daily/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -353,7 +353,17 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-sat/</loc>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2021/auto/easterfriday/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-fri/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,7 +373,17 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-thu/</loc>
+    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2021/auto/easterwednesday/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-wed/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,7 +393,17 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-tue/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2021/auto/eastermonday/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-mon/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -389,6 +419,11 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/he-current/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/daily/mp/mp-easter-covid-sun/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url>
   
