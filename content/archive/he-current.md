@@ -1,34 +1,34 @@
 ---
-title: Holy Eucharist, Rite II (The Sunday of the Resurrection, or Easter Day)
-date: 2021-04-04
+title: Holy Eucharist, Rite II (The Second Sunday of Easter)
+date: 2021-04-11
 lectionaryyear: yearb
-proper: resurrection3
+proper: easter2
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
 
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
-### Entrance Hymn
-{{% hymns/h-207 %}}
+{{% he/collect-purity %}}
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "firstReading" "Acts 10:34-43" /%}}
+{{% he/lesson "firstReading" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "secondReading" "1 Corinthians 15:1-11"/%}}
-{{% he/gospel "Mark 16:1-8" /%}}
+{{% he/lesson "secondReading" /%}}
+{{% he/gospel /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/alleluia %}}
+{{% he/creed/nicene %}}
+{{% he/pop/hearourprayer %}}
 {{% stt/2021/peace-covid %}}
-{{% stt/announcements %}}
+{{% stt/birthdaysanniversaries %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory "hymns/levas-41" %}}
+{{% stt/2021/offertory-covid "hymns/h-693" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -36,8 +36,8 @@ bcppage: 355ff.
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
-{{% he/blessing/easter-long %}}
-{{% he/processional "hymns/h-296" %}}
-{{% he/dismissal/easter/letusbless %}}
+{{% he/blessing/easter-short %}}
+{{% he/processional "hymns/h-209" %}}
+{{% he/dismissal/easter/goinpeace %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
