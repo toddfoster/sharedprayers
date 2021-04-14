@@ -1,8 +1,8 @@
 ---
-title: Holy Eucharist, Rite II (The Second Sunday of Easter)
-date: 2021-04-11
+title: Holy Eucharist, Rite II (The Third Sunday of Easter)
+date: 2021-04-18
 lectionaryyear: yearb
-proper: easter2
+proper: easter3
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
@@ -23,12 +23,12 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
-{{% stt/birthdaysanniversaries %}}
+{{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid "hymns/h-693" %}}
+{{% stt/2021/offertory-covid "hymns/levas-41" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -37,7 +37,7 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/easter-short %}}
-{{% he/processional "hymns/h-209" %}}
-{{% he/dismissal/easter/goinpeace %}}
+{{% he/processional "hymns/levas-64" %}}
+{{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}

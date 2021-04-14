@@ -6,5 +6,5 @@ For our Redeemer burst from the tomb,
 Even from death dispelling its gloom.
 Let us sing praise to Him with endless joy.
 Death's fearful sting He has come to destroy,
-Our sin for giving, Alleluia.
+Our sin forgiving, Alleluia.
 Jesus is living, Alleluia.
