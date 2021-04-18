@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html {{ with site.Language.Lang }}lang="{{ . }}"{{ end }} >
+<head>
+	<title>Page Redirection</title>
+	<link rel="canonical" href="{{ .Params.forward }}"/>
+	<meta name="robots" content="noindex">
+	<meta http-equiv="refresh" content="0; url={{ .Params.forward }}" />
+	<script type="text/javascript">window.location.href = "{{ .Params.forward }}";</script>
+</head>
+<body>
+  The webpage you're looking for is <a href="{{ .Params.forward }}">here</a>!
+</body>
+</html>
