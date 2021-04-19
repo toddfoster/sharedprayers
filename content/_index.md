@@ -8,8 +8,7 @@ title: Shared Prayers
 
 **Liturgies for this week:**
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for Wednesday night](archive/2021/he-covid-demby)
-- [Holy Eucharist for Church in the Woods on 15 April](archive/2021/he-covid-zenaida)
+- [Holy Eucharist for Wednesday night](archive/2021/auto/stmark)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
