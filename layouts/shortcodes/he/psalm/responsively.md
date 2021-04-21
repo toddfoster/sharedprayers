@@ -8,7 +8,9 @@
 	{{ if  not (fileExists $reffile) }}
 		{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/psalm" $.Page.Params.proper ) }}
     {{ end }}
-    {{ $reference = ($reffile | readFile | safeHTML) }}
+	{{ if (fileExists $reffile) }}
+      {{ $reference = ($reffile | readFile | safeHTML) }}
+    {{ end }}
 {{ end }}
 
 {{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
