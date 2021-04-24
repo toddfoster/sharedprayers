@@ -23,7 +23,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
 
@@ -38,6 +38,6 @@ bcppage: 355ff.
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/easter-short %}}
 {{% he/processional "hymns/h-708" %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/dismissal/easter/goinpeace %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
