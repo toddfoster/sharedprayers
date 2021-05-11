@@ -28,7 +28,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid %}}
+{{% stt/2021/offertory-covid "hymns/levas-151" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -37,7 +37,7 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/ascension-short %}}
-{{% he/processional %}}
+{{% he/processional "hymns/levas-187" %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
