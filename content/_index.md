@@ -8,7 +8,7 @@ title: Shared Prayers
 
 **Liturgies for this week:**
 - [Holy Eucharist for this Sunday](archive/he-current)
-- [Holy Eucharist for Wednesday night](archive/2021/auto/stsphilipjames)
+- [Holy Eucharist for Wednesday night](archive/2021/auto/ascension1)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
