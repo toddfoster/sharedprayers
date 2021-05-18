@@ -20,33 +20,33 @@
 {{ if gt ( len $reference) 3 }}_{{ $reference }}_{{ end }}
 
 {{ $gospel :=  strings.TrimRight " .,:-–0123456789" $reference }}
-Deacon:
-> The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
+##### Deacon:
+The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
 
-**People:**
+##### **People:**
 > **Glory to you, Lord Christ.**
 
-Deacon:
+##### Deacon:
 {{/* Text is provide in .Inner or in readings or by oremus */}}
 {{ with .Inner }}
-{{ . | replaceRE "\n" "\n> " | safeHTML }}
+{{ . }}
 {{ else }}
     {{ if gt (len $reference) 3 }}
         {{ $slug := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
         {{ $filename := ( printf "layouts/shortcodes/readings/nrsv/%s" $slug ) }}
         {{ if fileExists $filename }}
-> {{ $filename | readFile | replaceRE "\n" "\n> " | safeHTML }}
+{{ $filename | readFile | safeHTML }}
 	    {{ else }}
 	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
             {{ $url = replace $url " " "%20" }}
-> _This reading can be found at [{{ $reference }}]({{ $url }})_
+_This reading can be found at [{{ $reference }}]({{ $url }})_
         {{ end }}
     {{ else }}
-> . . .
+ . . .
     {{ end }}
 {{ end }}
-Deacon:
-> The Gospel of the Lord.
+##### Deacon:
+The Gospel of the Lord.
 
-**People:**
+##### **People:**
 > **Praise to you, Lord Christ.**

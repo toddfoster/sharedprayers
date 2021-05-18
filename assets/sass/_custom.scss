@@ -7,6 +7,7 @@ h5 {
     line-height: 100%
 }
 
+[id^='pb'] { display: none; }
 
 /* Printing */
 /* Helpful resources:
@@ -52,15 +53,16 @@ https://www.banjocode.com/post/hugo/custom-css/
 		top: -50px;
 	}
 
-	[id^='pb'] { display:block;
-		  text-indent: 100%;
-		  overflow: hidden;
-		  white-space: nowrap;
-		  height: 1px;
-		  width: 1px;
-		  color: #fff !important;
-		  page-break-after:always;
-		}
+	[id^='pb'] {
+		display:block;
+		text-indent: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		height: 1px;
+		width: 1px;
+		color: #fff !important;
+		page-break-after:always;
+	}
 
 	/*
 	p, blockquote {
@@ -70,11 +72,13 @@ https://www.banjocode.com/post/hugo/custom-css/
    */
 
 	h1, h2, h3, h4, h5, h6 { page-break-after:avoid; }
-	h1, h2 { margin-top: 0.25in; margin-bottom: 0in; }
-	h3, h4 { margin-top: 0.1in; margin-bottom: 0in; }
+	h1 { margin-top: 0.2in; margin-bottom: 0in; }
+	h2 { margin-top: 0.3in; margin-bottom: 0in; }
+	h3, h4 { margin-top: 0.15in; margin-bottom: 0in; }
 	h4 { margin-top: 0in; margin-bottom: 0in; }
 	h5 { margin-top: 0in; margin-bottom: 0in; }
 	p { margin-top: 0in; margin-bottom: 0in; }
+	/* blockquote p { margin-top: 0in; margin-bottom: 0.2in; } */
 	blockquote { margin-top: 0in; margin-bottom: 0in; }
 	ul, ol { margin-top: 0.1in; margin-bottom: 0.1in; }
 

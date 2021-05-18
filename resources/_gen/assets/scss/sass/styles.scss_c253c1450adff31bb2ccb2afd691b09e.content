@@ -867,4 +867,87 @@ h5 {
   font-weight: normal;
   line-height: 100%; }
 
+[id^='pb'] {
+  display: none; }
+
+/* Printing */
+/* Helpful resources:
+https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
+https://www.jotform.com/blog/css-perfect-print-stylesheet-98272/
+https://www.banjocode.com/post/hugo/custom-css/
+*/
+@page {
+  size: 5.5in 8.5in;
+  margin: 0.25in; }
+
+@media print {
+  body {
+    font: 12pt Georgia, "Times New Roman", Times, serif;
+    background: #fff !important;
+    color: #000; }
+  h1, h2 {
+    font: 14pt Georgia, "Times New Roman", Times, serif;
+    font-weight: bold; }
+  h3, h4 {
+    font: 12pt Georgia, "Times New Roman", Times, serif;
+    font-weight: bold; }
+  h5 {
+    font: 8pt Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: normal; }
+  /* Use printHeader instead of online one */
+  #printHeader {
+    display: block !important; }
+  .header {
+    display: none !important; }
+  /* Improve QR Code size/placement */
+  #qr_code {
+    width: 150px;
+    height: auto;
+    float: right;
+    position: relative;
+    top: -50px; }
+  [id^='pb'] {
+    display: block;
+    text-indent: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    height: 1px;
+    width: 1px;
+    color: #fff !important;
+    page-break-after: always; }
+  /*
+	p, blockquote {
+					orphans: 3;
+					widows: 3;
+				  }
+   */
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid; }
+  h1 {
+    margin-top: 0.2in;
+    margin-bottom: 0in; }
+  h2 {
+    margin-top: 0.3in;
+    margin-bottom: 0in; }
+  h3, h4 {
+    margin-top: 0.15in;
+    margin-bottom: 0in; }
+  h4 {
+    margin-top: 0in;
+    margin-bottom: 0in; }
+  h5 {
+    margin-top: 0in;
+    margin-bottom: 0in; }
+  p {
+    margin-top: 0in;
+    margin-bottom: 0in; }
+  /* blockquote p { margin-top: 0in; margin-bottom: 0.2in; } */
+  blockquote {
+    margin-top: 0in;
+    margin-bottom: 0in; }
+  ul, ol {
+    margin-top: 0.1in;
+    margin-bottom: 0.1in; } }
+
 /*# sourceMappingURL=styles.css.map */

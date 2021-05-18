@@ -1,8 +1,8 @@
 ##### The people stand as able.
 ### Greeting
 
-Officiant:
-> Alleluia. Christ is risen.
+##### Officiant:
+Alleluia. Christ is risen.
 
-**People:**
+##### **People:**
 > **The Lord is risen indeed. Alleluia.**

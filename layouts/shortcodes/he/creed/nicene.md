@@ -1,7 +1,7 @@
 ##### The people stand as able.
 ### The Nicene Creed
-Officiant and People:
-> We believe in one God,
+##### Officiant and **People:**
+We believe in one God,
 > **the Father, the Almighty,
 > maker of heaven and earth,
 > of all that is, seen and unseen.**
