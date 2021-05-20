@@ -7,8 +7,10 @@
 {{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
 {{ else }}
 {{ $slug := printf "layouts/shortcodes/readings/pss/responsively/%s" (.Get 0) }}
-{{ $slug | readFile | safeHTML }}
-{{end}}
+{{ if (fileExists $slug) }}
+  {{ $slug | readFile | safeHTML }}
+{{ end }}
+{{ end }}
 
 ##### At the end of the Psalms is sung or said
 > **Glory to the Father, and to the Son, and to the Holy Spirit: *
