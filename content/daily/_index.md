@@ -5,6 +5,7 @@ weight: 50
 --------
 ### The Daily Office
 * Morning Prayer
+  * in the season after Pentecost: [Monday](mp/mp-pentecost-covid-mon), [Tuesday](mp/mp-pentecost-covid-tue), [Wednesday](mp/mp-pentecost-covid-wed), [Thursday](mp/mp-pentecost-covid-thu), [Friday](mp/mp-pentecost-covid-fri), [Saturday](mp/mp-pentecost-covid-sat), [Sunday](mp/mp-pentecost-covid-sun)
   * in Lent: [Monday](mp/mp-lent-mon-covid), [Tuesday](mp/mp-lent-tue-covid), [Wednesday](mp/mp-lent-wed-covid), [Thursday](mp/mp-lent-thu-covid), [Friday](mp/mp-lent-fri-covid), [Saturday](mp/mp-lent-sat-covid), [Sunday](mp/mp-lent-sun-covid)
   * in Easter: [Monday](mp/mp-easter-covid-mon), [Tuesday](mp/mp-easter-covid-tue), [Wednesday](mp/mp-easter-covid-wed), [Thursday](mp/mp-easter-covid-thu), [Friday](mp/mp-easter-covid-fri), [Saturday](mp/mp-easter-covid-sat), [Sunday](mp/mp-easter-covid-sun)
 * [Noonday Prayer](noonday)
