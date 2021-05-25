@@ -20,4 +20,5 @@ and walk in your ways,
 to the glory of your Name. Amen.**
 
 Priest:
-> Almighty God have mercy on us, forgive us all our sins through our Lord Jesus Christ, strengthen us  in all goodness, and by the power of the Holy Spirit keep us in eternal life. **Amen.**
+> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you  in all goodness, and by the power of the Holy Spirit keep you in eternal life. **Amen.**
+#####
