@@ -44,4 +44,4 @@ A reading from {{ $intro }}
 The word of the Lord.
 
 ##### **People:**
-> **Thanks be to God.**
+**Thanks be to God.**

@@ -4,7 +4,7 @@ h5 {
     font-size: small;
     font-style: italic;
     font-weight: normal;
-    line-height: 100%
+	margin-bottom: -0.30in;
 }
 
 [id^='pb'] { display: none; }
@@ -77,7 +77,7 @@ https://www.banjocode.com/post/hugo/custom-css/
 	h3, h4 { margin-top: 0.15in; margin-bottom: 0in; }
 	h4 { margin-top: 0in; margin-bottom: 0in; }
 	h5 { margin-top: 0in; margin-bottom: 0in; }
-	p { margin-top: 0in; margin-bottom: 0in; }
+	p { margin-top: 0in; margin-bottom: 0.1in; }
 	/* blockquote p { margin-top: 0in; margin-bottom: 0.2in; } */
 	blockquote { margin-top: 0in; margin-bottom: 0in; }
 	ul, ol { margin-top: 0.1in; margin-bottom: 0.1in; }
