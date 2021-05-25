@@ -19,7 +19,7 @@
 **The Holy Gospel**
 {{ if gt ( len $reference) 3 }}_{{ $reference }}_{{ end }}
 
-{{ $gospel :=  strings.TrimRight " .,:-0123456789" $reference }}
+{{ $gospel :=  strings.TrimRight " .,:-–0123456789" $reference }}
 Deacon:
 > The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
 
