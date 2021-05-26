@@ -40,8 +40,7 @@ https://www.banjocode.com/post/hugo/custom-css/
 		font-weight: normal;
 	}
 
-	/* Use printHeader instead of online one */
-	#printHeader { display: block !important; }
+	#printHeader { display: none !important; }
 	.header { display: none !important; }
 
 	/* Improve QR Code size/placement */
