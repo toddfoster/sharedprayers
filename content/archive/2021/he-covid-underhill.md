@@ -1,6 +1,6 @@
 ---
 title: "Holy Eucharist, Rite II (Evelyn Underhill, Mystic and Writer, 1941)"
-date: 2021-05-31
+date: 2021-06-15
 lectionaryyear: yearb
 bcppage: 355ff.
 ---
