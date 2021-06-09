@@ -50,10 +50,10 @@ Campus Ministries at universities across the state and the nation provide commun
 ### Materials:
 * [Crosses](https://www.bethlehemgifts.com/product/comfort-holding-cross-olive-wood-small/) ($3)
 * Carabiners:
-** https://www.mcmaster.com/carabiners/carabiners-not-for-lifting/ ($1.67)
-** https://www.mcmaster.com/carabiners/s-hooks-with-latches-on-both-ends-not-for-lifting/  ($1.67)
-** https://www.qualitylogoproducts.com/tradeshow-promotions/carabineer.htm ($1.18?)
-** https://www.strapworks.com/Metal_Spring_Link_p/mspl.htm ($0.75)
+    * https://www.mcmaster.com/carabiners/carabiners-not-for-lifting/ ($1.67)
+    * https://www.mcmaster.com/carabiners/s-hooks-with-latches-on-both-ends-not-for-lifting/  ($1.67)
+    * https://www.qualitylogoproducts.com/tradeshow-promotions/carabineer.htm ($1.18?)
+    * https://www.strapworks.com/Metal_Spring_Link_p/mspl.htm ($0.75)
 * OR Tags
 
 ### Sources:
