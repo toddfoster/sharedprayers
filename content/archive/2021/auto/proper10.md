@@ -5,7 +5,7 @@ lectionaryyear: yearb
 proper: proper10
 bcppage: 355ff.
 ---
-{{% stt/2021/preparing-covid %}}
+{{% stt/2021/preparing %}}
 
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
@@ -25,7 +25,7 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
-{{% stt/2021/peace-covid %}}
+{{% stt/2021/peace %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
@@ -40,5 +40,5 @@ bcppage: 355ff.
 {{% he/blessing/thepeace %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
-{{% stt/2021/postscript-covid %}}
+{{% stt/2021/postscript %}}
 {{% nrsv %}}

@@ -5,7 +5,7 @@ lectionaryyear: yearb
 proper: nativitystjohnbaptist
 bcppage: 355ff.
 ---
-{{% stt/2021/preparing-covid %}}
+{{% stt/2021/preparing-covid-202106 %}}
 
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
@@ -38,5 +38,5 @@ bcppage: 355ff.
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
-{{% stt/2021/postscript-covid %}}
+{{% stt/2021/postscript %}}
 {{% nrsv %}}

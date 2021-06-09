@@ -5,7 +5,7 @@ lectionaryyear: yearb
 proper: proper6
 bcppage: 355ff.
 ---
-{{% stt/2021/preparing-covid %}}
+{{% stt/2021/preparing-covid-202106 %}}
 
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
@@ -40,5 +40,5 @@ bcppage: 355ff.
 {{% he/blessing/thepeace %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
-{{% stt/2021/postscript-covid %}}
+{{% stt/2021/postscript %}}
 {{% nrsv %}}
