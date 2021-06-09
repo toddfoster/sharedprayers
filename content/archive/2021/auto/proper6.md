@@ -25,7 +25,7 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
-{{% stt/2021/peace-covid %}}
+{{% stt/2021/peace-covid-202106 %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
