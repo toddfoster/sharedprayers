@@ -1,5 +1,6 @@
 ---
 date: 2021-04-18
 layout: forward
-forward: "/archive/2021/auto/proper6/"
+forward: "/archive/2021/auto/proper7/"
 ---
+g
