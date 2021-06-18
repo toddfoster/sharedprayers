@@ -1,6 +1,6 @@
 ### The Collect of the Day
-Officiant:
+##### Officiant:
 {{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
 
-**People:**
+##### People:
 > **Amen.**

@@ -19,19 +19,18 @@
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
-**The {{ $ordinal }} Lesson**
-_{{- $reference -}}_
+#### The {{ $ordinal }} Lesson: _{{- $reference -}}_
 
-Lector:
-> A reading from {{ $intro }}
+##### Lector:
+A reading from {{ $intro }}
 
 {{ with .Inner }}
-{{ . | replaceRE "\n" "\n> " | safeHTML }}
+{{ . | replace "\n" "\n    \n" | safeHTML }}
 {{ else }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
 	{{ if fileExists $filepath }}
-> {{ $filepath | readFile | replaceRE "\n" "\n> " | safeHTML  }}
+{{ $filepath | readFile | safeHTML  }}
     {{ else }}
         {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
         {{ $url = replace $url " " "%20" }}
@@ -40,8 +39,8 @@ Lector:
     {{ end }}
 {{ end }}
 
-Lector:
-> The word of the Lord.
+##### Lector:
+The word of the Lord.
 
-**People:**
-> **Thanks be to God.**
+##### **People:**
+**Thanks be to God.**

@@ -1,8 +1,8 @@
-Officiant:
+##### Officiant:
 > Lord have mercy.
 
-**People:**
+##### People:
 > **Christ have mercy.**
 
-Officiant:
+##### Officiant:
 > Lord have mercy.

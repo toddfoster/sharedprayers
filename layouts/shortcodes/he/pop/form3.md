@@ -1,58 +1,58 @@
 _Form III_
 
-Leader:
-> Father, we pray for your holy Catholic Church;
+##### Leader:
+Father, we pray for your holy Catholic Church;
 
-**People:**
-> **That we all may be one.**
+##### People:
+**That we all may be one.**
 
-Leader:
-> Grant that every member of the Church may truly and humbly serve you;
+##### Leader:
+Grant that every member of the Church may truly and humbly serve you;
 
-**People:**
-> **That your Name may be glorified by all people.**
+##### People:
+**That your Name may be glorified by all people.**
 
-Leader:
-> We pray for all bishops, priests, and deacons;
+##### Leader:
+We pray for all bishops, priests, and deacons;
 
-**People:**
-> **That they may be faithful ministers of your Word and Sacraments.**
+##### People:
+**That they may be faithful ministers of your Word and Sacraments.**
 
-Leader:
-> We pray for all who govern and hold authority in the nations of the world;
+##### Leader:
+We pray for all who govern and hold authority in the nations of the world;
 
-**People:**
-> **That there may be justice and peace on the earth.**
+##### People:
+**That there may be justice and peace on the earth.**
 
-Leader:
-> Give us grace to do your will in all that we undertake;
+##### Leader:
+Give us grace to do your will in all that we undertake;
 
-**People:**
-> **That our works may find favor in your sight.**
+##### People:
+**That our works may find favor in your sight.**
 
-Leader:
-> Have compassion on those who suffer from any grief or trouble;
+##### Leader:
+Have compassion on those who suffer from any grief or trouble;
 
-**People:**
-> **That they may be delivered from their distress.**
+##### People:
+**That they may be delivered from their distress.**
 
-Leader:
-> Give to the departed eternal rest;
+##### Leader:
+Give to the departed eternal rest;
 
-**People:**
-> **Let light perpetual shine upon them.**
+##### People:
+**Let light perpetual shine upon them.**
 
-Leader:
-> We praise you for your saints who have entered into joy;
+##### Leader:
+We praise you for your saints who have entered into joy;
 
-**People:**
-> **May we also come to share in your heavenly kingdom.**
+##### People:
+**May we also come to share in your heavenly kingdom.**
 
-Leader:
-> Let us pray for our own needs and those of others.
+##### Leader:
+Let us pray for our own needs and those of others.
 
-_Silence_
+##### Silence
 
-_The People may add their own petitions._
+##### The People may add their own petitions.
 
-_The Celebrant adds a concluding Collect._
+##### The Celebrant adds a concluding Collect.

@@ -1,7 +1,7 @@
-Officiant:
+##### Officiant:
 > Holy God,
 > Holy and Mighty,
 > Holy Immortal One,
 
-**People:**
+##### People:
 > **Have mercy upon us.**

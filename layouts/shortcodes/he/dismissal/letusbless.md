@@ -1,6 +1,6 @@
 ### The Dismissal
-Deacon:
-> Let us bless the Lord.
+##### Deacon:
+Let us bless the Lord.
 
-**People:**
-> **Thanks be to God.**
+##### **People:**
+**Thanks be to God.**

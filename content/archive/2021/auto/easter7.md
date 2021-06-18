@@ -6,7 +6,7 @@ proper: easter7
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
-
+##### pb
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
@@ -21,8 +21,10 @@ bcppage: 355ff.
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
+##### pb
 {{% he/pop/alleluia %}}
 {{% stt/2021/peace-covid %}}
 {{% stt/announcements %}}
