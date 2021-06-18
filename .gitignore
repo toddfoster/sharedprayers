@@ -6,3 +6,6 @@
 .DS_Store
 static/.DS_Store
 static/images/.DS_Store
+
+# generated css file
+resources/_gen/assets/scss/sass/styles.scss_c253c1450adff31bb2ccb2afd691b09e.content
