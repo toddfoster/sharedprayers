@@ -30,12 +30,15 @@ https://www.banjocode.com/post/hugo/custom-css/
 		color: #000;
 	}
 	h1, h2 {
-		font: 14pt Georgia, "Times New Roman", Times, serif;
+		font-family: 14pt Futura, "Century Gothic", AppleGothic, sans-serif;
 		font-weight: bold;
+		color: #BCBCBC;
+		text-align: center;
 	}
 	h3, h4 {
-		font: 12pt Georgia, "Times New Roman", Times, serif;
+		font-family: 12pt Futura, "Century Gothic", AppleGothic, sans-serif;
 		font-weight: bold;
+		color: #BCBCBC;
 	}
 	h5 {
 		font: 8pt Georgia, "Times New Roman", Times, serif;
@@ -45,14 +48,15 @@ https://www.banjocode.com/post/hugo/custom-css/
 
 	#printHeader { display: none !important; }
 	.header { display: none !important; }
+	.mobile-nav { display: none !important; }
 
 	/* Improve QR Code size/placement */
 	#qr_code {
 		width: 150px;
 		height: auto;
 		float: right;
-		position: relative;
 		top: -50px;
+		clear: after;
 	}
 
 	[id^='pb'] {
