@@ -9,6 +9,9 @@ h5 {
 
 [id^='pb'] { display: none; }
 
+/* automatically embolden "People:" rubrics */
+#people { font-weight: bold; }
+
 /* Printing */
 /* Helpful resources:
 https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
