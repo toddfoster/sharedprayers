@@ -1,9 +1,9 @@
 ### The Post-communion Prayer
-Presider:
-> Let us pray.
+##### Presider:
+Let us pray.
 
-**People:**
-> **Almighty and everliving God,
+##### **People:**
+**Almighty and everliving God,
 we thank you for feeding us with the spiritual food
 of the most precious Body and Blood
 of your Son our Savior Jesus Christ;

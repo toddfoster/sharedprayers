@@ -1,9 +1,9 @@
 ### The Lord's Prayer
-Presider:
-> Let us pray in the words our Savior Christ has taught us:
+##### Presider:
+Let us pray in the words our Savior Christ has taught us:
 
-**Officiant and People:**
-> Our Father, **who art in heaven,
+##### Officiant and **People:**
+Our Father, **who art in heaven,
 	hallowed be thy Name,
 	thy kingdom come,
 	thy will be done,

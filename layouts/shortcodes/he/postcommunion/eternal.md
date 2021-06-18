@@ -1,9 +1,9 @@
 ### The Post-communion Prayer
-Presider:
-> Let us pray.
+##### Presider:
+Let us pray.
 
-**People:**
-> **Eternal God, heavenly Father,
+##### **People:**
+**Eternal God, heavenly Father,
 you have graciously accepted us as living members
 of your Son our Savior Jesus Christ,
 and you have fed us with spiritual food
