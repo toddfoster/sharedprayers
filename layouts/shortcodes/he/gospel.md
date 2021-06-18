@@ -16,15 +16,14 @@
 {{ end }}
 {{ $reference = $reference | chomp }}
 ##### The people stand as able.
-**The Holy Gospel**
-{{ if gt ( len $reference) 3 }}_{{ $reference }}_{{ end }}
+#### The Holy Gospel: {{ if gt ( len $reference) 3 }}_{{ $reference }}_{{ end }}
 
 {{ $gospel :=  strings.TrimRight " .,:-–0123456789" $reference }}
 ##### Deacon:
 The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
 
 ##### **People:**
-> **Glory to you, Lord Christ.**
+**Glory to you, Lord Christ.**
 
 ##### Deacon:
 {{/* Text is provide in .Inner or in readings or by oremus */}}
@@ -49,4 +48,4 @@ _This reading can be found at [{{ $reference }}]({{ $url }})_
 The Gospel of the Lord.
 
 ##### **People:**
-> **Praise to you, Lord Christ.**
+**Praise to you, Lord Christ.**

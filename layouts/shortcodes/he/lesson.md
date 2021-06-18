@@ -19,8 +19,7 @@
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
-**The {{ $ordinal }} Lesson**
-_{{- $reference -}}_
+#### The {{ $ordinal }} Lesson: _{{- $reference -}}_
 
 ##### Lector:
 A reading from {{ $intro }}
