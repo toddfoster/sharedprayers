@@ -1,11 +1,11 @@
-Officiant:
-> There is one Body and one Spirit;
+##### Officiant:
+There is one Body and one Spirit;
 
-**People:**
-> **There is one hope in God's call to us;**
+##### People:
+**There is one hope in God's call to us;**
 
-Officiant:
-> One Lord, one Faith, one Baptism;
+##### Officiant:
+One Lord, one Faith, one Baptism;
 
-**People:**
-> **One God and Father of all.**
+##### People:
+**One God and Father of all.**

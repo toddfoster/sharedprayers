@@ -4,5 +4,5 @@
 ##### Officiant:
 Alleluia. Christ is risen.
 
-##### **People:**
+##### People:
 **The Lord is risen indeed. Alleluia.**
