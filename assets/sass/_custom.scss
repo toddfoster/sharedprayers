@@ -1,11 +1,26 @@
 // Site custom styles
+
+h1, h2 {
+	text-align: center;
+}
+
+h1, h2, h3, h4 {
+  font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
+  color: #333333;
+  font-weight: normal; }
+
 /* rubrics */
 h5 {
     font-size: small;
     font-style: italic;
     font-weight: normal;
 	margin-bottom: -0.30in;
+	line-height: 14px;
 }
+
+p { margin-left: 10px; }
+
+
 
 [id^='pb'] { display: none; }
 
@@ -29,21 +44,22 @@ https://www.banjocode.com/post/hugo/custom-css/
 		background: #fff !important;
 		color: #000;
 	}
+
 	h1, h2 {
-		font-family: 14pt Futura, "Century Gothic", AppleGothic, sans-serif;
+		font: 16pt Georgia, "Times New Roman", Times, serif;
 		font-weight: bold;
-		color: #BCBCBC;
 		text-align: center;
 	}
 	h3, h4 {
-		font-family: 12pt Futura, "Century Gothic", AppleGothic, sans-serif;
+		font: 12pt Georgia, "Times New Roman", Times, serif;
+		font-size: 16px;
 		font-weight: bold;
-		color: #BCBCBC;
 	}
 	h5 {
-		font: 8pt Georgia, "Times New Roman", Times, serif;
+		font: 10px;
 		font-style: italic;
 		font-weight: normal;
+		line-height: 14px;
 	}
 
 	#printHeader { display: none !important; }
