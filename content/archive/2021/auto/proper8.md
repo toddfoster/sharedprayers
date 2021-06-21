@@ -45,7 +45,7 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "Trust and Obey (LEVAS 205)"%}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}

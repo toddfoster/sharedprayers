@@ -57,7 +57,7 @@ Once while Jesus was standing beside the lake of Gennesaret, and the crowd was p
 {{% stt/2021/peace-covid %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory-nohymn %}}
+{{% he/offertory %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}

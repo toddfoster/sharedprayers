@@ -27,7 +27,7 @@ bcppage: 274/355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory-nohymn %}}
+{{% he/offertory %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short-lent %}}

@@ -26,7 +26,7 @@ bcppage: 355ff.
 {{% stt/2021/peace-covid-202106 %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory-nohymn %}}
+{{% he/offertory %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
