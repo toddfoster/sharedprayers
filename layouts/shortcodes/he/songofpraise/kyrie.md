@@ -1,5 +1,5 @@
 ### Kyrie
-
+##### [BCP 356]
 ##### Officiant:
 > Kyrie, eleison.
 
