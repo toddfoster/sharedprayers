@@ -1,3 +1,4 @@
+##### [BCP 355]
 ##### The people stand as able.
 ### Greeting
 
@@ -5,4 +6,4 @@
 Bless the Lord who forgives all our sins.
 
 ##### People:
-**His mercy endures for ever.**
+**God's mercy endures for ever.**
