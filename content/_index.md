@@ -7,8 +7,11 @@ title: Shared Prayers
 -------------
 
 **Sunday Liturgies for this month:**
-- [Holy Eucharist for Sunday, 20 June, the Second Sunday after Pentecost](archive/2021/auto/proper7)
 - [Holy Eucharist for Sunday, 27 June, the Second Sunday after Pentecost](archive/2021/auto/proper8)
+- [Holy Eucharist for Sunday, 4 July, the Second Sunday after Pentecost](archive/2021/auto/proper9)
+- [Holy Eucharist for Sunday, 11 July, the Second Sunday after Pentecost](archive/2021/auto/proper10)
+- [Holy Eucharist for Sunday, 18 July, the Second Sunday after Pentecost](archive/2021/auto/proper11)
+- [Holy Eucharist for Sunday, 25 July, the Second Sunday after Pentecost](archive/2021/auto/proper12)
 
 **Wednesday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 23 June (The Nativity of Saint John the Baptist)](archive/2021/auto/nativitystjohnbaptist)
