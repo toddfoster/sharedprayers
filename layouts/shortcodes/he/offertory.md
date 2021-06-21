@@ -6,5 +6,5 @@
 ### Offertory Hymn
 {{ $filename | readFile | safeHTML }}
 {{ else }}
-#### Offertory Hymn: {{ (.Get 0) }}
+### Offertory Hymn: {{ (.Get 0) }}
 {{end}}{{end}}

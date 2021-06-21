@@ -4,5 +4,5 @@
 ### Processional
 {{ $filename | readFile | safeHTML }}
 {{ else }}
-### Processional: {{ (.Get 0) }}
+### Processional Hymn: {{ (.Get 0) }}
 {{end}}{{end}}
