@@ -1,5 +1,6 @@
-##### The people stand as able.
 ### The Nicene Creed
+##### [BCP 358]
+##### The people stand as able.
 ##### Officiant and **People:**
 We believe in one God,
  **the Father, the Almighty,

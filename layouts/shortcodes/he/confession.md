@@ -1,4 +1,5 @@
 ### Confession of Sin
+##### [BCP 360]
 ##### Officiant:
 Let us confess our sins against God and our neighbor.
 

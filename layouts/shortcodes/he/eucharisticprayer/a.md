@@ -1,4 +1,5 @@
 ### The Great Thanksgiving: Eucharistic Prayer A
+##### [BCP 361]
 ##### Presider:
 The Lord be with you.
 

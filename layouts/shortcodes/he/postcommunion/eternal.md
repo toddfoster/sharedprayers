@@ -1,4 +1,5 @@
 ### The Post-communion Prayer
+##### [BCP 365]
 ##### Presider:
 Let us pray.
 

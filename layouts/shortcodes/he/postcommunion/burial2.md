@@ -1,4 +1,5 @@
 ### The Post-communion Prayer
+##### [BCP 498]
 ##### Presider:
 Let us pray.
 
