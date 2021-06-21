@@ -27,7 +27,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <link rel="stylesheet" href="/css/mobile.2ab74aa64785dcab8114959e76ca140cf76207cd85989bc6d4fc3b12f734a09e.css" media="screen">
-<link rel="stylesheet" href="/css/styles.a4a95e0a745387ffaa8799e126f8c8343abe31ebaea62265cb24035c4ccc24d9.css">
+<link rel="stylesheet" href="/css/styles.cb2a7f74608682dac3a994aa174c45cfc53316631960d44997309a98c4c1a476.css">
 <link rel="stylesheet" href="/css/print.27fc184f8670f41a2690985390779e7b20335a8fadff8fa015cf9417ffe50c36.css" media="print">
 
 <script type="application/ld+json">
@@ -84,15 +84,19 @@
 
 <main class="main layout__main">
 <article class="section-daily single-view">
-<header>
+  <header>
+	<div id="printHeader" style="display:none">
+	  <img src="/images/printHeader.png" width="100%" />
+	  </div>
 <h1 class="title ">An Order for Compline (4)</h1>
 </header>
 <div class="content">
   <p> 3 February 2021<br /><em>according to the Book of Common Prayer (p. 127ff.)</em></p>
   <h2 id="share-these-prayers"> Share These Prayers</h2>
-<img src="/images/qr/daily/compline4.png" alt="http://www.sharedprayers.net/daily/compline4/" width="200" /><br />
-<p>Invite someone to scan this QR code to pray with you.</p>
-<hr />
+<img id="qr_code" src="/images/qr/daily/compline4.png" alt="http://www.sharedprayers.net/daily/compline4/" width="200" />
+  <p>Invite someone to scan this QR code to pray with you.</p>
+  <br clear="all" />
+  <hr />
 <p><em>The Officiant begins</em></p>
 <blockquote>
 <p>The Lord Almighty grant us a peaceful night and a perfect end.</p>
@@ -178,15 +182,15 @@ as it was in the beginning, is now, and will be for ever. Amen.</strong></p>
 V.  Keep us, O Lord, as the apple of your eye;<br>
 <strong>R.  Hide us under the shadow of your wings.</strong></p>
 </blockquote>
-<p>Officiant:</p>
+<h5 id="officiant">Officiant:</h5>
 <blockquote>
 <p>Lord have mercy.</p>
 </blockquote>
-<p><strong>People:</strong></p>
+<h5 id="people">People:</h5>
 <blockquote>
 <p><strong>Christ have mercy.</strong></p>
 </blockquote>
-<p>Officiant:</p>
+<h5 id="officiant-1">Officiant:</h5>
 <blockquote>
 <p>Lord have mercy.</p>
 </blockquote>

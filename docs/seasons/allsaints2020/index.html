@@ -27,7 +27,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <link rel="stylesheet" href="/css/mobile.2ab74aa64785dcab8114959e76ca140cf76207cd85989bc6d4fc3b12f734a09e.css" media="screen">
-<link rel="stylesheet" href="/css/styles.a4a95e0a745387ffaa8799e126f8c8343abe31ebaea62265cb24035c4ccc24d9.css">
+<link rel="stylesheet" href="/css/styles.cb2a7f74608682dac3a994aa174c45cfc53316631960d44997309a98c4c1a476.css">
 <link rel="stylesheet" href="/css/print.27fc184f8670f41a2690985390779e7b20335a8fadff8fa015cf9417ffe50c36.css" media="print">
 
 <script type="application/ld+json">
@@ -84,15 +84,19 @@
 
 <main class="main layout__main">
 <article class="section-seasons single-view">
-<header>
+  <header>
+	<div id="printHeader" style="display:none">
+	  <img src="/images/printHeader.png" width="100%" />
+	  </div>
 <h1 class="title ">The Feast of All Saints 2020</h1>
 </header>
 <div class="content">
   <p> 27 October 2020<br /></p>
   <h2 id="share-these-prayers"> Share These Prayers</h2>
-<img src="/images/qr/seasons/allsaints2020.png" alt="http://www.sharedprayers.net/seasons/allsaints2020/" width="200" /><br />
-<p>Invite someone to scan this QR code to pray with you.</p>
-<hr />
+<img id="qr_code" src="/images/qr/seasons/allsaints2020.png" alt="http://www.sharedprayers.net/seasons/allsaints2020/" width="200" />
+  <p>Invite someone to scan this QR code to pray with you.</p>
+  <br clear="all" />
+  <hr />
 <p>The Feast of All Saints<br>
 1 November 2020</p>
 <p>Holy Baptism<br>
@@ -113,51 +117,28 @@
 <h2 id="we-gather-in-gods-name">We Gather in God’s Name</h2>
 <h5 id="the-people-stand-as-able">The people stand as able.</h5>
 <h3 id="greeting">Greeting</h3>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant">Officiant:</h5>
 <p>Blessed be God: Father, Son, and Holy Spirit.</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people">People:</h5>
 <p><strong>And blessed be God’s kingdom, now and for ever. Amen.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-1">Officiant:</h5>
 <p>There is one Body and one Spirit;</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-1">People:</h5>
 <p><strong>There is one hope in God&rsquo;s call to us;</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-2">Officiant:</h5>
 <p>One Lord, one Faith, one Baptism;</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-2">People:</h5>
 <p><strong>One God and Father of all.</strong></p>
-</blockquote>
 <h3 id="the-collect-of-the-day">The Collect of the Day</h3>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-3">Officiant:</h5>
 <p>The Lord be with you.</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-3"><strong>People:</strong></h5>
 <p><strong>And also with you.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-4">Officiant:</h5>
 <p>Let us pray.</p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
 <p>Almighty God, you have knit together your elect in one communion and fellowship in the mystical body of your Son Christ our Lord: Give us grace so to follow your blessed saints in all virtuous and godly living, that we may come to those ineffable joys that you have prepared for those who truly love you; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, in glory everlasting.</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-4"><strong>People:</strong></h5>
 <p><strong>Amen.</strong></p>
-</blockquote>
 <h5 id="the-people-are-seated">The people are seated.</h5>
 <h2 id="we-hear-gods-word">We Hear God’s Word</h2>
 <p><strong>The First Lesson</strong><br>
@@ -623,11 +604,9 @@ and share with us in his eternal priesthood.</strong></p>
 </blockquote>
 <h5 id="passing-the-peace-is-primarily-a-liturgical-practice-not-a-social-one-while-the-threat-of-covid-19-is-prominent-the-peace-will-be-brief-please-do-not-move-around-or-make-contact-shaking-hands-hugs-with-others-instead-you-are-invited-to-look-to-the-person-on-either-side-of-you-and-wish-them-peace-with-a-bow-or-a-wave">Passing the Peace is primarily a liturgical practice, not a social one. While the threat of Covid-19 is prominent, the peace will be brief. Please do not move around or make contact (shaking hands, hugs) with others. Instead you are invited to look to the person on either side of you and wish them peace with a bow or a wave.</h5>
 <h3 id="the-peace">The Peace</h3>
-<p>Presider:</p>
-<blockquote>
+<h5 id="presider">Presider:</h5>
 <p>The peace of the Lord be always with you.</p>
-</blockquote>
-<p><strong>People:</strong></p>
+<h5 id="people-5"><strong>People:</strong></h5>
 <blockquote>
 <p><strong>And also with you.</strong></p>
 </blockquote>
@@ -802,12 +781,9 @@ for ever and ever.  Amen.</strong></p>
 </blockquote>
 <h5 id="if-a-person-desires-to-receive-the-sacrament-but-by-reason-of-extreme-sickness-or-physical-disability-is-unable-to-eat-and-drink-the-bread-and-wine-the-celebrant-is-to-assure-that-person-that-all-the-benefits-of-communion-are-received-even-though-the-sacrament-is-not-received-with-the-mouth-bcp-457">If a person desires to receive the Sacrament, but, by reason of extreme sickness or physical disability, is unable to eat and drink the Bread and Wine, the Celebrant is to assure that person that all the benefits of Communion are received, even though the Sacrament is not received with the mouth. (BCP, 457)</h5>
 <h3 id="the-post-communion-prayer">The Post-communion Prayer</h3>
-<p>Presider:</p>
-<blockquote>
+<h5 id="presider-1">Presider:</h5>
 <p>Let us pray.</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-6"><strong>People:</strong></h5>
 <p><strong>Eternal God, heavenly Father,<br>
 you have graciously accepted us as living members<br>
 of your Son our Savior Jesus Christ,<br>
@@ -818,7 +794,6 @@ and grant us strength and courage<br>
 to love and serve you<br>
 with gladness and singleness of heart;<br>
 through Christ our Lord. Amen.</strong></p>
-</blockquote>
 <h3 id="the-blessing">The Blessing</h3>
 <h3 id="the-dismissal">The Dismissal</h3>
 <p>Deacon:</p>

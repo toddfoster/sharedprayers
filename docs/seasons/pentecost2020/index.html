@@ -27,7 +27,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <link rel="stylesheet" href="/css/mobile.2ab74aa64785dcab8114959e76ca140cf76207cd85989bc6d4fc3b12f734a09e.css" media="screen">
-<link rel="stylesheet" href="/css/styles.a4a95e0a745387ffaa8799e126f8c8343abe31ebaea62265cb24035c4ccc24d9.css">
+<link rel="stylesheet" href="/css/styles.cb2a7f74608682dac3a994aa174c45cfc53316631960d44997309a98c4c1a476.css">
 <link rel="stylesheet" href="/css/print.27fc184f8670f41a2690985390779e7b20335a8fadff8fa015cf9417ffe50c36.css" media="print">
 
 <script type="application/ld+json">
@@ -84,15 +84,19 @@
 
 <main class="main layout__main">
 <article class="section-seasons single-view">
-<header>
+  <header>
+	<div id="printHeader" style="display:none">
+	  <img src="/images/printHeader.png" width="100%" />
+	  </div>
 <h1 class="title ">Ante-Communion, Rite II  --- The Feast of Pentecost</h1>
 </header>
 <div class="content">
   <p> 30 May 2020<br /></p>
   <h2 id="share-these-prayers"> Share These Prayers</h2>
-<img src="/images/qr/seasons/pentecost2020.png" alt="http://www.sharedprayers.net/seasons/pentecost2020/" width="200" /><br />
-<p>Invite someone to scan this QR code to pray with you.</p>
-<hr />
+<img id="qr_code" src="/images/qr/seasons/pentecost2020.png" alt="http://www.sharedprayers.net/seasons/pentecost2020/" width="200" />
+  <p>Invite someone to scan this QR code to pray with you.</p>
+  <br clear="all" />
+  <hr />
 <p><em>The Feast of Pentecost</em><br>
 <em>according to the Book of Common Prayer (p. 355)<br>
 31 May 2020</em></p>
@@ -112,12 +116,10 @@
 <p><strong>The Lord is risen indeed. Alleluia!</strong></p>
 </blockquote>
 <h3 id="the-collect-for-purity">The Collect for Purity</h3>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant">Officiant:</h5>
 <p>Almighty God, to you all hearts are open, all desires known, and from you no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of your Holy Spirit, that we may perfectly love you, and worthily magnify your holy Name; through Christ our Lord. <strong>Amen.</strong></p>
-</blockquote>
 <h3 id="gloria-in-excelsis">Gloria in excelsis</h3>
-<p>Officiant and <strong>People:</strong></p>
+<h5 id="officiant-and-people">Officiant and <strong>People:</strong></h5>
 <blockquote>
 <p><strong>Glory to God in the highest,<br>
 and peace to God’s people on earth.<br>
@@ -261,28 +263,17 @@ Deacon:</p>
 <h2 id="we-respond-in-faith">We Respond in Faith</h2>
 <h5 id="the-people-stand-as-able">The people stand as able.</h5>
 <h3 id="the-renewal-of-baptismal-vows">The Renewal of Baptismal Vows</h3>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-1">Officiant:</h5>
 <p>Do you reaffirm your renunciation of evil and renew your commitment to Jesus Christ?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people"><strong>People:</strong></h5>
 <p><strong>I do.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-2">Officiant:</h5>
 <p>Do you believe in God the Father?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-1"><strong>People:</strong></h5>
 <p><strong>I believe in God, the Father almighty, creator of heaven and earth.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-3">Officiant:</h5>
 <p>Do you believe in Jesus Christ, the Son of God?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-2"><strong>People:</strong></h5>
 <p><strong>I believe in Jesus Christ, his only Son, our Lord.<br>
 He was conceived by the power of the Holy Spirit<br>
 and born of the Virgin Mary.<br>
@@ -293,61 +284,34 @@ On the third day he rose again.<br>
 He ascended into heaven,<br>
 and is seated at the right hand of the Father.<br>
 He will come again to judge the living and the dead.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-4">Officiant:</h5>
 <p>Do you believe in God the Holy Spirit?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-3"><strong>People:</strong></h5>
 <p><strong>I believe in the Holy Spirit, the holy catholic Church,<br>
 the communion of saints, the forgiveness of sins,<br>
 the resurrection of the body, and the life everlasting.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-5">Officiant:</h5>
 <p>Will you continue in the apostles’ teaching and fellowship, in the breaking of bread, and in the prayers?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-4"><strong>People:</strong></h5>
 <p><strong>I will, with God’s help.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-6">Officiant:</h5>
 <p>Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-5"><strong>People:</strong></h5>
 <p><strong>I will, with God’s help.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-7">Officiant:</h5>
 <p>Will you proclaim by word and example the Good News of God in Christ?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-6"><strong>People:</strong></h5>
 <p><strong>I will, with God’s help.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-8">Officiant:</h5>
 <p>Will you seek and serve Christ in all persons, loving your neighbor as yourself?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-7"><strong>People:</strong></h5>
 <p><strong>I will, with God’s help.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-9">Officiant:</h5>
 <p>Will you strive for justice and peace among all people, and respect the dignity of every human being?</p>
-</blockquote>
-<p><strong>People:</strong></p>
-<blockquote>
+<h5 id="people-8"><strong>People:</strong></h5>
 <p><strong>I will, with God’s help.</strong></p>
-</blockquote>
-<p>Officiant:</p>
-<blockquote>
+<h5 id="officiant-10">Officiant:</h5>
 <p>May Almighty God, the Father of our Lord Jesus Christ, who has given us a new birth by water and the Holy Spirit, and bestowed upon us the forgiveness of sins, keep us in eternal life by his grace, in Christ Jesus our Lord. <strong>Amen.</strong></p>
-</blockquote>
 <h3 id="the-prayers-of-the-people">The Prayers of the People</h3>
 <p>Deacon:</p>
 <blockquote>
