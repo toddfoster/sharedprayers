@@ -1,5 +1,5 @@
+#### BCP 356
 ### Gloria in excelsis
-##### [BCP 356]
 ##### Officiant and **People:**
 > **Glory to God in the highest,
 > 	and peace to God’s people on earth.

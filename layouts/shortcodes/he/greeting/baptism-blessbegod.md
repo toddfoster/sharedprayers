@@ -1,4 +1,4 @@
-##### [BCP 299]
+#### BCP 299
 ##### The people stand as able.
 ### Greeting
 

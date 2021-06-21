@@ -1,5 +1,5 @@
+#### BCP 366
 ### The Post-communion Prayer
-##### [BCP 366]
 ##### Presider:
 Let us pray.
 

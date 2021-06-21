@@ -1,4 +1,4 @@
-##### [BCP 355]
+#### BCP 355
 ##### The people stand as able.
 ### Greeting
 

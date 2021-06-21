@@ -11,8 +11,11 @@ h1, h2, h3 {
 
 h3 { font-size: 100%; }
 
+/* BCP page numbers */
+h4 { text-align: right; }
+
 /* rubrics */
-h5 {
+h4, h5 {
     font-size: 65%;
     font-style: italic;
     font-weight: normal;
