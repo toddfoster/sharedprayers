@@ -1,5 +1,8 @@
 {{ if (.Get 0)}}
-### Processional
 {{ $filename := printf "%s.md" (path.Join "layouts/shortcodes" (.Get 0)) }}
+{{ if fileExists $filename }}
+### Processional
 {{ $filename | readFile | safeHTML }}
-{{end}}
+{{ else }}
+### Processional: {{ (.Get 0) }}
+{{end}}{{end}}
