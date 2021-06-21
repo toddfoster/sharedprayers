@@ -6,7 +6,7 @@ bcppage: 462ff.
 
 ##### When a person is near death, the Minister of the Congregation should be notified, in order that the ministrations of the Church may be provided.
 
-#### A Prayer for a Person near Death
+### A Prayer for a Person near Death
 > Almighty God, look on this your servant, lying in great weakness, and comfort her with the promise of life everlasting, given in the resurrection of your Son Jesus Christ our Lord. **Amen.**
 
 ## Litany at the Time of Death
@@ -76,7 +76,7 @@ but deliver us from evil.**
 > Let us pray.
 Deliver your servant, _N.,_ O Sovereign Lord Christ, from all evil, and set her free from every bond; that he may rest with all your saints in the eternal habitations; where with the Father and the Holy Spirit you live and reign, one God, for ever and ever. **Amen.**
 
-#### A Commendation at the Time of Death
+### A Commendation at the Time of Death
 > Depart, O Christian soul, out of this world;
 In the name of God the Father Almighty who created you;
 In the name of Jesus Christ who redeemed you;
@@ -84,7 +84,7 @@ In the name of the Holy Spirit who sanctifies you.
 May your rest be this day in peace,
 and your dwelling place in the Paradise of God.
 
-#### A Commendatory Prayer
+### A Commendatory Prayer
 > Into your hands, O merciful Savior, we commend your servant _N._ Acknowledge, we humbly beseech you, a sheep of your own fold, a lamb of your own flock, a sinner of your own redeeming. Receive her into the arms of your mercy, into the blessed rest of everlasting peace, and into the glorious company of the saints in light. **Amen.**
 
 > May her soul and the souls of all the departed, through the mercy of God, rest in peace. **Amen.**

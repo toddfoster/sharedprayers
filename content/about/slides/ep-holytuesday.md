@@ -10,7 +10,7 @@ class: middle
 class: center
 # Evening Prayer
 ## For Holy Tuesday
-#### _from the Book of Common Prayer, pp. 115ff._
+### _from the Book of Common Prayer, pp. 115ff._
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -29,18 +29,18 @@ Officiant:
 ---
 > Officiant and **People**:
 
-> **Most merciful God,  
-we confess that we have sinned against you  
-in thought, word, and deed,  
-by what we have done,  
-and by what we have left undone.  
-We have not loved you with our whole heart;  
-we have not loved our neighbors as ourselves.  
-We are truly sorry and we humbly repent.  
-For the sake of your Son Jesus Christ,  
-have mercy on us and forgive us;  
-that we may delight in your will,  
-and walk in your ways,  
+> **Most merciful God,
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
 to the glory of your Name. Amen.**
 
 ---
@@ -68,18 +68,18 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 **All:**
 
-> **O gracious light,  
-pure brightness of the everliving Father in heaven,  
+> **O gracious light,
+pure brightness of the everliving Father in heaven,
 O Jesus Christ, holy and blessed!**
 
-> **Now as we come to the setting of the sun,  
-and our eyes behold the vesper light,  
-we sing your praises, O God:  
+> **Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praises, O God:
 Father, Son, and Holy Spirit.**
 
-> **You are worthy at all times  
-to be praised by happy voices,  
-O Son of God, O Giver of Life,  
+> **You are worthy at all times
+to be praised by happy voices,
+O Son of God, O Giver of Life,
 and to be glorified through all the worlds.**
 
 ---
@@ -89,48 +89,48 @@ and to be glorified through all the worlds.**
 **Psalm 71:1-14**
 _In te, Domine, speravi_
 
-1 In you, O Lord, have I taken refuge; \*  
-let me never be ashamed.  
-**2 In your righteousness, deliver me and set me free; \*  
+1 In you, O Lord, have I taken refuge; \*
+let me never be ashamed.
+**2 In your righteousness, deliver me and set me free; \*
 incline your ear to me and save me.**
 
-3 Be my strong rock, a castle to keep me safe; \*  
-you are my crag and my stronghold.  
-**4 Deliver me, my God, from the hand of the wicked, \*  
+3 Be my strong rock, a castle to keep me safe; \*
+you are my crag and my stronghold.
+**4 Deliver me, my God, from the hand of the wicked, \*
 from the clutches of the evildoer and the oppressor.**
 
 ---
-5 For you are my hope, O Lord God, \*  
-my confidence since I was young.  
-**6 I have been sustained by you ever since I was born;  
-from my mother’s womb you have been my strength; \*  
+5 For you are my hope, O Lord God, \*
+my confidence since I was young.
+**6 I have been sustained by you ever since I was born;
+from my mother’s womb you have been my strength; \*
 my praise shall be always of you.**
 
-7 I have become a portent to many; \*  
-but you are my refuge and my strength.  
-**8 Let my mouth be full of your praise \*  
+7 I have become a portent to many; \*
+but you are my refuge and my strength.
+**8 Let my mouth be full of your praise \*
 and your glory all the day long.**
 
-9 Do not cast me off in my old age; \*  
-forsake me not when my strength fails.  
-**10 For my enemies are talking against me, \*  
+9 Do not cast me off in my old age; \*
+forsake me not when my strength fails.
+**10 For my enemies are talking against me, \*
 and those who lie in wait for my life take counsel together.**
 
 ---
-11 They say, “God has forsaken him;  
-go after him and seize him; \*  
-because there is none who will save.”  
-**12 O God, be not far from me; \*  
+11 They say, “God has forsaken him;
+go after him and seize him; \*
+because there is none who will save.”
+**12 O God, be not far from me; \*
 come quickly to help me, O my God.**
 
-13 Let those who set themselves against me be put to shame and be disgraced; \*  
-let those who seek to do me evil be covered with scorn and reproach.  
-**14 But I shall always wait in patience, \*  
+13 Let those who set themselves against me be put to shame and be disgraced; \*
+let those who seek to do me evil be covered with scorn and reproach.
+**14 But I shall always wait in patience, \*
 and shall praise you more and more.**
 
-**Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+**Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -142,44 +142,44 @@ Lector:
 
 > A reading from the prophet Isaiah.
 
-Listen to me, O coastlands,  
-pay attention, you peoples from far away!  
-The Lord called me before I was born,  
-while I was in my mother’s womb he named me.  
-He made my mouth like a sharp sword,  
-in the shadow of his hand he hid me;  
-he made me a polished arrow,  
-in his quiver he hid me away.  
+Listen to me, O coastlands,
+pay attention, you peoples from far away!
+The Lord called me before I was born,
+while I was in my mother’s womb he named me.
+He made my mouth like a sharp sword,
+in the shadow of his hand he hid me;
+he made me a polished arrow,
+in his quiver he hid me away.
 
 ---
-And he said to me, ‘You are my servant,  
-Israel, in whom I will be glorified.’  
-But I said, ‘I have laboured in vain,  
-I have spent my strength for nothing and vanity;  
-yet surely my cause is with the Lord,  
-and my reward with my God.’  
-  
-And now the Lord says,  
-who formed me in the womb to be his servant,  
-to bring Jacob back to him,  
-and that Israel might be gathered to him,  
-for I am honoured in the sight of the Lord,  
-and my God has become my strength—  
-he says,  
-‘It is too light a thing that you should be my servant  
-to raise up the tribes of Jacob  
-and to restore the survivors of Israel;  
-I will give you as a light to the nations,  
-that my salvation may reach to the end of the earth.’  
-  
+And he said to me, ‘You are my servant,
+Israel, in whom I will be glorified.’
+But I said, ‘I have laboured in vain,
+I have spent my strength for nothing and vanity;
+yet surely my cause is with the Lord,
+and my reward with my God.’
+
+And now the Lord says,
+who formed me in the womb to be his servant,
+to bring Jacob back to him,
+and that Israel might be gathered to him,
+for I am honoured in the sight of the Lord,
+and my God has become my strength—
+he says,
+‘It is too light a thing that you should be my servant
+to raise up the tribes of Jacob
+and to restore the survivors of Israel;
+I will give you as a light to the nations,
+that my salvation may reach to the end of the earth.’
+
 ---
-Thus says the Lord,  
-the Redeemer of Israel and his Holy One,  
-to one deeply despised, abhorred by the nations,  
-the slave of rulers,  
-‘Kings shall see and stand up,  
-princes, and they shall prostrate themselves,  
-because of the Lord, who is faithful,  
+Thus says the Lord,
+the Redeemer of Israel and his Holy One,
+to one deeply despised, abhorred by the nations,
+the slave of rulers,
+‘Kings shall see and stand up,
+princes, and they shall prostrate themselves,
+because of the Lord, who is faithful,
 the Holy One of Israel, who has chosen you.’
 
 > The word of the Lord.
@@ -195,30 +195,30 @@ the Holy One of Israel, who has chosen you.’
 
 **All:**
 
-> **My soul proclaims the greatness of the Lord,  
-my spirit rejoices in God my Savior; \*  
-for he has looked with favor on his lowly servant.  
-From this day all generations will call me blessed: \*  
-the Almighty has done great things for me,  
-and holy is his Name.  
-He has mercy on those who fear him \*  
-in every generation.  
-He has shown the strength of his arm, \*  
+> **My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior; \*
+for he has looked with favor on his lowly servant.
+From this day all generations will call me blessed: \*
+the Almighty has done great things for me,
+and holy is his Name.
+He has mercy on those who fear him \*
+in every generation.
+He has shown the strength of his arm, \*
 he has scattered the proud in their conceit.**
 
 ---
-> **He has cast down the mighty from their thrones, \*  
-and has lifted up the lowly.  
-He has filled the hungry with good things, \*  
-and the rich he has sent away empty.  
-He has come to the help of his servant Israel, \*  
-for he has remembered his promise of mercy,  
-The promise he made to our fathers, \*  
-to Abraham and his children for ever.**  
-  
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **He has cast down the mighty from their thrones, \*
+and has lifted up the lowly.
+He has filled the hungry with good things, \*
+and the rich he has sent away empty.
+He has come to the help of his servant Israel, \*
+for he has remembered his promise of mercy,
+The promise he made to our fathers, \*
+to Abraham and his children for ever.**
+
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -231,7 +231,7 @@ Lector:
 
 For the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. For it is written,
 
-> ‘I will destroy the wisdom of the wise,  
+> ‘I will destroy the wisdom of the wise,
 and the discernment of the discerning I will thwart.’
 
 ---
@@ -253,16 +253,16 @@ Consider your own call, brothers and sisters: not many of you were wise by human
 
 **All:**
 
-> **Lord, you now have set your servant free \*  
-to go in peace as you have promised;  
-For these eyes of mine have seen the Savior, \*  
-whom you have prepared for all the world to see:  
-A Light to enlighten the nations, \*  
-and the glory of your people Israel.**  
-  
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Lord, you now have set your servant free \*
+to go in peace as you have promised;
+For these eyes of mine have seen the Savior, \*
+whom you have prepared for all the world to see:
+A Light to enlighten the nations, \*
+and the glory of your people Israel.**
+
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -273,12 +273,12 @@ Lector:
 
 > A reading from John’s Gospel.
 
-Now among those who went up to worship at the festival were some Greeks. They came to Philip, who was from Bethsaida in Galilee, and said to him, ‘Sir, we wish to see Jesus.’ Philip went and told Andrew; then Andrew and Philip went and told Jesus. Jesus answered them, ‘The hour has come for the Son of Man to be glorified. Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. 
+Now among those who went up to worship at the festival were some Greeks. They came to Philip, who was from Bethsaida in Galilee, and said to him, ‘Sir, we wish to see Jesus.’ Philip went and told Andrew; then Andrew and Philip went and told Jesus. Jesus answered them, ‘The hour has come for the Son of Man to be glorified. Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit.
 
 ---
 Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honour.
 
-‘Now my soul is troubled. And what should I say—“Father, save me from this hour”? No, it is for this reason that I have come to this hour. Father, glorify your name.’ Then a voice came from heaven, ‘I have glorified it, and I will glorify it again.’ The crowd standing there heard it and said that it was thunder. Others said, ‘An angel has spoken to him.’ Jesus answered, ‘This voice has come for your sake, not for mine. Now is the judgement of this world; now the ruler of this world will be driven out. And I, when I am lifted up from the earth, will draw all people to myself.’ He said this to indicate the kind of death he was to die. 
+‘Now my soul is troubled. And what should I say—“Father, save me from this hour”? No, it is for this reason that I have come to this hour. Father, glorify your name.’ Then a voice came from heaven, ‘I have glorified it, and I will glorify it again.’ The crowd standing there heard it and said that it was thunder. Others said, ‘An angel has spoken to him.’ Jesus answered, ‘This voice has come for your sake, not for mine. Now is the judgement of this world; now the ruler of this world will be driven out. And I, when I am lifted up from the earth, will draw all people to myself.’ He said this to indicate the kind of death he was to die.
 
 ---
 The crowd answered him, ‘We have heard from the law that the Messiah remains for ever. How can you say that the Son of Man must be lifted up? Who is this Son of Man?’ Jesus said to them, ‘The light is with you for a little longer. Walk while you have the light, so that the darkness may not overtake you. If you walk in the darkness, you do not know where you are going. While you have the light, believe in the light, so that you may become children of light.’
@@ -298,25 +298,25 @@ After Jesus had said this, he departed and hid from them.
 ## The Apostles' Creed
 Officiant and **People** together, all standing:
 
-> **I believe in God, the Father almighty,  
-creator of heaven and earth.  
-I believe in Jesus Christ, his only Son, our Lord.  
-He was conceived by the power of the Holy Spirit  
-and born of the Virgin Mary.  
-He suffered under Pontius Pilate,  
-was crucified, died, and was buried.  
-He descended to the dead.  
-On the third day he rose again.  
-He ascended into heaven,  
-and is seated at the right hand of the Father.  
-He will come again to judge the living and the dead.**  
-  
+> **I believe in God, the Father almighty,
+creator of heaven and earth.
+I believe in Jesus Christ, his only Son, our Lord.
+He was conceived by the power of the Holy Spirit
+and born of the Virgin Mary.
+He suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended to the dead.
+On the third day he rose again.
+He ascended into heaven,
+and is seated at the right hand of the Father.
+He will come again to judge the living and the dead.**
+
 ---
-> **I believe in the Holy Spirit,  
-the holy catholic Church,  
-the communion of saints,  
-the forgiveness of sins,  
-the resurrection of the body,  
+> **I believe in the Holy Spirit,
+the holy catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
 and the life everlasting. Amen.**
 
 Officiant:
@@ -334,19 +334,19 @@ Officiant:
 ---
  Officiant and **People:**
 
-> **Our Father in heaven,  
-hallowed be your Name,  
-your kingdom come,  
-your will be done,  
-on earth as in heaven.  
-Give us today our daily bread.  
-Forgive us our sins  
-as we forgive those  
-who sin against us.  
-Save us from the time of trial,  
-and deliver us from evil.  
-For the kingdom, the power,  
-and the glory are yours,  
+> **Our Father in heaven,
+hallowed be your Name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those
+who sin against us.
+Save us from the time of trial,
+and deliver us from evil.
+For the kingdom, the power,
+and the glory are yours,
 now and for ever. Amen.**
 
 ---
@@ -435,25 +435,25 @@ Keep watch, dear Lord, with those who work, or watch, or weep this night, and gi
 
 **Officiant and People:**
 
-**Almighty God, Father of all mercies,  
-we your unworthy servants give you humble thanks  
-for all your goodness and loving-kindness  
-to us and to all whom you have made.  
-We bless you for our creation, preservation,  
-and all the blessings of this life;  
-but above all for your immeasurable love  
-in the redemption of the world by our Lord Jesus Christ;  
-for the means of grace, and for the hope of glory.**  
-  
+**Almighty God, Father of all mercies,
+we your unworthy servants give you humble thanks
+for all your goodness and loving-kindness
+to us and to all whom you have made.
+We bless you for our creation, preservation,
+and all the blessings of this life;
+but above all for your immeasurable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.**
+
 ---
-**And, we pray, give us such an awareness of your mercies,  
-that with truly thankful hearts we may show forth your praise,  
-not only with our lips, but in our lives,  
-by giving up our selves to your service,  
-and by walking before you  
-in holiness and righteousness all our days;  
-through Jesus Christ our Lord,  
-to whom, with you and the Holy Spirit,  
+**And, we pray, give us such an awareness of your mercies,
+that with truly thankful hearts we may show forth your praise,
+not only with our lips, but in our lives,
+by giving up our selves to your service,
+and by walking before you
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with you and the Holy Spirit,
 be honor and glory throughout all ages. Amen.**
 
 ---
@@ -468,4 +468,3 @@ be honor and glory throughout all ages. Amen.**
 
 Officiant:
 > May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit. Amen. .smaller[_Romans 15:13_]
-

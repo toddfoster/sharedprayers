@@ -28,7 +28,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 > Behold, I bring you good news of a great joy which will come to all the people; for to you is born this day in the city of David, a Savior, who is Christ the Lord. _(Luke 2:10, 11)_
 
 {{% office/mp/invitatory/intro %}}
-#### 8am Invitatory: _Jubilate_ (Psalm 100 -- BCP 80, 82)
+### 8am Invitatory: _Jubilate_ (Psalm 100 -- BCP 80, 82)
 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**
@@ -38,7 +38,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 **All:**
 > **Alleluia. To us a child is born: Come let us adore him. Alleluia.**
 
-#### 10.30am Invitatory: _O Come, All Ye Faithful_ (Hymnal 83)
+### 10.30am Invitatory: _O Come, All Ye Faithful_ (Hymnal 83)
 
 {{% advent/ocomeallyefaithful-3vv %}}
 
@@ -115,10 +115,10 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-#### 8am Canticle:
+### 8am Canticle:
 {{% canticles/9-ecce %}}
 
-#### 10.30am Carol: _Of the Father's love begotten_ (Hymnal 82)
+### 10.30am Carol: _Of the Father's love begotten_ (Hymnal 82)
 
 {{% advent/ofthefatherslove-4vv %}}
 
@@ -138,10 +138,10 @@ Lector:
 **People:**
 > **Thanks be to God.**
 
-#### 8am Canticle:
+### 8am Canticle:
 {{% canticles/21-tedeum %}}
 
-#### 10.30am Carol: _Hark! the herald angels_ (Hymnal 87)
+### 10.30am Carol: _Hark! the herald angels_ (Hymnal 87)
 
 {{% advent/harktheheraldangels-3vv %}}
 
@@ -204,7 +204,7 @@ _Collect Proper to the Day_
 {{% office/mp/beforetheclose/generalthanksgiving %}}
 
 
-#### 10.30am Carol: _It came upon a midnight clear_ (Hymnal 89)
+### 10.30am Carol: _It came upon a midnight clear_ (Hymnal 89)
 
 {{% advent/itcameuponamidnightclear-2vv %}}
 

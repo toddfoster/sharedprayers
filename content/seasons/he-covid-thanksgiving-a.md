@@ -137,7 +137,7 @@ Deacon:
 
 ### The Prayers of the People
 
-#### A Litany of Thanksgiving	_BCP	836_
+### A Litany of Thanksgiving	_BCP	836_
 
 Deacon:
 > Let us give thanks to God our Father for all his gifts so freely bestowed upon us.

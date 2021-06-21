@@ -863,10 +863,13 @@ figure.podcast audio {
 h1, h2 {
   text-align: center; }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
   font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
   color: #333333;
   font-weight: normal; }
+
+h3 {
+  font-size: 100%; }
 
 /* rubrics */
 h5 {

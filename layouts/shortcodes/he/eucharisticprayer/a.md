@@ -1,4 +1,4 @@
-## The Great Thanksgiving: Eucharistic Prayer A
+### The Great Thanksgiving: Eucharistic Prayer A
 ##### Presider:
 The Lord be with you.
 

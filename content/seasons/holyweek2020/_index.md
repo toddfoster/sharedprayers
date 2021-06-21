@@ -12,12 +12,12 @@ layout: single
 * [Holy Tuesday](holywk-eptue/)
 * [Holy Wednesday](holywk-epwed/)
 
-#### The Great Three Days
+### The Great Three Days
 * [Act I: Maundy Thursday](holywk-maundythurs/)
 * [Act II: Good Friday](holywk-goodfri/)
 * [Act III: The Great Vigil of Easter](holywk-vigil/)
 
-#### Easter Sunday
+### Easter Sunday
 * [The Sunday of the Resurrection: Easter Sunday](holywk-easter/)
 
 ### Readings Only

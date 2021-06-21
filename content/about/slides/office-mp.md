@@ -11,7 +11,7 @@ class: center
 # Morning Prayer
 ## For Saturday in
 ## the Week of Epiphany 4
-#### _from the Book of Common Prayer, pp. 75ff._
+### _from the Book of Common Prayer, pp. 75ff._
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -19,7 +19,7 @@ Use M-: to evaluate:
 Also: M-x electric-indent-mode (to turn off?)
 
 ---
-> From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of hosts.  
+> From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of hosts.
 .smaller[_Malachi 1:11_]
 
 ---
@@ -60,126 +60,126 @@ Officiant:
 > **And our mouth shall proclaim your praise.**
 
 **All:**
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit:  
-> as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit:
+> as it was in the beginning, is now,
 and will be for ever.  Amen. Alleluia.**
 
 ---
 
 **All:**
-> **Worship the Lord in the beauty of holiness:   
+> **Worship the Lord in the beauty of holiness:
 Come let us adore him.**
 
 
 **All:**
-> **Come, let us sing to the Lord; ***  
-> **let us shout for joy to the Rock of our salvation.  
-Let us come before his presence with thanksgiving *  
+> **Come, let us sing to the Lord; ***
+> **let us shout for joy to the Rock of our salvation.
+Let us come before his presence with thanksgiving *
 and raise a loud shout to him with psalms.**
 
 
-> **For the Lord is a great God, ***  
-**and a great King above all gods.  
-In his hand are the caverns of the earth, ***  
-**and the heights of the hills are his also.  
-The sea is his, for he made it, *  
+> **For the Lord is a great God, ***
+**and a great King above all gods.
+In his hand are the caverns of the earth, ***
+**and the heights of the hills are his also.
+The sea is his, for he made it, *
 and his hands have molded the dry land.**
 
 ---
 
-> **Come, let us bow down, and bend the knee, ***  
-**and kneel before the Lord our Maker.  
-For he is our God,  
-and we are the people of his pasture  
-and the sheep of his hand. *  
+> **Come, let us bow down, and bend the knee, ***
+**and kneel before the Lord our Maker.
+For he is our God,
+and we are the people of his pasture
+and the sheep of his hand. *
 Oh, that today you would hearken to his voice!**
 
 **All:**
-> **Worship the Lord in the beauty of holiness:   
+> **Worship the Lord in the beauty of holiness:
 Come let us adore him.**
 
 ---
 **Psalm 75**
 _Confitebimur tibi_
 
-> 1	We give you thanks, O God, we give you thanks, \*  
-calling upon your Name and declaring all your wonderful deeds.  
-> **2	"I will appoint a time," says God; \*  
+> 1	We give you thanks, O God, we give you thanks, \*
+calling upon your Name and declaring all your wonderful deeds.
+> **2	"I will appoint a time," says God; \*
 "I will judge with equity.**
 
-> 3	Though the earth and all its inhabitants are quaking, \*  
-I will make its pillars fast.  
-> **4	I will say to the boasters, 'Boast no more,' \*  
+> 3	Though the earth and all its inhabitants are quaking, \*
+I will make its pillars fast.
+> **4	I will say to the boasters, 'Boast no more,' \*
 and to the wicked, 'Do not toss your horns;**
 
-> 5	Do not toss your horns so high, \*  
-nor speak with a proud neck.'"  
-> **6	For judgment is neither from the east  
-nor from the west, \*  
+> 5	Do not toss your horns so high, \*
+nor speak with a proud neck.'"
+> **6	For judgment is neither from the east
+nor from the west, \*
 nor yet from the wilderness or the mountains.**
 
 ---
-> 7	It is God who judges; \*  
-he puts down one and lifts up another.  
-> **8	For in the LORD's hand there is a cup,  
-full of spiced and foaming wine,  
-which he pours out, \*  
-and all the wicked of the earth  
+> 7	It is God who judges; \*
+he puts down one and lifts up another.
+> **8	For in the LORD's hand there is a cup,
+full of spiced and foaming wine,
+which he pours out, \*
+and all the wicked of the earth
 shall drink and drain the dregs.**
 
-> 9	But I will rejoice for ever; \*  
-I will sing praises to the God of Jacob.  
-> **10	He shall break off all the horns of the wicked; \*  
+> 9	But I will rejoice for ever; \*
+I will sing praises to the God of Jacob.
+> **10	He shall break off all the horns of the wicked; \*
 but the horns of the righteous shall be exalted.**
 
 ---
 **Psalm 76**
 _Notus in Judœa_
 
-> 1	In Judah is God known; \*  
-his Name is great in Israel.  
-> **2	At Salem is his tabernacle, \*  
+> 1	In Judah is God known; \*
+his Name is great in Israel.
+> **2	At Salem is his tabernacle, \*
 and his dwelling is in Zion.**
 
-> 3	There he broke the flashing arrows, \*  
-the shield, the sword, and the weapons of battle.  
-> **4	How glorious you are! \*  
+> 3	There he broke the flashing arrows, \*
+the shield, the sword, and the weapons of battle.
+> **4	How glorious you are! \*
 more splendid than the everlasting mountains!**
 
-> 5	The strong of heart have been despoiled;  
-they sink into sleep; \*  
-none of the warriors can lift a hand.  
-> **6	At your rebuke, O God of Jacob, \*  
+> 5	The strong of heart have been despoiled;
+they sink into sleep; \*
+none of the warriors can lift a hand.
+> **6	At your rebuke, O God of Jacob, \*
 both horse and rider lie stunned.**
 
 ---
-> 7	What terror you inspire! \*  
-who can stand before you when you are angry?  
-> **8	From heaven you pronounced judgment; \*  
+> 7	What terror you inspire! \*
+who can stand before you when you are angry?
+> **8	From heaven you pronounced judgment; \*
 the earth was afraid and was still;**
 
-> 9	When God rose up to judgment \*  
-and to save all the oppressed of the earth.  
-> **10	Truly, wrathful Edom will give you thanks, \*  
+> 9	When God rose up to judgment \*
+and to save all the oppressed of the earth.
+> **10	Truly, wrathful Edom will give you thanks, \*
 and the remnant of Hamath will keep your feasts.**
 
-> 11	Make a vow to the LORD your God and keep it; \*  
-let all around him bring gifts  
-to him who is worthy to be feared.  
-> **12	He breaks the spirit of princes, \*  
+> 11	Make a vow to the LORD your God and keep it; \*
+let all around him bring gifts
+to him who is worthy to be feared.
+> **12	He breaks the spirit of princes, \*
 and strikes terror in the kings of the earth.**
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: *  
-> as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: *
+> as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
 
 ### The Lessons
 
-#### The First  Reading: _Isaiah 57:3-13_
+### The First  Reading: _Isaiah 57:3-13_
 
 Lector:
 > A Reading from the prophet Isaiah.
@@ -198,23 +198,23 @@ Lector:
 **Canticle 13:**  _A Song of Praise_ -- _Benedictus es, Domine_
 
 **All:**
-> **Glory to you, Lord God of our fathers; \*  
+> **Glory to you, Lord God of our fathers; \*
 you are worthy of praise; glory to you.**
 
-> **Glory to you for the radiance of your holy Name; \*  
+> **Glory to you for the radiance of your holy Name; \*
 we will praise you and highly exalt you for ever.**
 
-> **Glory to you in the splendor of your temple; \*  
+> **Glory to you in the splendor of your temple; \*
 on the throne of your majesty, glory to you.**
 
 ---
-> **Glory to you, seated between the Cherubim; \*  
+> **Glory to you, seated between the Cherubim; \*
 we will praise you and highly exalt you for ever.**
 
-> **Glory to you, beholding the depths; \*  
+> **Glory to you, beholding the depths; \*
 in the high vault of heaven, glory to you.**
 
-> **Glory to you, Father, Son, and Holy Spirit; \*  
+> **Glory to you, Father, Son, and Holy Spirit; \*
 we will praise you and highly exalt you for ever.**
 
 ---
@@ -237,20 +237,20 @@ Lector:
 **Canticle 18:** _A Song to the Lamb_ -- _Dignus es_
 
 **All:**
-> **Splendor and honor and kingly power \*  
-are yours by right, O Lord our God,  
-For you created everything that is, \*  
-and by your will they were created  
+> **Splendor and honor and kingly power \*
+are yours by right, O Lord our God,
+For you created everything that is, \*
+and by your will they were created
 and have their being;**
 
-> **And yours by right, O Lamb that was slain, \*  
-for with your blood you have redeemed for God,  
-From every family, language, people, and nation, \*  
+> **And yours by right, O Lamb that was slain, \*
+for with your blood you have redeemed for God,
+From every family, language, people, and nation, \*
 a kingdom of priests to serve our God.**
 
-> **And so, to him who sits upon the throne, \*  
-and to Christ the Lamb,  
-Be worship and praise, dominion and splendor, \*  
+> **And so, to him who sits upon the throne, \*
+and to Christ the Lamb,
+Be worship and praise, dominion and splendor, \*
 for ever and for evermore.**
 
 ---
@@ -275,27 +275,27 @@ Lector:
 ### The Apostles' Creed
 
 **Officiant and People:**
-> I believe in God, **the Father almighty,  
+> I believe in God, **the Father almighty,
 > creator of heaven and earth.**
 
-> **I believe in Jesus Christ, his only Son, our Lord.  
-> He was conceived by the power of the Holy Spirit  
-> 	and born of the Virgin Mary.  
-> He suffered under Pontius Pilate,  
-> 	was crucified, died, and was buried.  
-> He descended to the dead.  
-> On the third day he rose again.  
-> He ascended into heaven,  
-> 	and is seated at the right hand of the Father.  
+> **I believe in Jesus Christ, his only Son, our Lord.
+> He was conceived by the power of the Holy Spirit
+> 	and born of the Virgin Mary.
+> He suffered under Pontius Pilate,
+> 	was crucified, died, and was buried.
+> He descended to the dead.
+> On the third day he rose again.
+> He ascended into heaven,
+> 	and is seated at the right hand of the Father.
 > He will come again to judge the living and the dead.**
 
 ---
 
-> **I believe in the Holy Spirit,  
-> the holy catholic Church,  
-> the communion of saints,  
-> the forgiveness of sins,  
-> the resurrection of the body,  
+> **I believe in the Holy Spirit,
+> the holy catholic Church,
+> the communion of saints,
+> the forgiveness of sins,
+> the resurrection of the body,
 > and the life everlasting.  Amen.**
 
 
@@ -311,19 +311,19 @@ Officiant:
 
 ---
 **Officiant and People:**
-> Our Father in heaven,  
-**hallowed be your Name,  
-your kingdom come,  
-your will be done,  
-on earth as in heaven.  
-Give us today our daily bread.  
-Forgive us our sins  
-as we forgive those  
-who sin against us.  
-Save us from the time of trial,  
-and deliver us from evil.  
-For the kingdom, the power,  
-and the glory are yours,  
+> Our Father in heaven,
+**hallowed be your Name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those
+who sin against us.
+Save us from the time of trial,
+and deliver us from evil.
+For the kingdom, the power,
+and the glory are yours,
 now and for ever. Amen**
 
 ---
@@ -331,16 +331,16 @@ now and for ever. Amen**
 
 ##### Officiant & People call and respond:
 
-> V. Save your people, Lord, and bless your inheritance;  
-**R. Govern and uphold them, now and always.**  
-V. Day by day we bless you;  
-**R. We praise your Name for ever.**  
-V. Lord, keep us from all sin today;  
-**R. Have mercy on us, Lord, have mercy.**  
-V. Lord, show us your love and mercy;  
-**R. For we put our trust in you.**  
-V. In you, Lord, is our hope;  
-**R. And we shall never hope in vain.**  
+> V. Save your people, Lord, and bless your inheritance;
+**R. Govern and uphold them, now and always.**
+V. Day by day we bless you;
+**R. We praise your Name for ever.**
+V. Lord, keep us from all sin today;
+**R. Have mercy on us, Lord, have mercy.**
+V. Lord, show us your love and mercy;
+**R. For we put our trust in you.**
+V. In you, Lord, is our hope;
+**R. And we shall never hope in vain.**
 
 ---
 _Collect Proper to the Day_
@@ -364,29 +364,29 @@ _A Prayer for Mission_
 _The General Thanksgiving_
 
 **Officiant and People:**
-> **Almighty God, Father of all mercies,  
-we your unworthy servants give you humble thanks  
-for all your goodness and loving-kindness  
+> **Almighty God, Father of all mercies,
+we your unworthy servants give you humble thanks
+for all your goodness and loving-kindness
 to us and to all whom you have made.**
 
-> **We bless you for our creation, preservation,  
-and all the blessings of this life;  
-but above all for your immeasurable love  
-in the redemption of the world  
-by our Lord Jesus Christ;  
+> **We bless you for our creation, preservation,
+and all the blessings of this life;
+but above all for your immeasurable love
+in the redemption of the world
+by our Lord Jesus Christ;
 for the means of grace, and for the hope of glory.**
 
 ---
-> **And, we pray,  
-give us such an awareness of your mercies,  
-that with truly thankful hearts  
-we may show forth your praise,  
-not only with our lips, but in our lives,  
-by giving up our selves to your service,  
-and by walking before you  
-in holiness and righteousness all our days;  
-through Jesus Christ our Lord,  
-to whom, with you and the Holy Spirit,  
+> **And, we pray,
+give us such an awareness of your mercies,
+that with truly thankful hearts
+we may show forth your praise,
+not only with our lips, but in our lives,
+by giving up our selves to your service,
+and by walking before you
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with you and the Holy Spirit,
 be honor and glory throughout all ages.  Amen.**
 
 ---

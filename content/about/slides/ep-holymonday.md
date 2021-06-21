@@ -10,7 +10,7 @@ class: middle
 class: center
 # Evening Prayer
 ## For Holy Monday
-#### _from the Book of Common Prayer, pp. 115ff._
+### _from the Book of Common Prayer, pp. 115ff._
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -29,18 +29,18 @@ Officiant:
 ---
 > Officiant and **People**:
 
-> **Most merciful God,  
-we confess that we have sinned against you  
-in thought, word, and deed,  
-by what we have done,  
-and by what we have left undone.  
-We have not loved you with our whole heart;  
-we have not loved our neighbors as ourselves.  
-We are truly sorry and we humbly repent.  
-For the sake of your Son Jesus Christ,  
-have mercy on us and forgive us;  
-that we may delight in your will,  
-and walk in your ways,  
+> **Most merciful God,
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
 to the glory of your Name. Amen.**
 
 ---
@@ -68,18 +68,18 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 
 **All:**
 
-> **O gracious light,  
-pure brightness of the everliving Father in heaven,  
+> **O gracious light,
+pure brightness of the everliving Father in heaven,
 O Jesus Christ, holy and blessed!**
 
-> **Now as we come to the setting of the sun,  
-and our eyes behold the vesper light,  
-we sing your praises, O God:  
+> **Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praises, O God:
 Father, Son, and Holy Spirit.**
 
-> **You are worthy at all times  
-to be praised by happy voices,  
-O Son of God, O Giver of Life,  
+> **You are worthy at all times
+to be praised by happy voices,
+O Son of God, O Giver of Life,
 and to be glorified through all the worlds.**
 
 ---
@@ -89,29 +89,29 @@ and to be glorified through all the worlds.**
 **Psalm 36:5-11**
 _Dixit injustus_
 
-5 Your love, O Lord, reaches to the heavens, \*  
-and your faithfulness to the clouds.   
-**6 Your righteousness is like the strong mountains,  
-your justice like the great deep; \*  
+5 Your love, O Lord, reaches to the heavens, \*
+and your faithfulness to the clouds.
+**6 Your righteousness is like the strong mountains,
+your justice like the great deep; \*
 you save both man and beast, O Lord.**
 
 ---
-7 How priceless is your love, O God! \*  
-your people take refuge under the shadow of your wings.  
-**8 They feast upon the abundance of your house; \*  
+7 How priceless is your love, O God! \*
+your people take refuge under the shadow of your wings.
+**8 They feast upon the abundance of your house; \*
 you give them drink from the river of your delights.**
 
-9 For with you is the well of life, \*  
-and in your light we see light.  
-**10 Continue your loving-kindness to those who know you, \*  
+9 For with you is the well of life, \*
+and in your light we see light.
+**10 Continue your loving-kindness to those who know you, \*
 and your favor to those who are true of heart.**
 
-11 Let not the foot of the proud come near me, \*  
+11 Let not the foot of the proud come near me, \*
 nor the hand of the wicked push me aside.
 
-**Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+**Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -123,43 +123,43 @@ Lector:
 
 > A reading from the prophet Isaiah.
 
-Here is my servant, whom I uphold,  
-my chosen, in whom my soul delights;  
-I have put my spirit upon him;  
+Here is my servant, whom I uphold,
+my chosen, in whom my soul delights;
+I have put my spirit upon him;
 he will bring forth justice to the nations.
 
 ---
-He will not cry or lift up his voice,  
-or make it heard in the street;  
-a bruised reed he will not break,  
-and a dimly burning wick he will not quench;  
-he will faithfully bring forth justice.  
-He will not grow faint or be crushed  
-until he has established justice in the earth;  
+He will not cry or lift up his voice,
+or make it heard in the street;
+a bruised reed he will not break,
+and a dimly burning wick he will not quench;
+he will faithfully bring forth justice.
+He will not grow faint or be crushed
+until he has established justice in the earth;
 and the coastlands wait for his teaching.
 
-Thus says God, the Lord,  
-who created the heavens and stretched them out,  
-who spread out the earth and what comes from it,  
-who gives breath to the people upon it  
+Thus says God, the Lord,
+who created the heavens and stretched them out,
+who spread out the earth and what comes from it,
+who gives breath to the people upon it
 and spirit to those who walk in it:
 
 ---
-I am the Lord, I have called you in righteousness,  
-I have taken you by the hand and kept you;  
-I have given you as a covenant to the people,  
-a light to the nations,  
-to open the eyes that are blind,  
-to bring out the prisoners from the dungeon,  
+I am the Lord, I have called you in righteousness,
+I have taken you by the hand and kept you;
+I have given you as a covenant to the people,
+a light to the nations,
+to open the eyes that are blind,
+to bring out the prisoners from the dungeon,
 from the prison those who sit in darkness.
 
 ---
-I am the Lord, that is my name;  
-my glory I give to no other,  
-nor my praise to idols.  
-See, the former things have come to pass,  
-and new things I now declare;  
-before they spring forth,  
+I am the Lord, that is my name;
+my glory I give to no other,
+nor my praise to idols.
+See, the former things have come to pass,
+and new things I now declare;
+before they spring forth,
 I tell you of them.
 
 > The word of the Lord.
@@ -175,30 +175,30 @@ I tell you of them.
 
 **All:**
 
-> **My soul proclaims the greatness of the Lord,  
-my spirit rejoices in God my Savior; \*  
-for he has looked with favor on his lowly servant.  
-From this day all generations will call me blessed: \*  
-the Almighty has done great things for me,  
-and holy is his Name.  
-He has mercy on those who fear him \*  
-in every generation.  
-He has shown the strength of his arm, \*  
+> **My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior; \*
+for he has looked with favor on his lowly servant.
+From this day all generations will call me blessed: \*
+the Almighty has done great things for me,
+and holy is his Name.
+He has mercy on those who fear him \*
+in every generation.
+He has shown the strength of his arm, \*
 he has scattered the proud in their conceit.**
 
 ---
-> **He has cast down the mighty from their thrones, \*  
-and has lifted up the lowly.  
-He has filled the hungry with good things, \*  
-and the rich he has sent away empty.  
-He has come to the help of his servant Israel, \*  
-for he has remembered his promise of mercy,  
-The promise he made to our fathers, \*  
-to Abraham and his children for ever.**  
-  
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **He has cast down the mighty from their thrones, \*
+and has lifted up the lowly.
+He has filled the hungry with good things, \*
+and the rich he has sent away empty.
+He has come to the help of his servant Israel, \*
+for he has remembered his promise of mercy,
+The promise he made to our fathers, \*
+to Abraham and his children for ever.**
+
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -229,16 +229,16 @@ For this reason he is the mediator of a new covenant, so that those who are call
 
 **All:**
 
-> **Lord, you now have set your servant free \*  
-to go in peace as you have promised;  
-For these eyes of mine have seen the Savior, \*  
-whom you have prepared for all the world to see:  
-A Light to enlighten the nations, \*  
-and the glory of your people Israel.**  
-  
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Lord, you now have set your servant free \*
+to go in peace as you have promised;
+For these eyes of mine have seen the Savior, \*
+whom you have prepared for all the world to see:
+A Light to enlighten the nations, \*
+and the glory of your people Israel.**
+
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -270,25 +270,25 @@ When the great crowd of the Jews learned that he was there, they came not only b
 ## The Apostles' Creed
 Officiant and **People** together, all standing:
 
-> **I believe in God, the Father almighty,  
-creator of heaven and earth.  
-I believe in Jesus Christ, his only Son, our Lord.  
-He was conceived by the power of the Holy Spirit  
-and born of the Virgin Mary.  
-He suffered under Pontius Pilate,  
-was crucified, died, and was buried.  
-He descended to the dead.  
-On the third day he rose again.  
-He ascended into heaven,  
-and is seated at the right hand of the Father.  
-He will come again to judge the living and the dead.**  
-  
+> **I believe in God, the Father almighty,
+creator of heaven and earth.
+I believe in Jesus Christ, his only Son, our Lord.
+He was conceived by the power of the Holy Spirit
+and born of the Virgin Mary.
+He suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended to the dead.
+On the third day he rose again.
+He ascended into heaven,
+and is seated at the right hand of the Father.
+He will come again to judge the living and the dead.**
+
 ---
-> **I believe in the Holy Spirit,  
-the holy catholic Church,  
-the communion of saints,  
-the forgiveness of sins,  
-the resurrection of the body,  
+> **I believe in the Holy Spirit,
+the holy catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
 and the life everlasting. Amen.**
 
 Officiant:
@@ -306,19 +306,19 @@ Officiant:
 ---
  Officiant and **People:**
 
-> **Our Father in heaven,  
-hallowed be your Name,  
-your kingdom come,  
-your will be done,  
-on earth as in heaven.  
-Give us today our daily bread.  
-Forgive us our sins  
-as we forgive those  
-who sin against us.  
-Save us from the time of trial,  
-and deliver us from evil.  
-For the kingdom, the power,  
-and the glory are yours,  
+> **Our Father in heaven,
+hallowed be your Name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those
+who sin against us.
+Save us from the time of trial,
+and deliver us from evil.
+For the kingdom, the power,
+and the glory are yours,
 now and for ever. Amen**
 
 ---
@@ -407,25 +407,25 @@ Keep watch, dear Lord, with those who work, or watch, or weep this night, and gi
 
 **Officiant and People:**
 
-**Almighty God, Father of all mercies,  
-we your unworthy servants give you humble thanks  
-for all your goodness and loving-kindness  
-to us and to all whom you have made.  
-We bless you for our creation, preservation,  
-and all the blessings of this life;  
-but above all for your immeasurable love  
-in the redemption of the world by our Lord Jesus Christ;  
-for the means of grace, and for the hope of glory.**  
-  
+**Almighty God, Father of all mercies,
+we your unworthy servants give you humble thanks
+for all your goodness and loving-kindness
+to us and to all whom you have made.
+We bless you for our creation, preservation,
+and all the blessings of this life;
+but above all for your immeasurable love
+in the redemption of the world by our Lord Jesus Christ;
+for the means of grace, and for the hope of glory.**
+
 ---
-**And, we pray, give us such an awareness of your mercies,  
-that with truly thankful hearts we may show forth your praise,  
-not only with our lips, but in our lives,  
-by giving up our selves to your service,  
-and by walking before you  
-in holiness and righteousness all our days;  
-through Jesus Christ our Lord,  
-to whom, with you and the Holy Spirit,  
+**And, we pray, give us such an awareness of your mercies,
+that with truly thankful hearts we may show forth your praise,
+not only with our lips, but in our lives,
+by giving up our selves to your service,
+and by walking before you
+in holiness and righteousness all our days;
+through Jesus Christ our Lord,
+to whom, with you and the Holy Spirit,
 be honor and glory throughout all ages. Amen.**
 
 ---

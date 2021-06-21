@@ -10,7 +10,7 @@ class: middle
 class: center
 # Evening Prayer
 ## For the Fourth Sunday in Lent
-#### _from the Book of Common Prayer, pp. 115ff._
+### _from the Book of Common Prayer, pp. 115ff._
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -92,34 +92,34 @@ and to be glorified through all the worlds.**
 **Psalm 107:1-3, 17-22**
 _Confitemini Domino_
 
-1 Give thanks to the Lord, for he is good, \*  
-and his mercy endures for ever.  
-**2 Let all those whom the Lord has redeemed proclaim \*  
+1 Give thanks to the Lord, for he is good, \*
+and his mercy endures for ever.
+**2 Let all those whom the Lord has redeemed proclaim \*
 that he redeemed them from the hand of the foe.**
 
-3 He gathered them out of the lands; \*  
-from the east and from the west,  
-	from the north and from the south.  
-**17 Some were fools and took to rebellious ways; \*  
+3 He gathered them out of the lands; \*
+from the east and from the west,
+	from the north and from the south.
+**17 Some were fools and took to rebellious ways; \*
 they were afflicted because of their sins.**
 
 ---
-18 They abhorred all manner of food \*  
-and drew near to death's door.  
-**19 Then they cried to the Lord in their trouble, \*  
+18 They abhorred all manner of food \*
+and drew near to death's door.
+**19 Then they cried to the Lord in their trouble, \*
 and he delivered them from their distress.**
 
-20 He sent forth his word and healed them \*  
-and saved them from the grave.  
-**21 Let them give thanks to the Lord for his mercy \*  
+20 He sent forth his word and healed them \*
+and saved them from the grave.
+**21 Let them give thanks to the Lord for his mercy \*
 and the wonders he does for his children.**
 
-22 Let them offer a sacrifice of thanksgiving \*  
+22 Let them offer a sacrifice of thanksgiving \*
 and tell of his acts with shouts of joy.
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -131,7 +131,7 @@ Lector:
 
 > A reading from the book of Numbers.
 
-> From Mount Hor the Israelites set out by the way to the Red Sea, to go around the land of Edom; but the people became impatient on the way. The people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we detest this miserable food.” Then the Lord sent poisonous serpents among the people, and they bit the people, so that many Israelites died. 
+> From Mount Hor the Israelites set out by the way to the Red Sea, to go around the land of Edom; but the people became impatient on the way. The people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we detest this miserable food.” Then the Lord sent poisonous serpents among the people, and they bit the people, so that many Israelites died.
 
 
 ---
@@ -150,30 +150,30 @@ Lector:
 
 **All:**
 
-> **My soul proclaims the greatness of the Lord,  
-my spirit rejoices in God my Savior; \*  
-for he has looked with favor on his lowly servant.  
-From this day all generations will call me blessed: \*  
-the Almighty has done great things for me,  
-and holy is his Name.  
-He has mercy on those who fear him \*  
-in every generation.  
-He has shown the strength of his arm, \*  
+> **My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior; \*
+for he has looked with favor on his lowly servant.
+From this day all generations will call me blessed: \*
+the Almighty has done great things for me,
+and holy is his Name.
+He has mercy on those who fear him \*
+in every generation.
+He has shown the strength of his arm, \*
 he has scattered the proud in their conceit.**
 
 ---
-> **He has cast down the mighty from their thrones, \*  
-and has lifted up the lowly.  
-He has filled the hungry with good things, \*  
-and the rich he has sent away empty.  
-He has come to the help of his servant Israel, \*  
-for he has remembered his promise of mercy,  
-The promise he made to our fathers, \*  
+> **He has cast down the mighty from their thrones, \*
+and has lifted up the lowly.
+He has filled the hungry with good things, \*
+and the rich he has sent away empty.
+He has come to the help of his servant Israel, \*
+for he has remembered his promise of mercy,
+The promise he made to our fathers, \*
 to Abraham and his children for ever.**
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -184,7 +184,7 @@ Lector:
 
 > A reading from the epistle to the Ephesians.
 
-> You were dead through the trespasses and sins in which you once lived, following the course of this world, following the ruler of the power of the air, the spirit that is now at work among those who are disobedient. All of us once lived among them in the passions of our flesh, following the desires of flesh and senses, and we were by nature children of wrath, like everyone else. But God, who is rich in mercy, out of the great love with which he loved us even when we were dead through our trespasses, made us alive together with Christ-- by grace you have been saved-- and raised us up with him 
+> You were dead through the trespasses and sins in which you once lived, following the course of this world, following the ruler of the power of the air, the spirit that is now at work among those who are disobedient. All of us once lived among them in the passions of our flesh, following the desires of flesh and senses, and we were by nature children of wrath, like everyone else. But God, who is rich in mercy, out of the great love with which he loved us even when we were dead through our trespasses, made us alive together with Christ-- by grace you have been saved-- and raised us up with him
 
 ---
 > and seated us with him in the heavenly places in Christ Jesus, so that in the ages to come he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith, and this is not your own doing; it is the gift of God-- not the result of works, so that no one may boast. For we are what he has made us, created in Christ Jesus for good works, which God prepared beforehand to be our way of life.
@@ -202,16 +202,16 @@ Lector:
 
 **All:**
 
-> **Lord, you now have set your servant free \*  
-to go in peace as you have promised;  
-For these eyes of mine have seen the Savior, \*  
-whom you have prepared for all the world to see:  
-A Light to enlighten the nations, \*  
+> **Lord, you now have set your servant free \*
+to go in peace as you have promised;
+For these eyes of mine have seen the Savior, \*
+whom you have prepared for all the world to see:
+A Light to enlighten the nations, \*
 and the glory of your people Israel.**
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -242,25 +242,25 @@ Lector:
 ## The Apostles' Creed
 Officiant and **People** together, all standing:
 
-> **I believe in God, the Father almighty,  
-creator of heaven and earth.  
-I believe in Jesus Christ, his only Son, our Lord.  
-He was conceived by the power of the Holy Spirit  
-and born of the Virgin Mary.  
-He suffered under Pontius Pilate,  
-was crucified, died, and was buried.  
-He descended to the dead.  
-On the third day he rose again.  
-He ascended into heaven,  
-and is seated at the right hand of the Father.  
+> **I believe in God, the Father almighty,
+creator of heaven and earth.
+I believe in Jesus Christ, his only Son, our Lord.
+He was conceived by the power of the Holy Spirit
+and born of the Virgin Mary.
+He suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended to the dead.
+On the third day he rose again.
+He ascended into heaven,
+and is seated at the right hand of the Father.
 He will come again to judge the living and the dead.**
 
 ---
-> **I believe in the Holy Spirit,  
-the holy catholic Church,  
-the communion of saints,  
-the forgiveness of sins,  
-the resurrection of the body,  
+> **I believe in the Holy Spirit,
+the holy catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
 and the life everlasting. Amen.**
 
 Officiant:
@@ -278,19 +278,19 @@ Officiant:
 ---
  Officiant and **People:**
 
-> Our Father, **who art in heaven,  
-hallowed be thy Name,  
-thy kingdom come,  
-thy will be done,  
-on earth as it is in heaven.  
-Give us this day our daily bread.  
-And forgive us our trespasses,  
-as we forgive those who trespass against us.  
-And lead us not into temptation,  
-but deliver us from evil.  
-For thine is the kingdom,  
-and the power,  
-and the glory,  
+> Our Father, **who art in heaven,
+hallowed be thy Name,
+thy kingdom come,
+thy will be done,
+on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+as we forgive those who trespass against us.
+And lead us not into temptation,
+but deliver us from evil.
+For thine is the kingdom,
+and the power,
+and the glory,
 for ever and ever. Amen.**
 
 ---

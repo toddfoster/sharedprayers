@@ -10,7 +10,7 @@ class: middle
 class: center
 # Morning Prayer
 ## For the First Sunday in Lent
-#### _from the Book of Common Prayer, pp. 76ff._
+### _from the Book of Common Prayer, pp. 76ff._
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -30,17 +30,17 @@ Officiant:
 > Officiant and **People**:
 
 > **Most merciful God,
-we confess that we have sinned against you  
-in thought, word, and deed,  
-by what we have done,  
-and by what we have left undone.  
-We have not loved you with our whole heart;  
-we have not loved our neighbors as ourselves.  
-We are truly sorry and we humbly repent.  
-For the sake of your Son Jesus Christ,  
-have mercy on us and forgive us;  
-that we may delight in your will,  
-and walk in your ways,  
+we confess that we have sinned against you
+in thought, word, and deed,
+by what we have done,
+and by what we have left undone.
+We have not loved you with our whole heart;
+we have not loved our neighbors as ourselves.
+We are truly sorry and we humbly repent.
+For the sake of your Son Jesus Christ,
+have mercy on us and forgive us;
+that we may delight in your will,
+and walk in your ways,
 to the glory of your Name. Amen.**
 
 ---
@@ -68,34 +68,34 @@ as it was in the beginning, is now, and will be for ever. Amen.**
 ---
 **People:**
 
-> **The Lord is full of compassion and mercy:  
+> **The Lord is full of compassion and mercy:
 Come let us adore him.**
 
 ### Venite .smaller[_Psalm 95:1-7_]
 
 **All:**
-> **Come, let us sing to the Lord; \*  
-let us shout for joy to the Rock of our salvation.  
-Let us come before his presence with thanksgiving \*  
+> **Come, let us sing to the Lord; \*
+let us shout for joy to the Rock of our salvation.
+Let us come before his presence with thanksgiving \*
 and raise a loud shout to him with psalms.**
-  
+
 ---
-> **For the Lord is a great God, \*    
-and a great King above all gods.  
-In his hand are the caverns of the earth, \*    
-and the heights of the hills are his also.  
-The sea is his, for he made it, \*    
+> **For the Lord is a great God, \*
+and a great King above all gods.
+In his hand are the caverns of the earth, \*
+and the heights of the hills are his also.
+The sea is his, for he made it, \*
 and his hands have molded the dry land.**
-  
-> **Come, let us bow down, and bend the knee, \*    
-and kneel before the Lord our Maker.  
-For he is our God,  
-and we are the people of his pasture and the sheep of his hand. \*    
+
+> **Come, let us bow down, and bend the knee, \*
+and kneel before the Lord our Maker.
+For he is our God,
+and we are the people of his pasture and the sheep of his hand. \*
 Oh, that today you would hearken to his voice!**
 
 **People:**
 
-> **The Lord is full of compassion and mercy:  
+> **The Lord is full of compassion and mercy:
 Come let us adore him.**
 
 ---
@@ -106,39 +106,39 @@ Come let us adore him.**
 
 _Ad te, Domine, levavi_
 
-1 To you, O Lord, I lift up my soul;  
-my God, I put my trust in you; \*  
-let me not be humiliated,  
-nor let my enemies triumph over me.  
-**2 Let none who look to you be put to shame; \*  
+1 To you, O Lord, I lift up my soul;
+my God, I put my trust in you; \*
+let me not be humiliated,
+nor let my enemies triumph over me.
+**2 Let none who look to you be put to shame; \*
 let the treacherous be disappointed in their schemes.**
 
 ---
-> 3 Show me your ways, O Lord, \*  
-and teach me your paths.  
-**4 Lead me in your truth and teach me, \*  
-for you are the God of my salvation;  
+> 3 Show me your ways, O Lord, \*
+and teach me your paths.
+**4 Lead me in your truth and teach me, \*
+for you are the God of my salvation;
 in you have I trusted all the day long.**
 
-> 5 Remember, O Lord, your compassion and love, \*  
-for they are from everlasting.  
-**6 Remember not the sins of my youth  
-and my transgressions; \*  
-remember me according to your love  
+> 5 Remember, O Lord, your compassion and love, \*
+for they are from everlasting.
+**6 Remember not the sins of my youth
+and my transgressions; \*
+remember me according to your love
 and for the sake of your goodness, O Lord.**
 
 ---
-> 7 Gracious and upright is the Lord; \*  
-therefore he teaches sinners in his way.  
-**8 He guides the humble in doing right \*  
+> 7 Gracious and upright is the Lord; \*
+therefore he teaches sinners in his way.
+**8 He guides the humble in doing right \*
 and teaches his way to the lowly.**
 
-> 9 All the paths of the Lord are love and faithfulness \*  
+> 9 All the paths of the Lord are love and faithfulness \*
 to those who keep his covenant and his testimonies.
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: \*  
-as it was in the beginning, is now,  
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: \*
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -161,48 +161,48 @@ Lector:
 ##### Silence may be kept.
 
 ---
-**Canticle 14: A Song of Penitence** -- _Kyrie, Pantokrator_   
+**Canticle 14: A Song of Penitence** -- _Kyrie, Pantokrator_
 .smaller[_(Prayer of Manasseh, 1-2, 4, 6-7, 11-15) (BCP 90)_]
 ##### Especially suitable in Lent, and on other penitential occasions
 
 **All:**
-> **O Lord and Ruler of the hosts of heaven, \*  
-God of Abraham, Isaac, and Jacob,  
-and of all their righteous offspring:  
-You made the heavens and the earth, \*  
+> **O Lord and Ruler of the hosts of heaven, \*
+God of Abraham, Isaac, and Jacob,
+and of all their righteous offspring:
+You made the heavens and the earth, \*
 with all their vast array.**
 
-> **All things quake with fear at your presence; \*  
-they tremble because of your power.  
-But your merciful promise is beyond all measure; \*  
+> **All things quake with fear at your presence; \*
+they tremble because of your power.
+But your merciful promise is beyond all measure; \*
 it surpasses all that our minds can fathom.**
 
 ---
-> **O Lord, you are full of compassion, \*  
-long-suffering, and abounding in mercy.  
-You hold back your hand; \*  
+> **O Lord, you are full of compassion, \*
+long-suffering, and abounding in mercy.
+You hold back your hand; \*
 you do not punish as we deserve.**
 
-> **In your great goodness, Lord,  
-you have promised forgiveness to sinners, \*  
+> **In your great goodness, Lord,
+you have promised forgiveness to sinners, \*
 that they may repent of their sin and be saved.**
 
-> **And now, O Lord, I bend the knee of my heart, \*  
-and make my appeal, sure of your gracious goodness.  
-I have sinned, O Lord, I have sinned, \*  
-and I know my wickedness only too well.  
-Therefore I make this prayer to you: \*  
-Forgive me, Lord, forgive me.  
-Do not let me perish in my sin, \*  
+> **And now, O Lord, I bend the knee of my heart, \*
+and make my appeal, sure of your gracious goodness.
+I have sinned, O Lord, I have sinned, \*
+and I know my wickedness only too well.
+Therefore I make this prayer to you: \*
+Forgive me, Lord, forgive me.
+Do not let me perish in my sin, \*
 nor condemn me to the depths of the earth.**
 
 ---
-> **For you, O Lord, are the God of those who repent, \*  
-and in me you will show forth your goodness.  
-Unworthy as I am, you will save me,  
-in accordance with your great mercy, \*  
-and I will praise you without ceasing all the days of my life.  
-For all the powers of heaven sing your praises, \*  
+> **For you, O Lord, are the God of those who repent, \*
+and in me you will show forth your goodness.
+Unworthy as I am, you will save me,
+in accordance with your great mercy, \*
+and I will praise you without ceasing all the days of my life.
+For all the powers of heaven sing your praises, \*
 and yours is the glory to ages of ages. Amen.**
 
 ---
@@ -227,33 +227,33 @@ Lector:
 **Canticle 16: The Song of Zechariah**	--- _Benedictus Dominus Deus_ --- .smaller[_(Luke 1:68--79) (BCP 92)_]
 
 **All:**
-> **Blessed be the Lord, the God of Israel; \*  
-he has come to his people and set them free.  
-He has raised up for us a mighty savior, \*  
-born of the house of his servant David.  
-Through his holy prophets he promised of old,  
-that he would save us from our enemies, \*  
-from the hands of all who hate us.  
-He promised to show mercy to our fathers \*  
-and to remember his holy covenant.  
-This was the oath he swore to our father Abraham, \*  
-to set us free from the hands of our enemies,  
-Free to worship him without fear, \*  
+> **Blessed be the Lord, the God of Israel; \*
+he has come to his people and set them free.
+He has raised up for us a mighty savior, \*
+born of the house of his servant David.
+Through his holy prophets he promised of old,
+that he would save us from our enemies, \*
+from the hands of all who hate us.
+He promised to show mercy to our fathers \*
+and to remember his holy covenant.
+This was the oath he swore to our father Abraham, \*
+to set us free from the hands of our enemies,
+Free to worship him without fear, \*
 holy and righteous in his sight all the days of our life.**
 
 ---
-> **You, my child, shall be called the prophet of the Most High, \*  
-for you will go before the Lord to prepare his way,  
-To give his people knowledge of salvation \*  
-by the forgiveness of their sins.  
-In the tender compassion of our God \*  
-the dawn from on high shall break upon us,  
-To shine on those who dwell in darkness and the shadow of death, \*  
+> **You, my child, shall be called the prophet of the Most High, \*
+for you will go before the Lord to prepare his way,
+To give his people knowledge of salvation \*
+by the forgiveness of their sins.
+In the tender compassion of our God \*
+the dawn from on high shall break upon us,
+To shine on those who dwell in darkness and the shadow of death, \*
 and to guide our feet into the way of peace.**
 
-> **Glory to the Father and to the Son,  
-and to the Holy Spirit: \*  
-> as it was in the beginning, is now,  
+> **Glory to the Father and to the Son,
+and to the Holy Spirit: \*
+> as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
@@ -281,25 +281,25 @@ Lector:
 ## The Apostles' Creed
 Officiant and **People** together, all standing:
 
-> **I believe in God, the Father almighty,  
-creator of heaven and earth.  
-I believe in Jesus Christ, his only Son, our Lord.  
-He was conceived by the power of the Holy Spirit  
-and born of the Virgin Mary.  
-He suffered under Pontius Pilate,  
-was crucified, died, and was buried.  
-He descended to the dead.  
-On the third day he rose again.  
-He ascended into heaven,  
-and is seated at the right hand of the Father.  
+> **I believe in God, the Father almighty,
+creator of heaven and earth.
+I believe in Jesus Christ, his only Son, our Lord.
+He was conceived by the power of the Holy Spirit
+and born of the Virgin Mary.
+He suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended to the dead.
+On the third day he rose again.
+He ascended into heaven,
+and is seated at the right hand of the Father.
 He will come again to judge the living and the dead.**
 
 ---
-> **I believe in the Holy Spirit,  
-the holy catholic Church,  
-the communion of saints,  
-the forgiveness of sins,  
-the resurrection of the body,  
+> **I believe in the Holy Spirit,
+the holy catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
 and the life everlasting. Amen.**
 
 Officiant:
@@ -317,19 +317,19 @@ Officiant:
 ---
 Officiant and **People:**
 
-> Our Father, **who art in heaven,  
-hallowed be thy Name,  
-thy kingdom come,  
-thy will be done,  
-on earth as it is in heaven.  
-Give us this day our daily bread.  
-And forgive us our trespasses,  
-as we forgive those who trespass against us.  
-And lead us not into temptation,  
-but deliver us from evil.  
-For thine is the kingdom,  
-and the power,  
-and the glory,  
+> Our Father, **who art in heaven,
+hallowed be thy Name,
+thy kingdom come,
+thy will be done,
+on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+as we forgive those who trespass against us.
+And lead us not into temptation,
+but deliver us from evil.
+For thine is the kingdom,
+and the power,
+and the glory,
 for ever and ever. Amen.**
 
 ---
@@ -337,19 +337,19 @@ for ever and ever. Amen.**
 
 ##### Officiant & People call and respond:
 
-> V. Show us your mercy, O Lord;  
-**R. And grant us your salvation.**  
-V. Clothe your ministers with righteousness;  
-**R. Let your people sing with joy.**  
-V. Give peace, O Lord, in all the world;  
-**R. For only in you can we live in safety.**  
-V. Lord, keep this nation under your care;  
-**R. And guide us in the way of justice and truth.**  
-V. Let your way be known upon earth;  
-**R. Your saving health among all nations.**  
-V. Let not the needy, O Lord, be forgotten;  
-**R. Nor the hope of the poor be taken away.**  
-V. Create in us clean hearts, O God;  
+> V. Show us your mercy, O Lord;
+**R. And grant us your salvation.**
+V. Clothe your ministers with righteousness;
+**R. Let your people sing with joy.**
+V. Give peace, O Lord, in all the world;
+**R. For only in you can we live in safety.**
+V. Lord, keep this nation under your care;
+**R. And guide us in the way of justice and truth.**
+V. Let your way be known upon earth;
+**R. Your saving health among all nations.**
+V. Let not the needy, O Lord, be forgotten;
+**R. Nor the hope of the poor be taken away.**
+V. Create in us clean hearts, O God;
 **R. And sustain us with your Holy Spirit.**
 
 ---

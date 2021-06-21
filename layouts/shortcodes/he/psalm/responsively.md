@@ -17,7 +17,7 @@
 {{ if not $reference }}
 ##### A Psalm, hymn, or anthem may follow each Reading.
 {{ else }}
-#### Psalm {{ $reference }}
+### Psalm {{ $reference }}
 
 {{/* Text is provide in .Inner or in readings or by oremus */}}
 {{ with .Inner }}

@@ -5,7 +5,7 @@ layout: slide
 ---
 class: center, middle
 # Noonday Prayer
-#### _from the Book of Common Prayer, pp. 103ff._
+### _from the Book of Common Prayer, pp. 103ff._
 ![TEC@RU](/images/tecatru/button-150.png)
 ???
 emacs was destroying my two-space line breaks.
@@ -22,9 +22,9 @@ _Officiant_
 > **O Lord, make haste to help us.**
 
 _Officiant and **People**_
-> **Glory to the Father, and to the Son,   
-and to the Holy Spirit: *  
-as it was in the beginning, is now,   
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: *
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 _A suitable hymn may be sung._
@@ -34,44 +34,44 @@ _A suitable hymn may be sung._
 **Psalm 121**
 _Levavi oculos_
 
-> 1	I lift up my eyes to the hills; *  
+> 1	I lift up my eyes to the hills; *
 from where is my help to come?
 
-> **2	My help comes from the LORD, *  
+> **2	My help comes from the LORD, *
 the maker of heaven and earth.**
 
-> 3	He will not let your foot be moved *  
+> 3	He will not let your foot be moved *
 and he who watches over you will not fall asleep.
 
-> **4	Behold, he who keeps watch over Israel *  
+> **4	Behold, he who keeps watch over Israel *
 shall neither slumber nor sleep;**
 
-> 5	The LORD himself watches over you; *  
+> 5	The LORD himself watches over you; *
 the LORD is your shade at your right hand,
 
-> **6	So that the sun shall not strike you by day, *  
+> **6	So that the sun shall not strike you by day, *
 nor the moon by night.**
 
 ---
 class: middle
 
-> 7	The LORD shall preserve you from all evil; *  
+> 7	The LORD shall preserve you from all evil; *
 it is he who shall keep you safe.
 
-> **8	The LORD shall watch over your going out and your coming in, *  
+> **8	The LORD shall watch over your going out and your coming in, *
 from this time forth for evermore.**
 
 
 
-> **Glory to the Father, and to the Son,  
-and to the Holy Spirit: *  
-as it was in the beginning, is now,   
+> **Glory to the Father, and to the Son,
+and to the Holy Spirit: *
+as it was in the beginning, is now,
 and will be for ever. Amen.**
 
 ---
 class: middle
 
-> If anyone is in Christ he is a new creation; the old has passed away, behold the new has come.  All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation.  
+> If anyone is in Christ he is a new creation; the old has passed away, behold the new has come.  All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation.
 .smaller[_2 Corinthians 5:17-18_]
 
 **People**
@@ -96,16 +96,16 @@ Officiant:
 class: middle
 
 **Officiant and People:**
-> Our Father in heaven,  
-**hallowed be your Name,  
-your kingdom come,  
-your will be done,  
-on earth as in heaven.  
-Give us today our daily bread.  
-Forgive us our sins  
-as we forgive those  
-who sin against us.  
-Save us from the time of trial,  
+> Our Father in heaven,
+**hallowed be your Name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those
+who sin against us.
+Save us from the time of trial,
 and deliver us from evil.**
 
 

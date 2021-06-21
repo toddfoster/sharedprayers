@@ -34,7 +34,7 @@ bcppage: 355ff.
 
 ##### pb
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid %}}
+{{% he/offertory "Trust and Obey (LEVAS 205)" %}}
 {{% he/eucharisticprayer/a /%}}
 ##### pb
 {{% he/lordsprayer/1 %}}
@@ -45,7 +45,7 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional "Trust and Obey (LEVAS 205)"%}}
+{{% he/processional "Soon and Very Soon (LEVAS 14)"%}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}

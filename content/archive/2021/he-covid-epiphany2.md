@@ -144,7 +144,7 @@ Today the response to the prompt, "Give us courage to say," is **“Speak, Lord,
 
 ### The Announcements
 
-#### Offertory Hymn
+### Offertory Hymn
 
 
 ## We Offer Ourselves to God

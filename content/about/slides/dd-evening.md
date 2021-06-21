@@ -4,9 +4,9 @@ date: 2021-02-03
 layout: slide
 ---
 class: center, middle
-# Daily Devotions 
+# Daily Devotions
 ## In the Early Evening
-#### _from the Book of Common Prayer, p. 139_
+### _from the Book of Common Prayer, p. 139_
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -42,19 +42,19 @@ class: middle
 
 _The Lord’s Prayer_
 
-> Our Father in heaven,  
-> hallowed be your Name,  
-> your kingdom come,  
-> your will be done,  
-> on earth as in heaven.  
-> Give us today our daily bread.  
-> Forgive us our sins  
-> as we forgive those  
-> 	who sin against us.  
-> Save us from the time of trial,  
-> and deliver us from evil.  
-> For the kingdom, the power,  
-> and the glory are yours,  
+> Our Father in heaven,
+> hallowed be your Name,
+> your kingdom come,
+> your will be done,
+> on earth as in heaven.
+> Give us today our daily bread.
+> Forgive us our sins
+> as we forgive those
+> 	who sin against us.
+> Save us from the time of trial,
+> and deliver us from evil.
+> For the kingdom, the power,
+> and the glory are yours,
 > now and for ever.  **Amen.**
 
 ---

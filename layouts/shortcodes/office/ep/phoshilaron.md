@@ -1,4 +1,4 @@
-#### O Gracious Light  --- _Phos hilaron_
+### O Gracious Light  --- _Phos hilaron_
 Officiant and **People:**
 > **O gracious light,
 pure brightness of the everliving Father in heaven,
