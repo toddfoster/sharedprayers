@@ -89,9 +89,9 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% office/ep/collect-sundays %}}
+{{% office/ep/collect/sundays %}}
 
-{{% office/ep/collect-presence %}}
+{{% office/ep/collect/presence %}}
 
 {{% collects/20-ForTheSick %}}
 

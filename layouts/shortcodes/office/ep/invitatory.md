@@ -2,6 +2,7 @@
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
 {{ $alleluia := " Alleluia." }}
 {{ if (eq $season "lent") }}{{ $alleluia = "" }}{{ end }}
+##### All stand.
 Officiant:
 > O God, make speed to save us.
 

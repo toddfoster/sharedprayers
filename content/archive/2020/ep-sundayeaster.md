@@ -102,11 +102,11 @@ Officiant:
 _Collect Proper to the Day_
 
 
-{{% office/ep/collect-sundays %}}
+{{% office/ep/collect/sundays %}}
 
-{{% office/ep/collect-presence %}}
+{{% office/ep/collect/presence %}}
 
-{{% office/ep/collect-keepwatch %}}
+{{% office/ep/mission/keepwatch %}}
 
 ##### Here may be sung a hymn or anthem.
 

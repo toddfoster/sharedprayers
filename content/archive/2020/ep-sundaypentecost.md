@@ -89,22 +89,15 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% office/ep/collect-sundays %}}
+{{% office/ep/collect/sundays %}}
 
-{{% office/ep/collect-presence %}}
+{{% office/ep/collect/presence %}}
 
 {{% collects/30-unemployed %}}
 
 {{% collects/36-oppressed %}}
 
-_A Prayer for Mission (BCP 124)_
-> Keep watch, dear Lord,
-with those who work, or watch, or weep this night,
-and give your angels charge over those who sleep.
-Tend the sick, Lord Christ; give rest to the weary,
-bless the dying, soothe the suffering,
-pity the afflicted, shield the joyous;
-and all for your love's sake.  **Amen.**
+{{% office/ep/mission/keepwatch %}}
 
 ##### Here may be sung a hymn or anthem.
 
