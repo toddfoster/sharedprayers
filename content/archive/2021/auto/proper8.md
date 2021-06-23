@@ -20,6 +20,7 @@ bcppage: 355ff.
 {{% he/lesson "firstReading" /%}}
 {{% he/psalm/responsively /%}}
 {{% he/lesson "secondReading" /%}}
+##### pb
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
@@ -29,7 +30,7 @@ bcppage: 355ff.
 ##### pb
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
-{{% stt/2021/peace-covid-202106 %}}
+{{% he/peace %}}
 {{% stt/announcements %}}
 
 ##### pb
