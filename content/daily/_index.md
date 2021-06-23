@@ -10,6 +10,8 @@ weight: 50
   * in Easter: [Monday](mp/mp-easter-covid-mon), [Tuesday](mp/mp-easter-covid-tue), [Wednesday](mp/mp-easter-covid-wed), [Thursday](mp/mp-easter-covid-thu), [Friday](mp/mp-easter-covid-fri), [Saturday](mp/mp-easter-covid-sat), [Sunday](mp/mp-easter-covid-sun)
 * [Noonday Prayer](noonday)
     * [9am](noonday-terce), [Noon](noonday-sext), [3pm](noonday-none)
+* Evening Prayer
+  * in the season after Pentecost: [Sunday](ep/ep-pentecost-sun)
 * [Compline](compline)
     * [Monday](compline1), [Tuesday](compline2), [Wednesday](compline3), [Thursday](compline4), [Friday](compline3), [Saturday](complinesat), [Sunday](compline4)
 

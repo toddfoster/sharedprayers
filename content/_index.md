@@ -13,6 +13,9 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 18 July, the Second Sunday after Pentecost](archive/2021/auto/proper11)
 - [Holy Eucharist for Sunday, 25 July, the Second Sunday after Pentecost](archive/2021/auto/proper12)
 
+**Sunday Evening Liturgies for July:**
+- [Evening Prayer for Sundays](ep/ep-pentecost-sun)
+
 **Wednesday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 23 June (The Nativity of Saint John the Baptist)](archive/2021/auto/nativitystjohnbaptist)
 - [Holy Eucharist for Wednesday night, 30 June (The Apostles Saint Peter and Saint Paul)](archive/2021/auto/stspeterpaul)
