@@ -911,16 +911,22 @@ https://www.banjocode.com/post/hugo/custom-css/
   h1, h2 {
     font: 16pt Georgia, "Times New Roman", Times, serif;
     font-weight: bold;
-    text-align: center; }
-  h3, h4 {
+    text-align: center;
+    background: #fff !important;
+    color: #000; }
+  h3 {
     font: 12pt Georgia, "Times New Roman", Times, serif;
     font-size: 16px;
-    font-weight: bold; }
-  h5 {
+    font-weight: bold;
+    background: #fff !important;
+    color: #000; }
+  h4, h5 {
     font: 10px;
     font-style: italic;
     font-weight: normal;
-    line-height: 14px; }
+    line-height: 14px;
+    background: #fff !important;
+    color: #000; }
   #printHeader {
     display: none !important; }
   .header {

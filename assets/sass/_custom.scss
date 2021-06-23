@@ -1,3 +1,5 @@
+// sass-lint:disable no-css-comments, no-color-hex, no-color-literals
+
 // Site custom styles
 
 h1, h2 {
@@ -54,17 +56,23 @@ https://www.banjocode.com/post/hugo/custom-css/
 		font: 16pt Georgia, "Times New Roman", Times, serif;
 		font-weight: bold;
 		text-align: center;
+		background: #fff !important;
+		color: #000;
 	}
-	h3, h4 {
+	h3 {
 		font: 12pt Georgia, "Times New Roman", Times, serif;
 		font-size: 16px;
 		font-weight: bold;
+		background: #fff !important;
+		color: #000;
 	}
-	h5 {
+	h4, h5 {
 		font: 10px;
 		font-style: italic;
 		font-weight: normal;
 		line-height: 14px;
+		background: #fff !important;
+		color: #000;
 	}
 
 	#printHeader { display: none !important; }
@@ -88,7 +96,7 @@ https://www.banjocode.com/post/hugo/custom-css/
 		height: 1px;
 		width: 1px;
 		color: #fff !important;
-		page-break-after:always;
+		page-break-after: always;
 	}
 
 	/*
