@@ -1,8 +1,8 @@
-Officiant:
+##### Officiant:
 > The Lord be with you.
 
-**People:**
+##### **People:**
 > **And also with you.**
 
-Officiant:
+##### Officiant:
 > Let us pray.

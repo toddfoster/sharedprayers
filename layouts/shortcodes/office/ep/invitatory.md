@@ -3,19 +3,19 @@
 {{ $alleluia := " Alleluia." }}
 {{ if (eq $season "lent") }}{{ $alleluia = "" }}{{ end }}
 ##### All stand.
-Officiant:
+##### Officiant:
 > O God, make speed to save us.
 
-**People:**
+##### **People:**
 > **O Lord, make haste to help us.**
 
-**All:**
+##### **All:**
 > **Glory to the Father, and to the Son, and to the Holy Spirit:
 > as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
 
 **O Gracious Light** ---   _Phos hilaron_
 
-**All:**
+##### **All:**
 > **O gracious light,
 > pure brightness of the everliving Father in heaven,
 > O Jesus Christ, holy and blessed!**

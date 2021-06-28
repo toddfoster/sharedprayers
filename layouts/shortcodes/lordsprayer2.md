@@ -1,4 +1,4 @@
-**Officiant and People:**
+##### Officiant and **People:**
 > Our Father in heaven,
 **hallowed be your Name,
 your kingdom come,

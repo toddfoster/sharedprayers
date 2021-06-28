@@ -15,44 +15,44 @@ weekday: sunday
 
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > **Thanks be to God.**
 
 ##### Silence may be kept.
 
 {{% office/ep/canticle/first %}}
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/ep/canticle/second %}}
 
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
