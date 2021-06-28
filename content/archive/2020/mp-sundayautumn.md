@@ -25,7 +25,7 @@ _according to the Book of Common Prayer (p. 78ff.)_
 **All:**
 > **The earth is the Lord's for he made it: Come let us adore him.**
 
-{{% office/mp/psalter %}}
+{{% office/mp/psalm %}}
 
 
 ## The Lessons

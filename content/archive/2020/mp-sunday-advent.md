@@ -25,7 +25,7 @@ _according to the Book of Common Prayer (p. 75ff.)_
 **All:**
 > **Our King and Savior now draws near: Come let us adore him.**
 
-{{% office/mp/psalter %}}
+{{% office/mp/psalm %}}
 
 
 ## The Lessons
