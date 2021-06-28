@@ -1,4 +1,6 @@
 ### The Psalm Appointed
+{{ $page := default ("BCP 585ff.") (.Get 1)}}
+#### {{ $page }}
 ##### The People are seated.
 ##### The Psalm is sung or said in a suitable manner (e.g., responsively by verse, in unison, or read by the lector).
 
