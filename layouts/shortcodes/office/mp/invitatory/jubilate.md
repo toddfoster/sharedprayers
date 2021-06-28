@@ -1,5 +1,5 @@
 ### Jubilate _(Psalm 100)_
-**All:**
+##### **All:**
 > **Be joyful in the Lord, all you lands; *
 	serve the Lord with gladness
 	and come before his presence with a song.**

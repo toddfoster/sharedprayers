@@ -22,44 +22,44 @@ One also may wish to find, again from [https://lectionarypage.net](lectionarypag
 {{% /office/mp/psalm %}}
 
 # The Lessons
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/first %}}
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/second %}}
 
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
@@ -89,4 +89,3 @@ _Collect Proper to the Day_
 {{% office/mp/beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
-	

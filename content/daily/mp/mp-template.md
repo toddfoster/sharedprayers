@@ -33,7 +33,7 @@ office/mp/confession can be used in two ways:
 {{% office/mp/invitatory  %}}
 {{% comment %}}
 office/mp/invitatory strives to choose antiphon and invitatory
-from the front matter. 
+from the front matter.
 Override parameters = season invitatory
 Must specify season in order to specify invitatory; by default,
 invitatory is chosen according to the season.
@@ -65,15 +65,15 @@ double-entry error.
 {{% office/gloriapatri %}}
 
 # The Lessons
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 {{% office/mp/canticle/first %}}
@@ -81,28 +81,28 @@ _Reader:_
 Uses front matter to get season, weekday;
 Can override by providing parameters in that order
 {{% /comment %}}
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 {{% office/mp/canticle/second %}}
 
-_Reader:_
+##### Reader:
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### Reader:
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 {{% office/apostlescreed %}}
@@ -124,7 +124,7 @@ _Collect Proper to the Day_
 {{% office/mp/collect %}}
 {{% comment %}}
 Uses front matter to decide day of week for collect; override with parameter
-Parameter can be name of collect (e.g., guidance) 
+Parameter can be name of collect (e.g., guidance)
 or point to day of week (e.g., "choose/sunday")
 {{% /comment %}}
 
@@ -132,7 +132,7 @@ or point to day of week (e.g., "choose/sunday")
 {{% comment %}}
 Uses front matter to decide day of week for prayer for mission
 override with parameter
-Parameter can be name of prayer (e.g., "1" or "2" or "3") 
+Parameter can be name of prayer (e.g., "1" or "2" or "3")
 or point to day of week (e.g., "choose/sunday")
 {{% /comment %}}
 
@@ -152,7 +152,7 @@ or point to day of week (e.g., "choose/sunday")
 {{% office/mp/letusbless %}}
 {{% comment %}}
 Uses front matter to decide whether or not it to
-add the Alleluias for Easter, or 
+add the Alleluias for Easter, or
 override with parameter for name of season.
 {{% /comment %}}
 
@@ -160,10 +160,9 @@ override with parameter for name of season.
 {{% comment %}}
 Uses front matter to decide day of week for the conclusion.
 override with parameter
-Parameter can be the first two/three words 
+Parameter can be the first two/three words
 (e.g., thegrace, maythegod, glorytogod)
 or point to day of week (e.g., "choose/sunday")
 {{% /comment %}}
 
 {{% nrsv %}}
-	

@@ -14,44 +14,44 @@ weekday: friday
 {{% office/mp/psalm "___" /%}}
 
 # The Lessons
-_Reader:_
+##### _Reader:_
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### _Reader:_
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/first %}}
-_Reader:_
+##### ##### _Reader:_
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### _Reader:_
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/second %}}
 
-_Reader:_
+##### _Reader:_
 > A Reading (Lesson) from _____________.
 
 > ...
 
-_Reader:_
+##### _Reader:_
 > The Word of the Lord.
 
-**People:**
+##### **People:**
 > Thanks be to God.
 
 ##### Silence may be kept.

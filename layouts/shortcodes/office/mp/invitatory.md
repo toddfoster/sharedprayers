@@ -3,13 +3,13 @@
 {{ $day := default ($.Page.Params.weekday) ("monday") }}
 {{ $alleluia := " Alleluia." }}
 {{ if (eq $season "lent") }}{{ $alleluia = "" }}{{ end }}
-Officiant:
+##### Officiant:
 > Lord, open our lips.
 
-**People:**
+##### **People:**
 > **And our mouth shall proclaim your praise.**
 
-**All:**
+##### **All:**
 > **Glory to the Father, and to the Son, and to the Holy Spirit:
 > as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
 
@@ -18,7 +18,7 @@ Officiant:
 {{ if or (not (fileExists $antiphon)) (eq $season "other") (eq $season "proper") }}
     {{ $antiphon = printf "layouts/shortcodes/office/mp/antiphon/choose/other/%s.md" $day }}
   {{ end }}
-**People:**
+##### **People:**
 > **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}
 
@@ -28,6 +28,6 @@ Officiant:
 {{ readFile $invitatory | safeHTML }}
 
 {{ if not (eq $season "easter") }}
-**People:**
+##### **People:**
 > **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}

@@ -1,5 +1,5 @@
 ### Venite _(Psalm 95:1-7)_
-**All:**
+##### **All:**
 > **Come, let us sing to the Lord; *
 let us shout for joy to the Rock of our salvation.
 Let us come before his presence with thanksgiving *
