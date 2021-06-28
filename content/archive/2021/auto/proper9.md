@@ -6,7 +6,7 @@ proper: proper9
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}
-
+##### pb
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
@@ -17,15 +17,18 @@ bcppage: 355ff.
 ## We Hear God's Word
 {{% he/lesson "firstReading" /%}}
 {{% he/psalm/responsively /%}}
+##### pb
 {{% he/lesson "secondReading" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% stt/2021/peace-covid-202106 %}}
+##### pb
 {{% stt/birthdaysanniversaries %}}
 
 ## We Offer Ourselves To God
@@ -33,7 +36,7 @@ bcppage: 355ff.
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
-
+##### pb
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
