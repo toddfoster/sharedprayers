@@ -880,7 +880,7 @@ h4, h5 {
   font-size: 65%;
   font-style: italic;
   font-weight: normal;
-  margin-bottom: -0.30in;
+  margin-bottom: -0.250in;
   line-height: 18px; }
 
 p {
