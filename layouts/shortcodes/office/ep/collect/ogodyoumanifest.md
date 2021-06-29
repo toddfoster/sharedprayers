@@ -1,2 +1,3 @@
-_A Prayer for Mission (BCP 125)_
-> O God, you manifest in your servants the signs of your presence: Send forth upon us the Spirit of love, that in companionship with one another your abounding grace may increase among us; through Jesus Christ our Lord.  **Amen.**
+####  BCP 125
+### A Prayer for Mission
+O God, you manifest in your servants the signs of your presence: Send forth upon us the Spirit of love, that in companionship with one another your abounding grace may increase among us; through Jesus Christ our Lord.  **Amen.**
