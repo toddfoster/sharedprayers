@@ -25,7 +25,7 @@
 A reading from {{ $intro }}
 
 {{ with .Inner }}
-{{ . | replace "\n" "\n    \n" | safeHTML }}
+{{ . | safeHTML}}
 {{ else }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
