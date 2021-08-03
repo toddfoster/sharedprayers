@@ -15,6 +15,9 @@ title: Shared Prayers
 
 **Wednesday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 4 August (The Transfiguration of Our Lord Jesus Christ)](archive/2021/auto/transfiguration)
+- [Holy Eucharist for Wednesday night, 11 August (Feast of Jonathan Myrick Daniels)](archive/2021/auto/jonathanmyrickdaniels)
+- [Holy Eucharist for Wednesday night, 18 August (Feast of St. Mary the Virgin, Mother of Our Lord Jesus Christ)](archive/2021/auto/stmaryvirgin)
+- [Holy Eucharist for Wednesday night, 25 August (Feast of St. Bartholomew, Apostle)](archive/2021/auto/stbartholomew)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
