@@ -1,7 +1,7 @@
 #### BCP 356
 ### Kyrie
 ##### Officiant:
-> Kyrie, eleison.
+Kyrie, eleison.
 
 ##### People:
 **Christe, eleison.**
