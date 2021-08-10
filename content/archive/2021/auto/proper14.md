@@ -7,6 +7,7 @@ bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
 
+##### pb
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
@@ -25,11 +26,14 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
+##### pb
 {{% stt/2021/peace-covid-202106 %}}
 {{% stt/announcements %}}
 
+##### pb
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid %}}
+{{% he/offertory "hymns/levas-152" %}}
+##### pb
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -38,7 +42,9 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+##### pb
+{{% he/processional "hymns/h-711" %}}
+##### pb
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}
