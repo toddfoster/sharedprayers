@@ -5,7 +5,6 @@ title: Shared Prayers
 [Pray the Daily Office](daily/)
 
 -------------
-
 **Sunday Liturgies for this month:**
 - [Holy Eucharist for Sunday, 1 August, the Tenth Sunday after Pentecost](archive/2021/auto/proper13)
 - [Holy Eucharist for Sunday, 8 August, the Eleventh Sunday after Pentecost](archive/2021/auto/proper14)
