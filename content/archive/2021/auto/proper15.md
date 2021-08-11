@@ -21,6 +21,7 @@ bcppage: 355ff.
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
@@ -29,7 +30,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% stt/2021/offertory-covid %}}
+{{% he/offertory "hymns/h-662" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -38,7 +39,6 @@ bcppage: 355ff.
 {{% stt/2021/communion-covid %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "hymns/h-488" %}}
 {{% he/dismissal/goinpeace %}}
-{{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
