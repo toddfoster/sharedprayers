@@ -1,6 +1,6 @@
 ## Confession of Sin
 ##### Officiant:
-> Dearly friends in Christ, here in the presence of Almighty God, let us kneel in silence, and with penitent and obedient hearts confess our sins, so that we may obtain forgiveness by his infinite goodness and mercy.
+> Dear friends in Christ, here in the presence of Almighty God, let us kneel in silence, and with penitent and obedient hearts confess our sins, so that we may obtain forgiveness by his infinite goodness and mercy.
 
 
 ##### The people kneel or stand as able. Silence may be kept.
