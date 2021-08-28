@@ -10,6 +10,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 8 August, the Eleventh Sunday after Pentecost](archive/2021/auto/proper14)
 - [Holy Eucharist for Sunday, 15 August, the Twelfth Sunday after Pentecost](archive/2021/auto/proper15)
 - [Holy Eucharist for Sunday, 22 August, the Thirteenth Sunday after Pentecost](archive/2021/auto/proper16)
+- [Evening Prayer for Saturday, 28 August, the Fourteenth Sunday after Pentecost](daily/ep/ep-pentecost-sun)
 - [Holy Eucharist for Sunday, 29 August, the Fourteenth Sunday after Pentecost](archive/2021/auto/proper17)
 
 **Wednesday Liturgies this month:**
