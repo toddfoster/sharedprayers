@@ -1,5 +1,5 @@
 ---
-title: Evening Prayer for Sundays After Pentecost
+title: Evening Prayer for Proper 17-B
 date: 2021-08-28
 layout: slide
 ---
