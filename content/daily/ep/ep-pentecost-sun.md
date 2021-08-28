@@ -11,7 +11,7 @@ weekday: sunday
 {{% office/ep/sentence %}}
 {{% office/ep/confession %}}
 {{% office/ep/invitatory  %}}
-{{% office/mp/psalm %}}
+{{% office/mp/psalm /%}}
 
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
@@ -79,6 +79,6 @@ _Collect Proper to the Day_
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-
+{{% office/mp/beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
