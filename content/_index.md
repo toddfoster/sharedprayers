@@ -6,18 +6,16 @@ title: Shared Prayers
 
 -------------
 **Sunday Liturgies for this month:**
-- [Holy Eucharist for Sunday, 1 August, the Tenth Sunday after Pentecost](archive/2021/auto/proper13)
-- [Holy Eucharist for Sunday, 8 August, the Eleventh Sunday after Pentecost](archive/2021/auto/proper14)
-- [Holy Eucharist for Sunday, 15 August, the Twelfth Sunday after Pentecost](archive/2021/auto/proper15)
-- [Holy Eucharist for Sunday, 22 August, the Thirteenth Sunday after Pentecost](archive/2021/auto/proper16)
-- [Evening Prayer for Saturday, 28 August, the Fourteenth Sunday after Pentecost](daily/ep/ep-pentecost-sun)
-- [Holy Eucharist for Sunday, 29 August, the Fourteenth Sunday after Pentecost](archive/2021/auto/proper17)
+- [Holy Eucharist for Sunday, 5 September, the Fifteenth Sunday after Pentecost](archive/2021/auto/proper18)
+- [Holy Eucharist for Sunday, 12 September, the Sixteenth Sunday after Pentecost](archive/2021/auto/proper19)
+- [Holy Eucharist for Sunday, 19 September, the Seventeenth Sunday after Pentecost](archive/2021/auto/proper20)
+- [Holy Eucharist for Sunday, 26 September, the Eighteenth Sunday after Pentecost](archive/2021/auto/proper21)
+
+**Evening Prayer for Saturdays this month:**
+-[Evening Prayer for Sundays after Pentecost](daily/ep/ep-pentecost-sun/)
 
 **Wednesday Liturgies this month:**
-- [Holy Eucharist for Wednesday night, 4 August (The Transfiguration of Our Lord Jesus Christ)](archive/2021/auto/transfiguration)
-- [Holy Eucharist for Wednesday night, 11 August (Feast of Jonathan Myrick Daniels)](archive/2021/auto/jonathanmyrickdaniels)
-- [Holy Eucharist for Wednesday night, 18 August (Feast of St. Mary the Virgin, Mother of Our Lord Jesus Christ)](archive/2021/auto/stmaryvirgin)
-- [Holy Eucharist for Wednesday night, 25 August (Feast of St. Bartholomew, Apostle)](archive/2021/auto/stbartholomew)
+- [Holy Eucharist for Wednesday night, 1 September (Feast of David Pendleton Oakerhater, Deacon)](archive/2021/he-covid-oakerhater)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
