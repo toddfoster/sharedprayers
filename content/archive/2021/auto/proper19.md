@@ -28,7 +28,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "hymns/h-431" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -37,7 +37,7 @@ bcppage: 355ff.
 {{% stt/2021/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "hymns/h-523" %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}
