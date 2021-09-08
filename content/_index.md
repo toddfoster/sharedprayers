@@ -16,6 +16,10 @@ title: Shared Prayers
 
 **Wednesday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 1 September (Feast of David Pendleton Oakerhater, Deacon)](archive/2021/he-covid-oakerhater)
+- [Holy Eucharist for Wednesday night, 8 September (Feast of Alexander Crummell, Priest)](archive/2021/he-covid-alexandercrummell)
+- [Holy Eucharist for Wednesday night, 15 September (Holy Cross Day)](archive/2021/auto/holycross)
+- [Holy Eucharist for Wednesday night, 22 September (Feast of Saint Matthew, Apostle and Evangelist)](archive/2021/auto/stmatthew)
+- [Holy Eucharist for Wednesday night, 29 September (Feast of Saint Michael and All Angels)](archive/2021/auto/stmichaelallangels)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
