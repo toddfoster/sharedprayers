@@ -1,5 +1,5 @@
 ---
-title: An Order for Compline (1)
+title: An Order for Compline (Week 1)
 date: 2021-09-01
 bcppage: 127ff.
 ---
