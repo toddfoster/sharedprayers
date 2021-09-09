@@ -12,8 +12,9 @@ weight: 50
     * [9am](noonday-terce), [Noon](noonday-sext), [3pm](noonday-none)
 * Evening Prayer
   * in the season after Pentecost: [Sunday](ep/ep-pentecost-sun)
-* [Compline](compline)
-    * [Monday](compline1), [Tuesday](compline2), [Wednesday](compline3), [Thursday](compline4), [Friday](compline3), [Saturday](complinesat), [Sunday](compline4)
+* [Compline](compline/compline)
+    * [Monday](compline/compline1), [Tuesday](compline/compline2), [Wednesday](compline/compline3), [Thursday](compline/compline4), [Friday](compline/compline3), [Saturday](compline/complinesat), [Sunday](compline/compline4)
+	* [Week 1](compline/compline-wk1), [Week 2](compline/compline-wk2), [Week 3](compline/compline-wk3), [Week 4](compline/compline-wk4)
 
 
 ### Daily Devotions for Individuals and Families
