@@ -1,11 +1,11 @@
 #### BCP 356
 ### Kyrie
 ##### Officiant:
-Kyrie, eleison.
+_Kyrie, eleison._
 
 ##### People:
-**Christe, eleison.**
+***Christe, eleison.***
 
 ##### Officiant:
-Kyrie, eleison.
+_Kyrie, eleison._
 ##### (translated: Lord, have mercy. Christ, have mercy. Lord, have mercy.)
