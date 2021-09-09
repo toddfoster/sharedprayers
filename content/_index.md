@@ -14,6 +14,9 @@ title: Shared Prayers
 **Evening Prayer for Saturdays this month:**
 -[Evening Prayer for Sundays after Pentecost](daily/ep/ep-pentecost-sun/)
 
+**Church in the Woods at Rowan University**
+- [Church in the Woods for Wednesday, 16 September](archive/2021/churchinwoods20210916)
+
 **Wednesday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 1 September (Feast of David Pendleton Oakerhater, Deacon)](archive/2021/he-covid-oakerhater)
 - [Holy Eucharist for Wednesday night, 8 September (Feast of Alexander Crummell, Priest)](archive/2021/he-covid-alexandercrummell)
