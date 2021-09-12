@@ -14,8 +14,15 @@ class: center
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
-(remove-hook &#39;before-save-hook &#39;delete-trailing-whitespace)
+(remove-hook 'before-save-hook 'delete-trailing-whitespace)
 Also: M-x electric-indent-mode (to turn off?)
+
+
+*******************
+START THE RECORDING!
+*******************
+
+
 
 ---
  Officiant:
