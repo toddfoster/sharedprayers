@@ -24,6 +24,7 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
+{{% he/special/blessingbackpacks %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
