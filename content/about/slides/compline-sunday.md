@@ -65,6 +65,9 @@ and to the Holy Spirit:
 as it was in the beginning, is now,  
 and will be for ever.  Amen.**
 
+.smaller[_Except in Lent, add_]
+> **Alleluia.**
+
 ---
 **Psalm** 134
 _Ecce nunc_
