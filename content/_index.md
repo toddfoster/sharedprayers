@@ -18,6 +18,7 @@ title: Shared Prayers
 - [Compline for Wednesday, 15 September (Week 2)](daily/compline/compline-wk2)
 - [Church in the Woods for Wednesday, 16 September](archive/2021/churchinwoods20210916)
 - [Compline for Wednesday, 22 September (Week 3)](daily/compline/compline-wk3)
+- [Church in the Woods for Sunday, 26 September](archive/2021/churchinwoods20210926)
 - [Compline for Wednesday, 29 September (Week 4)](daily/compline/compline-wk4)
 
 **Wednesday Liturgies this month:**
