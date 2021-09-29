@@ -46,7 +46,7 @@ For those in positions of public trust especially Joseph, our President, Phillip
 ##### **People:**
 ***Kyrie eleison.***
 ##### Leader:
-For all who live and work in this community, especially Ali, our President, and all the Deans, Faculty, and Trustees of Rowan University, we pray to you, O Lord.
+For all who live and work in this community, especially Ali, our President, and all the Deans, Faculty, Trustees, and Students of Rowan University, we pray to you, O Lord.
 
 ##### **People:**
 ***Kyrie eleison.***
