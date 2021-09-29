@@ -13,7 +13,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 31 October](archive/2021/auto/proper26)
 
 **Evening Prayer for Saturdays this month:**
--[Evening Prayer for Sundays after Pentecost](daily/ep/ep-pentecost-sun/)
+- [Evening Prayer for Sundays after Pentecost](daily/ep/ep-pentecost-sun/)
 
 **TEC@RU / Compline / Church in the Woods**
 - [Compline for Wednesday, 29 September (Week 4)](daily/compline/compline-wk4)
