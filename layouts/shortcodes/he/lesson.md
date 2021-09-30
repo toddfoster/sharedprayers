@@ -1,25 +1,41 @@
-{{ $ordinal := "" }}
-{{ $reference := "" }}
-{{/* One parameter = first/secondLesson ; Two = "First" "Gen 17" */}}
-{{ if len .Params | eq 1 }}
-    {{ $which := .Get 0 }}
-    {{ $ordinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $which ) | readFile | chomp | safeHTML }}
-	{{ $reffile := "" }}
-	{{/* Try to find the proper reference as a Sunday or a Holy Day */}}
-	{{ $reffile = (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $.Page.Params.lectionaryyear $.Page.Params.proper $which) }}
-	{{ if  not (fileExists $reffile) }}
-		{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $.Page.Params.proper $which) }}
-    {{ end }}
-    {{ $reference = ($reffile | readFile | safeHTML) }}
+{{/* parameters: ordinal day/reference year */}}
+{{/* ordinal can be firstLesson|secondLesson|gospel or else literal */}}
+{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper22) or else literal */}}
+{{/*  year can be blank (assume $.Pae.Params.lectionaryyear) */}}
+{{/* Figure out year */}}
+{{ $year := "" }}
+{{ with .Get 2 }}
+  {{ $year = . }}
 {{ else }}
-    {{ $ordinal = .Get 0 }}
-    {{ $reference = .Get 1 }}
+  {{ $year = $.Page.Params.lectionaryyear }}
+{{ end }}
+{{/* Figure out reference source */}}
+{{ $reference := "" }}
+{{ with .Get 1 }}
+  {{ $reference = . }}
+{{ else }}
+  {{ $reference = $.Page.Params.proper }}
+{{ end }}
+{{/* Figure out ordinal: keyword or else literal */}}
+{{ $ordinal := .Get 0 }}
+{{ $prettyOrdinal := .Get 0 }}
+{{ $filename := printf "layouts/shortcodes/readings/ordinal/%s" $ordinal }}
+{{ if fileExists $filename }}
+    {{ $prettyOrdinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $ordinal ) | readFile | chomp | safeHTML }}
+{{ end}}
+{{/* Find actual reference */}}
+{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $year $reference $ordinal) }}
+{{ if  not (fileExists $reffile) }}
+	{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $reference $ordinal ) }}
+{{ end }}
+{{ if fileExists $reffile }}
+    {{ $reference = ($reffile | readFile | safeHTML) }}
 {{ end }}
 {{ $reference = $reference | chomp }}
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
-### The {{ $ordinal }} Lesson: _{{- $reference -}}_
+### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
 
 ##### Lector:
 A reading from {{ $intro }}
