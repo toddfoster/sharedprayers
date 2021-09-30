@@ -1,18 +1,30 @@
-{{/* reference is passed in, by proper, else generic */}}
+{{/* parameters: [day/reference] [year] */}}
+{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper22) or else literal */}}
+{{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
+{{/* Figure out year */}}
+{{ $year := "" }}
+{{ with .Get 1 }}
+  {{ $year = . }}
+{{ else }}
+  {{ $year = $.Page.Params.lectionaryyear }}
+{{ end }}
+{{/* Figure out reference source */}}
 {{ $reference := "" }}
 {{ with .Get 0 }}
   {{ $reference = . }}
 {{ else }}
-	{{/* Try to find the proper reference as a Sunday or a Holy Day */}}
-	{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/psalm" $.Page.Params.lectionaryyear $.Page.Params.proper) }}
-	{{ if  not (fileExists $reffile) }}
-		{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/psalm" $.Page.Params.proper ) }}
-    {{ end }}
-	{{ if (fileExists $reffile) }}
-      {{ $reference = ($reffile | readFile | safeHTML) }}
-    {{ end }}
+  {{ $reference = $.Page.Params.proper }}
 {{ end }}
-
+{{/* Find actual reference */}}
+{{ $ordinal := "psalm" }}
+{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $year $reference $ordinal) }}
+{{ if  not (fileExists $reffile) }}
+	{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $reference $ordinal ) }}
+{{ end }}
+{{ if fileExists $reffile }}
+    {{ $reference = ($reffile | readFile | safeHTML) }}
+{{ end }}
+{{ $reference = $reference | chomp }}
 {{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
 {{ if not $reference }}
 ##### A Psalm, hymn, or anthem may follow each Reading.
