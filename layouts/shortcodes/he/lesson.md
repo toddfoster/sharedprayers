@@ -1,7 +1,7 @@
 {{/* parameters: ordinal day/reference year */}}
 {{/* ordinal can be firstLesson|secondLesson|gospel or else literal */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper22) or else literal */}}
-{{/*  year can be blank (assume $.Pae.Params.lectionaryyear) */}}
+{{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* Figure out year */}}
 {{ $year := "" }}
 {{ with .Get 2 }}
