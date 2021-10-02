@@ -27,6 +27,12 @@ START THE RECORDING!
 *******************
 
 
+To update weekly:
+- title page
+- opening sentence
+- psalm
+- readings
+- proper collect
 
 ---
  Officiant:
