@@ -2,6 +2,9 @@
 title: Evening Prayer for Proper 22-B
 date: 2021-10-02
 layout: slide
+lectionaryyear: yearb
+proper: proper22
+bcppage: 115ff.
 ---
 layout: true
 class: middle
@@ -11,6 +14,7 @@ class: center
 # Evening Prayer
 ## For the Nineteenth Sunday after Pentecost
 ### _from the Book of Common Prayer, pp. 115ff._
+
 ???
 emacs was destroying my two-space line breaks.
 Use M-: to evaluate:
@@ -72,15 +76,18 @@ and walk in your ways,
 to the glory of your Name. Amen.**
 
 ---
+ 
 Priest:
+> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. 
 
-> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. Amen.
+**People:**
+> **Amen.**
 
 ##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
 
 ---
-.smaller[_(BCP 117)_]
-## The Invitatory and Psalter
+## The Invitatory and Psalter .smaller[_(BCP 117)_]
+
 Officiant:
 
 > O God, make speed to save us.
@@ -122,7 +129,7 @@ and to be glorified through all the worlds.**
 
 **Psalm** 26
 _Judica me, Domine_
-.smaller[_(BCP 616)_]
+.right.smaller[_(BCP 616)_]
 
 > 1 Give judgment for me, O LORD,
 for I have lived with integrity; \*  
@@ -397,7 +404,7 @@ Officiant:
 > O God, you make us glad with the weekly remembrance of the glorious resurrection of your Son our Lord: Give us this day such blessing through our worship of you, that the week to come may be spent in your favor; through Jesus Christ our Lord. **Amen.**
 
 ---
-### 20. For the Sick (modeled after BCP 260)
+### 20. For the Sick .smaller[_(modeled after BCP 260)_]
 
 > Heavenly Father, giver of life and health: Comfort and relieve your sick servants, and give your power of healing to those who minister to their needs, that those suffering from Covid-19 and its secondary harms may be strengthened in their weakness and have confidence in your loving care; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. **Amen.**
 
