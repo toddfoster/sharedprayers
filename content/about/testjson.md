@@ -28,6 +28,7 @@ bcppage: 355ff.
 TODO:
 - psalm?
 - proper-x gets the right track
+- choices made in expected ways with multiple readings, multiple psalms, canticle choicesqq
 - fix single.html referring to page title under proper (add to json?)
 
 ##### DEBUG: Unreal lesson will be Ecclesiumnonsense
