@@ -62,6 +62,9 @@
     {{ $slug := $reference | replaceRE "Psalm " "" }}
     {{ $slug = $slug | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filename := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
+    {{ if $DEBUG }}
+	  {{ printf "filename = %v" $filename }}
+    {{ end }}
     {{ if fileExists $filename }}
 {{ $filename | readFile | safeHTML }}
 	{{ else }}
