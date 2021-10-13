@@ -53,20 +53,21 @@
 {{ if not $reference }}
 ##### A Psalm, hymn, or anthem may follow each Reading.
 {{ else }}
-### Psalm {{ $reference }}
+### {{ $reference }}
 
 {{/* Text is provide in .Inner or in readings or by oremus */}}
 {{ with .Inner }}
 {{ . | replaceRE "\n" "\n> " | safeHTML }}
 {{ else }}
-    {{ $slug := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
+    {{ $slug := $reference | replaceRE "Psalm " "" }}
+    {{ $slug = $slug | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filename := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
     {{ if fileExists $filename }}
 {{ $filename | readFile | safeHTML }}
 	{{ else }}
-	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=Psalm %s" $reference }}
+	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
             {{ $url = replace $url " " "%20" }}
-> _This reading can be found at [Psalm {{ $reference }}]({{ $url }})_
+> _This reading can be found at [{{ $reference }}]({{ $url }})_
 	{{ end }}
 {{ end }}
 {{ end }}
