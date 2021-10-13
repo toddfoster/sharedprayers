@@ -1,29 +1,53 @@
-{{/* parameters: [day/reference] [year] */}}
-{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper22) or else literal */}}
+{{/* shortcodes/he/psalm/responsively.md */}}
+{{/* parameters: day/reference year */}}
+{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
-{{/* Figure out year */}}
+{{/* TODO: Use opinionated lectionary by default */}}
+{{/* NOTE: Not DRY: Keep in sync with lesson.md */}}
+
+{{ $DEBUG := false }}
+
+{{/* Figure out year: argument or page parameter or fail */}}
 {{ $year := "" }}
 {{ with .Get 1 }}
   {{ $year = . }}
 {{ else }}
   {{ $year = $.Page.Params.lectionaryyear }}
 {{ end }}
-{{/* Figure out reference source */}}
-{{ $reference := "" }}
+{{ $year = $year | upper }}
+
+{{/* Figure out day: argument (day spec or literal) or page parameter or fail */}}
+{{ $day := "" }}
 {{ with .Get 0 }}
-  {{ $reference = . }}
+  {{ $day = . }}
 {{ else }}
-  {{ $reference = $.Page.Params.proper }}
+  {{ $day = $.Page.Params.proper }}
 {{ end }}
-{{/* Find actual reference */}}
+
 {{ $ordinal := "psalm" }}
-{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $year $reference $ordinal) }}
-{{ if  not (fileExists $reffile) }}
-	{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $reference $ordinal ) }}
+
+{{/* Find actual reference */}}
+{{ $reference := $day }}
+{{  with first 1 (where (where (where $.Site.Data.bcprcl "year" $year) "day" $day) "lesson" $ordinal) }}
+	{{ $reference = (index . 0).citation }}
+{{ else }}
+    {{/* Check for a named holiday */}}
+	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/%s" $day $ordinal ) }}
+	{{ if $DEBUG }}
+	  {{ printf "holy day file is %v" $reffile }}
+  {{ end }}
+	{{ if fileExists $reffile }}
+		{{ $reference = ($reffile | readFile | safeHTML) }}
+	{{ end }}
 {{ end }}
-{{ if fileExists $reffile }}
-    {{ $reference = ($reffile | readFile | safeHTML) }}
+
+{{ if $DEBUG }}
+	{{ printf "reference = %v" $reference }}
+	{{ printf "day = %v" $day }}
+	{{ printf "year = %v" $year }}
+	{{ printf "ordinal = %v" $ordinal }}
 {{ end }}
+
 {{ $reference = $reference | chomp }}
 {{/* $reference is blank, a Psalm (max one letter in verse ref.) or a canticle */}}
 {{ if not $reference }}

@@ -4,8 +4,8 @@
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
-
-{{ $DEBUG := true }}
+{{/* TODO: consider updating he/psalm/repsonsively.md to match */}}
+{{ $DEBUG := false }}
 
 {{/* Figure out year: argument or page parameter or fail */}}
 {{ $year := "" }}
@@ -70,7 +70,7 @@ A reading from {{ $intro }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
 	{{ if fileExists $filepath }}
-		{{ $filepath | readFile | safeHTML  }}
+{{ $filepath | readFile | safeHTML  }}
     {{ else }}
         {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
         {{ $url = replace $url " " "%20" }}
