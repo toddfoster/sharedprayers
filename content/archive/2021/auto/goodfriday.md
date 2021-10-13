@@ -11,9 +11,9 @@ bcppage: 276ff.
 {{% he/goodfriday/greeting %}}
 
 ## We Hear God's Word
-{{% he/lesson "first" /%}}
+{{% lesson "first" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "second" /%}}
+{{% lesson "second" /%}}
 {{% he/goodfriday/passion-homily %}}
 {{% he/goodfriday/solemncollects %}}
 {{% he/goodfriday/hymn-devotions %}}

@@ -17,10 +17,10 @@ bcppage: 351ff.
 {{% rubric-sit %}}
 
 ## We Hear God’s Word
-{{% he/lesson "first" /%}}
+{{% lesson "first" /%}}
 {{% comment "mis-printed bulletin; should only be Ps 51.1-13" /%}}
 {{% he/psalm/responsively "51" /%}}
-{{% he/lesson "second" /%}}
+{{% lesson "second" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 

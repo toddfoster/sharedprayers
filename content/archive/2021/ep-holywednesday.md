@@ -13,19 +13,19 @@ weekday: wednesday
 {{% office/gloriapatri %}}
 
 ## The Lessons
-{{% he/lesson "First" "Isaiah 50:4-9a" /%}}
+{{% lesson "First" "Isaiah 50:4-9a" /%}}
 
 ##### Silence may be kept.
 ##### The People stand as able.
 {{% office/ep/canticle/first %}}
 ##### The People are seated.
 
-{{% he/lesson "Second"  "Hebrews 12:1-3" /%}}
+{{% lesson "Second"  "Hebrews 12:1-3" /%}}
 
 ##### Silence may be kept.
 {{% office/ep/canticle/second %}}
 
-{{% he/lesson "Third" "John 13:21-32" /%}}
+{{% lesson "Third" "John 13:21-32" /%}}
 
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

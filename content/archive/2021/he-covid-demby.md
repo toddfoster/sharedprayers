@@ -21,12 +21,12 @@ during Covid-tide_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% he/lesson "First" "Malachi 2:5-7" /%}}
+{{% lesson "First" "Malachi 2:5-7" /%}}
 
 **The Psalm**
 {{% he/psalm/responsively "119:161-168" /%}}
 
-{{% he/lesson "Second" "1 Thessalonians 2:1-12" /%}}
+{{% lesson "Second" "1 Thessalonians 2:1-12" /%}}
 {{% he/gospel "John 4:31-36" /%}}
 {{% he/homily/brief %}}
 

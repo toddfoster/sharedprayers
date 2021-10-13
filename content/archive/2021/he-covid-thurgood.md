@@ -20,12 +20,12 @@ during Covid-tide_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% he/lesson "First" "Amos 5:10-15, 21-24" /%}}
+{{% lesson "First" "Amos 5:10-15, 21-24" /%}}
 
 **The Psalm**
 {{% he/psalm/responsively "34:15-22" /%}}
 
-{{% he/lesson "Second" "1 Corinthians 13:1-13" /%}}
+{{% lesson "Second" "1 Corinthians 13:1-13" /%}}
 {{% he/gospel "Matthew 23:1-11" /%}}
 {{% he/homily/brief %}}
 

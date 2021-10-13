@@ -10,19 +10,19 @@ bcppage: 355ff.
 ## Test lessonjson
 ##### DEBUG 10: second lesson will be Titus 3.4-7
 ##### three parameters, specifying liturgical day & year (uppercase)
-{{% he/lessonjson "second" "christmas-day-ii" "A" /%}}
+{{% lesson "second" "christmas-day-ii" "A" /%}}
 
 ##### DEBUG 20: second lesson will be Titus 3.4-7
 ##### three parameters, specifying liturgical day & year (lowercase)
-{{% he/lessonjson "second" "christmas-day-ii" "a" /%}}
+{{% lesson "second" "christmas-day-ii" "a" /%}}
 
 ##### DEBUG 30: second lesson will be Titus 3.4-7
 ##### two parameters, specifying liturgical day
-{{% he/lessonjson "second" "christmas-day-ii" /%}}
+{{% lesson "second" "christmas-day-ii" /%}}
 
 ##### DEBUG 40: First lesson will be Gen 2.15-17, 3.1-7
 ##### one parameter
-{{% he/lessonjson "first" /%}}
+{{% lesson "first" /%}}
 
 
 TODO:
@@ -33,7 +33,7 @@ TODO:
 
 ##### DEBUG: Unreal lesson will be Ecclesiumnonsense
 ##### two parameters: custom ordinal, custom reference
-{{% he/lessonjson "Unreal" "Ecclesiumnonsense" /%}}
+{{% lesson "Unreal" "Ecclesiumnonsense" /%}}
 
 
 ----------

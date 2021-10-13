@@ -6,8 +6,8 @@ season: easter
 ---
 Holy Eucharist
 _for the Feast of Saints Zenaida, Philonella, and Hermione
-Unmercenary Physicians, c.100, c.117 
-April 14 
+Unmercenary Physicians, c.100, c.117
+April 14
 during Covid-tide_
 
 {{% stt/2021/preparing-covid %}}
@@ -21,7 +21,7 @@ during Covid-tide_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% he/lesson "First" "Sirach 38:1–15" /%}}
+{{% lesson "First" "Sirach 38:1–15" /%}}
 
 **The Psalm**
 {{% he/psalm/responsively "147" /%}}
@@ -49,4 +49,3 @@ Because you are greatly glorified in the assembly of your saints. All your creat
 {{% he/dismissal/easter/goinpeace %}}
 {{% stt/2021/postscript-covid %}}
 {{% nrsv %}}
-

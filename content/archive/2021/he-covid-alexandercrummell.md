@@ -15,9 +15,9 @@ proper: alexandercrummell
 {{% rubric-sit %}}
 
 ## We Hear God’s Word
-{{% he/lesson "First" "Sirach 2.7-11,17-18" /%}}
+{{% lesson "First" "Sirach 2.7-11,17-18" /%}}
 {{% he/psalm/responsively "19:7-11" /%}}
-{{% he/lesson "Second" "James 1.2-5" /%}}
+{{% lesson "Second" "James 1.2-5" /%}}
 {{% he/gospel "Mark 4.1-10, 13-20" /%}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

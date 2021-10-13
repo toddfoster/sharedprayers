@@ -18,17 +18,17 @@ proper: proper-9
 
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
-{{% he/lesson "first" /%}}
+{{% lesson "first" /%}}
 
 ##### Silence may be kept.
 {{% office/ep/canticle/first %}}
 
-{{% he/lesson "second" /%}}
+{{% lesson "second" /%}}
 
 ##### Silence may be kept.
 {{% office/ep/canticle/second %}}
 
-{{% he/lesson "gospel" /%}}
+{{% lesson "gospel" /%}}
 
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

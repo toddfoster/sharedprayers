@@ -15,7 +15,7 @@ proper: oakerhater
 {{% rubric-sit %}}
 
 ## We Hear God’s Word
-{{% he/lesson "First" "Daniel 1:1–17" /%}}
+{{% lesson "First" "Daniel 1:1–17" /%}}
 {{% he/psalm/responsively "96:1-7" /%}}
 {{% he/gospel "Luke 10:1-9" /%}}
 {{% rubric-sit %}}

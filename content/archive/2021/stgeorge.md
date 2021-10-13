@@ -15,9 +15,9 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "first" "Joshua 1:1-9" /%}}
+{{% lesson "first" "Joshua 1:1-9" /%}}
 {{% he/psalm/responsively "3" /%}}
-{{% he/lesson "second" "Revelation 12:7-12" /%}}
+{{% lesson "second" "Revelation 12:7-12" /%}}
 {{% he/gospel "John 8:21-29" /%}}
 {{% he/homily/brief %}}
 

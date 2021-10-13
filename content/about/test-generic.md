@@ -19,13 +19,13 @@ This is random text passed in an .Inner to be the collect.
 
 # TEST: lesson
 ## TEST: custom .Inner
-{{% he/lesson "Third" "Job 1.23" %}}
+{{% lesson "Third" "Job 1.23" %}}
 This is an apocryphal lesson passed in the .Inner.
 With two paragraphs.
-{{% /he/lesson %}}
+{{% /lesson %}}
 
 ## TEST: text in file
-{{% he/lesson "Fourth" "1 John 3:1-3" /%}}
+{{% lesson "Fourth" "1 John 3:1-3" /%}}
 
 ## TEST: Psalm - file
 {{% he/psalm/responsively "1" /%}}

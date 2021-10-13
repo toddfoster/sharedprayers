@@ -1466,7 +1466,7 @@
     {
         "year": "A",
         "day": "monday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:14,22b-32"
@@ -1498,7 +1498,7 @@
     {
         "year": "A",
         "day": "tuesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:36-41"
@@ -1530,7 +1530,7 @@
     {
         "year": "A",
         "day": "wednesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:1-10"
@@ -1570,7 +1570,7 @@
     {
         "year": "A",
         "day": "thursday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:11-26"
@@ -1602,7 +1602,7 @@
     {
         "year": "A",
         "day": "friday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:1-12"
@@ -1634,7 +1634,7 @@
     {
         "year": "A",
         "day": "saturday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:13-21"
@@ -6082,7 +6082,7 @@
     {
         "year": "B",
         "day": "monday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:14,22b-32"
@@ -6114,7 +6114,7 @@
     {
         "year": "B",
         "day": "tuesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:36-41"
@@ -6146,7 +6146,7 @@
     {
         "year": "B",
         "day": "wednesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:1-10"
@@ -6186,7 +6186,7 @@
     {
         "year": "B",
         "day": "thursday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:11-26"
@@ -6218,7 +6218,7 @@
     {
         "year": "B",
         "day": "friday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:1-12"
@@ -6250,7 +6250,7 @@
     {
         "year": "B",
         "day": "saturday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:13-21"
@@ -10674,7 +10674,7 @@
     {
         "year": "C",
         "day": "monday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:14,22b-32"
@@ -10706,7 +10706,7 @@
     {
         "year": "C",
         "day": "tuesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 2:36-41"
@@ -10738,7 +10738,7 @@
     {
         "year": "C",
         "day": "wednesday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:1-10"
@@ -10778,7 +10778,7 @@
     {
         "year": "C",
         "day": "thursday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 3:11-26"
@@ -10810,7 +10810,7 @@
     {
         "year": "C",
         "day": "friday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:1-12"
@@ -10842,7 +10842,7 @@
     {
         "year": "C",
         "day": "saturday-in-easter-week",
-        "lesson": "second",
+        "lesson": "first",
         "track": "",
         "alt": 1,
         "citation": "Acts 4:13-21"

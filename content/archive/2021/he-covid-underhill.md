@@ -14,9 +14,9 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "First" "Wisdom of Solomon 7:24–8:1" /%}}
+{{% lesson "First" "Wisdom of Solomon 7:24–8:1" /%}}
 {{% he/psalm/responsively "37:3-6, 32-33" /%}}
-{{% he/lesson "Second" "1 Corinthians 4:1–5" /%}}
+{{% lesson "Second" "1 Corinthians 4:1–5" /%}}
 {{% he/gospel "John 4:19-24" /%}}
 {{% he/homily/brief %}}
 

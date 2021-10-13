@@ -16,9 +16,9 @@ bcppage: 270ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% he/lesson "first" /%}}
+{{% lesson "first" /%}}
 {{% he/psalm/responsively /%}}
-{{% he/lesson "second" /%}}
+{{% lesson "second" /%}}
 {{% he/palmsunday/passion/b %}}
 
 ## We Respond in Faith

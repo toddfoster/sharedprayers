@@ -15,7 +15,7 @@ proper: jonathanmyrickdaniels
 {{% rubric-sit %}}
 
 ## We Hear God’s Word
-{{% he/lesson "First" "Amos 5:18-24" %}}
+{{% lesson "First" "Amos 5:18-24" %}}
 Thus says the Lord, the God of hosts, the Lord:
 
 Alas for you who desire the day of the Lord!
@@ -41,7 +41,7 @@ Take away from me the noise of your songs;
 I will not listen to the melody of your harps.
 But let justice roll down like waters,
 and righteousness like an everflowing stream.
-{{% /he/lesson %}}
+{{% /lesson %}}
 {{% he/psalm/responsively "85:7-13" /%}}
 {{% he/gospel "Luke 1:46–55" /%}}
 {{% rubric-sit %}}
