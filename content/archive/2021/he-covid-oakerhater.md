@@ -16,7 +16,7 @@ proper: oakerhater
 
 ## We Hear God’s Word
 {{% lesson "First" "Daniel 1:1–17" /%}}
-{{% he/psalm/responsively "96:1-7" /%}}
+{{% he/psalm/responsively "Psalm 96:1-7" /%}}
 {{% he/gospel "Luke 10:1-9" /%}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

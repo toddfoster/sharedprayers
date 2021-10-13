@@ -24,7 +24,7 @@ during Covid-tide_
 {{% lesson "First" "Malachi 2:5-7" /%}}
 
 **The Psalm**
-{{% he/psalm/responsively "119:161-168" /%}}
+{{% he/psalm/responsively "Psalm 119:161-168" /%}}
 
 {{% lesson "Second" "1 Thessalonians 2:1-12" /%}}
 {{% he/gospel "John 4:31-36" /%}}

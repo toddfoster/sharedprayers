@@ -14,7 +14,7 @@ bcppage: 285ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% lesson "first" /%}}
+{{% lesson second /%}}
 {{% he/eastervigil/greatalleluia %}}
 {{% he/gospel /%}}
 {{% comment %}}

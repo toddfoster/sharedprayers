@@ -2,7 +2,7 @@
 title: Holy Eucharist, Rite II (The Sunday of the Resurrection, or Easter Day)
 date: 2021-04-04
 lectionaryyear: b
-proper: resurrection3
+proper: easter-day-principal-service
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -20,7 +20,7 @@ O Lord our God, who by your Son Jesus Christ called your servant Augustine to pr
 {{% lesson "First" "2 Corinthians 5:17–21" %}}
 If anyone is in Christ, there is a new creation: everything old has passed away; see, everything has become new! All this is from God, who reconciled us to himself through Christ, and has given us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us. So we are ambassadors for Christ, since God is making his appeal through us; we entreat you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 {{% /lesson %}}
-{{% he/psalm/responsively "66:1-8" %}}
+{{% he/psalm/responsively "Psalm 66:1-8" %}}
 _Jubilate Deo_
 
 1 Be joyful in God, all you lands; *

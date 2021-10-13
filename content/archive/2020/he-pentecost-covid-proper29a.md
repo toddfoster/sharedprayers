@@ -29,7 +29,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/trishagion %}}
-{{% he/propercollect proper28 %}}
+{{% he/propercollect proper-28 %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

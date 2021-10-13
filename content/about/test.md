@@ -68,10 +68,10 @@ With two paragraphs.
 {{% he/psalm/responsively /%}}
 
 ## TEST: psalm - file
-{{% he/psalm/responsively "1" /%}}
+{{% he/psalm/responsively "Psalm 1" /%}}
 
 ## Test: psalm - inner
-{{% he/psalm/responsively "144" %}}
+{{% he/psalm/responsively "Psalm 144" %}}
 A psalm
 **doesn't have to be responsive.**
 But it's nice.
