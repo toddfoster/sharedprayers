@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Proper 27)
 date: 2021-11-07
-lectionaryyear: yearb
-proper: proper27
+lectionaryyear: b
+proper: proper-27
 bcppage: 355ff.
 ---
 

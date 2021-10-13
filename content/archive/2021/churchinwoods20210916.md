@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II
 date: 2021-09-16
-lectionaryyear: yearb
-proper: proper19
+lectionaryyear: b
+proper: proper-19
 bcppage: 355ff.
 ---
 

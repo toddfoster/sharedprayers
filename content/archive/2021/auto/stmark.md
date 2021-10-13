@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Mark the Evangelist)
 date: 2021-04-26
-lectionaryyear: yearb
-proper: stmark
+lectionaryyear: b
+proper: st-mark
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist (The Fifth Sunday in Lent, Covid-tide)
 date: 2021-03-18
-lectionaryyear: yearb
-proper: lent5
+lectionaryyear: b
+proper: fifth-sunday-in-lent
 liturgydate: 2021-03-21
 bcppage: 351ff.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Teresa of Avila, Mystic and Monastic Reformer, 1582)
 date: 2021-10-15
-lectionaryyear: yearb
+lectionaryyear: b
 proper: teresaavila
 bcppage: 355ff.
 ---

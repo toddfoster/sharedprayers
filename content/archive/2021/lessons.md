@@ -1,7 +1,7 @@
 ---
 title: Lessons (October, November 2021)
 date: 2021-0930
-lectionaryyear: yearb
+lectionaryyear: b
 ---
 ##### pb
 ## Proper 22 - 3 October 2021

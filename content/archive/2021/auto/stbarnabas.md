@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Barnabas the Apostle)
 date: 2021-06-11
-lectionaryyear: yearb
-proper: stbarnabas
+lectionaryyear: b
+proper: st-barnabas
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}

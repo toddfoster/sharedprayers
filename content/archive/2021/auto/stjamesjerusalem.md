@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint James of Jerusalem, Brother of Our Lord Jesus Christ, and Martyr, c.62)
 date: 2021-10-23
-lectionaryyear: yearb
-proper: stjamesjerusalem
+lectionaryyear: b
+proper: st-james-of-jerusalem
 bcppage: 355ff.
 ---
 

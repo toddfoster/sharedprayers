@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Saint George)
 date: 2021-04-26
-lectionaryyear: yearb
+lectionaryyear: b
 proper: stgeorge
 bcppage: 355ff.
 ---

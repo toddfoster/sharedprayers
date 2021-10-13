@@ -1,7 +1,7 @@
 ---
 title: Evening Prayer for Holy Wednesday
 date: 2021-03-31
-proper: holywednesday
+proper: wednesday-in-holy-week
 season: lent
 bcppage: 115ff.
 weekday: wednesday

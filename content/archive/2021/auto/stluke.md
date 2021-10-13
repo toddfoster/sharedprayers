@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Luke the Evangelist)
 date: 2021-10-18
-lectionaryyear: yearb
-proper: stluke
+lectionaryyear: b
+proper: st-luke
 bcppage: 355ff.
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Michael and All Angels)
 date: 2021-09-29
-lectionaryyear: yearb
-proper: stmichaelallangels
+lectionaryyear: b
+proper: st-michael-&-all-angels
 bcppage: 355ff.
 ---
 

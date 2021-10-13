@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Presentation, Covid-tide)
 date: 2021-02-02
-proper: presentation
+proper: the-presentation
 liturgydate: 2021-02-03
 bcppage: 355ff.
 ---

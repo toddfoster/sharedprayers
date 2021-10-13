@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Last Epiphany, Covid-tide)
 date: 2021-02-09
-proper: epiphanylast
+proper: last-sunday-after-the-epiphany
 liturgydate: 2021-02-14
 bcppage: 355ff.
 ---

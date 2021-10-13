@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Nativity of Saint John the Baptist)
 date: 2021-06-24
-lectionaryyear: yearb
-proper: nativitystjohnbaptist
+lectionaryyear: b
+proper: nativity-of-st-john-the-baptist
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}

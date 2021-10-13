@@ -4,8 +4,8 @@ date: 2021-07-03
 bcppage: 115ff.
 season: pentecost
 weekday: sunday
-lectionaryyear: yearb
-proper: proper9
+lectionaryyear: b
+proper: proper-9
 
 ---
 

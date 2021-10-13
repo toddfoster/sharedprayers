@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (The First Sunday in Lent, Covid-tide)
 date: 2021-02-17
-proper: lent1
+proper: first-sunday-in-lent
 liturgydate: 2021-02-21
 bcppage: 355ff.
 ---

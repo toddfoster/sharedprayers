@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Second Sunday of Easter)
 date: 2021-04-11
-lectionaryyear: yearb
-proper: easter2
+lectionaryyear: b
+proper: second-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

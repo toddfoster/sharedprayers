@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saturday in Easter Week)
 date: 2021-04-10
-lectionaryyear: yearb
-proper: eastersaturday
+lectionaryyear: b
+proper: saturday-in-easter-week
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

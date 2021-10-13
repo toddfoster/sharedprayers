@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Sixth Sunday of Easter)
 date: 2021-05-09
-lectionaryyear: yearb
-proper: easter6
+lectionaryyear: b
+proper: sixth-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

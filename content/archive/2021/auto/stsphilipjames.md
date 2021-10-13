@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Philip and Saint James, Apostles)
 date: 2021-05-01
-lectionaryyear: yearb
-proper: stsphilipjames
+lectionaryyear: b
+proper: st-philip-&-st-james
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

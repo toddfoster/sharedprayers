@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Wednesday in Easter Week)
 date: 2021-04-07
-lectionaryyear: yearb
-proper: easterwednesday
+lectionaryyear: b
+proper: wednesday-in-easter-week
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Independence Day)
 date: 2021-07-05
-lectionaryyear: yearb
-proper: independenceday
+lectionaryyear: b
+proper: independence-day
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

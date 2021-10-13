@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Visitation of the Blessed Virgin Mary)
 date: 2021-05-31
-lectionaryyear: yearb
-proper: visitation
+lectionaryyear: b
+proper: the-visitation
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}

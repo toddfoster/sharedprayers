@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Holy Cross Day)
 date: 2021-09-14
-lectionaryyear: yearb
-proper: holycross
+lectionaryyear: b
+proper: holy-cross-day
 bcppage: 355ff.
 ---
 

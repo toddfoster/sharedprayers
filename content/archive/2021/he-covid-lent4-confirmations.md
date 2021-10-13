@@ -1,7 +1,7 @@
 ---
 title: Confirmation (The Fourth Sunday in Lent, Covid-tide)
 date: 2021-02-18
-proper: lent4
+proper: fourth-sunday-in-lent
 liturgydate: 2021-03-14
 bcppage: 413ff.
 ---

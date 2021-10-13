@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Ascension Day)
 date: 2021-05-13
-lectionaryyear: yearb
-proper: ascension1
+lectionaryyear: b
+proper: ascension-day
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

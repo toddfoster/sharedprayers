@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Easter Eve)
 date: 2021-04-04
-lectionaryyear: yearb
-proper: eastereve
+lectionaryyear: b
+proper: easter-day-evening-service
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Proper 9)
 date: 2021-07-04
-lectionaryyear: yearb
-proper: proper9
+lectionaryyear: b
+proper: proper-9
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Bartholomew the Apostle)
 date: 2021-08-24
-lectionaryyear: yearb
-proper: stbartholomew
+lectionaryyear: b
+proper: st-bartholomew
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

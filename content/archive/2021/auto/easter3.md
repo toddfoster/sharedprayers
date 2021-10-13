@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Third Sunday of Easter)
 date: 2021-04-18
-lectionaryyear: yearb
-proper: easter3
+lectionaryyear: b
+proper: third-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

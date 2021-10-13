@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Jonathan Myrick Daniels)
 date: 2021-08-14
-lectionaryyear: yearb
+lectionaryyear: b
 proper: jonathanmyrickdaniels
 bcppage: 355ff.
 ---

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Seventh Sunday of Easter- The Sunday after Ascension Day)
 date: 2021-05-16
-lectionaryyear: yearb
-proper: easter7
+lectionaryyear: b
+proper: seventh-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

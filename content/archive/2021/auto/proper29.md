@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Last Sunday after Pentecost)
 date: 2021-11-21
-lectionaryyear: yearb
-proper: proper29
+lectionaryyear: b
+proper: proper-29-christ-the-king
 bcppage: 355ff.
 ---
 

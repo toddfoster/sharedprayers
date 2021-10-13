@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (All Saints’ Day)
 date: 2021-11-01
-lectionaryyear: yearb
-proper: allsaintsb
+lectionaryyear: b
+proper: all-saints-day
 bcppage: 355ff.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Augustine, First Archbishop of Canterbury)
 date: 2021-05-26
-lectionaryyear: yearb
+lectionaryyear: b
 title: "Holy Eucharist for Augustine, First Archbishop of Canterbury, 605"
 bcppage: 355ff.
 ---

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The First Sunday after Pentecost- Trinity Sunday)
 date: 2021-05-30
-lectionaryyear: yearb
-proper: trinity
+lectionaryyear: b
+proper: trinity-sunday
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-2 %}}

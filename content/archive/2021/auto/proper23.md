@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Proper 23)
 date: 2021-10-10
-lectionaryyear: yearb
-proper: proper23
+lectionaryyear: b
+proper: proper-23
 bcppage: 355ff.
 ---
 

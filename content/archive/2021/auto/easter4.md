@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Fourth Sunday of Easter)
 date: 2021-04-25
-lectionaryyear: yearb
-proper: easter4
+lectionaryyear: b
+proper: fourth-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

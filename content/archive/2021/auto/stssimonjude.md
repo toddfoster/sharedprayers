@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Simon and Saint Jude, Apostles)
 date: 2021-10-28
-lectionaryyear: yearb
-proper: stssimonjude
+lectionaryyear: b
+proper: st-simon-&-st-jude
 bcppage: 355ff.
 ---
 

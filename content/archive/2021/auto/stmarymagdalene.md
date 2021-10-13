@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Mary Magdalene)
 date: 2021-07-22
-lectionaryyear: yearb
-proper: stmarymagdalene
+lectionaryyear: b
+proper: st-mary-magdalene
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

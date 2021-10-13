@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint James the Apostle)
 date: 2021-07-26
-lectionaryyear: yearb
-proper: stjames
+lectionaryyear: b
+proper: st-james
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

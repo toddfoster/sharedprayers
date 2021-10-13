@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 4, Covid-tide)
 date: 2021-01-26
-proper: epiphany4
+proper: fourth-sunday-after-epiphany
 liturgydate: 2021-01-31
 bcppage: 355ff.
 ---

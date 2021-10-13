@@ -1,8 +1,8 @@
 ---
 title: Good Friday
 date: 2021-04-02
-lectionaryyear: yearb
-proper: goodfriday
+lectionaryyear: b
+proper: good-friday
 bcppage: 276ff.
 ---
 {{% stt/2021/preparing-covid %}}

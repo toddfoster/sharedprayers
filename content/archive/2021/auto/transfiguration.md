@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Transfiguration of Our Lord Jesus Christ)
 date: 2021-08-06
-lectionaryyear: yearb
-proper: transfiguration
+lectionaryyear: b
+proper: the-transfiguration
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

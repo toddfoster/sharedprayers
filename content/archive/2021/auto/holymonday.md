@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Monday in Holy Week)
 date: 2021-03-29
-lectionaryyear: yearb
-proper: holymonday
+lectionaryyear: b
+proper: monday-in-holy-week
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

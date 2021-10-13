@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 1, Covid-tide)
 date: 2021-01-05
-proper: epiphany1
+proper: first-sunday-after-epiphany
 ---
 {{% propertitle %}}
 10 January 2021

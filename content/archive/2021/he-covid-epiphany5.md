@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 5, Covid-tide)
 date: 2021-02-02
-proper: epiphany5
+proper: fifth-sunday-after-epiphany
 liturgydate: 2021-02-07
 bcppage: 355ff.
 ---

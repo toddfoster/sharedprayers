@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Matthew, Apostle and Evangelist)
 date: 2021-09-21
-lectionaryyear: yearb
-proper: stmatthew
+lectionaryyear: b
+proper: st-matthew
 bcppage: 355ff.
 ---
 

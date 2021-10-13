@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Annunciation of Our Lord Jesus Christ to the Blessed Virgin Mary)
 date: 2021-03-25
-lectionaryyear: yearb
-proper: annunciation
+lectionaryyear: b
+proper: the-annunciation
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Mary the Virgin, Mother of Our Lord Jesus Christ)
 date: 2021-08-16
-lectionaryyear: yearb
-proper: stmaryvirgin
+lectionaryyear: b
+proper: st-mary-the-virgin
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

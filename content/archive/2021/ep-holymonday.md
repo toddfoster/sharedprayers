@@ -1,7 +1,7 @@
 ---
 title: Evening Prayer for Holy Monday
 date: 2021-03-29
-proper: holymonday
+proper: monday-in-holy-week
 season: lent
 bcppage: 115ff.
 weekday: monday

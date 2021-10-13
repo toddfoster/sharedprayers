@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Fifth Sunday of Easter)
 date: 2021-05-02
-lectionaryyear: yearb
-proper: easter5
+lectionaryyear: b
+proper: fifth-sunday-of-easter
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}

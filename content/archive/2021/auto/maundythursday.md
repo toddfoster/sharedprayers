@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Maundy Thursday)
 date: 2021-04-01
-lectionaryyear: yearb
-proper: maundythursday
+lectionaryyear: b
+proper: maundy-thursday
 bcppage: 274/355ff.
 ---
 {{% stt/2021/preparing-covid %}}

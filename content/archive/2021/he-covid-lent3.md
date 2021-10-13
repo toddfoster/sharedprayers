@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Third Sunday in Lent, Covid-tide)
 date: 2021-03-04
-lectionaryyear: yearb
-proper: lent3
+lectionaryyear: b
+proper: third-sunday-in-lent
 liturgydate: 2021-03-07
 bcppage: 355ff.
 ---

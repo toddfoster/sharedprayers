@@ -1,7 +1,7 @@
 ---
 title: Holy Eucharist, Rite II (Birgitta of Sweden, Mystic, 1373)
 date: 2021-10-07
-lectionaryyear: yearb
+lectionaryyear: b
 proper: birgitta
 bcppage: 355ff.
 ---

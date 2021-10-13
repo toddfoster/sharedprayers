@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Great Vigil of Easter)
 date: 2021-04-03
-lectionaryyear: yearb
-proper: eastervigil
+lectionaryyear: b
+proper: easter-day-the-great-vigil
 bcppage: 285ff.
 ---
 {{% stt/2021/preparing-covid %}}

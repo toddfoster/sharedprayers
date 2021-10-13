@@ -1,7 +1,7 @@
 ---
 title: Morning Prayer - Rite Two - Lent 1
 date: 2021-02-20
-proper: lent1
+proper: first-sunday-in-lent
 season: lent
 bcppage: 76ff.
 weekday: sunday

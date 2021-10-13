@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (Saint Peter and Saint Paul, Apostles)
 date: 2021-06-29
-lectionaryyear: yearb
-proper: stspeterpaul
+lectionaryyear: b
+proper: st-peter-&-st-paul
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid-202106 %}}

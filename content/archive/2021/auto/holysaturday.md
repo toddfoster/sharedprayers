@@ -1,8 +1,8 @@
 ---
 title: Holy Saturday
 date: 2021-04-03
-lectionaryyear: yearb
-proper: holysaturday
+lectionaryyear: b
+proper: holy-saturday
 bcppage: 283/355ff.
 ---
 {{% stt/2021/preparing-covid %}}

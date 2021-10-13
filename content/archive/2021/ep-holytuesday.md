@@ -1,7 +1,7 @@
 ---
 title: Evening Prayer for Holy Tuesday
 date: 2021-03-30
-proper: holytuesday
+proper: tuesday-in-holy-week
 season: lent
 bcppage: 115ff.
 weekday: tuesday

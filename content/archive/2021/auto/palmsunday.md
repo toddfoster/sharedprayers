@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Sunday of the Passion- Palm Sunday)
 date: 2021-03-28
-lectionaryyear: yearb
-proper: palmsunday
+lectionaryyear: b
+proper: palm-sunday-liturgy-of-the-word
 bcppage: 270ff.
 ---
 {{% stt/2021/preparing-covid %}}

@@ -1,8 +1,8 @@
 ---
 title: Holy Eucharist, Rite II (The Day of Pentecost- Whitsunday)
 date: 2021-05-23
-lectionaryyear: yearb
-proper: pentecost1
+lectionaryyear: b
+proper: day-of-pentecost-principal-service
 bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
