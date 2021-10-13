@@ -5,45 +5,45 @@ lectionaryyear: b
 ---
 ##### pb
 ## Proper 22 - 3 October 2021
-{{% he/lesson "firstReading" "proper22" /%}}
-{{% he/psalm/responsively "proper22" /%}}
-{{% he/lesson "secondReading" "proper22" /%}}
-{{% he/lesson "gospel"  "proper22" /%}}
+{{% he/lesson "firstReading" "proper-22" /%}}
+{{% he/psalm/responsively "proper-22" /%}}
+{{% he/lesson "secondReading" "proper-22" /%}}
+{{% he/lesson "gospel"  "proper-22" /%}}
 {{% nrsv %}}
 
 ##### pb
 ## Proper 23 - 10 October 2021
-{{% he/lesson "firstReading" "proper23" /%}}
-{{% he/psalm/responsively "proper23" /%}}
-{{% he/lesson "secondReading" "proper23" /%}}
-{{% he/lesson "gospel"  "proper23" /%}}
+{{% he/lesson "firstReading" "proper-23" /%}}
+{{% he/psalm/responsively "proper-23" /%}}
+{{% he/lesson "secondReading" "proper-23" /%}}
+{{% he/lesson "gospel"  "proper-23" /%}}
 {{% nrsv %}}
 
 
 ##### pb
 ## Proper 24 - 17 October 2021
-{{% he/lesson "firstReading" "proper24" /%}}
-{{% he/psalm/responsively "proper24" /%}}
-{{% he/lesson "secondReading" "proper24" /%}}
-{{% he/lesson "gospel"  "proper24" /%}}
+{{% he/lesson "firstReading" "proper-24" /%}}
+{{% he/psalm/responsively "proper-24" /%}}
+{{% he/lesson "secondReading" "proper-24" /%}}
+{{% he/lesson "gospel"  "proper-24" /%}}
 {{% nrsv %}}
 
 
 ##### pb
 ## Proper 25 - 24 October 2021
-{{% he/lesson "firstReading" "proper25" /%}}
-{{% he/psalm/responsively "proper25" /%}}
-{{% he/lesson "secondReading" "proper25" /%}}
-{{% he/lesson "gospel"  "proper25" /%}}
+{{% he/lesson "firstReading" "proper-25" /%}}
+{{% he/psalm/responsively "proper-25" /%}}
+{{% he/lesson "secondReading" "proper-25" /%}}
+{{% he/lesson "gospel"  "proper-25" /%}}
 {{% nrsv %}}
 
 
 ##### pb
 ## Proper 26 - 31 October 2021
-{{% he/lesson "firstReading" "proper26" /%}}
-{{% he/psalm/responsively "proper26" /%}}
-{{% he/lesson "secondReading" "proper26" /%}}
-{{% he/lesson "gospel"  "proper26" /%}}
+{{% he/lesson "firstReading" "proper-26" /%}}
+{{% he/psalm/responsively "proper-26" /%}}
+{{% he/lesson "secondReading" "proper-26" /%}}
+{{% he/lesson "gospel"  "proper-26" /%}}
 {{% nrsv %}}
 
 ##### pb
@@ -57,7 +57,7 @@ lectionaryyear: b
 
 ##### pb
 ## Proper 28 - 14 November 2021
-{{% he/lesson "firstReading" "proper28" /%}}
+{{% he/lesson "firstReading" "proper-28" /%}}
 
 ### Canticle: 1 Samuel 2:1-20
 Hannah prayed and said,
@@ -101,15 +101,15 @@ The Lord will judge the ends of the earth;
    he will give strength to his king,
    and exalt the power of his anointed.’
 
-{{% he/lesson "secondReading" "proper28" /%}}
-{{% he/lesson "gospel"  "proper28" /%}}
+{{% he/lesson "secondReading" "proper-28" /%}}
+{{% he/lesson "gospel"  "proper-28" /%}}
 {{% nrsv %}}
 
 
 ##### pb
 ## Proper 29 - 21 November 2021
-{{% he/lesson "firstReading" "proper29" /%}}
-{{% he/psalm/responsively "proper29" /%}}
-{{% he/lesson "secondReading" "proper29" /%}}
-{{% he/lesson "gospel"  "proper29" /%}}
+{{% he/lesson "firstReading" "proper-29" /%}}
+{{% he/psalm/responsively "proper-29" /%}}
+{{% he/lesson "secondReading" "proper-29" /%}}
+{{% he/lesson "gospel"  "proper-29" /%}}
 {{% nrsv %}}
