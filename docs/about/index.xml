@@ -6,8 +6,79 @@
     <description>Recent content in About on Shared Prayers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.sharedprayers.net/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test JSON</title>
+      <link>http://www.sharedprayers.net/about/testjson/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.sharedprayers.net/about/testjson/</guid>
+      <description>&lt;h2 id=&#34;test-lessonjson&#34;&gt;Test lessonjson&lt;/h2&gt;
+&lt;h5 id=&#34;debug-10-second-lesson-will-be-titus-34-7&#34;&gt;DEBUG 10: second lesson will be Titus 3.4-7&lt;/h5&gt;
+&lt;h5 id=&#34;three-parameters-specifying-liturgical-day--year-uppercase&#34;&gt;three parameters, specifying liturgical day &amp;amp; year (uppercase)&lt;/h5&gt;
+&lt;h3 id=&#34;the-second-lesson-_titus-34-7_&#34;&gt;The Second Lesson: &lt;em&gt;Titus 3:4-7&lt;/em&gt;&lt;/h3&gt;
+&lt;h5 id=&#34;lector&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;A reading from the book of Titus.&lt;/p&gt;
+&lt;p&gt;But when the goodness and loving-kindness of God our Saviour appeared, he saved us, not because of any works of righteousness that we had done, but according to his mercy, through the water of rebirth and renewal by the Holy Spirit. This Spirit he poured out on us richly through Jesus Christ our Saviour, so that, having been justified by his grace, we might become heirs according to the hope of eternal life.&lt;/p&gt;
+&lt;h5 id=&#34;lector-1&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;The word of the Lord.&lt;/p&gt;
+&lt;h5 id=&#34;people&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&#34;debug-20-second-lesson-will-be-titus-34-7&#34;&gt;DEBUG 20: second lesson will be Titus 3.4-7&lt;/h5&gt;
+&lt;h5 id=&#34;three-parameters-specifying-liturgical-day--year-lowercase&#34;&gt;three parameters, specifying liturgical day &amp;amp; year (lowercase)&lt;/h5&gt;
+&lt;h3 id=&#34;the-second-lesson-_titus-34-7_-1&#34;&gt;The Second Lesson: &lt;em&gt;Titus 3:4-7&lt;/em&gt;&lt;/h3&gt;
+&lt;h5 id=&#34;lector-2&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;A reading from the book of Titus.&lt;/p&gt;
+&lt;p&gt;But when the goodness and loving-kindness of God our Saviour appeared, he saved us, not because of any works of righteousness that we had done, but according to his mercy, through the water of rebirth and renewal by the Holy Spirit. This Spirit he poured out on us richly through Jesus Christ our Saviour, so that, having been justified by his grace, we might become heirs according to the hope of eternal life.&lt;/p&gt;
+&lt;h5 id=&#34;lector-3&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;The word of the Lord.&lt;/p&gt;
+&lt;h5 id=&#34;people-1&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&#34;debug-30-second-lesson-will-be-titus-34-7&#34;&gt;DEBUG 30: second lesson will be Titus 3.4-7&lt;/h5&gt;
+&lt;h5 id=&#34;two-parameters-specifying-liturgical-day&#34;&gt;two parameters, specifying liturgical day&lt;/h5&gt;
+&lt;h3 id=&#34;the-second-lesson-_titus-34-7_-2&#34;&gt;The Second Lesson: &lt;em&gt;Titus 3:4-7&lt;/em&gt;&lt;/h3&gt;
+&lt;h5 id=&#34;lector-4&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;A reading from the book of Titus.&lt;/p&gt;
+&lt;p&gt;But when the goodness and loving-kindness of God our Saviour appeared, he saved us, not because of any works of righteousness that we had done, but according to his mercy, through the water of rebirth and renewal by the Holy Spirit. This Spirit he poured out on us richly through Jesus Christ our Saviour, so that, having been justified by his grace, we might become heirs according to the hope of eternal life.&lt;/p&gt;
+&lt;h5 id=&#34;lector-5&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;The word of the Lord.&lt;/p&gt;
+&lt;h5 id=&#34;people-2&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&#34;debug-40-first-lesson-will-be-gen-215-17-31-7&#34;&gt;DEBUG 40: First lesson will be Gen 2.15-17, 3.1-7&lt;/h5&gt;
+&lt;h5 id=&#34;one-parameter&#34;&gt;one parameter&lt;/h5&gt;
+&lt;h3 id=&#34;the-first-lesson-_genesis-215-17-31-7_&#34;&gt;The First Lesson: &lt;em&gt;Genesis 2:15-17; 3:1-7&lt;/em&gt;&lt;/h3&gt;
+&lt;h5 id=&#34;lector-6&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;A reading from the book of Genesis.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This reading can be found at &lt;a href=&#34;http://bible.oremus.org/?version=NRSVAE&amp;amp;passage=Genesis%202:15-17;%203:1-7&#34;&gt;Genesis 2:15-17; 3:1-7&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;lector-7&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;The word of the Lord.&lt;/p&gt;
+&lt;h5 id=&#34;people-3&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TODO:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;psalm?&lt;/li&gt;
+&lt;li&gt;proper-x gets the right track&lt;/li&gt;
+&lt;li&gt;choices made in expected ways with multiple readings, multiple psalms, canticle choicesqq&lt;/li&gt;
+&lt;li&gt;fix single.html referring to page title under proper (add to json?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;debug-unreal-lesson-will-be-ecclesiumnonsense&#34;&gt;DEBUG: Unreal lesson will be Ecclesiumnonsense&lt;/h5&gt;
+&lt;h5 id=&#34;two-parameters-custom-ordinal-custom-reference&#34;&gt;two parameters: custom ordinal, custom reference&lt;/h5&gt;
+&lt;h3 id=&#34;the-unreal-lesson-_ecclesiumnonsense_&#34;&gt;The Unreal Lesson: &lt;em&gt;Ecclesiumnonsense&lt;/em&gt;&lt;/h3&gt;
+&lt;h5 id=&#34;lector-8&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;A reading from the book of Ecclesiastes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This reading can be found at &lt;a href=&#34;http://bible.oremus.org/?version=NRSVAE&amp;amp;passage=Ecclesiumnonsense&#34;&gt;Ecclesiumnonsense&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;lector-9&#34;&gt;Lector:&lt;/h5&gt;
+&lt;p&gt;The word of the Lord.&lt;/p&gt;
+&lt;h5 id=&#34;people-4&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Evening Prayer for Proper 23-B</title>
@@ -7213,7 +7284,7 @@ Holy Immortal One,&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Amen.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;test-lesson&#34;&gt;TEST: lesson&lt;/h1&gt;
-&lt;h2 id=&#34;test-firstreading&#34;&gt;TEST: firstReading&lt;/h2&gt;
+&lt;h2 id=&#34;test-first&#34;&gt;TEST: first&lt;/h2&gt;
 &lt;h3 id=&#34;the-first-lesson-_genesis-171-715-16_&#34;&gt;The First Lesson: &lt;em&gt;Genesis 17:1-7,15-16&lt;/em&gt;&lt;/h3&gt;
 &lt;h5 id=&#34;lector&#34;&gt;Lector:&lt;/h5&gt;
 &lt;p&gt;A reading from the book of Genesis.&lt;/p&gt;
@@ -7223,7 +7294,7 @@ Holy Immortal One,&lt;/p&gt;
 &lt;p&gt;The word of the Lord.&lt;/p&gt;
 &lt;h5 id=&#34;people-10&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
 &lt;p&gt;&lt;strong&gt;Thanks be to God.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;test-secondreading&#34;&gt;TEST: secondReading&lt;/h2&gt;
+&lt;h2 id=&#34;test-second&#34;&gt;TEST: second&lt;/h2&gt;
 &lt;h3 id=&#34;the-second-lesson-_romans-413-25_&#34;&gt;The Second Lesson: &lt;em&gt;Romans 4:13-25&lt;/em&gt;&lt;/h3&gt;
 &lt;h5 id=&#34;lector-2&#34;&gt;Lector:&lt;/h5&gt;
 &lt;p&gt;A reading from Paul’s epistle to the Romans.&lt;/p&gt;
@@ -7322,7 +7393,7 @@ But it&amp;rsquo;s nice.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Praise to you, Lord Christ.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;test-gospel----none&#34;&gt;TEST: gospel &amp;ndash; none&lt;/h2&gt;
 &lt;h5 id=&#34;the-people-stand-as-able-4&#34;&gt;The people stand as able.&lt;/h5&gt;
-&lt;h3 id=&#34;the-holy-gospel&#34;&gt;The Holy Gospel:&lt;/h3&gt;
+&lt;h3 id=&#34;the-holy-gospel-_-_&#34;&gt;The Holy Gospel: _ _&lt;/h3&gt;
 &lt;h5 id=&#34;deacon-6&#34;&gt;Deacon:&lt;/h5&gt;
 &lt;p&gt;The Holy Gospel of our Lord Jesus Christ according to _____.&lt;/p&gt;
 &lt;h5 id=&#34;people-18&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
@@ -7685,7 +7756,7 @@ But it&amp;rsquo;s nice.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Praise to you, Lord Christ.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;test-gospel----none&#34;&gt;TEST: gospel &amp;ndash; none&lt;/h2&gt;
 &lt;h5 id=&#34;the-people-stand-as-able-2&#34;&gt;The people stand as able.&lt;/h5&gt;
-&lt;h3 id=&#34;the-holy-gospel&#34;&gt;The Holy Gospel:&lt;/h3&gt;
+&lt;h3 id=&#34;the-holy-gospel-_-_&#34;&gt;The Holy Gospel: _ _&lt;/h3&gt;
 &lt;h5 id=&#34;deacon-3&#34;&gt;Deacon:&lt;/h5&gt;
 &lt;p&gt;The Holy Gospel of our Lord Jesus Christ according to _____.&lt;/p&gt;
 &lt;h5 id=&#34;people-7&#34;&gt;&lt;strong&gt;People:&lt;/strong&gt;&lt;/h5&gt;
