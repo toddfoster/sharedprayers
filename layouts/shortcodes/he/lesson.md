@@ -1,53 +1,76 @@
+{{/* shortcodes/lesson.md */}}
 {{/* parameters: ordinal day/reference year */}}
-{{/* ordinal can be firstLesson|secondLesson|gospel or else literal */}}
-{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper22) or else literal */}}
+{{/* ordinal can be first|second|gospel|psalm or else literal */}}
+{{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
-{{/* Figure out year */}}
+{{/* TODO: Use opinionated lectionary by default */}}
+
+{{ $DEBUG := true }}
+
+{{/* Figure out year: argument or page parameter or fail */}}
 {{ $year := "" }}
 {{ with .Get 2 }}
   {{ $year = . }}
 {{ else }}
   {{ $year = $.Page.Params.lectionaryyear }}
 {{ end }}
-{{/* Figure out reference source */}}
-{{ $reference := "" }}
+{{ $year = $year | upper }}
+
+{{/* Figure out day: argument (day spec or literal) or page parameter or fail */}}
+{{ $day := "" }}
 {{ with .Get 1 }}
-  {{ $reference = . }}
+  {{ $day = . }}
 {{ else }}
-  {{ $reference = $.Page.Params.proper }}
+  {{ $day = $.Page.Params.proper }}
 {{ end }}
-{{/* Figure out ordinal: keyword or else literal */}}
+
+{{/* Figure out ordinal: keyword or literal or fail */}}
 {{ $ordinal := .Get 0 }}
-{{ $prettyOrdinal := .Get 0 }}
+{{ $prettyOrdinal := $ordinal }}
 {{ $filename := printf "layouts/shortcodes/readings/ordinal/%s" $ordinal }}
 {{ if fileExists $filename }}
     {{ $prettyOrdinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $ordinal ) | readFile | chomp | safeHTML }}
 {{ end}}
+
 {{/* Find actual reference */}}
-{{ $reffile := (printf "layouts/shortcodes/readings/%s/opinionated/%s/%s" $year $reference $ordinal) }}
-{{ if  not (fileExists $reffile) }}
-	{{ $reffile = (printf "layouts/shortcodes/readings/holydays/opinionated/%s/%s" $reference $ordinal ) }}
+{{ $reference := $day }}
+{{  with first 1 (where (where (where $.Site.Data.bcprcl "year" $year) "day" $day) "lesson" $ordinal) }}
+	{{ $reference = (index . 0).citation }}
+{{ else }}
+    {{/* Check for a named holiday */}}
+	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/%s" $day $ordinal ) }}
+	{{ if $DEBUG }}
+	  {{ printf "holy day file is %v" $reffile }}
+  {{ end }}
+	{{ if fileExists $reffile }}
+		{{ $reference = ($reffile | readFile | safeHTML) }}
+	{{ end }}
 {{ end }}
-{{ if fileExists $reffile }}
-    {{ $reference = ($reffile | readFile | safeHTML) }}
+
+{{ if $DEBUG }}
+	{{ printf "reference = %v" $reference }}
+	{{ printf "day = %v" $day }}
+	{{ printf "year = %v" $year }}
+	{{ printf "ordinal = %v" $ordinal }}
 {{ end }}
+
 {{ $reference = $reference | chomp }}
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
-{{ $intro := ""}} TODO ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
-TODO Fix the line above after getting lesson to get the right lesson (lessonjson)
+{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
+
 ### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
 
 ##### Lector:
 A reading from {{ $intro }}
 
 {{ with .Inner }}
-{{ . | safeHTML}}
+	{{ . | safeHTML}}
 {{ else }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
 	{{ if fileExists $filepath }}
-{{ $filepath | readFile | safeHTML  }}
+		{{ $filepath | readFile | safeHTML  }}
     {{ else }}
         {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
         {{ $url = replace $url " " "%20" }}

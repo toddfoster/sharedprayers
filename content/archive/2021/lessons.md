@@ -48,10 +48,10 @@ lectionaryyear: b
 
 ##### pb
 ## All Saints - 7 November 2021
-{{% he/lesson "first" "allsaintsb" /%}}
-{{% he/psalm/responsively "allsaintsb" /%}}
-{{% he/lesson "second" "allsaintsb" /%}}
-{{% he/lesson "gospel"  "allsaintsb" /%}}
+{{% he/lesson "first" "all-saints-day" /%}}
+{{% he/psalm/responsively "all-saints-day" /%}}
+{{% he/lesson "second" "all-saints-day" /%}}
+{{% he/lesson "gospel"  "all-saints-day" /%}}
 {{% nrsv %}}
 
 
@@ -108,8 +108,8 @@ The Lord will judge the ends of the earth;
 
 ##### pb
 ## Proper 29 - 21 November 2021
-{{% he/lesson "first" "proper-29" /%}}
-{{% he/psalm/responsively "proper-29" /%}}
-{{% he/lesson "second" "proper-29" /%}}
-{{% he/lesson "gospel"  "proper-29" /%}}
+{{% he/lesson "first" "proper-29-christ-the-king" /%}}
+{{% he/psalm/responsively "proper-29-christ-the-king" /%}}
+{{% he/lesson "second" "proper-29-christ-the-king" /%}}
+{{% he/lesson "gospel"  "proper-29-christ-the-king" /%}}
 {{% nrsv %}}

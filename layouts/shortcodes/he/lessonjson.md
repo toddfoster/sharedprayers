@@ -1,3 +1,4 @@
+{{/* shortcodes/lesson.md */}}
 {{/* parameters: ordinal day/reference year */}}
 {{/* ordinal can be first|second|gospel|psalm or else literal */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
