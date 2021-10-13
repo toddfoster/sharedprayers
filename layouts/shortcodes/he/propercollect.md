@@ -30,11 +30,10 @@ The Lord be with you.
 Let us pray.
 
 {{ if $collect }}
-Officiant:
-> {{ $collect }}
+{{ $collect }}
 {{ else }}
 ##### The presider provides the collect proper to the day.
 {{ end }}
 
-**People:**
-> **Amen.**
+##### **People:**
+**Amen.**

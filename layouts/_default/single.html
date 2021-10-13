@@ -10,8 +10,20 @@
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
 </header>
 <div class="content">
-  <p>{{ if .Params.pproper | default false }} {{ readFile (path.Join "layouts/shortcodes/proper/title" .Params.proper) }}<br />{{ end -}}
-    {{ if .Params.liturgydate | default false }} {{ dateFormat "2 January 2006" .Params.liturgydate }}<br />
+  <p>
+{{- if .Params.proper | default false }}
+	{{- $day := $.Page.Params.proper }}
+    {{- $title := "" }}
+    {{-  with first 1 (where $.Site.Data.bcpcollects "day" $day) }}
+	    {{- $title = (index . 0).title }}
+    {{- else }}{{/* Check for a named holiday */}}
+    	{{- $reffile := (printf "layouts/shortcodes/holydays/%s/title" $day) }}
+	    {{- if fileExists $reffile }}
+	    	{{- $title = ($reffile | readFile | safeHTML) }}
+    	{{- end }}
+	{{- end }}
+{{- $title }}<br />{{- end -}}
+    {{- if .Params.liturgydate | default false }} {{ dateFormat "2 January 2006" .Params.liturgydate }}<br />
 	{{else if .Params.date | default false }} {{dateFormat "2 January 2006" .Params.date }}<br />{{ end -}}
     {{ if.Params.bcppage | default false }}<em>according to the Book of Common Prayer (p. {{ .Params.bcppage }})</em>{{ end -}}
   </p>

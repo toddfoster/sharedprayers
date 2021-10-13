@@ -22,11 +22,11 @@
 ### The Collect of the Day
 
 {{ if $collect }}
-Officiant:
-> {{ $collect }}
+##### Officiant:
+{{ $collect }}
 {{ else }}
 ##### The presider provides the collect proper to the day.
 {{ end }}
 
-**People:**
-> **Amen.**
+##### **People:**
+**Amen.**
