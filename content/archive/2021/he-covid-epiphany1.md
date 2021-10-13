@@ -2,14 +2,11 @@
 title: Holy Eucharist, Rite II (Epiphany 1, Covid-tide)
 date: 2021-01-05
 proper: first-sunday-after-epiphany
+liturgydate: 2021-01-10
+bcppage: 355ff.
 ---
-{{% propertitle %}}
-10 January 2021
-_according to the Book of Common Prayer (p. 355ff.)_
 
 {{% stt/2021/preparing-covid %}}
-
--------------
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}

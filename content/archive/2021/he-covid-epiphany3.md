@@ -1,15 +1,11 @@
 ---
 title: Holy Eucharist, Rite II (Epiphany 3, Covid-tide)
 date: 2021-01-20
+liturgydate: 2021-01-24
 proper: third-sunday-after-epiphany
+bcppage: 355ff.
 ---
-{{% propertitle %}}
-24  January 2021
-_according to the Book of Common Prayer (p. 355ff.)_
-
 {{% stt/2021/preparing-covid %}}
-
--------------
 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
