@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>Work in Progress – Shared Prayers</title>
-<meta name="description" content="To Do  Automatic 2021  x Python: only generate liturgies for after current date x Adapt spreadsheet to reflect he-current Move to sharedprayers project, creating bin …">
+<meta name="description" content="TODO  Generate liturgies for 2022  MAYBE/SOMEDAY  Check that all scriptures in bcprcl are available Calendar interface? Separate generated liturgies for St. …">
 <meta name="created" content="2021-03-04T00:00:00+0000">
 <meta name="modified" content="2021-03-04T00:00:00+0000">
 
@@ -38,7 +38,7 @@
     "datePublished": "2021-03-04T00:00:00Z",
     "dateModified": "2021-03-04T00:00:00Z",
     "url" : "http://www.sharedprayers.net/about/workinprogress/",
-    "description": "To Do  Automatic 2021  x Python: only generate liturgies for after current date x Adapt spreadsheet to reflect he-current Move to sharedprayers project, creating bin …",
+    "description": "TODO  Generate liturgies for 2022  MAYBE/SOMEDAY  Check that all scriptures in bcprcl are available Calendar interface? Separate generated liturgies for St. …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http://www.sharedprayers.net"
@@ -97,18 +97,21 @@
   <p>Invite someone to scan this QR code to pray with you.</p>
   <br clear="all" />
   <hr />
-<h2 id="to-do">To Do</h2>
+<h3 id="todo">TODO</h3>
 <ul>
-<li>Automatic 2021
-<ul>
-<li>x Python: only generate liturgies for after current date</li>
-<li>x Adapt spreadsheet to reflect he-current</li>
-<li>Move to sharedprayers project, creating bin folder</li>
-<li>Automatically <a href="https://ask.libreoffice.org/en/question/50035/convert-to-csv-via-command-line-with-all-text-fields-quoted/">export from librecalc</a></li>
+<li>Generate liturgies for 2022</li>
 </ul>
-</li>
-<li>Fill out he/blessing stubs</li>
-<li>Handle canticles that take the place of Psalms</li>
+<h3 id="maybesomeday">MAYBE/SOMEDAY</h3>
+<ul>
+<li>Check that all scriptures in bcprcl are available</li>
+<li>Calendar interface?</li>
+<li>Separate generated liturgies for St. Thomas&rsquo;, generic?</li>
+<li>Handle canticles in psalm shortcode(?)</li>
+<li>Be able to select which readings/collects when alternatives are available (alt=2)</li>
+<li>Provide track1lesson(?)</li>
+<li>Add proper prefaces to Prayer A, Prayer B using bcpcollects</li>
+<li>DRY he/lesson and office/lesson</li>
+<li>DRY shortcode psalm.md(older) and  he/psalm.md</li>
 <li>Alternate page template for non-prayers</li>
 <li>About
 <ul>
@@ -120,28 +123,6 @@
 <li>About customization for your organization</li>
 </ul>
 </li>
-<li>Texts
-<ul>
-<li>Write script to get a single text from <a href="http://bible.oremus.org/api.html">oremus api</a></li>
-<li>check formatting of downloaded text for suitability</li>
-<li>x generate slugs for passages by removing spaces, punctuation</li>
-<li>loop through references &amp; download texts</li>
-</ul>
-</li>
-<li>Link lectionaryyear: abc to &lsquo;a&rsquo;</li>
-<li>Refactor
-<ul>
-<li>script to translate from week to season?<br>
-Won&rsquo;t necessarily work for Major Feasts on edges of moving seasons</li>
-<li>x clean up scattered shortcodes to be ready for automated liturgies</li>
-</ul>
-</li>
-<li>Pentitential Order
-<ul>
-<li>Add greetings for other seasons (manually / logically chosen)</li>
-<li>x Move out of Lent into (into root directory of shortcodes?)</li>
-</ul>
-</li>
 <li>Daily Office
 <ul>
 <li>For each season</li>
@@ -151,6 +132,51 @@ Won&rsquo;t necessarily work for Major Feasts on edges of moving seasons</li>
 <ul>
 <li>For each season</li>
 <li>For Major Feasts during each season</li>
+</ul>
+</li>
+</ul>
+<h3 id="october-2021">October 2021</h3>
+<ul>
+<li>x Proof, adpat, and integrate bcprcl.json from venite.app</li>
+<li>x Also move collects, titles, prefaces into bcpcollects.json</li>
+<li>x Check that generated pages are essential unchanged (except for corrections)</li>
+</ul>
+<h3 id="older">Older</h3>
+<ul>
+<li>Automatic 2021
+<ul>
+<li>x Python: only generate liturgies for after current date</li>
+<li>x Adapt spreadsheet to reflect he-current</li>
+<li>Move to sharedprayers project, creating bin folder</li>
+<li>Automatically <a href="https://ask.libreoffice.org/en/question/50035/convert-to-csv-via-command-line-with-all-text-fields-quoted/">export from librecalc</a></li>
+</ul>
+</li>
+<li>x Fill out he/blessing stubs</li>
+<li>
+<blockquote>
+<p>Handle canticles that take the place of Psalms</p>
+</blockquote>
+</li>
+<li>Texts
+<ul>
+<li>x Write script to get a single text from <a href="http://bible.oremus.org/api.html">oremus api</a></li>
+<li>x check formatting of downloaded text for suitability</li>
+<li>x generate slugs for passages by removing spaces, punctuation</li>
+<li>=loop through references &amp; download texts (instead harvested from lectionarypage.net)</li>
+</ul>
+</li>
+<li>=Link lectionaryyear: abc to &lsquo;a&rsquo;</li>
+<li>Refactor
+<ul>
+<li>=script to translate from week to season?<br>
+Won&rsquo;t necessarily work for Major Feasts on edges of moving seasons</li>
+<li>x clean up scattered shortcodes to be ready for automated liturgies</li>
+</ul>
+</li>
+<li>xPentitential Order
+<ul>
+<li>x Add greetings for other seasons (manually / logically chosen)</li>
+<li>x Move out of Lent into (into root directory of shortcodes?)</li>
 </ul>
 </li>
 </ul>
