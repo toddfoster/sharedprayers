@@ -1,3 +1,23 @@
+{{/* shortcodes/propercollect.md */}}
+{{/* Figure out day: argument (day spec or literal) or page parameter or fail */}}
+{{ $day := "" }}
+{{ with .Get 0 }}
+  {{ $day = . }}
+{{ else }}
+  {{ $day = $.Page.Params.proper }}
+{{ end }}
+
+{{ $collect := "" }}
+{{  with first 1 (where $.Site.Data.bcpcollects "day" $day) }}
+	{{ $collect = (index . 0).collect }}
+{{ else }}
+    {{/* Check for a named holiday */}}
+	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/collect" $day ) }}
+	{{ if fileExists $reffile }}
+		{{ $collect = ($reffile | readFile | safeHTML) }}
+	{{ end }}
+{{ end }}
+
 ### The Collect of the Day
 ##### Officiant:
 The Lord be with you.
@@ -8,7 +28,12 @@ The Lord be with you.
 ##### Officiant:
 Let us pray.
 
-{{ readFile (path.Join "layouts/shortcodes/proper/collect" (default $.Page.Params.proper (.Get 0))) }}
+{{ if $collect }}
+Officiant:
+> {{ $collect }}
+{{ else }}}
+##### The presider provides the collect proper to the day.
+{{ end }}
 
-##### **People:**
-**Amen.**
+**People:**
+> **Amen.**

@@ -34,7 +34,8 @@
 {{ $reference = $reference | chomp }}
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
-{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
+{{ $intro := ""}} TODO ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
+TODO Fix the line above after getting lesson to get the right lesson (lessonjson)
 ### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
 
 ##### Lector:

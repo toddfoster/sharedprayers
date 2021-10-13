@@ -1,8 +1,8 @@
 ---
 title: Test Shortcodes (WIP)
 date: 2021-01-01
-lectionaryyear: yearb
-proper: lent2
+lectionaryyear: b
+proper: second-sunday-in-lent
 liturgydate: 2021-02-28
 bcppage: 355ff.
 ---
