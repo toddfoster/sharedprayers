@@ -49,11 +49,11 @@ This is random text passed in an .Inner to be the collect.
 {{% /he/propercollect-custom %}}
 
 # TEST: lesson
-## TEST: firstReading
-{{% he/lesson firstReading /%}}
+## TEST: first
+{{% he/lesson first /%}}
 
-## TEST: secondReading
-{{% he/lesson secondReading /%}}
+## TEST: second
+{{% he/lesson second /%}}
 
 ## TEST: custom .Inner
 {{% he/lesson "Third" "Job 1.23" %}}
