@@ -32,7 +32,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ##### The Hymn will only be sung at liturgies meeting outdoors.
 ### Hymn of Praise
 {{% advent/olittletownofbethlehem-3vv %}}
-{{% he/propercollect nativity2 %}}
+{{% he/propercollect christmas-day-ii %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

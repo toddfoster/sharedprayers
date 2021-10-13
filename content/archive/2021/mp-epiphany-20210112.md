@@ -203,7 +203,7 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% office/propercollect epiphany1 %}}
+{{% office/propercollect first-sunday-after-epiphany %}}
 
 {{% office/mp/collect/peace %}}
 

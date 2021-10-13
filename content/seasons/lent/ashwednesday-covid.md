@@ -1,7 +1,7 @@
 ---
 title: Ash Wednesday (Covid-tide)
 date: 2021-02-13
-proper: ashwednesday
+proper: ash-wednesday
 liturgydate: 2021-02-17
 bcppage: 264ff.
 ---

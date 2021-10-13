@@ -31,7 +31,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 
 ### Hymn of Praise
 {{% he/songofpraise/trishagion %}}
-{{% he/propercollect nativity2 %}}
+{{% he/propercollect christmas-day-ii %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word

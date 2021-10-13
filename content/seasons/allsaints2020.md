@@ -27,7 +27,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
 {{% he/greeting/onebody %}}
-{{% he/propercollect allsaintsa %}}
+{{% he/propercollect all-saints-day %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
