@@ -13,7 +13,7 @@ bcppage: 351ff.
 
 ### Salutation and Collect
 {{% letuspray %}}
-{{% propercollect %}}
+{{% office/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God’s Word

@@ -203,7 +203,7 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% propercollect epiphany1 %}}
+{{% office/propercollect epiphany1 %}}
 
 {{% office/mp/collect/peace %}}
 

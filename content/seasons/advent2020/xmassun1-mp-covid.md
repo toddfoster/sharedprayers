@@ -189,7 +189,7 @@ Officiant:
 
 _Collect Proper to the Day_
 
-{{% propercollect christmas1 %}}
+{{% office/propercollect christmas1 %}}
 
 {{% office/mp/collect/sundays %}}
 

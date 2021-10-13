@@ -83,7 +83,7 @@ Now after John was arrested, Jesus came to Galilee, proclaiming the good news of
 
 {{% office/mp/suffrages %}}
 
-{{% propercollect %}}
+{{% office/propercollect %}}
 
 {{% office/mp/collect/sundays %}}
 

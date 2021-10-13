@@ -37,7 +37,7 @@ weekday: tuesday
 {{% letuspray %}}
 {{% he/lordsprayer/2 %}}
 {{% office/ep/suffragesb %}}
-{{% propercollect %}}
+{{% office/propercollect %}}
 {{% office/ep/collect/presence %}}
 {{% office/ep/mission "2" %}}
 ##### Intercessions and thanksgivings may follow.

@@ -18,7 +18,7 @@ during Covid-tide_
 {{% he/songofpraise/trishagion %}}
 ### Salutation and Collect
 {{% letuspray %}}
-{{% propercollect jamestheodoreholly %}}
+{{% office/propercollect jamestheodoreholly %}}
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
