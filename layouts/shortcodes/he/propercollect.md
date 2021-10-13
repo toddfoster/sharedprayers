@@ -31,7 +31,7 @@ Let us pray.
 {{ if $collect }}
 Officiant:
 > {{ $collect }}
-{{ else }}}
+{{ else }}
 ##### The presider provides the collect proper to the day.
 {{ end }}
 
