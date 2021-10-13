@@ -1,4 +1,5 @@
-{{/* shortcodes/propercollect.md */}}
+{{/* shortcodes/he/propercollect.md */}}
+{{/* Not DRY: Be sure to keep this in sync with shortcodes/office/propercollect.md */}}
 {{/* Figure out day: argument (day spec or literal) or page parameter or fail */}}
 {{ $day := "" }}
 {{ with .Get 0 }}
