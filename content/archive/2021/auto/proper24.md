@@ -5,7 +5,7 @@ lectionaryyear: b
 proper: proper-24
 bcppage: 355ff.
 ---
-
+##### pb
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
@@ -20,6 +20,7 @@ bcppage: 355ff.
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
@@ -27,12 +28,15 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 
+##### pb
 ## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/a /%}}
+##### pb
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
 
+##### pb
 ## We Receive the Gift of God
 {{% stt/2021/communion %}}
 {{% he/postcommunion/eternal %}}
