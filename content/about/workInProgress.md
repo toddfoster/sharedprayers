@@ -8,6 +8,8 @@ date: 2021-03-04
 
 ### MAYBE/SOMEDAY
 - Check that all scriptures in bcprcl are available
+- lectionary pages (all readings for a season / year)
+- summaries of each days lesson references for easy cut/paste
 - Calendar interface?
 - Separate generated liturgies for St. Thomas', generic?
 - Handle canticles in psalm shortcode(?)
