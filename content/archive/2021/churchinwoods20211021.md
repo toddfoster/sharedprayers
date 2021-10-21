@@ -1,5 +1,5 @@
 ---
-title: Holy Eucharist, Rite II (Proper 21)
+title: Holy Eucharist, Rite II (Proper 24)
 date: 2021-10/21
 lectionaryyear: b
 proper: proper-24
