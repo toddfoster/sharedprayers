@@ -23,7 +23,7 @@ bcppage: 355ff.
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
+{{% collects/ingathering %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
