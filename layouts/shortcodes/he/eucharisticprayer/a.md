@@ -3,19 +3,19 @@
 ##### Presider:
 The Lord be with you.
 
-##### People:
+##### **People:**
 **And also with you.**
 
 ##### Presider:
 Lift up your hearts.
 
-##### People:
+##### **People:**
 **We lift them to the Lord.**
 
 ##### Presider:
 Let us give thanks to the Lord our God.
 
-##### People:
+##### **People:**
 **It is right to give God thanks and praise.**
 
 ##### The Presider continues:
@@ -49,7 +49,7 @@ After supper he took the cup of wine; and when he had given thanks, he gave it t
 ##### Presider:
 Therefore we proclaim the mystery of faith:
 
-##### People:
+##### **People:**
 **Christ has died.
 Christ is risen.
 Christ will come again.**
@@ -62,5 +62,5 @@ Sanctify them by your Holy Spirit to be for your people the Body and Blood of yo
 ##### Presider:
 All this we ask through your Son Jesus Christ. By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever.
 
-##### People:
+##### **People:**
 **AMEN.**
