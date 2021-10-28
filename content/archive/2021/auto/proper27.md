@@ -1,15 +1,14 @@
 ---
-title: Holy Eucharist, Rite II (Proper 27)
+title: Holy Baptism
 date: 2021-11-07
 lectionaryyear: b
-proper: proper-27
-bcppage: 355ff.
+proper: all-saints-day
+bcppage: 299ff.
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/entrance "For all the saints, who from their labors rest (Hymnal 287)" %}}
+{{% baptism/blessedbegod %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -17,19 +16,32 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% he/psalm/responsively /%}}
 {{% lesson "second" /%}}
+{{% he/anthem "He Never Said a Mumblin' Word (St. Thomas' Choir)" %}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
-{{% he/confession %}}
+{{% baptism/presentation %}}
+{{% baptism/covenant %}}
+{{% baptism/prayers %}}
+{{% baptism/thanksgiving %}}
+{{% baptism/baptism %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
-{{% he/eucharisticprayer/a /%}}
+{{% he/offertory "Ye watchers and ye holy ones (Hymnal 618)" %}}
+{{% he/eucharisticprayer/d %}}
+Remember the newly baptized of this and every parish, especially Peyton, Addie, Gage, and James.
+
+Remember Archbishop Welby, Presiding Bishop Curry, our Bishop Stokes, and all who minister in your Church.
+
+Remember the Diocese of New Jersey Bishop Search committee, and the person you will bring to them to lead our Diocese through this next season of our life together.
+
+Remember all your people, and those who seek your truth.
+
+Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light. Remember especially those lost to us in the last year or so, including Kathy, Ryan, Nelson, Joan, Helen, Sandy, Joanne, Pat, Margie, Dale, Tina, Jackie, Ryan, Destiny, Dan, Evelyn, Angie, Nikol, Russel, Catherine, Jimmie, Patty, Bill, Linda, and Virginia.
+{{% /he/eucharisticprayer/d %}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
 
@@ -37,7 +49,7 @@ bcppage: 355ff.
 {{% stt/2021/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/forasaint-short %}}
-{{% he/processional %}}
+{{% he/processional "I sing a song of the saints of God (Hymnal 293)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}
