@@ -16,6 +16,7 @@ date: 2021-03-04
 - Be able to select which readings/collects when alternatives are available (alt=2)
 - Provide track1lesson(?)
 - Add proper prefaces to Prayer A, Prayer B using bcpcollects
+- add BCP page numbers to more pieces
 - DRY he/lesson and office/lesson
 - DRY shortcode psalm.md(older) and  he/psalm.md
 - Alternate page template for non-prayers
