@@ -5331,6 +5331,7 @@ for ever and ever. Amen.&lt;/strong&gt;&lt;/p&gt;
 &lt;li&gt;Be able to select which readings/collects when alternatives are available (alt=2)&lt;/li&gt;
 &lt;li&gt;Provide track1lesson(?)&lt;/li&gt;
 &lt;li&gt;Add proper prefaces to Prayer A, Prayer B using bcpcollects&lt;/li&gt;
+&lt;li&gt;add BCP page numbers to more pieces&lt;/li&gt;
 &lt;li&gt;DRY he/lesson and office/lesson&lt;/li&gt;
 &lt;li&gt;DRY shortcode psalm.md(older) and  he/psalm.md&lt;/li&gt;
 &lt;li&gt;Alternate page template for non-prayers&lt;/li&gt;
