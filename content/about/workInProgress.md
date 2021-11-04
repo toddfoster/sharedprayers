@@ -4,12 +4,15 @@ date: 2021-03-04
 ---
 
 ### TODO
-- Handle canticles in psalm shortcode(?)
-- Thanksgiving litany for 2021, in template for 2022
-- Bring in Prayer B for 2022
-- Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
+- x Handle canticles in psalm shortcode(?)
+- x Thanksgiving litany for 2021, in template for 2022
 - x Generate liturgies for 2022
+- x Bring in Prayer B for 2022
+- x Bring in other post-communion, longer fraction for 2022
+- Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
 - Generate lesser feasts
+- Get consistent on presider vs. celebrant: match BCP
+- Review shortcodes for updated formatting
 
 ### MAYBE/SOMEDAY
 - Check that all scriptures in bcprcl are available
@@ -37,6 +40,7 @@ date: 2021-03-04
 - Eucharist
     - For each season
     - For Major Feasts during each season
+- Full years for each prayer?
 
 ### x Script to generate liturgies - 4 Nov 2022
 - x Generate dates for a liturgical year
