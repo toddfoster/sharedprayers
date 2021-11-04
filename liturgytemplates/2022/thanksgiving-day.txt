@@ -23,13 +23,13 @@ bcppage: 355ff.
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
-{{% he/eucharisticprayer/a /%}}
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/short %}}
+{{% he/fraction/long %}}
 
 ## We Receive the Gift of God
 {{% stt/2021/communion %}}
-{{% he/postcommunion/eternal %}}
+{{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
