@@ -9,7 +9,7 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -22,10 +22,8 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/form3 %}}
-{{% he/confession %}}
+{{% misc/litanyofthanksgiving %}}
 {{% he/peace %}}
-{{% stt/announcements %}}
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
@@ -38,5 +36,4 @@ bcppage: 355ff.
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
-{{% stt/2021/postscript %}}
 {{% nrsv %}}
