@@ -29,7 +29,7 @@ bcppage: 355ff.
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
-{{% he/eucharisticprayer/a /%}}
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
 
