@@ -1,8 +1,3 @@
----
-title: "Thanksgiving Day"
-date: 2022-11-24
-lectionaryyear: c
-proper: thanksgiving-day
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
@@ -38,4 +33,3 @@ bcppage: 355ff.
 {{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
