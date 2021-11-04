@@ -1,0 +1,1 @@
+##### The ministers receive the Sacrament in both kinds, and then immediately deliver it to the people. All are welcome to receive at Christ's table. If you would prefer to receive a verbal blessing instead of communion, cross your arms over your chest as the priest comes by.
