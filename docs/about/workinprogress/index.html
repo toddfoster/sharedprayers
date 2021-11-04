@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>Work in Progress – Shared Prayers</title>
-<meta name="description" content="TODO  Generate liturgies for 2022  MAYBE/SOMEDAY  Check that all scriptures in bcprcl are available lectionary pages (all readings for a season / year) summaries of each …">
+<meta name="description" content="TODO  Handle canticles in psalm shortcode(?) Thanksgiving litany for 2021, in template for 2022 Bring in Prayer B for 2022 Evaluate, Fix up, and copy in texts for …">
 <meta name="created" content="2021-03-04T00:00:00+0000">
 <meta name="modified" content="2021-03-04T00:00:00+0000">
 
@@ -38,7 +38,7 @@
     "datePublished": "2021-03-04T00:00:00Z",
     "dateModified": "2021-03-04T00:00:00Z",
     "url" : "http://www.sharedprayers.net/about/workinprogress/",
-    "description": "TODO  Generate liturgies for 2022  MAYBE/SOMEDAY  Check that all scriptures in bcprcl are available lectionary pages (all readings for a season / year) summaries of each …",
+    "description": "TODO  Handle canticles in psalm shortcode(?) Thanksgiving litany for 2021, in template for 2022 Bring in Prayer B for 2022 Evaluate, Fix up, and copy in texts for …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http://www.sharedprayers.net"
@@ -99,16 +99,21 @@
   <hr />
 <h3 id="todo">TODO</h3>
 <ul>
-<li>Generate liturgies for 2022</li>
+<li>Handle canticles in psalm shortcode(?)</li>
+<li>Thanksgiving litany for 2021, in template for 2022</li>
+<li>Bring in Prayer B for 2022</li>
+<li>Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net</li>
+<li>x Generate liturgies for 2022</li>
+<li>Generate lesser feasts</li>
 </ul>
 <h3 id="maybesomeday">MAYBE/SOMEDAY</h3>
 <ul>
 <li>Check that all scriptures in bcprcl are available</li>
+<li>script to generate responsive psalms for all partial psalms in rcl</li>
 <li>lectionary pages (all readings for a season / year)</li>
 <li>summaries of each days lesson references for easy cut/paste</li>
 <li>Calendar interface?</li>
 <li>Separate generated liturgies for St. Thomas&rsquo;, generic?</li>
-<li>Handle canticles in psalm shortcode(?)</li>
 <li>Be able to select which readings/collects when alternatives are available (alt=2)</li>
 <li>Provide track1lesson(?)</li>
 <li>Add proper prefaces to Prayer A, Prayer B using bcpcollects</li>
@@ -135,6 +140,24 @@
 <ul>
 <li>For each season</li>
 <li>For Major Feasts during each season</li>
+</ul>
+</li>
+</ul>
+<h3 id="x-script-to-generate-liturgies---4-nov-2022">x Script to generate liturgies - 4 Nov 2022</h3>
+<ul>
+<li>x Generate dates for a liturgical year
+<ul>
+<li>x all Sundays relative to SundayAfterChristmas or EasterSunday or Epiphany1 or SundayAfterNextXmas</li>
+<li>x Thanksgiving is special (fourth Thursday in Nov)</li>
+<li>x some fixed dates (encode precedence rules? fix by hand?)</li>
+</ul>
+</li>
+<li>x For each feast/date, build from template</li>
+<li>x  by default only build future dates (parameter; assume current year; 2022 starts on advent1 in 2021)</li>
+<li>x Directory of templates in order of precedence:
+<ul>
+<li>directories: 2022 | yearc | default</li>
+<li>files: first-sunday-of-advent | advent | weekday | weekend | default</li>
 </ul>
 </li>
 </ul>
