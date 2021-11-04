@@ -78,7 +78,7 @@ calcdatesfile = 'data/calcdates.json'
 collectsfile = 'data/bcpcollects.json'
 
 # Default directories
-templatesdir = "layouts/bulkliturgist"
+templatesdir = "liturgytemplates"
 outputdir = "content/archive/auto"
 outputdiryear = outputdir
 
