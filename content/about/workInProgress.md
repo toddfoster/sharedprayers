@@ -6,6 +6,17 @@ date: 2021-03-04
 ### TODO
 - Generate liturgies for 2022
 
+### Script to generate liturgies
+- x Generate dates for a liturgical year
+    - x all Sundays relative to SundayAfterChristmas or EasterSunday or Epiphany1 or SundayAfterNextXmas
+	- x Thanksgiving is special (fourth Thursday in Nov)
+	- x some fixed dates (encode precedence rules? fix by hand?)
+- Get lesser feast dates from a table (month/day/code)
+- For each feast/date, build from template
+- by default only build future dates (parameter; assume current year; 2022 starts on advent1 in 2021)
+- Directory of templates in order of precedence:
+     - directories: 2022 | yearc | default
+	 - files: first-sunday-of-advent | advent | weekday | weekend | default
 ### MAYBE/SOMEDAY
 - Check that all scriptures in bcprcl are available
 - lectionary pages (all readings for a season / year)
