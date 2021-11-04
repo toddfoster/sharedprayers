@@ -4,7 +4,7 @@
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
-{{/* NOTE: consider updating he/psalm/reposnsively.md and he/gospel.md to match */}}
+{{/* NOTE: consider updating he/psalm/responsively.md and he/gospel.md to match */}}
 {{ $DEBUG := false }}
 
 {{/* Figure out year: argument or page parameter or fail */}}
