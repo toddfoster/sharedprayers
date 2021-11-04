@@ -32,11 +32,11 @@ bcppage: 355ff.
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/short %}}
+{{% he/fraction/long %}}
 
 ## We Receive the Gift of God
 {{% he/communion %}}
-{{% he/postcommunion/eternal %}}
+{{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}

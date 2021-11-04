@@ -21,21 +21,18 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
 {{% he/peace %}}
-{{% stt/announcements %}}
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/short %}}
+{{% he/fraction/long %}}
 
 ## We Receive the Gift of God
 {{% he/communion %}}
-{{% he/postcommunion/eternal %}}
+{{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
