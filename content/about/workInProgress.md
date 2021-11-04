@@ -4,26 +4,20 @@ date: 2021-03-04
 ---
 
 ### TODO
-- Generate liturgies for 2022
+- Handle canticles in psalm shortcode(?)
+- Thanksgiving litany for 2021, in template for 2022
+- Bring in Prayer B for 2022
+- Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
+- x Generate liturgies for 2022
+- Generate lesser feasts
 
-### Script to generate liturgies
-- x Generate dates for a liturgical year
-    - x all Sundays relative to SundayAfterChristmas or EasterSunday or Epiphany1 or SundayAfterNextXmas
-	- x Thanksgiving is special (fourth Thursday in Nov)
-	- x some fixed dates (encode precedence rules? fix by hand?)
-- Get lesser feast dates from a table (month/day/code)
-- For each feast/date, build from template
-- by default only build future dates (parameter; assume current year; 2022 starts on advent1 in 2021)
-- Directory of templates in order of precedence:
-     - directories: 2022 | yearc | default
-	 - files: first-sunday-of-advent | advent | weekday | weekend | default
 ### MAYBE/SOMEDAY
 - Check that all scriptures in bcprcl are available
+- script to generate responsive psalms for all partial psalms in rcl
 - lectionary pages (all readings for a season / year)
 - summaries of each days lesson references for easy cut/paste
 - Calendar interface?
 - Separate generated liturgies for St. Thomas', generic?
-- Handle canticles in psalm shortcode(?)
 - Be able to select which readings/collects when alternatives are available (alt=2)
 - Provide track1lesson(?)
 - Add proper prefaces to Prayer A, Prayer B using bcpcollects
@@ -43,6 +37,17 @@ date: 2021-03-04
 - Eucharist
     - For each season
     - For Major Feasts during each season
+
+### x Script to generate liturgies - 4 Nov 2022
+- x Generate dates for a liturgical year
+    - x all Sundays relative to SundayAfterChristmas or EasterSunday or Epiphany1 or SundayAfterNextXmas
+	- x Thanksgiving is special (fourth Thursday in Nov)
+	- x some fixed dates (encode precedence rules? fix by hand?)
+- x For each feast/date, build from template
+- x  by default only build future dates (parameter; assume current year; 2022 starts on advent1 in 2021)
+- x Directory of templates in order of precedence:
+     - directories: 2022 | yearc | default
+	 - files: first-sunday-of-advent | advent | weekday | weekend | default
 
 ### October 2021
 - x Proof, adpat, and integrate bcprcl.json from venite.app
