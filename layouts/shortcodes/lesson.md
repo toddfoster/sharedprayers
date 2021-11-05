@@ -68,6 +68,10 @@ A reading from {{ $intro }}
 	{{ . | safeHTML}}
 {{ else }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
+    {{ $filepath := printf "layouts/shortcodes/readings/lpn/%s" $filename }}
+	{{ if fileExists $filepath }}
+{{ $filepath | readFile | safeHTML  }}
+{{ else }}
     {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
 	{{ if fileExists $filepath }}
 {{ $filepath | readFile | safeHTML  }}
@@ -78,7 +82,7 @@ A reading from {{ $intro }}
 > _This reading can be found at {{ $link }}_
     {{ end }}
 {{ end }}
-
+{{ end }}
 ##### Lector:
 The word of the Lord.
 

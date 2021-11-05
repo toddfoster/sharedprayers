@@ -89,7 +89,7 @@ TODO:
 {{% he/gospel "John 3.16" /%}}
 
 ## TEST: gospel -- none
-{{% he/gospel " " /%}}
+{% he/gospel " " /%}}
 
 ## TEST: gospel -- override
 {{% he/gospel "John 145.67" %}}

@@ -60,23 +60,24 @@ The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{
 **Glory to you, Lord Christ.**
 
 ##### Deacon:
-{{/* Text is provide in .Inner or in readings or by oremus */}}
 {{ with .Inner }}
-{{ . }}
+	{{ . | safeHTML}}
 {{ else }}
-    {{ if gt (len $reference) 3 }}
-        {{ $slug := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
-        {{ $filename := ( printf "layouts/shortcodes/readings/nrsv/%s" $slug ) }}
-        {{ if fileExists $filename }}
-{{ $filename | readFile | safeHTML }}
-	    {{ else }}
-	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
-            {{ $url = replace $url " " "%20" }}
-_This reading can be found at [{{ $reference }}]({{ $url }})_
-        {{ end }}
+    {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
+    {{ $filepath := printf "layouts/shortcodes/readings/lpn/%s" $filename }}
+	{{ if fileExists $filepath }}
+{{ $filepath | readFile | safeHTML  }}
+{{ else }}
+    {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+	{{ if fileExists $filepath }}
+{{ $filepath | readFile | safeHTML  }}
     {{ else }}
- . . .
+        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
+        {{ $url = replace $url " " "%20" }}
+        {{ $link := printf "[%s](%s)" $reference $url }}
+> _This reading can be found at {{ $link }}_
     {{ end }}
+{{ end }}
 {{ end }}
 ##### Deacon:
 The Gospel of the Lord.
