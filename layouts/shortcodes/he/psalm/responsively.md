@@ -68,9 +68,19 @@
     {{ if fileExists $filename }}
 {{ $filename | readFile | safeHTML }}
 	{{ else }}
-	        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
+    {{ $slug := $reference | replaceRE "Psalm " "" }}
+    {{ $slug = $slug | lower | replaceRE "[^A-Za-z0-9]+" "" }}
+    {{ $filename := ( printf "layouts/shortcodes/readings/lpn/psalm%s" $slug ) }}
+    {{ if $DEBUG }}
+	  {{ printf "filename = %v" $filename }}
+    {{ end }}
+    {{ if fileExists $filename }}
+{{ $filename | readFile | safeHTML }}
+  {{ else }}
+  {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
             {{ $url = replace $url " " "%20" }}
 > _This reading can be found at [{{ $reference }}]({{ $url }})_
 	{{ end }}
+{{ end }}
 {{ end }}
 {{ end }}
