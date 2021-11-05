@@ -9,12 +9,15 @@ date: 2021-03-04
 - x Generate liturgies for 2022
 - x Bring in Prayer B for 2022
 - x Bring in other post-communion, longer fraction for 2022
-- Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
+- x Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
+- x Psalms draw alternatively from lpn folder?
 - Generate lesser feasts
 - Get consistent on presider vs. celebrant: match BCP
 - Review shortcodes for updated formatting
 
 ### MAYBE/SOMEDAY
+- Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
+- Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
 - Check that all scriptures in bcprcl are available
 - script to generate responsive psalms for all partial psalms in rcl
 - lectionary pages (all readings for a season / year)
