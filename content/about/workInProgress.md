@@ -16,13 +16,15 @@ date: 2021-03-04
 - Review shortcodes for updated formatting
 
 ### MAYBE/SOMEDAY
+- Calendar interface simple range exercises
+- Liturgical colors
+- Versioned shortcodes to maintain older liturgies?
 - Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
 - Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
 - Check that all scriptures in bcprcl are available
 - script to generate responsive psalms for all partial psalms in rcl
 - lectionary pages (all readings for a season / year)
 - summaries of each days lesson references for easy cut/paste
-- Calendar interface?
 - Separate generated liturgies for St. Thomas', generic?
 - Be able to select which readings/collects when alternatives are available (alt=2)
 - Provide track1lesson(?)
