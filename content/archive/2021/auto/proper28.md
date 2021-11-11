@@ -24,12 +24,13 @@ bcppage: 355ff.
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
+### A Prayer for Veterans
+{{% he/special/biblesunday %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "Jesus loves me (LEVAS 128)" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -38,7 +39,7 @@ bcppage: 355ff.
 {{% stt/2021/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "Come, we that love the Lord (LEVAS 12)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}
