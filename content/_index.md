@@ -23,6 +23,13 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
 
+**NY/NJ Episcopal Campus Ministries Retreat**
+- [Friday Compline](daily/compline/compline-wk1)
+- [Saturday Morning Prayer](archive/2021/mp-20211120)
+- [Saturday Holy Eucharist](archive/2021/churchinwoods20211118)
+- [Saturday Compline](daily/compline/compline-wk2)
+- [Saturday Morning Prayer](archive/2021/mp-20211121)
+
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts in Covid-tide](archive/he-covid-feasts)
