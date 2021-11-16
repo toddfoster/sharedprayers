@@ -26,7 +26,7 @@ title: Shared Prayers
 **NY/NJ Episcopal Campus Ministries Retreat**
 - [Friday Compline](daily/compline/compline-wk1)
 - [Saturday Morning Prayer](archive/2021/mp-20211120)
-- [Saturday Holy Eucharist](archive/2021/churchinwoods20211118)
+- [Saturday Holy Eucharist](archive/2021/he-collegeretreat-20211120)
 - [Saturday Compline](daily/compline/compline-wk2)
 - [Saturday Morning Prayer](archive/2021/mp-20211121)
 
