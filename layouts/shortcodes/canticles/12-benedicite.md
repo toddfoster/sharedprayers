@@ -52,7 +52,7 @@ praise him and highly exalt him for ever.
 Glorify the Lord, O priests and servants of the Lord, \*
 praise him and highly exalt him for ever.**
 
-> Glorify the Lord, O spirits and souls of the righteous, \*
+> **Glorify the Lord, O spirits and souls of the righteous, \*
 praise him and highly exalt him for ever.
 You that are holy and humble of heart, glorify the Lord, \*
 praise him and highly exalt him for ever.**
