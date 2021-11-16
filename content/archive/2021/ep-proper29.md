@@ -1,5 +1,5 @@
 ---
-title: Evening Prayer for the Last Sunday after Pentecost, Rite Two
+title: Evening Prayer, Rite Two (The Last Sunday after Pentecost)
 bcppage: 115ff.
 season: pentecost
 weekday: sunday
