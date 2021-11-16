@@ -28,7 +28,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "Hymnal 328: Draw nigh and take" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
@@ -37,7 +37,7 @@ bcppage: 355ff.
 {{% stt/2021/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "Hymnal 494: Crown him with many crowns" %}}
 {{% he/dismissal/goinpeace %}}
 {{% stt/2021/postscript %}}
 {{% nrsv %}}
