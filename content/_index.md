@@ -8,6 +8,7 @@ title: Shared Prayers
 **Sunday Liturgies for this month:**
 - [Holy Baptism for Sunday, 7 November: All Saints Sunday](archive/2021/auto/proper27)
 - [Holy Eucharist for Sunday, 14 November: Bible Sunday](archive/2021/auto/proper28)
+- [Evening Prayer for Saturday, 20 November: Christ the King](archive/2021/ep-proper29)
 - [Holy Eucharist for Sunday, 21 November: Christ the King](archive/2021/auto/proper29)
 
 **TEC@RU / Compline / Church in the Woods**
