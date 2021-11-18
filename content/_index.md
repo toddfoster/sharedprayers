@@ -29,7 +29,7 @@ title: Shared Prayers
 - [Saturday Morning Prayer](archive/2021/mp-20211120)
 - [Saturday Holy Eucharist](archive/2021/he-collegeretreat-20211120)
 - [Saturday Compline](daily/compline/compline-wk2)
-- [Saturday Morning Prayer](archive/2021/mp-20211121)
+- [Sunday Morning Prayer](archive/2021/mp-20211121)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
