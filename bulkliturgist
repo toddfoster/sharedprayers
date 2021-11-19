@@ -25,6 +25,7 @@ Flags
  - --templates -t dir : directory for templates
  - --output -o dir : directory for output
  - --day -d day : code for liturgical day to generate
+ - --lectionary: generate a 'lectionary' of lessons on a single page
  - --help -h : command-line options
  - --usage : more information
 
@@ -47,6 +48,13 @@ Templates
 The liturgies output, as origianlly implemented, are used to
 populate the website https://www.sharedprayers.net using
 the static website generator hugo (https://www.gohugo.io).
+
+TODO
+ - order lectionary output by date (mixing holidays among the Sundays)
+ - make more intelligent / flexible choices about readings in lectionary
+     - leave out second readings for weekdays in easter week
+     - liturgy of palms is special
+ - make more intelligent / flexible choices about readings in liturgies
 """
 
 copyright = """Copyright 2021 Todd Foster
@@ -100,6 +108,7 @@ parser.add_argument('--copyright', action="store_true", help="show copyright inf
 parser.add_argument('--templates', type=str, help='templates directory')
 parser.add_argument('--output', type=str, help='output directory')
 parser.add_argument('--debug', action="store_true", help="show debugging info")
+parser.add_argument('--lectionary', action="store_true", help="generate lessons for the whole year")
 
 args = parser.parse_args()
 
@@ -114,6 +123,7 @@ if args.copyright:
 skip_past_dates = not args.past
 dry_run = args.dry_run
 only_day = args.day
+only_lectionary = args.lectionary
 if args.templates:
     templatesdir = args.templates
 if args.output:
@@ -279,6 +289,20 @@ def generateliturgy(day, year):
       result += line
   return result
 
+def lessonstarget():
+    return outputdir + "/" + str(year) + "/lectionary.md"
+
+def generatelessons(day, year):
+    result = "##### pb\n"
+    date = liturgydate(day, year)
+    result += "## " + lectionarytitle(day, year) + ' - ' + date.strftime("%d %B %Y") + "\n"
+    result += '{{% lesson "first" "' + day + '" /%}}\n'
+    result += '{{% he/psalm/responsively "' + day + '" /%}}\n'
+    result += '{{% lesson "second" "' + day + '" /%}}\n'
+    result += '{{% lesson "gospel" "' + day + '" /%}}\n'
+    result += "\n"
+    return result
+
 def writeliturgy(target, day, when, year):
     if only_day and only_day != day:
       return
@@ -287,11 +311,19 @@ def writeliturgy(target, day, when, year):
       print ("DRY RUN: Not writing liturgy for " + day + ": " + str(when))
       return
 
+    if only_lectionary:
+        print ("Writing lessons for " + day + ": " + str(when))
+        lessons = generatelessons(day, year)
+        with open (lessonstarget(), "a") as t:
+            t.write(lessons)
+        return
+
     print ("Writing liturgy for " + day + ": " + str(when))
     liturgy = generateliturgy(day, year)
     with open (target + "/" + day + ".md", "w") as t:
       t.write(liturgy)
       t.write("\n")
+
 
 def majorliturgies(year):
   """
@@ -334,5 +366,21 @@ def majorliturgies(year):
   thanksgivingdate = liturgydate('thanksgiving-day', year)
   if thanksgivingdate > date.today() or not skip_past_dates:
     writeliturgy(target, 'thanksgiving-day', thanksgivingdate, year)
+
+def lectionary(year):
+    """
+    Generate lectionary (lessons for each liturgy) for Sundays and major feasts.
+    """
+
+    return
+
+if only_lectionary and not dry_run:
+    print ("Writing header for lessons for " + str(year))
+    with open (lessonstarget(), "w") as t:
+        t.write("---\n")
+        t.write("title: Lectionary (" + str(year) + ")\n")
+        t.write("date: " + str(liturgydate('first-sunday-of-advent', year)) + "\n")
+        t.write("lectionaryyear: " + lectionaryyear(year) + "\n")
+        t.write("---\n")
 
 majorliturgies(year)
