@@ -16,6 +16,7 @@ date: 2021-03-04
 - Review shortcodes for updated formatting
 
 ### MAYBE/SOMEDAY
+- automate updating archive/he-current.md to forward to the current week
 - Calendar interface simple range exercises
 - Liturgical colors
 - Versioned shortcodes to maintain older liturgies?
