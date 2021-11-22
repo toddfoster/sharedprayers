@@ -9,7 +9,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/seasons/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -613,12 +613,22 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/archive/2022/lectionary/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2022/first-sunday-of-advent/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/auto/thanksgivingb/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/seasons/thanksgiving-b/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -1623,7 +1633,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/seasons/he-covid-thanksgiving-a/</loc>
+    <loc>http://www.sharedprayers.net/archive/2020/he-covid-thanksgiving-a/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
