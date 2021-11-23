@@ -1,4 +1,4 @@
-### Anthem: _O come, O come, Emmanuel_ (vv. 5-6) (Hymnal 56)
+### Anthem: _O come, O come, Emmanuel_ (vv. 7-8) (Hymnal 56)
 
 ![Veni, veni, Emmanuel](/images/music/ocome-compact.png)
 
