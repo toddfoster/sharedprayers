@@ -8,9 +8,8 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% advent/wreath %}}
+{{% advent/ocome %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -35,6 +34,7 @@ bcppage: 355ff.
 {{% he/fraction/long %}}
 
 ## We Receive the Gift of God
+{{% stt/2022/communion-covid %}}
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
