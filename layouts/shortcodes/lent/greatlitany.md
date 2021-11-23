@@ -1,3 +1,5 @@
+#### BCP 148
+#### Hymnal S-67
 ## The Great Litany
 
 ##### The _Officiant_ and the **People** call and respond:
@@ -17,7 +19,7 @@ O holy, blessed, and glorious Trinity, one God,
 Remember not, Lord Christ, our offenses, nor the offenses of our forefathers; neither reward us according to our sins. Spare us, good Lord, spare thy people, whom thou hast redeemed with thy most precious blood, and by thy mercy preserve us for ever.
 > **Spare us, good Lord.**
 
-From all evil and wickedness; from sin; from the crafts and assaults of the devil; and from everlasting damnation, 
+From all evil and wickedness; from sin; from the crafts and assaults of the devil; and from everlasting damnation,
 > **Good Lord, deliver us.**
 
 From all blindness of heart; from pride, vainglory, and hypocrisy; from envy, hatred, and malice; and from all want of charity,
@@ -26,7 +28,7 @@ From all blindness of heart; from pride, vainglory, and hypocrisy; from envy, ha
 From all inordinate and sinful affections; and from all the deceits of the world, the flesh, and the devil,
 > **Good Lord, deliver us.**
 
-From all false doctrine, heresy, and schism; from hardness of heart, and contempt of thy Word and commandment, 
+From all false doctrine, heresy, and schism; from hardness of heart, and contempt of thy Word and commandment,
 > **Good Lord, deliver us.**
 
 From lightning and tempest; from earthquake, fire, and flood; from plague, pestilence, and famine,
@@ -54,7 +56,7 @@ That it may please thee to illumine all bishops, priests, and deacons, with true
 That it may please thee to bless and keep all thy people,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to send forth laborers into thy harvest, and to draw all humankind into thy kingdom, 
+That it may please thee to send forth laborers into thy harvest, and to draw all humankind into thy kingdom,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to give to all people increase of grace to hear and receive thy Word, and to bring forth the fruits of the Spirit,
@@ -85,7 +87,7 @@ That It may please thee to inspire us, in our several callings, to do the work w
 That it may please thee to preserve all who are in danger by reason of their labor or their travel,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to preserve, and provide for, all women in childbirth, young children and orphans, the widowed, and all whose homes are broken or torn by strife, 
+That it may please thee to preserve, and provide for, all women in childbirth, young children and orphans, the widowed, and all whose homes are broken or torn by strife,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to visit the lonely; to strengthen all who suffer in mind, body, and spirit; and to comfort with thy presence those who are failing and infirm,
