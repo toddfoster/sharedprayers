@@ -22,7 +22,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/comeandsave %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
@@ -37,8 +37,7 @@ bcppage: 355ff.
 {{% stt/2022/communion-covid %}}
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/advent-short %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
