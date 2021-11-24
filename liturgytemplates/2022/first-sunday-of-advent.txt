@@ -31,7 +31,7 @@ bcppage: 355ff.
 {{% stt/2022/communion-covid %}}
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/advent-long %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
