@@ -7,7 +7,7 @@ Let us give thanks to God our Father for all his gifts so freely bestowed upon u
 ##### Leader:
 For the beauty and wonder of your creation, in earth and sky and sea,
 ##### **People:**
-We thank you, Lord.
+**We thank you, Lord.**
 
 ##### Leader:
 For all that is gracious in the lives of men and women, revealing the image of Christ,
