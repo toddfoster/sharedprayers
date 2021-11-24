@@ -40,7 +40,6 @@ bcppage: 355ff.
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
 {{% he/communion "Once he came in blessing (Hymnal 53)" %}}
-##### pb
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/advent-long %}}
 {{% he/processional "Blest be the King whose coming (Hymnal 74)" %}}
