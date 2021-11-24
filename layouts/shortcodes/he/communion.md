@@ -1,4 +1,4 @@
-##### The ministers receive the Sacrament in both kinds, and then immediately deliver it to the people. All are welcome to receive at Christ's table. If you would prefer to receive a verbal blessing instead of communion, cross your arms over your chest as the priest comes by.
+##### The ministers receive the Sacrament in both kinds, and then immediately deliver it to the people. All are welcome to receive at Christ's table. If you would prefer to receive a verbal blessing instead of communion, cross your arms over your chest to indicate this.
 {{ if (.Get 0)}}
 {{ $filename := printf "%s.md" (path.Join "layouts/shortcodes" (.Get 0)) }}
 {{ if fileExists $filename }}
