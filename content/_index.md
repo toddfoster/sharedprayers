@@ -6,30 +6,19 @@ title: Shared Prayers
 
 -------------
 **Sunday Liturgies for this month:**
-- [Holy Baptism for Sunday, 7 November: All Saints Sunday](archive/2021/auto/proper27)
-- [Holy Eucharist for Sunday, 14 November: Bible Sunday](archive/2021/auto/proper28)
-- [Evening Prayer for Saturday, 20 November: Christ the King](archive/2021/ep-proper29)
-- [Holy Eucharist for Sunday, 21 November: Christ the King](archive/2021/auto/proper29)
+- [Holy Eucharist for Sunday, 28 November: Advent 1](archive/2022/first-sunday-of-advent)
+- [Holy Eucharist for Sunday, 5 December: Advent 2](archive/2022/second-sunday-of-advent)
+- [Holy Eucharist for Sunday, 12 December: Advent 3](archive/2022/third-sunday-of-advent)
+- [Holy Eucharist for Sunday, 19 December: Advent 4](archive/2022/fourth-sunday-of-advent)
+- [Holy Eucharist for Sunday, 26 December: Christmas 1](archive/2022/first-sunday-after-christmas)
+- [Holy Eucharist for Sunday, 2 January: Christmas 2](archive/2022/second-sunday-after-christmas)
 
 **TEC@RU / Compline / Church in the Woods**
-- [Compline for Wednesday, 3 November (Week 1)](daily/compline/compline-wk1)
-- [Compline for Wednesday, 10 November (Week 2)](daily/compline/compline-wk2)
-- [Compline for Wednesday, 17 November (Week 3)](daily/compline/compline-wk3)
-- [Church in the Woods for Thursday, 18 November](archive/2021/churchinwoods20211118)
+- [Compline for Wednesday, 1 December (Week 1)](daily/compline/compline-wk1)
 
 **Weekday Liturgies this month:**
-- [Holy Eucharist for Wednesday night, 29 October (Feast of Richard Hooker)](archive/2021/he-richardhooker)
-- [Holy Eucharist for Wednesday night, 6 November (Feast of Leo of Rome)](archive/2021/he-leorome)
-- [Holy Eucharist for Wednesday night, 13 November (Feast of Hilda of Whitby)](archive/2021/he-hildawhitby)
 - [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
-
-**NY/NJ Episcopal Campus Ministries Retreat**
-- [Friday Compline](daily/compline/compline-wk1)
-- [Saturday Morning Prayer](archive/2021/mp-20211120)
-- [Saturday Holy Eucharist](archive/2021/he-collegeretreat-20211120)
-- [Saturday Compline](daily/compline/compline-wk2)
-- [Sunday Morning Prayer](archive/2021/mp-20211121)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
