@@ -23,7 +23,7 @@ A Reading (Lesson) from _____________.
 The Word of the Lord.
 
 ##### **People:**
-Thanks be to God.
+**Thanks be to God.**
 
 ##### Silence may be kept.
 
@@ -37,7 +37,7 @@ A Reading (Lesson) from _____________.
 The Word of the Lord.
 
 ##### **People:**
-Thanks be to God.
+**Thanks be to God.**
 
 ##### Silence may be kept.
 
@@ -52,7 +52,7 @@ A Reading (Lesson) from _____________.
 The Word of the Lord.
 
 ##### **People:**
-Thanks be to God.
+**Thanks be to God.**
 
 ##### Silence may be kept.
 
