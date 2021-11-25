@@ -1,6 +1,5 @@
 #### BCP 101
-### The General Thanksgiving
-
+_The General Thanksgiving_
 ##### Officiant and **People:**
 **Almighty God, Father of all mercies,
 we your unworthy servants give you humble thanks
