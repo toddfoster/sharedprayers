@@ -2,7 +2,7 @@
 {{ $alleluia := "" }}
 {{ if (eq $season "easter") }}{{ $alleluia = " Alleluia, alleluia!" }}{{ end }}
 ##### Officiant:
-> Let us bless the Lord.{{ $alleluia }}
+Let us bless the Lord.{{ $alleluia }}
 
 ##### **People:**
-> **Thanks be to God.{{ $alleluia }}**
+**Thanks be to God.{{ $alleluia }}**

@@ -1,6 +1,6 @@
 **Canticle 21: You are God**	--- _Te Deum laudamus_
 ##### **All:**
-> **You are God: we praise you;
+**You are God: we praise you;
 You are the Lord: we acclaim you;
 You are the eternal Father:
 All creation worships you.
@@ -16,7 +16,7 @@ Father, of majesty unbounded,
 your true and only Son, worthy of all worship,
 and the Holy Spirit, advocate and guide.**
 
-> **You, Christ, are the king of glory,
+**You, Christ, are the king of glory,
 the eternal Son of the Father.
 When you became man to set us free
 you did not shun the Virgin’s womb.

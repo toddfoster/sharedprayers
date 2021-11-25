@@ -2,7 +2,7 @@
 
 ##### Officiant & People call and respond:
 
-> V. Show us your mercy, O Lord;
+V. Show us your mercy, O Lord;
 **R. And grant us your salvation.**
 V. Clothe your ministers with righteousness;
 **R. Let your people sing with joy.**

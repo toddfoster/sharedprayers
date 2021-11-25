@@ -1,6 +1,6 @@
 **Canticle 9: The First Song of Isaiah** -- _Ecce Deus_ (Isaiah 12:2-6) (BCP 86)
 ##### **All:**
-> **Surely, it is God who saves me; *
+**Surely, it is God who saves me; *
 I will trust in him and not be afraid.
 For the Lord is my stronghold and my sure defense, *
 and he will be my Savior.

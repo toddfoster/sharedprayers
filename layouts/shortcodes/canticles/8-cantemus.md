@@ -1,7 +1,7 @@
 **Canticle 8: The Song of Moses** -- _Cantemus Domino_ (Exodus 15:1-6, 11-13, 17-18) (BCP 85)
 ##### Especially suitable for use in Easter Season
 ##### **All:**
-> **I will sing to the Lord, for he is lofty and uplifted; \*
+**I will sing to the Lord, for he is lofty and uplifted; \*
 the horse and its rider has he hurled into the sea.
 The Lord is my strength and my refuge; \*
 the Lord has become my Savior.
@@ -29,5 +29,5 @@ the sanctuary, O Lord, that your hand has established.
 The Lord shall reign \*
 for ever and for ever.**
 
-> **Glory to the Father, and to the Son, and to the Holy Spirit: \*
+**Glory to the Father, and to the Son, and to the Holy Spirit: \*
 as it was in the beginning, is now, and will be for ever. Amen.**

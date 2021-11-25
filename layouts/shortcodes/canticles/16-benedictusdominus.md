@@ -1,6 +1,6 @@
 **Canticle 16: The Song of Zechariah**	--- _Benedictus Dominus Deus_ --- _Luke 1:68--79_
 ##### **All:**
-> **Blessed be the Lord, the God of Israel; \*
+**Blessed be the Lord, the God of Israel; \*
 he has come to his people and set them free.
 He has raised up for us a mighty savior, \*
 born of the house of his servant David.
@@ -14,7 +14,7 @@ to set us free from the hands of our enemies,
 Free to worship him without fear, \*
 holy and righteous in his sight all the days of our life.**
 
-> **You, my child, shall be called the prophet of the Most High, \*
+**You, my child, shall be called the prophet of the Most High, \*
 for you will go before the Lord to prepare his way,
 To give his people knowledge of salvation *
 by the forgiveness of their sins.
@@ -23,5 +23,5 @@ the dawn from on high shall break upon us,
 To shine on those who dwell in darkness and the shadow of death, *
 and to guide our feet into the way of peace.**
 
-> **Glory to the Father and to the Son, and to the Holy Spirit: *
-> as it was in the beginning, is now, and will be for ever. Amen.**
+**Glory to the Father and to the Son, and to the Holy Spirit: *
+as it was in the beginning, is now, and will be for ever. Amen.**

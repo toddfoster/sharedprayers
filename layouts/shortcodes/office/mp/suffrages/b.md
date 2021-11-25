@@ -2,7 +2,7 @@
 
 ##### Officiant & People call and respond:
 
-> V. Save your people, Lord, and bless your inheritance;
+V. Save your people, Lord, and bless your inheritance;
 **R. Govern and uphold them, now and always.**
 V. Day by day we bless you;
 **R. We praise your Name for ever.**

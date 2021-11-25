@@ -1,5 +1,5 @@
 ##### Officiant and **People:**
-> Our Father, **who art in heaven,
+Our Father, **who art in heaven,
 	hallowed be thy Name,
 	thy kingdom come,
 	thy will be done,

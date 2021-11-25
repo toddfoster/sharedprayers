@@ -6,12 +6,12 @@ _{{ .Get 1 }}_
 {{ $slug := substr $slug 0 5 }}
 {{ $slug := printf "layouts/shortcodes/readings/intro/%s" $slug }}
 Lector:
-> A reading from {{ $slug | readFile | safeHTML }}
+A reading from {{ $slug | readFile | safeHTML }}
 
 {{ .Inner | replaceRE "\n" "\n> " | safeHTML }}
 
 Lector:
-> The word of the Lord.
+The word of the Lord.
 
 **People:**
-> **Thanks be to God.**
+**Thanks be to God.**

@@ -4,14 +4,14 @@
 {{ $alleluia := " Alleluia." }}
 {{ if (eq $season "lent") }}{{ $alleluia = "" }}{{ end }}
 ##### Officiant:
-> Lord, open our lips.
+Lord, open our lips.
 
 ##### **People:**
-> **And our mouth shall proclaim your praise.**
+**And our mouth shall proclaim your praise.**
 
 ##### **All:**
-> **Glory to the Father, and to the Son, and to the Holy Spirit:
-> as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
+**Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
 
 {{ $antiphon := printf "layouts/shortcodes/office/mp/antiphon/%s.md" $season }}
 {{ if not (eq $season "easter") }}
@@ -19,7 +19,7 @@
     {{ $antiphon = printf "layouts/shortcodes/office/mp/antiphon/choose/other/%s.md" $day }}
   {{ end }}
 ##### **People:**
-> **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
+**{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}
 
 {{ $invitatory := default $season (.Get 1) }}
@@ -29,5 +29,5 @@
 
 {{ if not (eq $season "easter") }}
 ##### **People:**
-> **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
+**{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}

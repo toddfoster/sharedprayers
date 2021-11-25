@@ -1,6 +1,6 @@
 **Canticle 15: The Song of Mary** -- _Magnificat_ (Luke 1:46-55) (BCP 91)
 ##### **All:**
-> **My soul proclaims the greatness of the Lord,
+**My soul proclaims the greatness of the Lord,
 my spirit rejoices in God my Savior; \*
 for he has looked with favor on his lowly servant.
 From this day all generations will call me blessed: \*
@@ -10,7 +10,7 @@ in every generation.
 He has shown the strength of his arm, \*
 he has scattered the proud in their conceit.**
 
-> **He has cast down the mighty from their thrones, \*
+**He has cast down the mighty from their thrones, \*
 and has lifted up the lowly.
 He has filled the hungry with good things, \*
 and the rich he has sent away empty.
@@ -19,5 +19,5 @@ for he has remembered his promise of mercy,
 The promise he made to our fathers, \*
 to Abraham and his children for ever.**
 
-> **Glory to the Father, and to the Son, and to the Holy Spirit: \*
+**Glory to the Father, and to the Son, and to the Holy Spirit: \*
 as it was in the beginning, is now, and will be for ever. Amen.**

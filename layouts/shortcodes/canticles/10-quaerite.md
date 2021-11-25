@@ -1,6 +1,6 @@
 **Canticle 10: The Second Song of Isaiah** -- _Quaerite Dominum_ (Isaiah 55:6-11) (BCP 86)
 ##### **All:**
-> **Seek the Lord while he wills to be found; \*
+**Seek the Lord while he wills to be found; \*
 call upon him when he draws near.
 Let the wicked forsake their ways \*
 and the evil ones their thoughts;
@@ -20,5 +20,5 @@ it will not return to me empty;
 But it will accomplish that which I have purposed, \*
 and prosper in that for which I sent it.**
 
-> **Glory to the Father, and to the Son, and to the Holy Spirit: \*
+**Glory to the Father, and to the Son, and to the Holy Spirit: \*
 as it was in the beginning, is now, and will be for ever. Amen.**
