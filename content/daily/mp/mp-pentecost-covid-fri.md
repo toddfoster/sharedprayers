@@ -15,44 +15,44 @@ weekday: friday
 
 # The Lessons
 ##### _Reader:_
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### _Reader:_
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/first %}}
 ##### ##### _Reader:_
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### _Reader:_
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/second %}}
 
 ##### _Reader:_
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### _Reader:_
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 

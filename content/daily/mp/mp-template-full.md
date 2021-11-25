@@ -146,19 +146,19 @@ _At any Time_
 ##### One or two Lessons, as appointed, are read, the Reader first saying
 
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
 ##### A citation giving chapter and verse may be added. After each Lesson the Reader may say
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Or the Reader may say
 ##### Reader:
-> Here ends the Lesson (Reading).
+Here ends the Lesson (Reading).
 
 ##### Silence may be kept after each Reading. One of the following Canticles, or one of those on pages 47-52 (Canticles 1-7), is sung or said after each Reading. If three Lessons are used, the Lesson from the Gospel is read after the second Canticle.
 
@@ -224,11 +224,11 @@ _Collect Proper to the Day_
 {{% office/mp/beforetheclose/prayer-chrysostom %}}
 
 ##### Then may be said
-Officiant:
-> Let us bless the Lord.
+##### Officiant:
+Let us bless the Lord.
 
 ##### **People:**
-> **Thanks be to God.**
+**Thanks be to God.**
 
 ##### From Easter Day through the Day of Pentecost “Alleluia, alleluia” may be added to the preceding versicle and response.
 

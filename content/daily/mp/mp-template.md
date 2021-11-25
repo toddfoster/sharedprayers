@@ -66,15 +66,15 @@ double-entry error.
 
 # The Lessons
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 {{% office/mp/canticle/first %}}
 {{% comment %}}
@@ -82,28 +82,28 @@ Uses front matter to get season, weekday;
 Can override by providing parameters in that order
 {{% /comment %}}
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 {{% office/mp/canticle/second %}}
 
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 {{% office/apostlescreed %}}
 

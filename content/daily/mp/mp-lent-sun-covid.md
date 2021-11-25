@@ -23,44 +23,44 @@ One also may wish to find, again from [https://lectionarypage.net](lectionarypag
 
 # The Lessons
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/first %}}
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 
 {{% office/mp/canticle/second %}}
 
 ##### Reader:
-> A Reading (Lesson) from _____________.
+A Reading (Lesson) from _____________.
 
-> ...
+...
 
 ##### Reader:
-> The Word of the Lord.
+The Word of the Lord.
 
 ##### **People:**
-> Thanks be to God.
+Thanks be to God.
 
 ##### Silence may be kept.
 
