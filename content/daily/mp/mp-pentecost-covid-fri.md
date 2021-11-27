@@ -11,7 +11,7 @@ weekday: friday
 {{% office/mp/sentence %}}
 {{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
-{{% office/mp/psalm "___" /%}}
+{{% psalm %}}
 
 # The Lessons
 ##### _Reader:_

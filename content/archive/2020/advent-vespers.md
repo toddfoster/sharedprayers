@@ -35,7 +35,7 @@ Officiant:
 
 {{% office/ep/phoshilaron %}}
 
-{{% office/mp/psalm %}}
+{{% psalm %}}
 
 ## The Lessons
 Lector:

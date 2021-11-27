@@ -18,8 +18,8 @@ One also may wish to find, again from [https://lectionarypage.net](lectionarypag
 {{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
 
-{{% office/mp/psalm "___" %}}
-{{% /office/mp/psalm %}}
+{{% psalm "___" %}}
+{{% /psalm %}}
 
 # The Lessons
 ##### Reader:
