@@ -3,6 +3,7 @@ title: Ash Wednesday (Covid-tide)
 date: 2021-02-13
 proper: ash-wednesday
 liturgydate: 2021-02-17
+lectionaryyear: b
 bcppage: 264ff.
 ---
 {{% stt/2021/preparing-covid %}}
@@ -12,77 +13,10 @@ bcppage: 264ff.
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Joel 2:1-2,12-17" %}}
-Blow the trumpet in Zion;
-	sound the alarm on my holy mountain!
-Let all the inhabitants of the land tremble,
-	for the day of the Lord is coming, it is near--
-a day of darkness and gloom,
-	a day of clouds and thick darkness!
-Like blackness spread upon the mountains
-	a great and powerful army comes;
-their like has never been from of old,
-	nor will be again after them
-	in ages to come.
-
-
-Yet even now, says the Lord,
-	return to me with all your heart,
-with fasting, with weeping, and with mourning;
-	rend your hearts and not your clothing.
-Return to the Lord, your God,
-	for he is gracious and merciful,
-slow to anger, and abounding in steadfast love,
-	and relents from punishing.
-Who knows whether he will not turn and relent,
-	and leave a blessing behind him,
-a grain offering and a drink offering
-	for the Lord, your God?
-
-Blow the trumpet in Zion;
-	sanctify a fast;
-call a solemn assembly;
-	gather the people.
-Sanctify the congregation;
-	assemble the aged;
-gather the children,
-	even infants at the breast.
-Let the bridegroom leave his room,
-	and the bride her canopy.
-
-Between the vestibule and the altar
-	let the priests, the ministers of the Lord, weep.
-Let them say, "Spare your people, O Lord,
-	and do not make your heritage a mockery,
-	a byword among the nations.
-Why should it be said among the peoples,
-	`Where is their God?'"
-{{% /lessonverse %}}
-
+{{% lesson "first" /%}}
 {{% psalm "103" /%}}
-
-{{% lessonverse "Second"  "2 Corinthians 5:20b-6:10" %}}
-We entreat you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
-
-As we work together with him, we urge you also not to accept the grace of God in vain. For he says,
-
-> "At an acceptable time I have listened to you,
-and on a day of salvation I have helped you."
-
-See, now is the acceptable time; see, now is the day of salvation! We are putting no obstacle in anyone's way, so that no fault may be found with our ministry, but as servants of God we have commended ourselves in every way: through great endurance, in afflictions, hardships, calamities, beatings, imprisonments, riots, labors, sleepless nights, hunger; by purity, knowledge, patience, kindness, holiness of spirit, genuine love, truthful speech, and the power of God; with the weapons of righteousness for the right hand and for the left; in honor and dishonor, in ill repute and good repute. We are treated as impostors, and yet are true; as unknown, and yet are well known; as dying, and see-- we are alive; as punished, and yet not killed; as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing everything.
-{{% /lessonverse %}}
-
-{{% he/gospel "Matthew 6:1-6,16-21" %}}
-Jesus said, "Beware of practicing your piety before others in order to be seen by them; for then you have no reward from your Father in heaven.
-
-"So whenever you give alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, so that they may be praised by others. Truly I tell you, they have received their reward. But when you give alms, do not let your left hand know what your right hand is doing, so that your alms may be done in secret; and your Father who sees in secret will reward you.
-
-"And whenever you pray, do not be like the hypocrites; for they love to stand and pray in the synagogues and at the street corners, so that they may be seen by others. Truly I tell you, they have received their reward. But whenever you pray, go into your room and shut the door and pray to your Father who is in secret; and your Father who sees in secret will reward you.
-
-"And whenever you fast, do not look dismal, like the hypocrites, for they disfigure their faces so as to show others that they are fasting. Truly I tell you, they have received their reward. But when you fast, put oil on your head and wash your face, so that your fasting may be seen not by others but by your Father who is in secret; and your Father who sees in secret will reward you.
-
-"Do not store up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal; but store up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there your heart will be also."
-{{% /he/gospel %}}
+{{% lesson "second" /%}}
+{{% he/gospel /%}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
