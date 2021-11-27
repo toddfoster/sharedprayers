@@ -58,8 +58,7 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
-_Collect Proper to the Day_
-
+{{% office/propercollect %}}
 {{% collects/20-ForTheSick-covid %}}
 {{% office/ep/collect/protection %}}
 {{% office/ep/collect/ogodyoumanifest %}}
