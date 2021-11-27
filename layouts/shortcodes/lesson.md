@@ -1,11 +1,8 @@
 {{/* shortcodes/lesson.md */}}
 {{/* parameters: ordinal day/reference */}}
-{{/* ordinal can be first|second|gospel|psalm or else literal */}}
+{{/* ordinal can be first|second|third|gospel|psalm */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
-{{/* TODO: Use opinionated lectionary by default */}}
-{{/* TODO: specify lectionary */}}
-{{/* TODO: DRY - fold in he/gospel.md */}}
-{{/* TODO: DRY - fold in psalm.md? */}}
+{{/* TODO: specify track, use opinionated lectionary by default */}}
 {{ $DEBUG := false }}
 
 {{/* Figure out ordinal: keyword or literal or fail */}}
