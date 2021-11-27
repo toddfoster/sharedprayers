@@ -29,7 +29,7 @@ Officiant:
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Isaiah 42:5-9" %}}
+{{% lesson "First" "Isaiah 42:5-9" %}}
 Thus says God, the Lord,
 who created the heavens and stretched them out,
 who spread out the earth and what comes from it,
@@ -56,7 +56,7 @@ and new things I now declare;
 
 before they spring forth,
 I tell you of them.
-{{% /lessonverse %}}
+{{% /lesson %}}
 
 {{% psalm "126" /%}}
 

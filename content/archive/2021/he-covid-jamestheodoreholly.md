@@ -22,9 +22,9 @@ during Covid-tide_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Deuteronomy 6:20–25" %}}
+{{% lesson "First" "Deuteronomy 6:20–25" %}}
 Moses said, “When your children ask you in time to come, ‘What is the meaning of the decrees and the statutes and the ordinances that the Lord our God has commanded you?’ then you shall say to your children, ‘We were Pharaoh’s slaves in Egypt, but the Lord brought us out of Egypt with a mighty hand. The Lord displayed before our eyes great and awesome signs and wonders against Egypt, against Pharaoh and all his household. He brought us out from there in order to bring us in, to give us the land that he promised on oath to our ancestors. Then the Lord commanded us to observe all these statutes, to fear the Lord our God, for our lasting good, so as to keep us alive, as is now the case. If we diligently observe this entire commandment before the Lord our God, as he has commanded us, we will be in the right.’ ”
-{{% /lessonverse %}}
+{{% /lesson %}}
 
 **The Psalm**
 {{% psalm "86:11-17" %}}

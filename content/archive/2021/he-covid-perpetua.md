@@ -20,7 +20,7 @@ during Covid-tide_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Hebrews 10:32–39" %}}
+{{% lesson "First" "Hebrews 10:32–39" %}}
 Recall those earlier days when, after you had been enlightened, you endured a hard struggle with sufferings, sometimes being publicly exposed to abuse and persecution, and sometimes being partners with those so treated. For you had compassion for those who were in prison, and you cheerfully accepted the plundering of your possessions, knowing that you yourselves possessed something better and more lasting. Do not, therefore, abandon that confidence of yours; it brings a great reward. For you need endurance, so that when you have done the will of God, you may receive what was promised.
 
 > For yet "in a very little while,
@@ -29,7 +29,7 @@ Recall those earlier days when, after you had been enlightened, you endured a ha
 > My soul takes no pleasure in anyone who shrinks back."
 
 But we are not among those who shrink back and so are lost, but among those who have faith and so are saved.
-{{% /lessonverse %}}
+{{% /lesson %}}
 
 {{% psalm "124" /%}}
 

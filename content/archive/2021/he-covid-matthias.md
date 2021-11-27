@@ -19,7 +19,7 @@ _according to the Book of Common Prayer (p. 355ff.)_
 
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Acts 1:15-26" %}}
+{{% lesson "First" "Acts 1:15-26" %}}
 Peter stood up among the believers (together the crowd numbered about one hundred twenty persons) and said, "Friends, the scripture had to be fulfilled, which the Holy Spirit through David foretold concerning Judas, who became a guide for those who arrested Jesus-- for he was numbered among us and was allotted his share in this ministry." (Now this man acquired a field with the reward of his wickedness; and falling headlong, he burst open in the middle and all his bowels gushed out. This became known to all the residents of Jerusalem, so that the field was called in their language Hakeldama, that is, Field of Blood.) "For it is written in the book of Psalms,
 
 `Let his homestead become desolate,
@@ -30,7 +30,7 @@ and
 `Let another take his position of overseer.'
 
 So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us, beginning from the baptism of John until the day when he was taken up from us-- one of these must become a witness with us to his resurrection." So they proposed two, Joseph called Barsabbas, who was also known as Justus, and Matthias. Then they prayed and said, "Lord, you know everyone's heart. Show us which one of these two you have chosen to take the place in this ministry and apostleship from which Judas turned aside to go to his own place." And they cast lots for them, and the lot fell on Matthias; and he was added to the eleven apostles.
-{{% /lessonverse %}}
+{{% /lesson %}}
 
 
 {{% psalm "15" /%}}

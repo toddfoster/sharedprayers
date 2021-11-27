@@ -10,7 +10,7 @@ bcppage: 355ff.
 {{% stt/2021/epiphany/he/wegather %}}
 {{% rubric-sit %}}
 ## We Hear God’s Word
-{{% lessonverse "First" "Isaiah 40:21-31" %}}
+{{% lesson "First" "Isaiah 40:21-31" %}}
 Have you not known? Have you not heard?
 Has it not been told you from the beginning?
 Have you not understood from the foundations of the earth?
@@ -59,7 +59,7 @@ but those who wait for the Lord shall renew their strength,
 they shall mount up with wings like eagles,
 they shall run and not be weary,
 they shall walk and not faint.
-{{% /lessonverse %}}
+{{% /lesson %}}
 
 {{% psalm "147:1-12, 21c" %}}
 _Laudate Dominum_
