@@ -48,7 +48,7 @@ people to praise and worship; through Jesus Christ our Lord.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

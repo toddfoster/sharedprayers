@@ -18,7 +18,7 @@ proper: alexandercrummell
 {{% lesson "First" "Sirach 2.7-11,17-18" /%}}
 {{% lesson "psalm" "Psalm 19:7-11" /%}}
 {{% lesson "Second" "James 1.2-5" /%}}
-{{% he/gospel "Mark 4.1-10, 13-20" /%}}
+{{% lesson "gospel" "Mark 4.1-10, 13-20" /%}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.

@@ -43,7 +43,7 @@ But let justice roll down like waters,
 and righteousness like an everflowing stream.
 {{% /lesson %}}
 {{% lesson "psalm" "Psalm 85:7-13" /%}}
-{{% he/gospel "Luke 1:46–55" /%}}
+{{% lesson "gospel" "Luke 1:46–55" /%}}
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### Silence follows the homily.

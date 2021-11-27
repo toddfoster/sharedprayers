@@ -45,11 +45,11 @@ for God himself is judge.**
 Even if our gospel is veiled, it is veiled to those who are perishing. In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God. For we do not proclaim ourselves; we proclaim Jesus Christ as Lord and ourselves as your slaves for Jesus’ sake. For it is the God who said, “Let light shine out of darkness,” who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 {{% /lesson %}}
 
-{{% he/gospel "Mark 9:2-9" %}}
+{{% lesson "gospel" "Mark 9:2-9" %}}
 Jesus took with him Peter and James and John, and led them up a high mountain apart, by themselves. And he was transfigured before them, and his clothes became dazzling white, such as no one on earth could bleach them. And there appeared to them Elijah with Moses, who were talking with Jesus. Then Peter said to Jesus, “Rabbi, it is good for us to be here; let us make three dwellings, one for you, one for Moses, and one for Elijah.” He did not know what to say, for they were terrified. Then a cloud overshadowed them, and from the cloud there came a voice, “This is my Son, the Beloved; listen to him!” Suddenly when they looked around, they saw no one with them any more, but only Jesus.
 
 As they were coming down the mountain, he ordered them to tell no one about what they had seen, until after the Son of Man had risen from the dead.
-{{% /he/gospel %}}
+{{% /lesson %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

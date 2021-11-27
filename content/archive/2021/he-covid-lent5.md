@@ -21,7 +21,7 @@ bcppage: 351ff.
 {{% comment "mis-printed bulletin; should only be Ps 51.1-13" /%}}
 {{% lesson "psalm" "Psalm 51" /%}}
 {{% lesson "second" /%}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

@@ -17,7 +17,7 @@ bcppage: 299ff.
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/anthem "He Never Said a Mumblin' Word (St. Thomas' Choir)" %}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

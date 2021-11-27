@@ -60,9 +60,9 @@ I tell you of them.
 
 {{% lesson "psalm" "126" /%}}
 
-{{% he/gospel "John 15:12-15" %}}
+{{% lesson "gospel" "John 15:12-15" %}}
 Jesus said, “This is my commandment, that you love one another as I have loved you. No one has greater love than this, to lay down one’s life for one’s friends. You are my friends if you do what I command you. I do not call you servants any longer, because the servant does not know what the master is doing; but I have called you friends, because I have made known to you everything that I have heard from my Father."
-{{% /he/gospel %}}
+{{% /lesson %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

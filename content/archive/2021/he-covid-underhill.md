@@ -17,7 +17,7 @@ bcppage: 355ff.
 {{% lesson "First" "Wisdom of Solomon 7:24–8:1" /%}}
 {{% lesson "psalm" "Psalm 37:3-6, 32-33" /%}}
 {{% lesson "Second" "1 Corinthians 4:1–5" /%}}
-{{% he/gospel "John 4:19-24" /%}}
+{{% lesson "gospel" "John 4:19-24" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

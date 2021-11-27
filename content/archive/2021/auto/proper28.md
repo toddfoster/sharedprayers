@@ -18,7 +18,7 @@ bcppage: 355ff.
 ### A Canticle: The Song of Hannah
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

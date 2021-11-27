@@ -19,7 +19,7 @@ bcppage: 355ff.
 {{% lesson "psalm" /%}}
 ##### pb
 {{% lesson "second" /%}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ##### pb

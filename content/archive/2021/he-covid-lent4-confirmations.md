@@ -50,11 +50,11 @@ and tell of his acts with shouts of joy.
 You were dead through the trespasses and sins in which you once lived, following the course of this world, following the ruler of the power of the air, the spirit that is now at work among those who are disobedient. All of us once lived among them in the passions of our flesh, following the desires of flesh and senses, and we were by nature children of wrath, like everyone else. But God, who is rich in mercy, out of the great love with which he loved us even when we were dead through our trespasses, made us alive together with Christ-- by grace you have been saved-- and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the ages to come he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus. For by grace you have been saved through faith, and this is not your own doing; it is the gift of God-- not the result of works, so that no one may boast. For we are what he has made us, created in Christ Jesus for good works, which God prepared beforehand to be our way of life.
 {{% /lesson %}}
 
-{{% he/gospel "John 3:14-21" %}}
+{{% lesson "gospel" "John 3:14-21" %}}
 Jesus said, “Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
 “For God so loved the world that he gave his only Son, so that everyone who believes in him may not perish but may have eternal life.
 “Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him. Those who believe in him are not condemned; but those who do not believe are condemned already, because they have not believed in the name of the only Son of God. And this is the judgment, that the light has come into the world, and people loved darkness rather than light because their deeds were evil. For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed. But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.”
-{{% /he/gospel %}}
+{{% /lesson %}}
 {{% he/homily/brief %}}
 {{% he/creed/confirmation %}}
 {{% stt/2021/peace-covid %}}

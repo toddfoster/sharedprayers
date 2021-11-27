@@ -16,7 +16,7 @@ bcppage: 285ff.
 ## We Hear God's Word
 {{% lesson second /%}}
 {{% he/eastervigil/greatalleluia %}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% comment %}}
 TODO: rubric to stand should come before invitation to renewal
  - but hopefully still standing from Gospel

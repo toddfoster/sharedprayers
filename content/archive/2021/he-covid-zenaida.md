@@ -26,7 +26,7 @@ during Covid-tide_
 **The Psalm**
 {{% lesson "psalm" "Psalm 147" /%}}
 
-{{% he/gospel "Mark 1:29-34" /%}}
+{{% lesson "gospel" "Mark 1:29-34" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

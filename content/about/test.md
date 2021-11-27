@@ -83,20 +83,20 @@ TODO:
 - change spreadsheet to reference hymns directly: e.g., hymns/levas-184
 
 # TEST: gospel - default
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 
 ## TEST: gospel -- alternate
-{{% he/gospel "John 3.16" /%}}
+{{% lesson "gospel" "John 3.16" /%}}
 
 ## TEST: gospel -- none
 {% he/gospel " " /%}}
 
 ## TEST: gospel -- override
-{{% he/gospel "John 145.67" %}}
+{{% lesson "gospel" "John 145.67" %}}
 This is not really part of the Gospel of John.
 
 But it does have two paragraphs.
-{{% /he/gospel %}}
+{{% /lesson %}}
 
 # TEST: homily
 {{% he/homily/brief %}}

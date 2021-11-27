@@ -27,7 +27,7 @@ during Covid-tide_
 {{% lesson "psalm" "Psalm 119:161-168" /%}}
 
 {{% lesson "Second" "1 Thessalonians 2:1-12" /%}}
-{{% he/gospel "John 4:31-36" /%}}
+{{% lesson "gospel" "John 4:31-36" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

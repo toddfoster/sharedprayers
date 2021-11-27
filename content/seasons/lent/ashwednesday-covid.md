@@ -16,7 +16,7 @@ bcppage: 264ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" "103" /%}}
 {{% lesson "second" /%}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

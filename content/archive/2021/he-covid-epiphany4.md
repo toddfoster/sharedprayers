@@ -24,9 +24,9 @@ Hence, as to the eating of food offered to idols, we know that “no idol in the
 It is not everyone, however, who has this knowledge. Since some have become so accustomed to idols until now, they still think of the food they eat as food offered to an idol; and their conscience, being weak, is defiled. “Food will not bring us close to God.” We are no worse off if we do not eat, and no better off if we do. But take care that this liberty of yours does not somehow become a stumbling block to the weak. For if others see you, who possess knowledge, eating in the temple of an idol, might they not, since their conscience is weak, be encouraged to the point of eating food sacrificed to idols? So by your knowledge those weak believers for whom Christ died are destroyed. But when you thus sin against members of your family, and wound their conscience when it is weak, you sin against Christ. Therefore, if food is a cause of their falling, I will never eat meat, so that I may not cause one of them to fall.
 {{% /lesson %}}
 
-{{% he/gospel "Mark 1:21-28" %}}
+{{% lesson "gospel" "Mark 1:21-28" %}}
 Jesus and his disciples went to Capernaum; and when the sabbath came, he entered the synagogue and taught. They were astounded at his teaching, for he taught them as one having authority, and not as the scribes. Just then there was in their synagogue a man with an unclean spirit, and he cried out, “What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God.” But Jesus rebuked him, saying, “Be silent, and come out of him!” And the unclean spirit, convulsing him and crying with a loud voice, came out of him. They were all amazed, and they kept on asking one another, “What is this? A new teaching—with authority! He commands even the unclean spirits, and they obey him.” At once his fame began to spread throughout the surrounding region of Galilee.
-{{% /he/gospel %}}
+{{% /lesson %}}
 
 {{% rubric-sit %}}
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

@@ -21,7 +21,7 @@ bcppage: 355ff.
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/sequence "There's a voice in the wilderness crying (Hymnal 75)" %}}
-{{% he/gospel /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ##### pb

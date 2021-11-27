@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" "Joshua 1:1-9" /%}}
 {{% lesson "psalm" "Psalm 3" /%}}
 {{% lesson "second" "Revelation 12:7-12" /%}}
-{{% he/gospel "John 8:21-29" /%}}
+{{% lesson "gospel" "John 8:21-29" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith

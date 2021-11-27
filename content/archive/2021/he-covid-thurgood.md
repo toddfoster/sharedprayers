@@ -26,7 +26,7 @@ during Covid-tide_
 {{% lesson "psalm" "Psalm 34:15-22" /%}}
 
 {{% lesson "Second" "1 Corinthians 13:1-13" /%}}
-{{% he/gospel "Matthew 23:1-11" /%}}
+{{% lesson "gospel" "Matthew 23:1-11" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
