@@ -8,21 +8,6 @@
 {{/* TODO: DRY - fold in psalm.md? */}}
 {{ $DEBUG := false }}
 
-{{/* Figure out year: page parameter or default A */}}
-{{ $year := "A" }}
-{{ with $.Page.Params.lectionaryyear }}
-    {{ $year = . }}
-{{ end }}
-{{ $year = $year | upper }}
-
-{{/* Figure out day: argument (day spec or literal) or page parameter or fail */}}
-{{ $day := "" }}
-{{ with .Get 1 }}
-  {{ $day = . }}
-{{ else }}
-  {{ $day = $.Page.Params.proper }}
-{{ end }}
-
 {{/* Figure out ordinal: keyword or literal or fail */}}
 {{ $ordinal := .Get 0 }}
 {{ $prettyOrdinal := $ordinal }}
@@ -30,21 +15,42 @@
 {{ if fileExists $filename }}
     {{ $prettyOrdinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $ordinal ) | readFile | chomp | safeHTML }}
 {{ end}}
+{{ $gospelheadings := (in $ordinal "ospel") }}
+{{ if in $ordinal "hird" }}
+  {{ $ordinal = "gospel" }}
+{{ end }}
 
+{{/* Figure out day: argument (day spec or literal reference) or page parameter */}}
+{{ $day := "" }}
+{{ with .Get 1 }}
+  {{ $day = . }}
+{{ else }}
+  {{ $day = $.Page.Params.proper }}
+{{ end }}
+
+{{/* Figure out year: page parameter or default A */}}
+{{ $year := "A" }}
+{{ with $.Page.Params.lectionaryyear }}
+    {{ $year = . }}
+{{ end }}
+{{ $year = $year | upper }}
+
+{{/* ---------------------------- */}}
 {{/* Find actual reference */}}
+{{/* ---------------------------- */}}
+{{/* First, check bcpcl.json */}}
 {{ $reference := $day }}
 {{  with first 1 (where (where (where $.Site.Data.bcprcl "year" $year) "day" $day) "lesson" $ordinal) }}
 	{{ $reference = (index . 0).citation }}
 {{ else }}
-    {{/* Check for a named holiday */}}
+	{{/* Second, check holydays directory for a named holiday */}}
 	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/%s" $day $ordinal ) }}
-	{{ if $DEBUG }}
-	  {{ printf "holy day file is %v" $reffile }}
-  {{ end }}
+	{{ if $DEBUG }}{{ printf "holy day file is %v" $reffile }}{{ end }}
 	{{ if fileExists $reffile }}
 		{{ $reference = ($reffile | readFile | safeHTML) }}
 	{{ end }}
 {{ end }}
+{{/* else assume a literal reference or blank */}}
 
 {{ if $DEBUG }}
 	{{ printf "reference = %v" $reference }}
@@ -57,6 +63,10 @@
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
 
+
+{{/* ---------------------------- */}}
+{{/* Introduce reading */}}
+{{/* ---------------------------- */}}
 {{ if or (in $ordinal "salm") (in $ordinal "anticle") }}
 {{/* Heading for psalm/canticle */}}
 {{ $psalmlabel := "Psalm " }}
@@ -69,14 +79,29 @@
     {{ else }}
 ### {{ $psalmlabel }}{{ $reference }}
 {{ end }}
+{{ else if $gospelheadings }}
+##### The people stand as able.
+### The Holy Gospel: _{{- $reference -}}_
+
+{{ $gospel :=  strings.TrimRight " .,:-–0123456789" $reference }}
+##### Deacon:
+The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
+
+##### **People:**
+**Glory to you, Lord Christ.**
+
+##### Deacon:
 {{ else }}
-{{/* Heading for non-Psalm/Canticle */}}
+{{/* Heading other lessons */}}
 ### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
 ##### Lector:
 {{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
 A reading from {{ $intro }}
 {{ end }}
 
+{{/* ---------------------------- */}}
+{{/* Provide reading itself */}}
+{{/* ---------------------------- */}}
 {{ with .Inner }}
 	{{ . | safeHTML}}
 {{ else }}
@@ -106,7 +131,16 @@ A reading from {{ $intro }}
 {{ end }}
 {{ end }}
 
+{{/* ---------------------------- */}}
+{{/* Conclude reading  */}}
+{{/* ---------------------------- */}}
 {{ if or (in $ordinal "salm") (in $ordinal "anticle") }}
+{{ else if $gospelheadings }}
+##### Deacon:
+The Gospel of the Lord.
+
+##### **People:**
+**Praise to you, Lord Christ.**
 {{ else }}
 ##### Lector:
 The word of the Lord.
