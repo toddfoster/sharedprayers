@@ -1,6 +1,6 @@
 {{/* shortcodes/psalm.md */}}
 {{/* positional parameter: reference */}}
-{{/* named parameters: year="A", office=false, heading=true, debug=false */}}
+{{/* named parameters: ref="119" year="A", office=false, heading=true, debug=false */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literally the psalm reference */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
@@ -29,7 +29,7 @@
 
 {{/* Find actual reference: literal psalm number? else day name? */}}
 {{ $ordinal := "psalm" }}
-{{ $reference := $day }}
+{{ $reference := default $day (.Get "ref") }}
 {{  with first 1 (where (where (where $.Site.Data.bcprcl "year" $year) "day" $day) "lesson" $ordinal) }}
 	{{ $reference = (index . 0).citation }}
 {{ else }}{{/* Check for a named holiday */}}
