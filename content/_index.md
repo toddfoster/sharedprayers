@@ -19,6 +19,7 @@ title: Shared Prayers
 **Weekday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
+- [Vespers for the Feast of St. Andrew, 30 November](seasons/advent/vespers-st-andrew/)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
