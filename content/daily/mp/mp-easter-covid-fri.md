@@ -12,7 +12,7 @@ weekday: friday
 
 {{% office/mp/invitatory  %}}
 
-{{% psalm "___" %}}
+{{% psalm %}}
 {{% /psalm %}}
 
 # The Lessons

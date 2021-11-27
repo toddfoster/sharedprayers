@@ -12,7 +12,7 @@ weekday: sunday
 
 {{% office/mp/invitatory %}}
 
-{{% psalm "25:1-9" %}}
+{{% psalm ref="25:1-9" office=true %}}
 _Ad te, Domine, levavi_
 
 1 To you, O Lord, I lift up my soul;
