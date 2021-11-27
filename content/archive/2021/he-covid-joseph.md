@@ -29,7 +29,7 @@ Now therefore thus you shall say to my servant David: Thus says the Lord of host
 {{% /lesson %}}
 
 **The Psalm**
-{{% psalm "89:1-4, 26-29" %}}
+{{% lesson "psalm" "89:1-4, 26-29" %}}
 _Misericordias Domini_
 
 > 1	Your love, O LORD, for ever will I sing; \*
@@ -51,7 +51,7 @@ and higher than the kings of the earth.**
 and my covenant will stand firm for him.
 > **29	I will establish his line for ever \*
 and his throne as the days of heaven."**
-{{% /psalm %}}
+{{% /lesson %}}
 
 {{% lesson "Second" "Romans 4:13-18" %}}
 The promise that he would inherit the world did not come to Abraham or to his descendants through the law but through the righteousness of faith. If it is the adherents of the law who are to be the heirs, faith is null and the promise is void. For the law brings wrath; but where there is no law, neither is there violation.

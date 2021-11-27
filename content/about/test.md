@@ -65,17 +65,17 @@ With two paragraphs.
 {{% lesson "Fourth" "1 John 3:1-3" /%}}
 
 # TEST: psalms/responsively
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 
 ## TEST: psalm - file
-{{% psalm "Psalm 1" /%}}
+{{% lesson "psalm" "Psalm 1" /%}}
 
 ## Test: psalm - inner
-{{% psalm "Psalm 144" %}}
+{{% lesson "psalm" "Psalm 144" %}}
 A psalm
 **doesn't have to be responsive.**
 But it's nice.
-{{% /psalm %}}
+{{% /lesson %}}
 
 TODO:
 - he/psalm: handle canticles, allow parameter specifying psalm, if no Psalm, provide link, allow .Inner override,

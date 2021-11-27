@@ -52,7 +52,7 @@ O God, make speed to save us.
 ##### Except in Lent, add
 **Alleluia.**
 
-{{% psalm "91" /%}}
+{{% lesson "psalm" "91" /%}}
 {{% office/gloriapatri %}}
 
 ##### A lesson is read

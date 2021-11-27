@@ -61,7 +61,7 @@ they shall run and not be weary,
 they shall walk and not faint.
 {{% /lesson %}}
 
-{{% psalm "147:1-12, 21c" %}}
+{{% lesson "psalm" "147:1-12, 21c" %}}
 _Laudate Dominum_
 
 1 Hallelujah!
@@ -95,7 +95,7 @@ he has no pleasure in the strength of a man;
 **12 But the Lord has pleasure in those who fear him, *
 in those who await his gracious favor.
 21 Hallelujah!**
-{{% /psalm %}}
+{{% /lesson %}}
 
 {{% lesson "Second"  "1 Corinthians 9:16-23" %}}
 If I proclaim the gospel, this gives me no ground for boasting, for an obligation is laid on me, and woe to me if I do not proclaim the gospel! For if I do this of my own will, I have a reward; but if not of my own will, I am entrusted with a commission. What then is my reward? Just this: that in my proclamation I may make the gospel free of charge, so as not to make full use of my rights in the gospel.

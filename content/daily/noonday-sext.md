@@ -16,7 +16,7 @@ _Except in Lent, add_  **Alleluia.**
 
 _A suitable hymn may be sung._
 
-{{% psalm "121" /%}}
+{{% lesson "psalm" "121" /%}}
 {{% office/gloriapatri %}}
 
 > If anyone is in Christ he is a new creation; the old has passed away, behold the new has come.  All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation.  _2 Corinthians 5:17-18_

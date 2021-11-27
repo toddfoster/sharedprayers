@@ -36,7 +36,7 @@ Officiant:
 {{% office/ep/phoshilaron %}}
 
 {{% office/psalmintro %}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 
 ## The Lessons

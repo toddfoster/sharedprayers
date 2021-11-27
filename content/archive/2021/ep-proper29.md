@@ -12,7 +12,7 @@ proper: proper-29-christ-the-king
 {{% office/ep/confession %}}
 ##### pb
 {{% office/ep/invitatory  %}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% office/gloriapatri %}}
 
 ##### pb

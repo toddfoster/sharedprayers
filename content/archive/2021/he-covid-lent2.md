@@ -24,7 +24,7 @@ When Abram was ninety-nine years old, the Lord appeared to Abram, and said to hi
 God said to Abraham, “As for Sarai your wife, you shall not call her Sarai, but Sarah shall be her name. I will bless her, and moreover I will give you a son by her. I will bless her, and she shall give rise to nations; kings of peoples shall come from her.”
 {{% /lesson %}}
 
-{{% psalm "22:22-30" %}}
+{{% lesson "psalm" "22:22-30" %}}
 _Deus, Deus meus_
 
 22 Praise the Lord, you that fear him; *
@@ -54,7 +54,7 @@ they shall be known as the Lord’s for ever.**
 
 30 They shall come and make known to a people yet unborn *
 the saving deeds that he has done.
-{{% /psalm %}}
+{{% /lesson %}}
 
 {{% lesson "Second"  "Romans 4:13-25" %}}
 For the promise that he would inherit the world did not come to Abraham or to his descendants through the law but through the righteousness of faith. If it is the adherents of the law who are to be the heirs, faith is null and the promise is void. For the law brings wrath; but where there is no law, neither is there violation.

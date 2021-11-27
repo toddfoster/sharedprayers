@@ -20,7 +20,7 @@ O Lord our God, who by your Son Jesus Christ called your servant Augustine to pr
 {{% lesson "First" "2 Corinthians 5:17–21" %}}
 If anyone is in Christ, there is a new creation: everything old has passed away; see, everything has become new! All this is from God, who reconciled us to himself through Christ, and has given us the ministry of reconciliation; that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting the message of reconciliation to us. So we are ambassadors for Christ, since God is making his appeal through us; we entreat you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 {{% /lesson %}}
-{{% psalm "Psalm 66:1-8" %}}
+{{% lesson "psalm" "Psalm 66:1-8" %}}
 _Jubilate Deo_
 
 1 Be joyful in God, all you lands; *
@@ -45,7 +45,7 @@ let no rebel rise up against him.**
 make the voice of his praise to be heard;
 **8 Who holds our souls in life, *
 and will not allow our feet to slip.**
-{{% /psalm %}}
+{{% /lesson %}}
 {{% he/gospel "Luke 5:1–11" %}}
 Once while Jesus was standing beside the lake of Gennesaret, and the crowd was pressing in on him to hear the word of God, he saw two boats there at the shore of the lake; the fishermen had gone out of them and were washing their nets. He got into one of the boats, the one belonging to Simon, and asked him to put out a little way from the shore. Then he sat down and taught the crowds from the boat. When he had finished speaking, he said to Simon, "Put out into the deep water and let down your nets for a catch." Simon answered, "Master, we have worked all night long but have caught nothing. Yet if you say so, I will let down the nets." When they had done this, they caught so many fish that their nets were beginning to break. So they signaled their partners in the other boat to come and help them. And they came and filled both boats, so that they began to sink. But when Simon Peter saw it, he fell down at Jesus' knees, saying, "Go away from me, Lord, for I am a sinful man!" For he and all who were with him were amazed at the catch of fish that they had taken; and so also were James and John, sons of Zebedee, who were partners with Simon. Then Jesus said to Simon, "Do not be afraid; from now on you will be catching people." When they had brought their boats to shore, they left everything and followed him.
 {{% /he/gospel %}}

@@ -12,7 +12,7 @@ weekday: monday
 {{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
 {{% office/psalmintro %}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 
 # The Lessons

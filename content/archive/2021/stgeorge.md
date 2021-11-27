@@ -16,7 +16,7 @@ bcppage: 355ff.
 
 ## We Hear God's Word
 {{% lesson "first" "Joshua 1:1-9" /%}}
-{{% psalm "Psalm 3" /%}}
+{{% lesson "psalm" "Psalm 3" /%}}
 {{% lesson "second" "Revelation 12:7-12" /%}}
 {{% he/gospel "John 8:21-29" /%}}
 {{% he/homily/brief %}}

@@ -33,7 +33,7 @@ So one of the men who have accompanied us during all the time that the Lord Jesu
 {{% /lesson %}}
 
 
-{{% psalm "15" /%}}
+{{% lesson "psalm" "15" /%}}
 
 {{% lesson "Second" "Philippians 3:13-21" %}}
 This one thing I do: forgetting what lies behind and straining forward to what lies ahead, I press on toward the goal for the prize of the heavenly call of God in Christ Jesus. Let those of us then who are mature be of the same mind; and if you think differently about anything, this too God will reveal to you. Only let us hold fast to what we have attained.

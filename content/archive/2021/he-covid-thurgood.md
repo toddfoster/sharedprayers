@@ -23,7 +23,7 @@ during Covid-tide_
 {{% lesson "First" "Amos 5:10-15, 21-24" /%}}
 
 **The Psalm**
-{{% psalm "Psalm 34:15-22" /%}}
+{{% lesson "psalm" "Psalm 34:15-22" /%}}
 
 {{% lesson "Second" "1 Corinthians 13:1-13" /%}}
 {{% he/gospel "Matthew 23:1-11" /%}}

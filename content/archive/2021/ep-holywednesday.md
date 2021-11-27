@@ -9,7 +9,7 @@ weekday: wednesday
 {{% office/ep/sentence "5" %}}
 {{% he/confession %}}
 {{% office/ep/invitatory %}}
-{{% psalm "Psalm 70" /%}}
+{{% lesson "psalm" "Psalm 70" /%}}
 {{% office/gloriapatri %}}
 
 ## The Lessons

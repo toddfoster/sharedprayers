@@ -46,7 +46,7 @@ people to praise and worship; through Jesus Christ our Lord.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}

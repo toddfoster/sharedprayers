@@ -6,7 +6,7 @@ lectionaryyear: b
 ##### pb
 ## Proper 22 - 3 October 2021
 {{% lesson "first" "proper-22" /%}}
-{{% psalm "proper-22" /%}}
+{{% lesson "psalm" "proper-22" /%}}
 {{% lesson "second" "proper-22" /%}}
 {{% lesson "gospel"  "proper-22" /%}}
 {{% nrsv %}}
@@ -14,7 +14,7 @@ lectionaryyear: b
 ##### pb
 ## Proper 23 - 10 October 2021
 {{% lesson "first" "proper-23" /%}}
-{{% psalm "proper-23" /%}}
+{{% lesson "psalm" "proper-23" /%}}
 {{% lesson "second" "proper-23" /%}}
 {{% lesson "gospel"  "proper-23" /%}}
 {{% nrsv %}}
@@ -23,7 +23,7 @@ lectionaryyear: b
 ##### pb
 ## Proper 24 - 17 October 2021
 {{% lesson "first" "proper-24" /%}}
-{{% psalm "proper-24" /%}}
+{{% lesson "psalm" "proper-24" /%}}
 {{% lesson "second" "proper-24" /%}}
 {{% lesson "gospel"  "proper-24" /%}}
 {{% nrsv %}}
@@ -32,7 +32,7 @@ lectionaryyear: b
 ##### pb
 ## Proper 25 - 24 October 2021
 {{% lesson "first" "proper-25" /%}}
-{{% psalm "proper-25" /%}}
+{{% lesson "psalm" "proper-25" /%}}
 {{% lesson "second" "proper-25" /%}}
 {{% lesson "gospel"  "proper-25" /%}}
 {{% nrsv %}}
@@ -41,7 +41,7 @@ lectionaryyear: b
 ##### pb
 ## Proper 26 - 31 October 2021
 {{% lesson "first" "proper-26" /%}}
-{{% psalm "proper-26" /%}}
+{{% lesson "psalm" "proper-26" /%}}
 {{% lesson "second" "proper-26" /%}}
 {{% lesson "gospel"  "proper-26" /%}}
 {{% nrsv %}}
@@ -49,7 +49,7 @@ lectionaryyear: b
 ##### pb
 ## All Saints - 7 November 2021
 {{% lesson "first" "all-saints-day" /%}}
-{{% psalm "all-saints-day" /%}}
+{{% lesson "psalm" "all-saints-day" /%}}
 {{% lesson "second" "all-saints-day" /%}}
 {{% lesson "gospel"  "all-saints-day" /%}}
 {{% nrsv %}}
@@ -109,7 +109,7 @@ The Lord will judge the ends of the earth;
 ##### pb
 ## Proper 29 - 21 November 2021
 {{% lesson "first" "proper-29-christ-the-king" /%}}
-{{% psalm "proper-29-christ-the-king" /%}}
+{{% lesson "psalm" "proper-29-christ-the-king" /%}}
 {{% lesson "second" "proper-29-christ-the-king" /%}}
 {{% lesson "gospel"  "proper-29-christ-the-king" /%}}
 {{% nrsv %}}

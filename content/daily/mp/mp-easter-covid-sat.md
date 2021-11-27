@@ -12,8 +12,8 @@ weekday: saturday
 
 {{% office/mp/invitatory  %}}
 
-{{% psalm %}}
-{{% /psalm %}}
+{{% lesson "psalm" %}}
+{{% /lesson %}}
 
 # The Lessons
 ##### Reader:

@@ -16,7 +16,7 @@ _Except in Lent, add_  **Alleluia.**
 
 _A suitable hymn may be sung._
 
-{{% psalm "119" %}}
+{{% lesson "psalm" "119" %}}
 _Lucerna pedibus meis_
 
 105  Your word is a lantern to my feet *
@@ -38,7 +38,7 @@ _Lucerna pedibus meis_
  truly, they are the joy of my heart.
 **112  I have applied my heart to fulfill your statues *
  for ever and to the end.**
-{{% /psalm %}}
+{{% /lesson %}}
 {{% office/gloriapatri %}}
 
 > The love of God has been poured into our hearts through the Holy Spirit that has been given to us.  _Romans 5:5_

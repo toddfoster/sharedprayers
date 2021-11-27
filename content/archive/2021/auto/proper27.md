@@ -14,7 +14,7 @@ bcppage: 299ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/anthem "He Never Said a Mumblin' Word (St. Thomas' Choir)" %}}
 {{% he/gospel /%}}

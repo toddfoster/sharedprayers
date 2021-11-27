@@ -14,7 +14,7 @@ bcppage: 355ff.
 Moses said: The Lord your God will raise up for you a prophet like me from among your own people; you shall heed such a prophet. This is what you requested of the Lord your God at Horeb on the day of the assembly when you said: “If I hear the voice of the Lord my God any more, or ever again see this great fire, I will die.” Then the Lord replied to me: “They are right in what they have said. I will raise up for them a prophet like you from among their own people; I will put my words in the mouth of the prophet, who shall speak to them everything that I command. Anyone who does not heed the words that the prophet shall speak in my name, I myself will hold accountable. But any prophet who speaks in the name of other gods, or who presumes to speak in my name a word that I have not commanded the prophet to speak—that prophet shall die.”
 {{% /lesson %}}
 
-{{% psalm "111" /%}}
+{{% lesson "psalm" "111" /%}}
 
 {{% lesson "Second"  "1 Corinthians 8:1-13" %}}
 Now concerning food sacrificed to idols: we know that “all of us possess knowledge.” Knowledge puffs up, but love builds up. Anyone who claims to know something does not yet have the necessary knowledge; but anyone who loves God is known by him.

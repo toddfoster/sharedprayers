@@ -48,7 +48,7 @@ _Officiant_ and **People**
 *Except in Lent, add*
 > **Alleluia.**
 
-{{% psalm "9" /%}}
+{{% lesson "psalm" "9" /%}}
 {{% office/gloriapatri %}}
 
 _A lesson is read_

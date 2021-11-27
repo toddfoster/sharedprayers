@@ -28,14 +28,14 @@ With two paragraphs.
 {{% lesson "Fourth" "1 John 3:1-3" /%}}
 
 ## TEST: Psalm - file
-{{% psalm "Psalm 1" /%}}
+{{% lesson "psalm" "Psalm 1" /%}}
 
 ## Test: Psalm - inner
-{{% psalm "Psalm 144" %}}
+{{% lesson "psalm" "Psalm 144" %}}
 A psalm
 **doesn't have to be responsive.**
 But it's nice.
-{{% /psalm %}}
+{{% /lesson %}}
 
 ## TEST: gospel -- alternate
 {{% he/gospel "John 3.16" /%}}

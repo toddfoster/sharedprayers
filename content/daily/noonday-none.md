@@ -14,7 +14,7 @@ _Officiant and **People**_
 
 _Except in Lent, add_  **Alleluia.**
 
-{{% psalm "126" /%}}
+{{% lesson "psalm" "126" /%}}
 {{% office/gloriapatri %}}
 
 > From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of Hosts.  _Malachi 1:11_

@@ -15,7 +15,7 @@ Thus says the Lord, See, I am sending my messenger to prepare the way before me,
 For he is like a refiner's fire and like fullers' soap; he will sit as a refiner and purifier of silver, and he will purify the descendants of Levi and refine them like gold and silver, until they present offerings to the Lord in righteousness. Then the offering of Judah and Jerusalem will be pleasing to the Lord as in the days of old and as in former years.
 {{% /lesson %}}
 
-{{% psalm "84" /%}}
+{{% lesson "psalm" "84" /%}}
 
 {{% lesson "Second"  "Hebrews 2:14-18" %}}
 Since God's children share flesh and blood, Jesus himself likewise shared the same things, so that through death he might destroy the one who has the power of death, that is, the devil, and free those who all their lives were held in slavery by the fear of death. For it is clear that he did not come to help angels, but the descendants of Abraham. Therefore he had to become like his brothers and sisters in every respect, so that he might be a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people. Because he himself was tested by what he suffered, he is able to help those who are being tested.

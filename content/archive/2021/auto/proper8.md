@@ -18,7 +18,7 @@ bcppage: 355ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 ##### pb
 {{% he/gospel /%}}

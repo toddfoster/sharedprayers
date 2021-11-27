@@ -50,10 +50,10 @@ _Officiant_ and **People**
 
 _One or more of the following Psalms are sung or said.  Other suitable selections may be substituted._
 
-{{% psalm "4" /%}}
-{{% psalm "8" /%}}
-{{% psalm "9" /%}}
-{{% psalm"134" /%}}
+{{% lesson "psalm" "4" /%}}
+{{% lesson "psalm" "8" /%}}
+{{% lesson "psalm" "9" /%}}
+{{% lesson "psalm" "134" /%}}
 
 _At the end of the Psalms is sung or said_
 

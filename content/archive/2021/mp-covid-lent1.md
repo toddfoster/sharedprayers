@@ -13,7 +13,7 @@ weekday: sunday
 {{% office/mp/invitatory %}}
 
 {{% office/psalmintro %}}
-{{% psalm ref="25:1-9" %}}
+{{% lesson "psalm" "25:1-9" %}}
 _Ad te, Domine, levavi_
 
 1 To you, O Lord, I lift up my soul;
@@ -42,7 +42,7 @@ and teaches his way to the lowly.**
 
 9 All the paths of the Lord are love and faithfulness *
 to those who keep his covenant and his testimonies.
-{{% /psalm %}}
+{{% /lesson %}}
 {{% office/psalmgloria %}}
 
 

@@ -10,7 +10,7 @@ weekday: monday
 {{% he/confession %}}
 {{% office/ep/invitatory %}}
 
-{{% psalm "Psalm 36:5-11" /%}}
+{{% lesson "psalm" "Psalm 36:5-11" /%}}
 {{% office/gloriapatri %}}
 
 ## The Lessons

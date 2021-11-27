@@ -20,7 +20,7 @@ Then Elijah said to him, “Stay here; for the Lord has sent me to the Jordan.�
 When they had crossed, Elijah said to Elisha, “Tell me what I may do for you, before I am taken from you.” Elisha said, “Please let me inherit a double share of your spirit.” He responded, “You have asked a hard thing; yet, if you see me as I am being taken from you, it will be granted you; if not, it will not.” As they continued walking and talking, a chariot of fire and horses of fire separated the two of them, and Elijah ascended in a whirlwind into heaven. Elisha kept watching and crying out, “Father, father! The chariots of Israel and its horsemen!” But when he could no longer see him, he grasped his own clothes and tore them in two pieces.
 {{% /lesson %}}
 
-{{% psalm "50:1-6" %}}
+{{% lesson "psalm" "50:1-6" %}}
 _Deus deorum_
 
 1 The Lord, the God of gods, has spoken; *
@@ -39,7 +39,7 @@ those who have made a covenant with me
 	and sealed it with sacrifice."
 **6 Let the heavens declare the rightness of his cause; *
 for God himself is judge.**
-{{% /psalm %}}
+{{% /lesson %}}
 
 {{% lesson "Second"  "2 Corinthians 4:3-6" %}}
 Even if our gospel is veiled, it is veiled to those who are perishing. In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God. For we do not proclaim ourselves; we proclaim Jesus Christ as Lord and ourselves as your slaves for Jesus’ sake. For it is the God who said, “Let light shine out of darkness,” who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.

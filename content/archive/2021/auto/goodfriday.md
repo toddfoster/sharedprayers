@@ -12,7 +12,7 @@ bcppage: 276ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% psalm /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/goodfriday/passion-homily %}}
 {{% he/goodfriday/solemncollects %}}

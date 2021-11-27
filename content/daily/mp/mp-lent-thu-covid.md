@@ -12,8 +12,8 @@ weekday: thursday
 {{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
 
-{{% psalm %}}
-{{% /psalm %}}
+{{% lesson "psalm" %}}
+{{% /lesson %}}
 
 # The Lessons
 ##### Reader:

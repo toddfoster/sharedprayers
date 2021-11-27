@@ -50,8 +50,8 @@ _Officiant_ and **People**
 
 _One or more of the following Psalms are sung or said.  Other suitable selections may be substituted._
 
-{{% psalm "4" /%}}
-{{% psalm"134" /%}}
+{{% lesson "psalm" "4" /%}}
+{{% lesson "psalm" "134" /%}}
 {{% office/gloriapatri %}}
 
 _A lesson is read_
