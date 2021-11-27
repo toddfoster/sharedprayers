@@ -56,7 +56,8 @@
 
 {{/* Heading for psalm */}}
 {{ $psalmlabel := "Psalm " }}
-{{ if  or (in $reference "anticle") (in $reference "alm") }}
+{{ $notonlynumbers := $reference | replaceRE "[^G-Zg-z]" "" }}
+{{ if $notonlynumbers }}
   {{ $psalmlabel = "" }}
 {{ end }}
 {{ if $heading }}
