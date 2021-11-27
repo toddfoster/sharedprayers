@@ -11,7 +11,9 @@ weekday: sunday
 {{% office/ep/sentence %}}
 {{% office/ep/confession %}}
 {{% office/ep/invitatory  %}}
-{{% psalm office=true /%}}
+{{% office/psalmintro %}}
+{{% psalm /%}}
+{{% office/psalmgloria %}}
 
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.

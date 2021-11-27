@@ -1,13 +1,12 @@
 {{/* shortcodes/psalm.md */}}
 {{/* positional parameter: reference */}}
-{{/* named parameters: ref="119" year="A", office=false, heading=true, debug=false */}}
+{{/* named parameters: ref="119" year="A" */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literally the psalm reference */}}
 {{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
 {{/* NOTE: Not DRY: this is intended as the one psalm shortcode to rule them all */}}
 
-{{ $DEBUG := default false (.Get "debug") }}
-{{ $office := default false (.Get "office") }}
+{{ $DEBUG := false }}
 {{ $heading := default true (.Get "heading") }}
 
 {{ $year := "A" }}
@@ -45,7 +44,6 @@
     {{ printf "-------------------------------" }}
 	{{ printf "params = %v" .Params }}
     {{ printf "psalm shortcode status:" }}
-	{{ printf "office = %v" $office }}
 	{{ printf "heading = %v" $heading }}
 	{{ printf "reference = %v" $reference }}
 	{{ printf "day = %v" $day }}
@@ -60,22 +58,11 @@
 {{ if $notonlynumbers }}
   {{ $psalmlabel = "" }}
 {{ end }}
-{{ if $heading }}
-  {{ if $office }}
-##### The People are seated.
-##### The Psalms are sung or said in a suitable manner (e.g., responsively by verse, in unison, or read by the lector).
-    {{ if not $reference }}
-**{{ $psalmlabel }} ____**
+
+{{ if not $reference }}
+### {{ $psalmlabel }} ____
     {{ else }}
-**{{ $psalmlabel }}{{ $reference }}**
-    {{ end }}
-  {{ else }}{{/* not an office means a Eucharist */}}
-    {{ if not $reference }}
-##### A Psalm, hymn, or anthem may follow each Reading.
-    {{ else }}
-### {{ $psalmlabel }} {{ $reference }}
-    {{ end }}
-  {{ end }}
+### {{ $psalmlabel }}{{ $reference }}
 {{ end }}
 
 {{/* Text is provide in .Inner or in readings or by oremus */}}
@@ -105,10 +92,4 @@
  {{ else }}{{/* no reference provided */}}
 > . . .
  {{ end }}
-{{ end }}
-
-{{if $office }}
-##### At the end of the Psalms is sung or said
-**Glory to the Father, and to the Son, and to the Holy Spirit: \*
-as it was in the beginning, is now, and will be for ever. Amen.**
 {{ end }}

@@ -34,7 +34,9 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 
 {{% office/ep/phoshilaron %}}
 
-{{% psalm office=true /%}}
+{{% office/psalmintro %}}
+{{% psalm /%}}
+{{% office/psalmgloria %}}
 
 ## The Lessons
 {{% office/emptylesson "The First Lesson" %}}

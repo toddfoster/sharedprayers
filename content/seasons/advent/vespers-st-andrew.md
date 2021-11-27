@@ -1,5 +1,5 @@
 ---
-title: Advent Vespers
+title: Advent Vespers - St. Andrew
 date: 2021-11-30
 proper: st-andrew
 bcppage: 109
@@ -25,22 +25,27 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 
 {{% office/ep/phoshilaron %}}
 
-{{% psalm office=true /%}}
+{{% office/psalmintro %}}
+{{% psalm /%}}
+{{% office/psalmgloria %}}
 
 ## The Lessons
-{{% office/emptylesson "The First Lesson" %}}
+{{% lesson "first" /%}}
+
 ##### Silence may be kept.
 {{% rubric-stand %}}
 {{% canticles/15-magnificat %}}
 {{% rubric-sit %}}
 
-{{% office/emptylesson "The Second Lesson" %}}
+{{% lesson "second" /%}}
+
 ##### Silence may be kept.
 {{% rubric-stand %}}
 {{% canticles/17-nunc  %}}
 {{% rubric-sit %}}
 
-{{% office/emptylesson "The Third Lesson" %}}
+{{% lesson "gospel" /%}}
+
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 

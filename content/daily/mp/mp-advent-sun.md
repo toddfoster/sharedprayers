@@ -11,7 +11,10 @@ weekday: sunday
 {{% office/mp/sentence %}}
 {{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
-{{% psalm office=true /%}}
+{{% office/psalmintro %}}
+{{% psalm /%}}
+{{% office/psalmgloria %}}
+
 
 # The Lessons
 ##### Reader:
