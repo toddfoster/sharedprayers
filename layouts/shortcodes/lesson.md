@@ -80,22 +80,30 @@ A reading from {{ $intro }}
 {{ with .Inner }}
 	{{ . | safeHTML}}
 {{ else }}
-    {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
-    {{ $filepath := printf "layouts/shortcodes/readings/lpn/%s" $filename }}
+{{ if $reference }}
+    {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
+    {{ $slug := $filename | replaceRE "psalm" "" }}
+    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
 	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-	{{ if fileExists $filepath }}
-{{ $filepath | readFile | safeHTML  }}
-    {{ else }}
-      {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
-      {{ if fileExists $filepath }}
-{{ $filepath | readFile | safeHTML  }}
-      {{ else }}
-        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
-        {{ $url = replace $url " " "%20" }}
-        {{ $link := printf "[%s](%s)" $reference $url }}
-> _This reading can be found at {{ $link }}_
+	{{ if not (fileExists $filepath) }}
+      {{ $filepath = printf "layouts/shortcodes/readings/lpn/%s" $filename }}
+      {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+      {{ if not (fileExists $filepath) }}
+        {{ $filepath = printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+        {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
       {{ end }}
-    {{ end }}
+	{{ end }}
+    {{ if fileExists $filepath }}
+{{ $filepath | readFile | safeHTML  }}
+     {{ else }}
+       {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
+       {{ $url = replace $url " " "%20" }}
+       {{ $link := printf "[%s](%s)" $reference $url }}
+> _This reading can be found at {{ $link }}_
+     {{ end }}
+{{ else }}{{/* no $reference given */}}
+> . . .
+{{ end }}
 {{ end }}
 
 {{ if or (in $ordinal "salm") (in $ordinal "anticle") }}
