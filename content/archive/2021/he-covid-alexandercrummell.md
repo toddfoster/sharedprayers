@@ -16,7 +16,7 @@ proper: alexandercrummell
 
 ## We Hear God’s Word
 {{% lesson "First" "Sirach 2.7-11,17-18" /%}}
-{{% he/psalm/responsively "Psalm 19:7-11" /%}}
+{{% psalm "Psalm 19:7-11" /%}}
 {{% lesson "Second" "James 1.2-5" /%}}
 {{% he/gospel "Mark 4.1-10, 13-20" /%}}
 {{% rubric-sit %}}

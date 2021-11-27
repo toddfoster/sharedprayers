@@ -13,7 +13,7 @@ proper: proper-10
 {{% office/ep/confession %}}
 {{% office/ep/invitatory  %}}
 
-{{% he/psalm/responsively /%}}
+{{% psalm /%}}
 {{% office/gloriapatri %}}
 
 # The Lessons

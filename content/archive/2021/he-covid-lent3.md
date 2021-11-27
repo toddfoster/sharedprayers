@@ -16,7 +16,7 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 ## We Hear God’s Word
 {{% lesson "first" /%}}
-{{% he/psalm/responsively /%}}
+{{% psalm /%}}
 {{% lesson "second" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}

@@ -24,7 +24,7 @@ during Covid-tide_
 {{% lesson "First" "Sirach 38:1–15" /%}}
 
 **The Psalm**
-{{% he/psalm/responsively "Psalm 147" /%}}
+{{% psalm "Psalm 147" /%}}
 
 {{% he/gospel "Mark 1:29-34" /%}}
 {{% he/homily/brief %}}

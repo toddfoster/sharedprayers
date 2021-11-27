@@ -16,7 +16,7 @@ bcppage: 355ff.
 
 ## We Hear God's Word
 {{% lesson "First" "Acts 10:34-43" /%}}
-{{% he/psalm/responsively /%}}
+{{% psalm /%}}
 {{% lesson "Second" "1 Corinthians 15:1-11"/%}}
 {{% he/gospel "Mark 16:1-8" /%}}
 {{% he/homily/brief %}}

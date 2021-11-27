@@ -19,7 +19,7 @@ bcppage: 351ff.
 ## We Hear God’s Word
 {{% lesson "first" /%}}
 {{% comment "mis-printed bulletin; should only be Ps 51.1-13" /%}}
-{{% he/psalm/responsively "Psalm 51" /%}}
+{{% psalm "Psalm 51" /%}}
 {{% lesson "second" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}

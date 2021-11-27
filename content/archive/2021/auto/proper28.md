@@ -16,7 +16,7 @@ bcppage: 355ff.
 ## We Hear God's Word
 {{% lesson "first" /%}}
 ### A Canticle: The Song of Hannah
-{{% he/psalm/responsively /%}}
+{{% psalm /%}}
 {{% lesson "second" /%}}
 {{% he/gospel /%}}
 {{% he/homily/brief %}}

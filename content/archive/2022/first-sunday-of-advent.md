@@ -18,7 +18,7 @@ bcppage: 355ff.
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% he/psalm/responsively /%}}
+{{% psalm /%}}
 {{% lesson "second" /%}}
 {{% he/sequence "There's a voice in the wilderness crying (Hymnal 75)" %}}
 {{% he/gospel /%}}
