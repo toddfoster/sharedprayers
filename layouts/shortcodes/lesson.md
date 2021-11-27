@@ -1,18 +1,17 @@
 {{/* shortcodes/lesson.md */}}
-{{/* parameters: ordinal day/reference year */}}
+{{/* parameters: ordinal day/reference */}}
 {{/* ordinal can be first|second|gospel|psalm or else literal */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
-{{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
-{{/* NOTE: consider updating he/psalm/responsively.md and he/gospel.md to match */}}
+{{/* TODO: specify lectionary */}}
+{{/* TODO: DRY - fold in he/gospel.md */}}
+{{/* TODO: DRY - fold in psalm.md? */}}
 {{ $DEBUG := false }}
 
-{{/* Figure out year: argument or page parameter or fail */}}
-{{ $year := "" }}
-{{ with .Get 2 }}
-  {{ $year = . }}
-{{ else }}
-  {{ $year = $.Page.Params.lectionaryyear }}
+{{/* Figure out year: page parameter or default A */}}
+{{ $year := "A" }}
+{{ with $.Page.Params.lectionaryyear }}
+    {{ $year = . }}
 {{ end }}
 {{ $year = $year | upper }}
 
