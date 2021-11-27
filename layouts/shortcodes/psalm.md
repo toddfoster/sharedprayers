@@ -1,8 +1,7 @@
 {{/* shortcodes/psalm.md */}}
 {{/* positional parameter: reference */}}
-{{/* named parameters: ref="119" year="A" */}}
+{{/* named parameters: ref="119" */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literally the psalm reference */}}
-{{/*  year can be blank (assume $.Page.Params.lectionaryyear) */}}
 {{/* TODO: Use opinionated lectionary by default */}}
 {{/* NOTE: Not DRY: this is intended as the one psalm shortcode to rule them all */}}
 
@@ -10,12 +9,8 @@
 {{ $heading := default true (.Get "heading") }}
 
 {{ $year := "A" }}
-{{ with .Get "year" }}
-  {{ $year = . }}
-{{ else }}
 {{ with $.Page.Params.lectionaryyear }}
   {{ $year = . }}
-{{ end }}
 {{ end }}
 {{ $year = $year | upper }}
 
