@@ -44,7 +44,7 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 {{% canticles/17-nunc  %}}
 {{% rubric-sit %}}
 
-{{% lesson "gospel" /%}}
+{{% lesson "third" /%}}
 
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

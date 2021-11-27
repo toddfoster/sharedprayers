@@ -28,7 +28,7 @@ proper: proper-10
 ##### Silence may be kept.
 {{% office/ep/canticle/second %}}
 
-{{% lesson "gospel" /%}}
+{{% lesson "third" /%}}
 
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.

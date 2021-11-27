@@ -8,7 +8,7 @@ lectionaryyear: b
 {{% lesson "first" "proper-22" /%}}
 {{% lesson "psalm" "proper-22" /%}}
 {{% lesson "second" "proper-22" /%}}
-{{% lesson "gospel"  "proper-22" /%}}
+{{% lesson "third"  "proper-22" /%}}
 {{% nrsv %}}
 
 ##### pb
@@ -16,7 +16,7 @@ lectionaryyear: b
 {{% lesson "first" "proper-23" /%}}
 {{% lesson "psalm" "proper-23" /%}}
 {{% lesson "second" "proper-23" /%}}
-{{% lesson "gospel"  "proper-23" /%}}
+{{% lesson "third"  "proper-23" /%}}
 {{% nrsv %}}
 
 
@@ -25,7 +25,7 @@ lectionaryyear: b
 {{% lesson "first" "proper-24" /%}}
 {{% lesson "psalm" "proper-24" /%}}
 {{% lesson "second" "proper-24" /%}}
-{{% lesson "gospel"  "proper-24" /%}}
+{{% lesson "third"  "proper-24" /%}}
 {{% nrsv %}}
 
 
@@ -34,7 +34,7 @@ lectionaryyear: b
 {{% lesson "first" "proper-25" /%}}
 {{% lesson "psalm" "proper-25" /%}}
 {{% lesson "second" "proper-25" /%}}
-{{% lesson "gospel"  "proper-25" /%}}
+{{% lesson "third"  "proper-25" /%}}
 {{% nrsv %}}
 
 
@@ -43,7 +43,7 @@ lectionaryyear: b
 {{% lesson "first" "proper-26" /%}}
 {{% lesson "psalm" "proper-26" /%}}
 {{% lesson "second" "proper-26" /%}}
-{{% lesson "gospel"  "proper-26" /%}}
+{{% lesson "third"  "proper-26" /%}}
 {{% nrsv %}}
 
 ##### pb
@@ -51,7 +51,7 @@ lectionaryyear: b
 {{% lesson "first" "all-saints-day" /%}}
 {{% lesson "psalm" "all-saints-day" /%}}
 {{% lesson "second" "all-saints-day" /%}}
-{{% lesson "gospel"  "all-saints-day" /%}}
+{{% lesson "third"  "all-saints-day" /%}}
 {{% nrsv %}}
 
 
@@ -102,7 +102,7 @@ The Lord will judge the ends of the earth;
    and exalt the power of his anointed.’
 
 {{% lesson "second" "proper-28" /%}}
-{{% lesson "gospel"  "proper-28" /%}}
+{{% lesson "third"  "proper-28" /%}}
 {{% nrsv %}}
 
 
@@ -111,5 +111,5 @@ The Lord will judge the ends of the earth;
 {{% lesson "first" "proper-29-christ-the-king" /%}}
 {{% lesson "psalm" "proper-29-christ-the-king" /%}}
 {{% lesson "second" "proper-29-christ-the-king" /%}}
-{{% lesson "gospel"  "proper-29-christ-the-king" /%}}
+{{% lesson "third"  "proper-29-christ-the-king" /%}}
 {{% nrsv %}}
