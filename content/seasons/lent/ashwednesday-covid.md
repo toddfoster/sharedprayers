@@ -59,7 +59,7 @@ Why should it be said among the peoples,
 	`Where is their God?'"
 {{% /lessonverse %}}
 
-{{% psalm-responsive "103" %}}
+{{% psalm "103" /%}}
 
 {{% lessonverse "Second"  "2 Corinthians 5:20b-6:10" %}}
 We entreat you on behalf of Christ, be reconciled to God. For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
