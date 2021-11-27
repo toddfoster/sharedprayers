@@ -56,34 +56,53 @@
 {{ $reference = $reference | chomp }}
 {{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $slug = substr $slug 0 5 }}
-{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
 
+{{ if or (in $ordinal "salm") (in $ordinal "anticle") }}
+{{/* Heading for psalm/canticle */}}
+{{ $psalmlabel := "Psalm " }}
+{{ $notonlynumbers := $reference | replaceRE "[^G-Zg-z]" "" }}
+{{ if $notonlynumbers }}
+  {{ $psalmlabel = "" }}
+{{ end }}
+{{ if not $reference }}
+### {{ $psalmlabel }} ____
+    {{ else }}
+### {{ $psalmlabel }}{{ $reference }}
+{{ end }}
+{{ else }}
+{{/* Heading for non-Psalm/Canticle */}}
 ### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
-
 ##### Lector:
+{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
 A reading from {{ $intro }}
+{{ end }}
 
 {{ with .Inner }}
 	{{ . | safeHTML}}
 {{ else }}
     {{ $filename := $reference | lower | replaceRE "[^A-Za-z0-9]+" "" }}
     {{ $filepath := printf "layouts/shortcodes/readings/lpn/%s" $filename }}
-	{{ if fileExists $filepath }}
-{{ $filepath | readFile | safeHTML  }}
-{{ else }}
-    {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
 	{{ if fileExists $filepath }}
 {{ $filepath | readFile | safeHTML  }}
     {{ else }}
+      {{ $filepath := printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+      {{ if fileExists $filepath }}
+{{ $filepath | readFile | safeHTML  }}
+      {{ else }}
         {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
         {{ $url = replace $url " " "%20" }}
         {{ $link := printf "[%s](%s)" $reference $url }}
 > _This reading can be found at {{ $link }}_
+      {{ end }}
     {{ end }}
 {{ end }}
-{{ end }}
+
+{{ if or (in $ordinal "salm") (in $ordinal "anticle") }}
+{{ else }}
 ##### Lector:
 The word of the Lord.
 
 ##### **People:**
 **Thanks be to God.**
+{{ end }}
