@@ -4,36 +4,10 @@ date: 2021-03-04
 ---
 
 ### TODO
-- x Handle canticles in psalm shortcode(?)
-- x Thanksgiving litany for 2021, in template for 2022
-- x Generate liturgies for 2022
-- x Bring in Prayer B for 2022
-- x Bring in other post-communion, longer fraction for 2022
-- x Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
-- x Psalms draw alternatively from lpn folder?
-- Generate lesser feasts
-- Get consistent on presider vs. celebrant: match BCP
-- Review shortcodes for updated formatting
+- Finish out Advent, Xmas liturgy templates
 
 ### MAYBE/SOMEDAY
-- automate updating archive/he-current.md to forward to the current week
-- Calendar interface simple range exercises
-- Liturgical colors
-- Versioned shortcodes to maintain older liturgies?
-- Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
-- Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
-- Check that all scriptures in bcprcl are available
-- script to generate responsive psalms for all partial psalms in rcl
-- lectionary pages (all readings for a season / year)
-- summaries of each days lesson references for easy cut/paste
-- Separate generated liturgies for St. Thomas', generic?
-- Be able to select which readings/collects when alternatives are available (alt=2)
-- Provide track1lesson(?)
-- Add proper prefaces to Prayer A, Prayer B using bcpcollects
-- add BCP page numbers to more pieces
-- DRY he/lesson and office/lesson
-- DRY shortcode psalm.md(older) and  he/psalm.md
-- Alternate page template for non-prayers
+- Test suite for lesson shortcode
 - About
     - Inspiration & Intended uses
 	- Opinionated options, readings
@@ -41,6 +15,26 @@ date: 2021-03-04
 	- About QR codes
 	- About shortcodes
 	- About customization for your organization
+- Simplified Anglican Chant
+- Get consistent on presider vs. celebrant: match BCP
+- Review shortcodes for updated formatting
+- Be able to select which readings/collects when alternatives are available (alt=2)
+- Provide track1lesson(?)
+- automate updating archive/he-current.md to forward to the current week
+- Generate lesser feasts
+- Calendar interface simple range exercises
+- Liturgical colors
+- Versioned shortcodes to maintain older liturgies?
+- Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
+- Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
+- Check that all scriptures in bcprcl are available
+- script to generate responsive psalms for all partial psalms in rcl
+- x lectionary pages (all readings for a season / year)
+- summaries of each days lesson references for easy cut/paste
+- Separate generated liturgies for St. Thomas', generic?
+- Add proper prefaces to Prayer A, Prayer B using bcpcollects
+- add BCP page numbers to more pieces
+- Alternate page template for non-prayers
 - Daily Office
     - For each season
 - Eucharist
@@ -48,7 +42,18 @@ date: 2021-03-04
     - For Major Feasts during each season
 - Full years for each prayer?
 
-### x Script to generate liturgies - 4 Nov 2022
+### 27 November 2021
+- x DRY he/lesson and office/lesson
+- x DRY shortcode psalm.md(older) and  he/psalm.md
+- x Handle canticles in psalm shortcode(?)
+- x Thanksgiving litany for 2021, in template for 2022
+- x Generate liturgies for 2022
+- x Bring in Prayer B for 2022
+- x Bring in other post-communion, longer fraction for 2022
+- x Evaluate, Fix up, and copy in texts for lectionary from lectionarypage.net
+- x Psalms draw alternatively from lpn folder?
+
+### x Script to generate liturgies - 4 Nov 2021
 - x Generate dates for a liturgical year
     - x all Sundays relative to SundayAfterChristmas or EasterSunday or Epiphany1 or SundayAfterNextXmas
 	- x Thanksgiving is special (fourth Thursday in Nov)
