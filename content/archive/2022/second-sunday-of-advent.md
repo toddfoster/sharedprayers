@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "On Jordan's banks the Baptist's cry (Hymnal 76)" %}}
+{{% he/sequence "Choir Anthem" %}}
 ##### pb
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
@@ -34,7 +34,7 @@ bcppage: 355ff.
 
 ##### pb
 ## We Offer Ourselves To God
-{{% he/offertory "Hark! a thrilling voice is sounding (Hymnal 59)" %}}
+{{% he/offertory "Hark! A Thrilling Voice is Sounding (Hymnal 59)" %}}
 {{% he/eucharisticprayer/b /%}}
 ##### pb
 {{% he/lordsprayer/1 %}}
@@ -43,8 +43,9 @@ bcppage: 355ff.
 ##### pb
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion "Comfort, comfort ye my people (Hymnal 67)" %}}
+{{% he/communion "Choir Anthem" %}}
 ##### pb
+{{% he/hymn "Comfort, comfort ye my people (Hymnal 67)" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/advent-short %}}
 {{% he/processional "Prepare the way, O Zion (Hymnal 65)" %}}
