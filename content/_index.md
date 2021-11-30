@@ -13,17 +13,19 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 26 December: Christmas 1](archive/2022/first-sunday-after-christmas)
 - [Holy Eucharist for Sunday, 2 January: Christmas 2](archive/2022/second-sunday-after-christmas)
 
-**TEC@RU / Compline / Church in the Woods**
-- [Compline for Wednesday, 1 December (Week 1)](daily/compline/compline-wk1)
-
-**Weekday Liturgies this month:**
-- [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
-- [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
+**Advent Vespers with Young Preachers**
 - [Vespers for the Feast of St. Andrew, 30 November](seasons/advent/vespers-st-andrew/)
 - [Vespers for the Feast of St. Nicholas, 7 December](seasons/advent/vespers-st-nicholas/)
 - [Vespers for the Feast of St. John of the Cross, 14 December](seasons/advent/vespers-st-john-of-the-cross/)
 - [Vespers for the Feast of St. Thomas, 21 December](seasons/advent/vespers-st-thomas/)
 
+**Weekday Liturgies this month:**
+- [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
+- [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
+- [Holy Eucharist for Wednesday night, 1 December (Feast of Nicholas Ferrar)](archive/2022/he-nicholasferrar)
+
+**TEC@RU / Compline / Church in the Woods**
+- [Compline for Wednesday, 1 December (Week 1)](daily/compline/compline-wk1)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
