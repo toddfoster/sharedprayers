@@ -20,6 +20,10 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
 - [Vespers for the Feast of St. Andrew, 30 November](seasons/advent/vespers-st-andrew/)
+- [Vespers for the Feast of St. Nicholas, 7 December](seasons/advent/vespers-st-nicholas/)
+- [Vespers for the Feast of St. John of the Cross, 14 December](seasons/advent/vespers-st-john-of-the-cross/)
+- [Vespers for the Feast of St. Thomas, 21 December](seasons/advent/vespers-st-thomas/)
+
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
