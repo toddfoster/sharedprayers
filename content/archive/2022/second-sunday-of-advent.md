@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Choir Anthem" %}}
+{{% he/sequence "Choir Anthem: Watchman, tell us of the night" %}}
 ##### pb
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
@@ -43,7 +43,7 @@ bcppage: 355ff.
 ##### pb
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion "Choir Anthem" %}}
+{{% he/communion "Choir Anthem: Taste and See" %}}
 ##### pb
 {{% he/hymn "Comfort, comfort ye my people (Hymnal 67)" %}}
 {{% he/postcommunion/almighty %}}
