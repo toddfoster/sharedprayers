@@ -30,6 +30,8 @@ bcppage: 355ff.
 {{% he/pop/comeandsave %}}
 {{% he/confession %}}
 {{% he/peace %}}
+##### pb
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 
 ##### pb
