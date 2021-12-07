@@ -1,4 +1,4 @@
-#### BCP 101
+#### BCP 125
 _The General Thanksgiving_
 ##### Officiant and **People:**
 **Almighty God, Father of all mercies,

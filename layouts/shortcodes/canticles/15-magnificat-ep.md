@@ -1,4 +1,4 @@
-#### BCP 92
+#### BCP 119
 **Canticle 15: The Song of Mary** -- _Magnificat_ (Luke 1:46-55)
 ##### **All:**
 **My soul proclaims the greatness of the Lord,

@@ -1,4 +1,4 @@
-#### BCP 93
+#### BCP 120
 **Canticle 17: The Song of Simeon** --- _Nunc Dimittis_  (Luke 2:29-32)
 ##### **All:**
 **Lord, you now have set your servant free \*
