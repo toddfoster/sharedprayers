@@ -2,5 +2,5 @@ And grant that we may find our inheritance with the Blessed Virgin Mary, with pa
 
 Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.
 
-**Celebrant and People:**
-> **AMEN.**
+##### **Celebrant and People:**
+**AMEN.**
