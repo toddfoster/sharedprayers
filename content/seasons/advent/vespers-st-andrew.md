@@ -8,7 +8,8 @@ bcppage: 109
 
 ##### All stand, and the Officiant greets the people with these words
 
-Officiant:
+#### BCP 109
+##### Officiant:
 Light and peace, in Jesus Christ our Lord.
 
 **People:**
@@ -29,12 +30,13 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 {{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 
+##### pb
 ## The Lessons
 {{% lesson "first" /%}}
 
 ##### Silence may be kept.
 {{% rubric-stand %}}
-{{% canticles/15-magnificat %}}
+{{% canticles/15-magnificat-ep %}}
 {{% rubric-sit %}}
 
 {{% lesson "second" /%}}
@@ -49,13 +51,15 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 
-{{% office/apostlescreed %}}
+##### pb
+{{% office/ep/apostlescreed %}}
 
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
 {{% office/ep/suffragesb %}}
 
+##### pb
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 {{% office/propercollect %}}
