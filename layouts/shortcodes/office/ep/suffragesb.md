@@ -1,3 +1,4 @@
+{{ $communion := (printf "the Blessed Virgin Mary, blessed Thomas, %s and" (.Get 0)) }}
 #### BCP 122
 _Suffrages B_
 ##### Officiant:
@@ -31,7 +32,7 @@ That we may depart this life in your faith and fear, and not be condemned before
 **We entreat you, O Lord.**
 
 ##### Officiant:
-That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, _Blessed Thomas,_ and all your saints, entrusting one another and all our life to Christ,
+That we may be bound together by your Holy Spirit in the communion of {{ $communion }} all your saints, entrusting one another and all our life to Christ,
 
 ##### **People:**
 **We entreat you, O Lord.**
