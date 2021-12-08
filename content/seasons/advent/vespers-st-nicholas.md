@@ -50,7 +50,7 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/ep/suffragesb %}}
+{{% office/ep/suffragesb "blessed Nicholas," %}}
 
 ##### pb
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
