@@ -5,10 +5,11 @@ weight: 50
 --------
 ### The Daily Office
 * Morning Prayer
-  * in Advent: [Monday](mp/mp-advent-mon), [Tuesday](mp/mp-advent-tue), [Wednesday](mp/mp-advent-wed), [Thursday](mp/mp-advent-thu), [Friday](mp/mp-advent-fri), [Saturday](mp/mp-advent-sat), [Sunday](mp/mp-advent-sun)
-  * in the season after Pentecost: [Monday](mp/mp-pentecost-covid-mon), [Tuesday](mp/mp-pentecost-covid-tue), [Wednesday](mp/mp-pentecost-covid-wed), [Thursday](mp/mp-pentecost-covid-thu), [Friday](mp/mp-pentecost-covid-fri), [Saturday](mp/mp-pentecost-covid-sat), [Sunday](mp/mp-pentecost-covid-sun)
-  * in Lent: [Monday](mp/mp-lent-mon-covid), [Tuesday](mp/mp-lent-tue-covid), [Wednesday](mp/mp-lent-wed-covid), [Thursday](mp/mp-lent-thu-covid), [Friday](mp/mp-lent-fri-covid), [Saturday](mp/mp-lent-sat-covid), [Sunday](mp/mp-lent-sun-covid)
-  * in Easter: [Monday](mp/mp-easter-covid-mon), [Tuesday](mp/mp-easter-covid-tue), [Wednesday](mp/mp-easter-covid-wed), [Thursday](mp/mp-easter-covid-thu), [Friday](mp/mp-easter-covid-fri), [Saturday](mp/mp-easter-covid-sat), [Sunday](mp/mp-easter-covid-sun)
+  * in Christmas: [Mon](mp/mp-xmas-mon) / [Tues](mp/mp-xmas-tue) / [Wed](mp/mp-xmas-wed) / [Thurs](mp/mp-xmas-thu) / [Fri](mp/mp-xmas-fri) / [Sat](mp/mp-xmas-sat) / [Sun](mp/mp-xmas-sun)
+  * in Advent: [Mon](mp/mp-advent-mon) / [Tues](mp/mp-advent-tue) / [Wed](mp/mp-advent-wed) / [Thurs](mp/mp-advent-thu) / [Fri](mp/mp-advent-fri) / [Sat](mp/mp-advent-sat) / [Sun](mp/mp-advent-sun)
+  * in the season after Pentecost: [Mon](mp/mp-pentecost-covid-mon) / [Tues](mp/mp-pentecost-covid-tue) / [Wed](mp/mp-pentecost-covid-wed) / [Thurs](mp/mp-pentecost-covid-thu) / [Fri](mp/mp-pentecost-covid-fri) / [Sat](mp/mp-pentecost-covid-sat) / [Sun](mp/mp-pentecost-covid-sun)
+  * in Lent: [Mon](mp/mp-lent-mon-covid) / [Tues](mp/mp-lent-tue-covid) / [Wed](mp/mp-lent-wed-covid) / [Thurs](mp/mp-lent-thu-covid) / [Fri](mp/mp-lent-fri-covid) / [Sat](mp/mp-lent-sat-covid) / [Sun](mp/mp-lent-sun-covid)
+  * in Easter: [Mon](mp/mp-easter-covid-mon) / [Tues](mp/mp-easter-covid-tue) / [Wed](mp/mp-easter-covid-wed) / [Thurs](mp/mp-easter-covid-thu) / [Fri](mp/mp-easter-covid-fri) / [Sat](mp/mp-easter-covid-sat) / [Sun](mp/mp-easter-covid-sun)
 * [Noonday Prayer](noonday)
     * [9am](noonday-terce), [Noon](noonday-sext), [3pm](noonday-none)
 * Evening Prayer
