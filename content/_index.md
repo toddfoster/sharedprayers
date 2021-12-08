@@ -23,6 +23,7 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 20 November (Feast of C.S. Lewis)](archive/2021/he-cslewis)
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
 - [Holy Eucharist for Wednesday night, 1 December (Feast of Nicholas Ferrar)](archive/2022/he-nicholasferrar)
+- [Holy Eucharist for Wednesday night, 7 December (Feast of Ambrose, Bishop of Milan)](archive/2022/he-ambrose)
 
 **TEC@RU / Compline / Church in the Woods**
 - [Compline for Wednesday, 1 December (Week 1)](daily/compline/compline-wk1)
