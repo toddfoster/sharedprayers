@@ -30,15 +30,16 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 {{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 
-##### pb
 ## The Lessons
 {{% lesson "first" /%}}
 
 ##### Silence may be kept.
+##### pb
 {{% rubric-stand %}}
 {{% canticles/15-magnificat-ep %}}
 {{% rubric-sit %}}
 
+##### pb
 {{% lesson "second" /%}}
 
 ##### Silence may be kept.
