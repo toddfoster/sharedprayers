@@ -24,6 +24,8 @@ title: Shared Prayers
 - [Holy Eucharist for Thanksgiving, 25 November](archive/2021/auto/thanksgivingb)
 - [Holy Eucharist for Wednesday night, 1 December (Feast of Nicholas Ferrar)](archive/2022/he-nicholasferrar)
 - [Holy Eucharist for Wednesday night, 7 December (Feast of Ambrose, Bishop of Milan)](archive/2022/he-ambrose)
+- [Holy Eucharist for Wednesday night, 15 December (Feast of Lucy of Syracuse, Martyr)](archive/2022/he-lucy)
+- [Holy Eucharist for Wednesday night, 22 December (Longest Night Mass - 7pm)](seasons/advent/longestnight)
 
 **TEC@RU / Compline / Church in the Woods**
 - [Compline for Wednesday, 1 December (Week 1)](daily/compline/compline-wk1)
