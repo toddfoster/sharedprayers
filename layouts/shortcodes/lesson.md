@@ -80,7 +80,7 @@
 ##### The people stand as able.
 ### The Holy Gospel: _{{- $reference -}}_
 
-{{ $gospel :=  strings.TrimRight " .,:-–0123456789" $reference }}
+{{ $gospel :=  strings.TrimRight " .,:-–0123456789()" $reference }}
 ##### Deacon:
 The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{{ else }}_____{{ end }}.
 
