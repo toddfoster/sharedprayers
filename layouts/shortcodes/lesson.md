@@ -50,7 +50,7 @@
 {{/* else assume a literal reference or blank */}}
 
 {{/* Get custom conclusion */}}
-{{ $conclusion := "The Word of the Lord." }}
+{{ $conclusion := "The word of the Lord." }}
 {{ with .Get 2 }}
   {{ $conclusion = . }}
 {{ end }}
