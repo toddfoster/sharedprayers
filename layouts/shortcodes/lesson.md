@@ -1,5 +1,5 @@
 {{/* shortcodes/lesson.md */}}
-{{/* parameters: ordinal day/reference */}}
+{{/* parameters: ordinal day/reference conclusion*/}}
 {{/* ordinal can be first|second|third|gospel|psalm */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/* TODO: specify track, use opinionated lectionary by default */}}
@@ -48,6 +48,12 @@
 	{{ end }}
 {{ end }}
 {{/* else assume a literal reference or blank */}}
+
+{{/* Get custom conclusion */}}
+{{ $conclusion := "The Word of the Lord." }}
+{{ with .Get 2 }}
+  {{ $conclusion = . }}
+{{ end }}
 
 {{ if $DEBUG }}
 	{{ printf "reference = %v" $reference }}
@@ -140,7 +146,7 @@ The Gospel of the Lord.
 **Praise to you, Lord Christ.**
 {{ else }}
 ##### Lector:
-The word of the Lord.
+{{ $conclusion }}
 
 ##### **People:**
 **Thanks be to God.**
