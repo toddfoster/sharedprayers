@@ -29,7 +29,7 @@ Fountain of life and source of all goodness, you made all things and fill them w
 Countless throngs of angels stand before you to serve you night and day; and, beholding the glory of your presence, they offer you unceasing praise. Joining with them, and giving voice to every creature under heaven, we acclaim you, and glorify your Name, as we say,
 
 ### Sanctus
-##### **Presider and People:**
+##### Presider and **People:**
 **Holy, holy, holy Lord, God of power and might,
 heaven and earth are full of your glory.
 Hosanna in the highest.
@@ -52,12 +52,12 @@ After supper he took the cup of wine; and when he had given thanks, he gave it t
 
 Father, we now celebrate this memorial of our redemption. Recalling Christ’s death and his descent among the dead, proclaiming his resurrection and ascension to your right hand, awaiting his coming in glory; and offering to you, from the gifts you have given us, this bread and this cup, we praise you and we bless you.
 
-##### **Celebrant and People:**
+##### Presider and **People:**
 **We praise you, we bless you,
 we give thanks to you,
 and we pray to you, Lord our God.**
 
-##### The Celebrant continues:
+##### The Presider continues:
 Lord, we pray that in your goodness and mercy your Holy Spirit may descend upon us, and upon these gifts, sanctifying them and showing them to be holy gifts for your holy people, the bread of life and the cup of salvation, the Body and Blood of your Son Jesus Christ.
 
 Grant that all who share this bread and cup may become one body and one spirit, a living sacrifice in Christ, to the praise of your Name.

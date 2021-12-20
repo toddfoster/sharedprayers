@@ -1,5 +1,5 @@
 ### The Apostles' Creed
-##### Officiant and People together, all standing
+##### Officiant and **People** together, all standing
 I believe in God, **the Father almighty,
 creator of heaven and earth.
 I believe in Jesus Christ, his only Son, our Lord.

@@ -16,7 +16,7 @@ The **Longest Night Mass** is intended to bring balance to our Advent and Christ
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/hymn "O Come, O Come Emmanuel (Hymnal 56)" %}}
+{{% he/hymn "O Come, O Come Emmanuel (vv. 5-8) (Hymnal 56)" %}}
 ### Salutation and Collect
 {{% letuspray %}}
 
@@ -90,6 +90,8 @@ And the Word became flesh and lived among us, and we have seen his glory, the gl
 {{% advent/litany-remembering %}}
 {{% advent/litany-remembering-instructions %}}
 
+##### Presider:
+In the assurance of eternal life given at Baptism, let us proclaim our faith and say,
 {{% office/apostlescreed %}}
 
 {{% advent/longestnight-pop %}}
