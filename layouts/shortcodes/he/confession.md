@@ -1,6 +1,6 @@
 #### BCP 360
 ### Confession of Sin
-##### Officiant:
+##### Deacon:
 Let us confess our sins against God and our neighbor.
 
 ##### The people kneel or stand as able. Silence may be kept. Officiant and **People:**
@@ -19,4 +19,7 @@ and walk in your ways,
 to the glory of your Name. Amen.**
 
 ##### Priest:
-Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you  in all goodness, and by the power of the Holy Spirit keep you in eternal life. **Amen.**
+Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you  in all goodness, and by the power of the Holy Spirit keep you in eternal life.
+
+##### **People:**
+**Amen.**
