@@ -146,6 +146,6 @@ Source of light and gladness, accept the prayers we offer on this joyful feast. 
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
 {{% he/hymn "Away in a manger (Hymnal 101)" %}}
-{{% he/processional "Once in Royal David's City (Hymnal 102)" %}}
+{{% he/processional "Hark the Herald Angels Sing (Hymnal 87)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
