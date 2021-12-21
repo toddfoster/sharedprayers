@@ -147,12 +147,12 @@ Source of light and gladness, accept the prayers we offer on this joyful feast. 
 ##### pb
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
+##### 7pm only: Choir sings v. 1, the people join for vv. 2-3.
 ##### 11pm only: As the torches process down the aisle, please light your candle from them and share the flame with your neighbor.
-{{% he/hymn "Away in a manger (Hymnal 101)" %}}
+{{% he/hymn "Silent Night (Hymnal 111)" %}}
 {{% rubric-sit %}}
 ### The Prologue of John (John 1:1-14)
 ##### 11pm only: As the lights are raised and the altar party processes, please extinguish your candles safely and deposit them with the ushers on your way out. Beware dripping hot wax on yourself, others, or furnishings!
-##### 7pm only: Choir sings v. 1, the people join for vv. 2-3.
-{{% he/processional "Silent Night (Hymnal 111)" %}}
+{{% he/processional "Away in a manger (Hymnal 101)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
