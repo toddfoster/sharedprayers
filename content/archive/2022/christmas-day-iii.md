@@ -23,7 +23,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/gloryandpraise %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
@@ -41,4 +41,3 @@ bcppage: 355ff.
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
