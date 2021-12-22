@@ -10,7 +10,7 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 22 December (Longest Night Mass - 7pm)](seasons/advent/longestnight)
 - [Christmas Eve 4pm](seasons/advent/xmaseve-1600/)
 - [Christmas Eve 7pm & 11pm](seasons/advent/xmaseve-1900/)
-
+- [Christmas Day 10am](archive/2022/christmas-day-iii/)
 
 **Sunday Liturgies for this month:**
 - [Holy Eucharist for Sunday, 28 November: Advent 1](archive/2022/first-sunday-of-advent)
