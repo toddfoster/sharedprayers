@@ -8,9 +8,10 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
+{{% he/entrance "Christians, awake, salute the happy morn (Hymnal 106)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/hymnofpraise "Hark! the herald angels sing (Hymnal 87)" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -18,26 +19,26 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
+{{% he/sequence "In the bleak midwinter (Hymnal 112)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "A stable lamp is lighted (Hymnal 104)" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 
 ## We Receive the Gift of God
-{{% he/communion %}}
+{{% he/communion "What child is this (Hymnal 115)" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "Angels, from the realms of glory (Hymnal 93)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

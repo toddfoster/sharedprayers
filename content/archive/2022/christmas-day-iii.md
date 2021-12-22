@@ -6,15 +6,18 @@ proper: christmas-day-iii
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
-
+##### pb
 ## We Gather in God's Name
+{{% advent/wreath %}}
+{{% advent/ocome %}}
+##### pb
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-##### pb
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/hymnofpraise "Hark! the herald angels sing (Hymnal 87)" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
+##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
@@ -26,12 +29,11 @@ bcppage: 355ff.
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% he/offertory "O Little Town of Bethlehem (Hymnal 79)" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
@@ -41,6 +43,6 @@ bcppage: 355ff.
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/processional "Joy to the world! the Lord is come (Hymnal 100)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
