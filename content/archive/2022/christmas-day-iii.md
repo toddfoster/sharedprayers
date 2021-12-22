@@ -10,6 +10,7 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+##### pb
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -21,6 +22,7 @@ bcppage: 355ff.
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
@@ -34,6 +36,7 @@ bcppage: 355ff.
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 
+##### pb
 ## We Receive the Gift of God
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
