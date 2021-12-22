@@ -20,13 +20,14 @@ bcppage: 355ff.
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/sequence "In the bleak midwinter (Hymnal 112)" %}}
-{{% lesson "gospel" /%}}
+{{% lesson "gospel" "Luke 2:41-52" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
