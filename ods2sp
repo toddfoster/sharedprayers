@@ -75,7 +75,7 @@ from pyexcel_ods3 import get_data
 # https://github.com/toddfoster/sharedprayers/tree/master/data
 calcdatesfile = 'data/calcdates.json'
 collectsfile = 'data/bcpcollects.json'
-plansfile = 'liturgyplans.ods'
+templatesfile = 'data/liturgyplans.ods'
 
 # Default directories
 templatesdir = "liturgytemplates"
@@ -96,7 +96,7 @@ parser.add_argument('-p', '--past', action="store_true", help="generate liturgie
 parser.add_argument('-d', '--day', type=str, help='specific day code to generate (e.g., first-sunday-of-advent)')
 parser.add_argument('--usage', action="store_true", help="more usage information")
 parser.add_argument('--copyright', action="store_true", help="show copyright info")
-parser.add_argument('--templates', type=str, help='templates directory')
+parser.add_argument('--templates', type=str, help='templates file')
 parser.add_argument('--output', type=str, help='output directory')
 parser.add_argument('--debug', action="store_true", help="show debugging info")
 parser.add_argument('--lectionary', action="store_true", help="generate lessons for the whole year")
@@ -134,6 +134,10 @@ collects = []
 with open(collectsfile, "r") as f:
   data = f.read()
   collects = json.loads(data)
+
+#TODO: check for successful load or throw error
+templates = get_data(templatesfile)
+templatesCodeColumn = 4
 
 def sundayafterchristmas(year):
   return date(year,12,26) + relativedelta(weekday=calendar.SUNDAY)
@@ -232,52 +236,68 @@ def choosetemplateindir(day, year, directory):
   return ""
 
 def choosetemplate(day, year):
-  """
-  Selects a template for the given liturgy
+  sheet = templates[str(year)]
+  for row in sheet:
+    if row[templatesCodeColumn]==day:
+        return row
 
-  Parameters
-  ----------
-  day : str
-      The code for the day (e.g., first-sunday-of-advent)
+def shortcode(x):
+    if x == "":
+        return ""
+    return '{{{{% {0} %}}}}\n'.format(x.strip())
 
-  year : str
-      The liturgical year. Days from first advent through the
-      end of the year go with the following liturgical year.
-      E.g., first-sunday-of-advent for year = 2022 occurs on
-      28 November 2021. (This could also be passed as an int.)
+def shortcodeClosed(x):
+    return shortcode(x).replace(" %}}", " /%}}")
 
-  Chooses a template by looking in subdirectories of templatesdir,
-  in order:
-     - a directory named for the year (e.g., 2022)
-     - yeara | yearb | yearc
-     - default
+def shortcodeRow(x):
+    return shortcode(row[x].strip())
 
-  Inside each subdirectory, we look for a file named (in order):
-     - with the code for the day (e.g., "first-sunday-of-advent.txt")
-     - with the season for the day: 'advent.txt | christmas.txt |
-       epiphany.txt | lent.txt | easter.txt | proper.txt
-     - default.txt
+def shortcodeRowClosed(x):
+    return shortcodeClosed(row[x].strip())
 
-  As soon as an appropriate file is found, its path/name is returned.
-  """
-  year = str(year)
-
-  c = choosetemplateindir(day, year, year)
-  if c: return str(c)
-
-  c = choosetemplateindir(day, year, "year" + lectionaryyear(year))
-  if c: return str(c)
-
-  c = choosetemplateindir(day, year, "default")
-  return str(c)
 
 def generateliturgy(day, year):
   result = header(day, year)
-  template = choosetemplate(day, 2022)
+  template = choosetemplate(day, year)
   if DEBUG: print ("DEBUG: chose template " + str(template))
-  with open(template, "r") as f:
-    for line in f:
-      result += line
+
+  pageColumn = 5
+  titleColumn = 6
+  prepareColumn = 7
+  psalmStyleColumn = 13
+  postscriptColumn = 36
+  noSecondReading = ["eastervigil", "eastermonday", "eastertuesday", "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
+  headings = {
+    prepareColumn + 2 : "## We Gather in God's Name",
+    psalmStyleColumn  : "## We Hear God's Word",
+    psalmStyleColumn + 4 : "## We Respond in Faith",
+    psalmStyleColumn + 9 : "## We Offer Ourselves To God",
+    psalmStyleColumn + 14 : "## We Receive the Gift of God"
+    }
+
+
+  for i in range(prepareColumn + 1, postscriptColumn):
+      if (i == psalmStyleColumn and code != "goodfriday"):
+          result += (shortcode('he/propercollect'))
+          result += (shortcode('rubric-sit'))
+
+      if (headings.get(i)):
+          if (i<=psalmStyleColumn or code != "goodfriday"):
+              result += '\n' + headings.get(i) + '\n'
+
+      if (i == psalmStyleColumn):
+          result += shortcodeClosed('he/lesson "firstReading"')
+          result += shortcodeRowClosed(psalmStyleColumn)
+          if (not code in noSecondReading):
+              result += shortcodeClosed('he/lesson "secondReading"')
+          if (code != "goodfriday" and code != "palmsunday"):
+              result += shortcodeClosed('he/gospel')
+      elif ("he/eucharisticprayer/" in row[i]):
+          result += shortcodeRowClosed(i)
+      else:
+          result += shortcodeRow(i)
+  result += shortcode('nrsv')
+
   return result
 
 def lessonstarget():
