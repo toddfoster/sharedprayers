@@ -1,6 +1,21 @@
 #!/usr/bin/env python3
 """ods2sp : ods to SharedPrayers
 
+TODO  TODO TODO
+
+Nealy working; nice and simple.
+Examine templates in folders, and expans spreadsheet to carry whole thing.
+(Instead of getting smart about including lessons, just parrot out all the
+columns. This means including, e.g., "lesson 'first'".)
+
+Issue: quotes from libre get translated as fancy quotes.
+Maybe just grab examples and use a brute force replace?
+(Create examples with both double/single quotes.)
+
+TODO  TODO TODO
+
+
+
 Produce liturgies for a particular year based on the liturgical
 calendar from the Book of Common Prayer (1979) for Sundays and
 Major Feasts, using a libreoffce Calc file (.ods) for templates.
@@ -215,6 +230,7 @@ def header(day, year):
   result += "date: " + str(liturgydate(day, year)) + "\n"
   result += "lectionaryyear: " + lectionaryyear(year) + "\n"
   result += "proper: " + day + "\n"
+  result = "---\n"
   return result
 
 def choosetemplateindir(day, year, directory):
@@ -249,13 +265,6 @@ def shortcode(x):
 def shortcodeClosed(x):
     return shortcode(x).replace(" %}}", " /%}}")
 
-def shortcodeRow(x):
-    return shortcode(row[x].strip())
-
-def shortcodeRowClosed(x):
-    return shortcodeClosed(row[x].strip())
-
-
 def generateliturgy(day, year):
   result = header(day, year)
   template = choosetemplate(day, year)
@@ -276,26 +285,26 @@ def generateliturgy(day, year):
     }
 
 
-  for i in range(prepareColumn + 1, postscriptColumn):
-      if (i == psalmStyleColumn and code != "goodfriday"):
+  for i in range(prepareColumn + 1, len(template)-1):
+      if (i == psalmStyleColumn and day != "goodfriday"):
           result += (shortcode('he/propercollect'))
           result += (shortcode('rubric-sit'))
 
       if (headings.get(i)):
-          if (i<=psalmStyleColumn or code != "goodfriday"):
+          if (i<=psalmStyleColumn or day != "goodfriday"):
               result += '\n' + headings.get(i) + '\n'
 
       if (i == psalmStyleColumn):
-          result += shortcodeClosed('he/lesson "firstReading"')
-          result += shortcodeRowClosed(psalmStyleColumn)
-          if (not code in noSecondReading):
-              result += shortcodeClosed('he/lesson "secondReading"')
-          if (code != "goodfriday" and code != "palmsunday"):
-              result += shortcodeClosed('he/gospel')
-      elif ("he/eucharisticprayer/" in row[i]):
-          result += shortcodeRowClosed(i)
+          result += shortcodeClosed('lesson "first"')
+          result += shortcodeClosed(template[psalmStyleColumn])
+          if (not day in noSecondReading):
+              result += shortcodeClosed('lesson "second"')
+          if (day != "goodfriday" and day != "palmsunday"):
+              result += shortcodeClosed('lesson "gospel"')
+      elif ("he/eucharisticprayer/" in template[i]):
+          result += shortcodeClosed(template[i])
       else:
-          result += shortcodeRow(i)
+          result += shortcode(template[i])
   result += shortcode('nrsv')
 
   return result
