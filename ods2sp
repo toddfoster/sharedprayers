@@ -75,7 +75,7 @@ from pyexcel_ods3 import get_data
 # https://github.com/toddfoster/sharedprayers/tree/master/data
 calcdatesfile = 'data/calcdates.json'
 collectsfile = 'data/bcpcollects.json'
-templatesfile = 'data/liturgyplans.ods'
+templatesfile = 'liturgyplans.ods'
 
 # Default directories
 templatesdir = "liturgytemplates"
