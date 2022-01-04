@@ -91,7 +91,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('year',
                     help='Year to generate (beginning from Advent 1 of previous calendar year).')
 parser.add_argument('--dry-run', action="store_true", help="don't write anything to disk")
-parser.add_argument('-f', '--force', action="store_true",
+parser.add_argument('-f', '--force', action="store_false",
                     help="force generate liturgies even for dates already past")
 parser.add_argument('-d', '--day', type=str,
                     help='specific day code to generate (e.g., first-sunday-of-advent)')
@@ -409,5 +409,5 @@ if only_lectionary and not dry_run:
         t.write("date: " + str(liturgydate('first-sunday-of-advent', year)) + "\n")
         t.write("lectionaryyear: " + lectionaryyear(year) + "\n")
         t.write("---\n")
-
-majorliturgies(year)
+else:
+    majorliturgies(year)
