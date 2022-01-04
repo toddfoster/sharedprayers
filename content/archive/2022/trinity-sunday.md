@@ -18,6 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
+{{% he/sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -37,7 +38,7 @@ bcppage: 355ff.
 ## We Receive the Gift of God
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/trinity-long %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

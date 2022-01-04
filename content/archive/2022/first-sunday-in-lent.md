@@ -4,13 +4,12 @@ date: 2022-03-06
 lectionaryyear: c
 proper: first-sunday-in-lent
 rite: Holy Eucharist
-bcppage: 355ff.
+bcppage: 148ff.
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% lent/greatlitany %}}
+{{% he/songofpraise/lordhavemercy %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -18,13 +17,12 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
+{{% he/sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
@@ -32,12 +30,13 @@ bcppage: 355ff.
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+{{% he/fraction/long-lent %}}
 
 ## We Receive the Gift of God
+{{% stt/2022/communion-covid %}}
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/lent %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

@@ -4,27 +4,19 @@ date: 2022-04-16
 lectionaryyear: c
 proper: easter-day-the-great-vigil
 rite: Holy Eucharist
-bcppage: 355ff.
+bcppage: 285ff.
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
-{{% he/propercollect %}}
-{{% rubric-sit %}}
-
-## We Hear God's Word
-{{% lesson "first" /%}}
+{{% he/eastervigil/lightingcandle %}}
+{{% he/eastervigil/liturgyword %}}
+{{% he/creed/baptismalvowsrenewal %}}
+{{% he/eastervigil/transition %}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
-{{% lesson "gospel" /%}}
-{{% he/homily/brief %}}
+{{% he/eastervigil/greatalleluia %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 
@@ -37,7 +29,7 @@ bcppage: 355ff.
 ## We Receive the Gift of God
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/easter-long %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

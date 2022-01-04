@@ -10,7 +10,7 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -23,7 +23,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
@@ -35,9 +35,10 @@ bcppage: 355ff.
 {{% he/fraction/long %}}
 
 ## We Receive the Gift of God
+{{% stt/2022/communion-covid %}}
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/epiphany-long %}}
 {{% he/processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

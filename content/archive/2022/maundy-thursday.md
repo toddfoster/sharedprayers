@@ -4,41 +4,36 @@ date: 2022-04-14
 lectionaryyear: c
 proper: maundy-thursday
 rite: Holy Eucharist
-bcppage: 355ff.
+bcppage: 274/355
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/penitentialorder %}}
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/maundythursday/washfeet %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-
-## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+{{% he/fraction/long-lent %}}
 
 ## We Receive the Gift of God
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
-{{% he/processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/blessing/palmsunday %}}
+{{% he/maundythursday/stripaltar %}}
 {{% nrsv %}}
 

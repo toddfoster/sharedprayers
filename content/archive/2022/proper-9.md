@@ -18,6 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
+{{% he/sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -26,7 +27,7 @@ bcppage: 355ff.
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/announcements %}}
+{{% stt/birthdaysanniversaries %}}
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}

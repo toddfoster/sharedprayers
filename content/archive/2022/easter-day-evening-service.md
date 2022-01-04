@@ -8,27 +8,22 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
-{{% he/confession %}}
+{{% he/pop/form3 %}}
 {{% he/peace %}}
-{{% stt/announcements %}}
-
-## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
@@ -37,8 +32,7 @@ bcppage: 355ff.
 ## We Receive the Gift of God
 {{% he/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
-{{% he/processional %}}
+{{% he/blessing/easter-short %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
