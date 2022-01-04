@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+import calendar
+import json
+from pathlib import Path
+import os
+import argparse
+from dateutil.easter import *
+from dateutil.relativedelta import *
+from datetime import *
+from pyexcel_ods3 import get_data
+
 """ods2sp : ods to SharedPrayers
 
 TODO  TODO TODO
@@ -11,6 +21,10 @@ columns. This means including, e.g., "lesson 'first'".)
 Issue: quotes from libre get translated as fancy quotes.
 Maybe just grab examples and use a brute force replace?
 (Create examples with both double/single quotes.)
+
+Single: U+2018 U+2019
+Double: U+201C U+201D
+
 
 TODO  TODO TODO
 
@@ -76,26 +90,15 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-from dateutil.easter import *
-from dateutil.relativedelta import *
-from datetime import *
-import calendar
-import json
-from pathlib import Path
-import os
-import argparse
-from pyexcel_ods3 import get_data
-
 # Important data files
 # https://github.com/toddfoster/sharedprayers/tree/master/data
-calcdatesfile = 'data/calcdates.json'
-collectsfile = 'data/bcpcollects.json'
-templatesfile = 'liturgyplans.ods'
+CALCDATESFILE = 'data/calcdates.json'
+COLLECTSFILE = 'data/bcpcollects.json'
+TEMPLATESFILE = 'liturgyplans.ods'
 
 # Default directories
-templatesdir = "liturgytemplates"
-outputdir = "content/archive"
-outputdiryear = outputdir
+TEMPLATESDIR = "liturgytemplates"
+OUTPUTDIR = "content/archive"
 
 ####################################################
 ####################################################
@@ -105,10 +108,13 @@ https://docs.python.org/3/library/argparse.html#module-argparse
 https://docs.python.org/3/howto/argparse.html
 """
 parser = argparse.ArgumentParser()
-parser.add_argument('year', help='Year to generate (beginning from Advent 1 of previous calendar year).')
+parser.add_argument('year',
+                    help='Year to generate (beginning from Advent 1 of previous calendar year).')
 parser.add_argument('--dry-run', action="store_true", help="don't write anything to disk")
-parser.add_argument('-p', '--past', action="store_true", help="generate liturgies even for dates already past")
-parser.add_argument('-d', '--day', type=str, help='specific day code to generate (e.g., first-sunday-of-advent)')
+parser.add_argument('-p', '--past', action="store_true",
+                    help="generate liturgies even for dates already past")
+parser.add_argument('-d', '--day', type=str,
+                    help='specific day code to generate (e.g., first-sunday-of-advent)')
 parser.add_argument('--usage', action="store_true", help="more usage information")
 parser.add_argument('--copyright', action="store_true", help="show copyright info")
 parser.add_argument('--templates', type=str, help='templates file')
@@ -131,9 +137,9 @@ dry_run = args.dry_run
 only_day = args.day
 only_lectionary = args.lectionary
 if args.templates:
-    templatesdir = args.templates
+    TEMPLATESDIR = args.templates
 if args.output:
-    outputdir = args.output
+    OUTPUTDIR = args.output
 year = args.year
 DEBUG = args.debug
 
@@ -141,176 +147,159 @@ DEBUG = args.debug
 ####################################################
 
 calcdates = []
-with open(calcdatesfile, "r") as f:
+with open(CALCDATESFILE, "r", encoding='utf-8') as f:
     data = f.read()
     calcdates = json.loads(data)
 
 collects = []
-with open(collectsfile, "r") as f:
-  data = f.read()
-  collects = json.loads(data)
+with open(COLLECTSFILE, "r", encoding='utf-8') as f:
+    data = f.read()
+    collects = json.loads(data)
 
 #TODO: check for successful load or throw error
-templates = get_data(templatesfile)
-templatesCodeColumn = 4
+templates = get_data(TEMPLATESFILE)
+COL_CODE = 4
+COL_RITE = COL_CODE + 1
+COL_BCPP = COL_RITE + 1
+COL_BEGN = COL_BCPP + 1
+
+def straight_quotes(text):
+    single_open  = '\u2018'
+    single_close = '\u2019'
+    double_open  = '\u201C'
+    double_close = '\u201D'
+    text = text.replace(single_open,  "'")
+    text = text.replace(single_close, "'")
+    text = text.replace(double_open,  '"')
+    text = text.replace(double_close, '"')
+    return text
 
 def sundayafterchristmas(year):
-  return date(year,12,26) + relativedelta(weekday=calendar.SUNDAY)
+    return date(year,12,26) + relativedelta(weekday=calendar.SUNDAY)
 
 def sundayafterepiphany(year):
-  return date(year,1,7) + relativedelta(weekday=calendar.SUNDAY)
+    return date(year,1,7) + relativedelta(weekday=calendar.SUNDAY)
 
 def getrecord(data, day):
-  for i in data:
-    if i['day'] == day:
-      return i
+    for i in data:
+        if i['day'] == day:
+            return i
 
 def liturgydate(day, year):
-  """
-  Calculate the calendar date for a liturgy in a liturgical year.
+    """
+    Calculate the calendar date for a liturgy in a liturgical year.
 
-  Liturgical year begins on Advent 1 (fourth Sunday before
-  Christmas). So liturgydate('first-sunday-of-advent', 2022)
-  returns "2021-11-28".
-  """
-  year = int(year)
+    Liturgical year begins on Advent 1 (fourth Sunday before
+    Christmas). So liturgydate('first-sunday-of-advent', 2022)
+    returns "2021-11-28".
+    """
+    year = int(year)
 
-  # special case: thanksgiving-day on fourth Thursday in November
-  if day == 'thanksgiving-day':
-    return date(year,11,22) + relativedelta(weekday=calendar.THURSDAY)
+    # special case: thanksgiving-day on fourth Thursday in November
+    if day == 'thanksgiving-day':
+        return date(year,11,22) + relativedelta(weekday=calendar.THURSDAY)
 
-  calculator = getrecord(calcdates, day)
-  if not calculator:
-    raise Exception ("Calculation data for day " + day + " not found.")
-  method = calculator['relative']
-  value = calculator['value']
+    calculator = getrecord(calcdates, day)
+    if not calculator:
+        raise Exception ("Calculation data for day " + day + " not found.")
+    method = calculator['relative']
+    value = calculator['value']
 
-  # methods = ["xmas-last", "date", "eiphany1", "easter", "xmas-next"]
-  if method == 'xmas-last':
-    return sundayafterchristmas(year-1) + relativedelta(days=int(value))
+    # methods = ["xmas-last", "date", "eiphany1", "easter", "xmas-next"]
+    if method == 'xmas-last':
+        return sundayafterchristmas(year-1) + relativedelta(days=int(value))
 
-  if method == 'xmas-next':
-    return sundayafterchristmas(year) + relativedelta(days=int(value))
+    if method == 'xmas-next':
+        return sundayafterchristmas(year) + relativedelta(days=int(value))
 
-  if method == 'epiphany1':
-    return sundayafterepiphany(year) + relativedelta(days=int(value))
+    if method == 'epiphany1':
+        return sundayafterepiphany(year) + relativedelta(days=int(value))
 
-  if method == 'easter':
-    return easter(year) + relativedelta(days=int(value))
+    if method == 'easter':
+        return easter(year) + relativedelta(days=int(value))
 
-  if method == 'date':
-    when = date.fromisoformat(value)
-    when = date(year, when.month, when.day)
-    # correct for static dates that occur between advent 1 & turn of year
-    if when > liturgydate('first-sunday-of-advent', year+1):
-      when = date(year-1, when.month, when.day)
-    return when
+    if method == 'date':
+        when = date.fromisoformat(value)
+        when = date(year, when.month, when.day)
+        # correct for static dates that occur between advent 1 & turn of year
+        if when > liturgydate('first-sunday-of-advent', year+1):
+            when = date(year-1, when.month, when.day)
+        return when
 
-  raise Exception("Invalid method encountered: " + method)
+    raise Exception("Invalid method encountered: " + method)
 
 def lectionarytitle(day, year):
-  collect = getrecord(collects, day)
-  if not collect:
-    raise Exception ("Title or day " + day + " not found.")
-  return collect['title']
+    collect = getrecord(collects, day)
+    if not collect:
+        raise Exception ("Title or day " + day + " not found.")
+    return collect['title']
 
 def lectionaryyear(year):
-  # Working backwards, 1900 would be year a!
-  year = int(year)
-  if year < 1900:
-    raise Exception ("Invalid year " + str(year) + ": only 1900 and later are supported.")
-  year = (year - 1900) % 3
-  if year == 0: return 'a'
-  elif year == 1: return 'b'
-  else: return 'c'
-
-def header(day, year):
-  result = "---\n"
-  result += 'title: "' + lectionarytitle(day, year) + '"\n'
-  result += "date: " + str(liturgydate(day, year)) + "\n"
-  result += "lectionaryyear: " + lectionaryyear(year) + "\n"
-  result += "proper: " + day + "\n"
-  result = "---\n"
-  return result
-
-def choosetemplateindir(day, year, directory):
-  directory = templatesdir + "/" + directory
-  candidate = Path(directory + "/" + day + ".txt")
-  if DEBUG: print ("Candidate1 for template = " + str(candidate) + ": " + str(candidate.is_file()))
-  if candidate.is_file(): return candidate
-
-  for s in ('advent', 'christmas', 'epiphany', 'lent', 'easter-week', 'sunday-of-easter', 'proper'):
-    if day.find(s) >= 0:
-      candidate = Path(directory + "/" + s + ".txt")
-      if DEBUG: print ("Candidate2 for template = " + str(candidate) + ": " + str(candidate.is_file()))
-      if candidate.is_file(): return candidate
-
-  candidate = Path(directory + "/" + "default" + ".txt")
-  if DEBUG: print ("Candidate3 for template = " + str(candidate) + ": " + str(candidate.is_file()))
-  if candidate.is_file(): return candidate
-
-  return ""
+    # Working backwards, 1900 would be year a!
+    year = int(year)
+    if year < 1900:
+        raise Exception ("Invalid year " + str(year) + ": only 1900 and later are supported.")
+    year = (year - 1900) % 3
+    if year == 0:
+        return 'a'
+    if year == 1:
+        return 'b'
+    return 'c'
 
 def choosetemplate(day, year):
-  sheet = templates[str(year)]
-  for row in sheet:
-    if row[templatesCodeColumn]==day:
-        return row
+    sheet = templates[str(year)]
+    for row in sheet:
+        if row[COL_CODE]==day:
+            return row
+    return []
 
 def shortcode(x):
     if x == "":
         return ""
     return '{{{{% {0} %}}}}\n'.format(x.strip())
 
-def shortcodeClosed(x):
+def shortcode_closed(x):
     return shortcode(x).replace(" %}}", " /%}}")
 
 def generateliturgy(day, year):
-  result = header(day, year)
-  template = choosetemplate(day, year)
-  if DEBUG: print ("DEBUG: chose template " + str(template))
+    template = choosetemplate(day, year)
+    if DEBUG: print ("DEBUG: chose template " + str(template))
 
-  pageColumn = 5
-  titleColumn = 6
-  prepareColumn = 7
-  psalmStyleColumn = 13
-  postscriptColumn = 36
-  noSecondReading = ["eastervigil", "eastermonday", "eastertuesday", "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
-  headings = {
-    prepareColumn + 2 : "## We Gather in God's Name",
-    psalmStyleColumn  : "## We Hear God's Word",
-    psalmStyleColumn + 4 : "## We Respond in Faith",
-    psalmStyleColumn + 9 : "## We Offer Ourselves To God",
-    psalmStyleColumn + 14 : "## We Receive the Gift of God"
-    }
+    result = "---\n"
+    result += 'title: "' + lectionarytitle(day, year) + '"\n'
+    result += "date: " + str(liturgydate(day, year)) + "\n"
+    result += "lectionaryyear: " + lectionaryyear(year) + "\n"
+    result += "proper: " + day + "\n"
 
+    rite = template[COL_RITE]
+    if rite:
+        result += "rite: " + rite + "\n"
+    bcpp = template[COL_BCPP]
+    if bcpp:
+        result += "bcppage: " + bcpp + "\n"
+    result += "---\n"
 
-  for i in range(prepareColumn + 1, len(template)-1):
-      if (i == psalmStyleColumn and day != "goodfriday"):
-          result += (shortcode('he/propercollect'))
-          result += (shortcode('rubric-sit'))
+    # noSecondReading = ["eastervigil", "eastermonday", "eastertuesday",
+    # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
 
-      if (headings.get(i)):
-          if (i<=psalmStyleColumn or day != "goodfriday"):
-              result += '\n' + headings.get(i) + '\n'
+    closed_codes = ["lesson"]
 
-      if (i == psalmStyleColumn):
-          result += shortcodeClosed('lesson "first"')
-          result += shortcodeClosed(template[psalmStyleColumn])
-          if (not day in noSecondReading):
-              result += shortcodeClosed('lesson "second"')
-          if (day != "goodfriday" and day != "palmsunday"):
-              result += shortcodeClosed('lesson "gospel"')
-      elif ("he/eucharisticprayer/" in template[i]):
-          result += shortcodeClosed(template[i])
-      else:
-          result += shortcode(template[i])
-  result += shortcode('nrsv')
-
-  return result
+    for col in range(COL_BCPP + 1, len(template)):
+        entry = straight_quotes(template[col])
+        if entry.startswith("#"):
+            result += "\n" + entry + "\n"
+        elif entry:
+            needs_closer = False
+            for code in closed_codes:
+                needs_closer = needs_closer or code in entry
+            if needs_closer:
+                result += shortcode_closed(entry)
+            else:
+                result += shortcode(entry)
+    return result
 
 def lessonstarget():
-    return outputdir + "/" + str(year) + "/lectionary.md"
+    return OUTPUTDIR + "/" + str(year) + "/lectionary.md"
 
 def generatelessons(day, year):
     result = "##### pb\n"
@@ -349,7 +338,7 @@ def majorliturgies(year):
   """
   Generate liturgies for Sundays and major feasts.
   """
-  target = outputdir + "/" + str(year)
+  target = OUTPUTDIR + "/" + str(year)
   if not dry_run:
     os.makedirs(target, exist_ok=True)
 
