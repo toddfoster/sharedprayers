@@ -77,7 +77,6 @@ COLLECTSFILE = 'data/bcpcollects.json'
 TEMPLATESFILE = 'liturgyplans.ods'
 
 # Default directories
-TEMPLATESDIR = "liturgytemplates"
 OUTPUTDIR = "content/archive"
 
 ####################################################
@@ -112,10 +111,6 @@ if args.copyright:
     print(copyright)
     sys.exit(0)
 
-force_past_dates = args.force
-dry_run = args.dry_run
-only_day = args.day
-only_lectionary = args.lectionary
 if args.templates:
     TEMPLATESDIR = args.templates
 if args.output:
@@ -222,93 +217,103 @@ def lectionaryyear(year):
         return 'b'
     return 'c'
 
-def lessonstarget():
-    return OUTPUTDIR + "/" + str(year) + "/lectionary.md"
 
-def generatelessons(day, year):
-    # noSecondReading = ["eastervigil", "eastermonday", "eastertuesday",
-    # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
+def write_lessons(day, year):
+    todo = ["palm-sunday-liturgy-of-the-palms",
+            "easter-day-the-great-vigil"]
+
+    no_second_reading = ["easter-day-the-great-vigil",
+                         "monday-in-easter-week",
+                         "tuesday-in-easter-week",
+                         "wednesday-in-easter-week",
+                         "thursday-in-easter-week",
+                         "friday-in-easter-week",
+                         "saturday-in-easter-week"]
 
     result = "##### pb\n"
-    date = liturgydate(day, year)
-    result += "## " + lectionarytitle(day) + ' - ' + date.strftime("%d %B %Y") + "\n"
+    lessons_date = liturgydate(day, year)
+    result += "## " + lectionarytitle(day) + ' - ' + lessons_date.strftime("%d %B %Y") + "\n"
+
+    if day in todo:
+        result += "## READINGS TO BE GENERATED MANUALLY\n\n"
+        return result
     result += '{{% lesson "first" "' + day + '" /%}}\n'
     result += '{{% lesson "psalm" "' + day + '" /%}}\n'
-    result += '{{% lesson "second" "' + day + '" /%}}\n'
+    if not day in no_second_reading:
+        result += '{{% lesson "second" "' + day + '" /%}}\n'
     result += '{{% lesson "gospel" "' + day + '" /%}}\n'
-    result += "\n"
+    result += '\n'
     return result
 
-def writeliturgy(target, day, when, year):
-    if only_day and only_day != day:
-      return
+def major_liturgies(year):
+    """
+    Return list of major liturgies corresponding to a liturgical year.
 
-    if dry_run:
-      print ("DRY RUN: Not writing liturgy for " + day + ": " + str(when))
-      return
+    Obeys args.force to omit/include liturgies before date.today().
+    """
+    year = int(year)
+    liturgies = []
 
-    if only_lectionary:
-        print ("Writing lessons for " + day + ": " + str(when))
-        lessons = generatelessons(day, year)
-        with open (lessonstarget(), "a") as t:
-            t.write(lessons)
-        return
+    for d in calcdates:
+        dday = d['day']
+        ddate = liturgydate(dday, year)
 
-    print ("Writing liturgy for " + day + ": " + str(when))
-    liturgy = generateliturgy(day, year)
-    with open (target + "/" + day + ".md", "w") as t:
-      t.write(liturgy)
-      t.write("\n")
+        # skip past dates?
+        if not args.force:
+            if ddate < date.today():
+                continue
 
+        # skip second-sunday-after-christmas
+        # if it occurs after the-epiphany
+        if dday == 'second-sunday-after-christmas':
+            if ddate > date(year,1,6):
+                continue
 
-def majorliturgies(year):
-  """
-  Generate liturgies for Sundays and major feasts.
-  """
-  target = OUTPUTDIR + "/" + str(year)
-  if not dry_run:
-    os.makedirs(target, exist_ok=True)
+        # skip epiphanies that happen on or after
+        #last-sunday-after-the-epiphany
+        # exploiting a fortuitous difference to not skip
+        # last-sunday-after-THE-epiphany
+        if dday.find('after-epiphany') >= 0:
+            if ddate >= liturgydate('last-sunday-after-the-epiphany',
+                                    year):
+                continue
 
-  year = int(year)
+        # skip propers that happen on or before trinity-sunday
+        if dday.find('proper') >= 0:
+            if ddate <=  liturgydate('trinity-sunday', year):
+                continue
 
-  for d in calcdates:
-    dday = d['day']
-    ddate = liturgydate(dday, year)
+        liturgies.append(dday)
 
-    # skip past dates?
-    if not force_past_dates:
-      if ddate < date.today():
-        continue
+    # Add thanksgiving-day, which is not included in calcdates.json
+    thanksgivingdate = liturgydate('thanksgiving-day', year)
+    if thanksgivingdate > date.today() or args.force:
+        liturgies.append('thanksgiving-day')
+    return liturgies
 
-    # skip second-sunday-after-christmas if it occurs after the-epiphany
-    if dday == 'second-sunday-after-christmas':
-      if ddate > date(year,1,6):
-        continue
-
-    # skip epiphanies that happen on or after last-sunday-after-the-epiphany
-    # exploiting a fortuitous difference to not skip last-sunday-after-THE-epiphany
-    if dday.find('after-epiphany') >= 0:
-      if ddate >= liturgydate('last-sunday-after-the-epiphany', year):
-        continue
-
-    # skip propers that happen on or before trinity-sunday
-    if dday.find('proper') >= 0:
-      if ddate <=  liturgydate('trinity-sunday', year):
-        continue
-
-    writeliturgy(target, dday, ddate, year)
-
-  # Add thanksgiving-day, which is not included in calcdates.json
-  thanksgivingdate = liturgydate('thanksgiving-day', year)
-  if thanksgivingdate > date.today() or force_past_dates:
-    writeliturgy(target, 'thanksgiving-day', thanksgivingdate, year)
-
-def lectionary(year):
+def generate_lectionary(year, day):
     """
     Generate lectionary (lessons for each liturgy) for Sundays and major feasts.
     """
+    print ("Writing header for lessons for " + str(year))
+    with open ( OUTPUTDIR + "/" + str(year) + "/lectionary.md", "w") as t:
+        t.write("---\n")
+        t.write("title: Lectionary (" + str(year) + ")\n")
+        t.write("date: " + str(liturgydate('first-sunday-of-advent', year)) + "\n")
+        t.write("lectionaryyear: " + lectionaryyear(year) + "\n")
+        t.write("---\n")
 
-    return
+        for liturgy in major_liturgies(year):
+            if day and day != liturgy:
+                continue
+
+            if args.dry_run:
+                print ("DRY RUN: Not writing liturgy for " + liturgy
+                       + ": " + str(year))
+                continue
+
+            print ("Writing lessons for " + liturgy + ": " + str(year))
+            t.write(write_lessons(liturgy, year))
 
 
 def lectionary_year_from_date(d):
@@ -317,7 +322,6 @@ def lectionary_year_from_date(d):
     if d < holy_name:
         year = year + 1
     return lectionaryyear(year)
-
 
 COL_DATE = 0
 COL_CODE = 4
@@ -337,8 +341,9 @@ def unpack_liturgy(row):
     try:
         title = lectionarytitle(day)
     except Exception as e:
-        with open(HOLY_DAYS_DIR + day + "/title", "r", encoding='utf-8') as f:
-            title = f.read().strip()
+        with open(HOLY_DAYS_DIR + day + "/title",
+                  "r", encoding='utf-8') as title_file:
+            title = title_file.read().strip()
 
     result = "---\n"
     result += 'title: "' + title + '"\n'
@@ -409,7 +414,7 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
     year = str(year)
 
     target = OUTPUTDIR + "/" + year
-    if not dry_run:
+    if not args.dry_run:
         os.makedirs(target, exist_ok=True)
 
     found_day = False
@@ -438,7 +443,7 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
         found_day = True
 
         # skip past dates?
-        if not force_past_dates and rowdate < date.today():
+        if not force_rewrite_history and rowdate < date.today():
             continue
 
         # don't write on dry_run
@@ -457,14 +462,7 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
 
 
 
-if only_lectionary and not dry_run:
-    print ("Writing header for lessons for " + str(year))
-    with open (lessonstarget(), "w") as t:
-        t.write("---\n")
-        t.write("title: Lectionary (" + str(year) + ")\n")
-        t.write("date: " + str(liturgydate('first-sunday-of-advent', year)) + "\n")
-        t.write("lectionaryyear: " + lectionaryyear(year) + "\n")
-        t.write("---\n")
-    majorliturgies(year)
+if args.lectionary and not args.dry_run:
+    generate_lectionary(args.year, args.day)
 else:
     convert_spreadsheet(args.year, args.day, args.force)
