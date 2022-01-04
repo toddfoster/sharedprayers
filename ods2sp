@@ -258,7 +258,7 @@ def generateliturgy(day, year):
     # noSecondReading = ["eastervigil", "eastermonday", "eastertuesday",
     # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
 
-    closed_codes = ["lesson"]
+    closed_codes = ["lesson", "he/eucharisticprayer/b"]
     hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion"]
     maybe_hymn = ""
 
@@ -293,15 +293,16 @@ def generateliturgy(day, year):
         if maybe_hymn and maybe_hymn != "found":
             continue
 
-        # Add entry with or with a closer
+        # Add entry with or without a closer
         needs_closer = False
         for code in closed_codes:
             needs_closer = needs_closer or code in entry
         needs_closer = needs_closer and not entry.endswith(" /")
         if needs_closer:
-            result += '{{% ' + entry + " /%}}\n"
+            if DEBUG: print ("Needs closer? " + entry)
+            result += '{{% ' + entry.strip() + " /%}}\n"
         else:
-            result += '{{% ' + entry + " %}}\n"
+            result += '{{% ' + entry.strip() + " %}}\n"
         maybe_hymn = ""
     return result
 
@@ -323,7 +324,7 @@ def generatelessons(day, year):
     date = liturgydate(day, year)
     result += "## " + lectionarytitle(day, year) + ' - ' + date.strftime("%d %B %Y") + "\n"
     result += '{{% lesson "first" "' + day + '" /%}}\n'
-    result += '{{% he/psalm/responsively "' + day + '" /%}}\n'
+    result += '{{% lesson "psalm" "' + day + '" /%}}\n'
     result += '{{% lesson "second" "' + day + '" /%}}\n'
     result += '{{% lesson "gospel" "' + day + '" /%}}\n'
     result += "\n"
