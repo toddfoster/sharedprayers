@@ -29,7 +29,7 @@ Usage
 
 Flags
  - --dry-run : don't write anything to disk
- - --past -p : generate liturgies even for dates already past
+ - --force -f : force generate liturgies even for dates already past
  - --templates -t dir : .ods file with templates
  - --output -o dir : directory for output
  - --day -d day : code for liturgical day to generate
@@ -91,8 +91,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument('year',
                     help='Year to generate (beginning from Advent 1 of previous calendar year).')
 parser.add_argument('--dry-run', action="store_true", help="don't write anything to disk")
-parser.add_argument('-p', '--past', action="store_true",
-                    help="generate liturgies even for dates already past")
+parser.add_argument('-f', '--force', action="store_true",
+                    help="force generate liturgies even for dates already past")
 parser.add_argument('-d', '--day', type=str,
                     help='specific day code to generate (e.g., first-sunday-of-advent)')
 parser.add_argument('--usage', action="store_true", help="more usage information")
@@ -112,7 +112,7 @@ if args.copyright:
     print(copyright)
     sys.exit(0)
 
-skip_past_dates = not args.past
+force_past_dates = not args.force
 dry_run = args.dry_run
 only_day = args.day
 only_lectionary = args.lectionary
@@ -259,7 +259,7 @@ def generateliturgy(day, year):
     # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
 
     closed_codes = ["lesson", "he/eucharisticprayer/b"]
-    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion"]
+    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
     maybe_hymn = ""
 
     for col in range(COL_BCPP + 1, len(template)):
@@ -367,7 +367,7 @@ def majorliturgies(year):
     ddate = liturgydate(dday, year)
 
     # skip past dates?
-    if skip_past_dates:
+    if not force_past_dates:
       if ddate < date.today():
         continue
 
@@ -391,7 +391,7 @@ def majorliturgies(year):
 
   # Add thanksgiving-day, which is not included in calcdates.json
   thanksgivingdate = liturgydate('thanksgiving-day', year)
-  if thanksgivingdate > date.today() or not skip_past_dates:
+  if thanksgivingdate > date.today() or force_past_dates:
     writeliturgy(target, 'thanksgiving-day', thanksgivingdate, year)
 
 def lectionary(year):
