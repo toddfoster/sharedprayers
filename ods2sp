@@ -91,7 +91,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('year',
                     help='Year to generate (beginning from Advent 1 of previous calendar year).')
 parser.add_argument('--dry-run', action="store_true", help="don't write anything to disk")
-parser.add_argument('-f', '--force', action="store_false",
+parser.add_argument('-f', '--force', action="store_true",
                     help="force generate liturgies even for dates already past")
 parser.add_argument('-d', '--day', type=str,
                     help='specific day code to generate (e.g., first-sunday-of-advent)')
@@ -112,7 +112,7 @@ if args.copyright:
     print(copyright)
     sys.exit(0)
 
-force_past_dates = not args.force
+force_past_dates = args.force
 dry_run = args.dry_run
 only_day = args.day
 only_lectionary = args.lectionary
@@ -138,10 +138,6 @@ with open(COLLECTSFILE, "r", encoding='utf-8') as f:
 
 #TODO: check for successful load or throw error
 templates = get_data(TEMPLATESFILE)
-COL_CODE = 4
-COL_RITE = COL_CODE + 1
-COL_BCPP = COL_RITE + 1
-COL_BEGN = COL_BCPP + 1
 
 def straight_quotes(text):
     single_open  = '\u2018'
@@ -208,7 +204,7 @@ def liturgydate(day, year):
 
     raise Exception("Invalid method encountered: " + method)
 
-def lectionarytitle(day, year):
+def lectionarytitle(day):
     collect = getrecord(collects, day)
     if not collect:
         raise Exception ("Title or day " + day + " not found.")
@@ -226,103 +222,16 @@ def lectionaryyear(year):
         return 'b'
     return 'c'
 
-def choosetemplate(day, year):
-    sheet = templates[str(year)]
-    for row in sheet:
-        if row[COL_CODE]==day:
-            return row
-    # Didn't find it! Try default
-    if day != "default":
-        return choosetemplate("default", year)
-    # else give up
-    return []
-
-def generateliturgy(day, year):
-    template = choosetemplate(day, year)
-    if DEBUG: print ("DEBUG: chose template " + str(template))
-
-    result = "---\n"
-    result += 'title: "' + lectionarytitle(day, year) + '"\n'
-    result += "date: " + str(liturgydate(day, year)) + "\n"
-    result += "lectionaryyear: " + lectionaryyear(year) + "\n"
-    result += "proper: " + day + "\n"
-
-    rite = template[COL_RITE]
-    if rite:
-        result += "rite: " + rite + "\n"
-    bcpp = template[COL_BCPP]
-    if bcpp:
-        result += "bcppage: " + bcpp + "\n"
-    result += "---\n"
-
-    # noSecondReading = ["eastervigil", "eastermonday", "eastertuesday",
-    # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
-
-    closed_codes = ["lesson", "he/eucharisticprayer/b"]
-    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
-    maybe_hymn = ""
-
-    for col in range(COL_BCPP + 1, len(template)):
-        entry = straight_quotes(template[col])
-        if maybe_hymn:
-            if DEBUG: print("Found maybe hymn: " + maybe_hymn + "(" + entry + ")")
-            if entry:
-                entry = maybe_hymn + ' "' + entry + '"'
-            else:
-                entry = maybe_hymn
-            maybe_hymn = "found"
-
-        # Check for empty cell
-        if not entry:
-            continue
-
-        # Check for comment (";"): skip column
-        if entry.startswith(";"):
-            continue
-
-        # Check for heading ("#"): print column as-is
-        if entry.startswith("#"):
-            result += "\n" + entry + "\n"
-            continue
-
-        # Check whether to look for a hymn in the next column
-        if maybe_hymn != "found":
-            for code in hymn_optional_codes:
-                if code in entry:
-                    maybe_hymn = entry
-        if maybe_hymn and maybe_hymn != "found":
-            continue
-
-        # Add entry with or without a closer
-        needs_closer = False
-        for code in closed_codes:
-            needs_closer = needs_closer or code in entry
-        needs_closer = needs_closer and not entry.endswith(" /")
-        if needs_closer:
-            if DEBUG: print ("Needs closer? " + entry)
-            result += '{{% ' + entry.strip() + " /%}}\n"
-        else:
-            result += '{{% ' + entry.strip() + " %}}\n"
-        maybe_hymn = ""
-    return result
-
-def shortcode(x):
-    if x == "":
-        return ""
-    return '{{{{% {0} %}}}}\n'.format(x.strip())
-
-def shortcode_closed(x):
-    return shortcode(x).replace(" %}}", " /%}}")
-
-
-
 def lessonstarget():
     return OUTPUTDIR + "/" + str(year) + "/lectionary.md"
 
 def generatelessons(day, year):
+    # noSecondReading = ["eastervigil", "eastermonday", "eastertuesday",
+    # "easterwednesday", "easterthursday", "easterfriday", "eastersaturday"]
+
     result = "##### pb\n"
     date = liturgydate(day, year)
-    result += "## " + lectionarytitle(day, year) + ' - ' + date.strftime("%d %B %Y") + "\n"
+    result += "## " + lectionarytitle(day) + ' - ' + date.strftime("%d %B %Y") + "\n"
     result += '{{% lesson "first" "' + day + '" /%}}\n'
     result += '{{% lesson "psalm" "' + day + '" /%}}\n'
     result += '{{% lesson "second" "' + day + '" /%}}\n'
@@ -401,6 +310,153 @@ def lectionary(year):
 
     return
 
+
+def lectionary_year_from_date(d):
+    year = d.year
+    holy_name = liturgydate("holy-name", year)
+    if d < holy_name:
+        year = year + 1
+    return lectionaryyear(year)
+
+
+COL_DATE = 0
+COL_CODE = 4
+COL_RITE = COL_CODE + 1
+COL_BCPP = COL_RITE + 1
+COL_BEGN = COL_BCPP + 1
+HOLY_DAYS_DIR = "layouts/shortcodes/holydays/"
+
+def unpack_liturgy(row):
+    if DEBUG: print ("DEBUG: unpack_liturgy " + str(row))
+
+    day = row[COL_CODE]
+    date = row[COL_DATE]
+
+    # Handle holy days not in json
+    title = ""
+    try:
+        title = lectionarytitle(day)
+    except Exception as e:
+        with open(HOLY_DAYS_DIR + day + "/title", "r", encoding='utf-8') as f:
+            title = f.read().strip()
+
+    result = "---\n"
+    result += 'title: "' + title + '"\n'
+    result += "date: " + str(date) + "\n"
+    result += "lectionaryyear: " + lectionary_year_from_date(date) + "\n"
+    result += "proper: " + day + "\n"
+
+    rite = row[COL_RITE]
+    if rite:
+        result += "rite: " + rite + "\n"
+    bcpp = row[COL_BCPP]
+    if bcpp:
+        result += "bcppage: " + bcpp + "\n"
+    result += "---\n"
+
+    closed_codes = ["lesson", "he/eucharisticprayer/b"]
+    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
+    maybe_hymn = ""
+
+    for col in range(COL_BCPP + 1, len(row)):
+        entry = straight_quotes(row[col])
+        if maybe_hymn:
+            if DEBUG: print("Found maybe hymn: " + maybe_hymn + "(" + entry + ")")
+            if entry:
+                entry = maybe_hymn + ' "' + entry + '"'
+            else:
+                entry = maybe_hymn
+            maybe_hymn = "found"
+
+        # Check for empty cell
+        if not entry:
+            continue
+
+        # Check for comment (";"): skip column
+        if entry.startswith(";"):
+            continue
+
+        # Check for heading ("#"): print column as-is
+        if entry.startswith("#"):
+            result += "\n" + entry + "\n"
+            continue
+
+        # Check whether to look for a hymn in the next column
+        if maybe_hymn != "found":
+            for code in hymn_optional_codes:
+                if code in entry:
+                    maybe_hymn = entry
+        if maybe_hymn and maybe_hymn != "found":
+            continue
+
+        # Add entry with or without a closer
+        needs_closer = False
+        for code in closed_codes:
+            needs_closer = needs_closer or code in entry
+        needs_closer = needs_closer and not entry.endswith(" /")
+        if needs_closer:
+            result += '{{% ' + entry.strip() + " /%}}\n"
+        else:
+            result += '{{% ' + entry.strip() + " %}}\n"
+        maybe_hymn = ""
+    return result
+
+def convert_spreadsheet(year, target_day, force_rewrite_history):
+    """
+    Generate liturgies for all entries in spreadsheet except "default"
+    and possibly excepting dates already passed.
+    """
+    year = str(year)
+
+    target = OUTPUTDIR + "/" + year
+    if not dry_run:
+        os.makedirs(target, exist_ok=True)
+
+    found_day = False
+    sheet = templates[str(year)]
+    for row in sheet:
+        if DEBUG: print("row=" + str(row))
+
+        # skip empty rows
+        if len(row) < COL_BEGN:
+            continue
+
+        # skip first row
+        if row[COL_CODE] == "Code":
+            continue
+
+        # skip rows without valid dates
+        rowdate = date.today()
+        try:
+            rowdate = date.fromisoformat(str(row[COL_DATE]))
+        except Exception as e:
+            continue
+
+        # skip non-selected days
+        if target_day and row[COL_CODE] != target_day:
+            continue
+        found_day = True
+
+        # skip past dates?
+        if not force_past_dates and rowdate < date.today():
+            continue
+
+        # don't write on dry_run
+        if args.dry_run:
+            print ("DRY RUN: Not writing liturgy for " + row[COL_CODE] + ": " + row[COL_DATE])
+            continue
+
+        print ("Writing liturgy for " + row[COL_CODE] + ": " + str(row[COL_DATE]))
+        with open (target + "/" + row[COL_CODE] + ".md", "w") as t:
+            t.write(unpack_liturgy(row))
+            t.write("\n")
+    if not found_day:
+        print ("WARNING: could not locate requested day " + target_day)
+
+
+
+
+
 if only_lectionary and not dry_run:
     print ("Writing header for lessons for " + str(year))
     with open (lessonstarget(), "w") as t:
@@ -409,5 +465,6 @@ if only_lectionary and not dry_run:
         t.write("date: " + str(liturgydate('first-sunday-of-advent', year)) + "\n")
         t.write("lectionaryyear: " + lectionaryyear(year) + "\n")
         t.write("---\n")
-else:
     majorliturgies(year)
+else:
+    convert_spreadsheet(args.year, args.day, args.force)
