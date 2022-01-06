@@ -32,8 +32,10 @@ bcppage: 355ff.
 ## We Offer Ourselves To God
 {{% he/offertory "O love, how deep (Hymnal 448, vv. 1--3, 6)" %}}
 {{% he/eucharisticprayer/b /%}}
+
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+
 #### Hymnal S-154
 {{% he/fraction/long %}}
 
@@ -45,3 +47,4 @@ bcppage: 355ff.
 {{% he/processional "Songs of faithfulness and praise (Hymnal 135)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
+
