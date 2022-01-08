@@ -5,6 +5,7 @@ weight: 50
 --------
 ### The Daily Office
 * Morning Prayer
+  * in the season of Epiphany: [Mon](mp/mp-epiphany-mon) / [Tues](mp/mp-epiphany-tue) / [Wed](mp/mp-epiphany-wed) / [Thurs](mp/mp-epiphany-thu) / [Fri](mp/mp-epiphany-fri) / [Sat](mp/mp-epiphany-sat) / [Sun](mp/mp-epiphany-sun)
   * in Christmas: [Mon](mp/mp-xmas-mon) / [Tues](mp/mp-xmas-tue) / [Wed](mp/mp-xmas-wed) / [Thurs](mp/mp-xmas-thu) / [Fri](mp/mp-xmas-fri) / [Sat](mp/mp-xmas-sat) / [Sun](mp/mp-xmas-sun)
   * in Advent: [Mon](mp/mp-advent-mon) / [Tues](mp/mp-advent-tue) / [Wed](mp/mp-advent-wed) / [Thurs](mp/mp-advent-thu) / [Fri](mp/mp-advent-fri) / [Sat](mp/mp-advent-sat) / [Sun](mp/mp-advent-sun)
   * in the season after Pentecost: [Mon](mp/mp-pentecost-covid-mon) / [Tues](mp/mp-pentecost-covid-tue) / [Wed](mp/mp-pentecost-covid-wed) / [Thurs](mp/mp-pentecost-covid-thu) / [Fri](mp/mp-pentecost-covid-fri) / [Sat](mp/mp-pentecost-covid-sat) / [Sun](mp/mp-pentecost-covid-sun)
