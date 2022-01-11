@@ -29,6 +29,7 @@ bcppage: 355ff.
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
+{{% stt/birthdaysanniversaries %}}
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
