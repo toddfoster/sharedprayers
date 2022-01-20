@@ -34,7 +34,7 @@ bcppage: 355ff.
 {{% he/offertory "Alas! And did my Savior bleed (LEVAS 30)" %}}
 {{% he/eucharisticprayer/b /%}}
 
-#### Hymnal S-119
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
 
 #### Hymnal S-154
@@ -48,4 +48,3 @@ bcppage: 355ff.
 {{% he/processional "My hope is built on nothing less (LEVAS 99)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
