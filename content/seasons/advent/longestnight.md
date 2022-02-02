@@ -16,7 +16,7 @@ The **Longest Night Mass** is intended to bring balance to our Advent and Christ
 ## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/hymn "O Come, O Come Emmanuel (vv. 5-8) (Hymnal 56)" %}}
+{{% hymn "O Come, O Come Emmanuel (vv. 5-8) (Hymnal 56)" %}}
 ### Salutation and Collect
 {{% letuspray %}}
 
@@ -107,7 +107,7 @@ In the assurance of eternal life given at Baptism, let us proclaim our faith and
 
 ##### The people sit. No offering plate will be passed; you are invited to drop any donations into the receptacle at back on your way out.
 
-{{% he/offertory "A stable lamp is lighted (Hymnal 104)" %}}
+{{% hymn Offertory "A stable lamp is lighted (Hymnal 104)" %}}
 {{% he/todo/prayerd-begin %}}
 
 Remember those whom we now name, silently or aloud: all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
@@ -125,9 +125,9 @@ _The people are invited to call aloud names they wish to add to the prayer._
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
 ##### pb
-{{% he/communion "Of the Father's love begotten (Hymnal 82)" %}}
+{{% hymn Communion "Of the Father's love begotten (Hymnal 82)" %}}
 {{% he/postcommunion/burial2 %}}
 {{% he/blessing/advent-short %}}
-{{% he/processional "Silent Night (Hymnal 111)" %}}
+{{% hymn Processional "Silent Night (Hymnal 111)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

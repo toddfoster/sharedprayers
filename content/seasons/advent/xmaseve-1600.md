@@ -17,7 +17,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% advent/wreath5 %}}
 {{% he/greeting/blessedareyou %}}
 
-{{% he/hymn "O Come, All Ye Faithful (Hymnal 83)" %}}
+{{% hymn "O Come, All Ye Faithful (Hymnal 83)" %}}
 
 {{% he/propercollect-custom %}}
 God be with you.
@@ -37,7 +37,7 @@ O God, you have caused this holy night to shine with the brightness of the true 
 {{% lesson "psalm" 96 /%}}
 {{% lesson "second" "Titus 2:11-14" "Hear what the Spirit is saying to God's people." /%}}
 ##### The people stand as able.
-{{% he/sequence "O little town of Bethlehem (Hymnal 79)" %}}
+{{% hymn Sequence "O little town of Bethlehem (Hymnal 79)" %}}
 ### The Holy Gospel: _Luke 2:1-20_
 ##### Deacon:
 The Holy Gospel of our Savior Jesus Christ according to Luke.
@@ -130,7 +130,7 @@ Source of light and gladness, accept the prayers we offer on this joyful feast. 
 ### The Announcements
 
 ## We Offer Ourselves to God
-{{% he/offertory "Angels we have heard on high (Hymnal 96)" %}}
+{{% hymn Offertory "Angels we have heard on high (Hymnal 96)" %}}
 
 
 ##### An offering basin will not be passed around. It may be found on the Safety Coordinator’s table, and donations left there as you exit.
@@ -140,12 +140,12 @@ Source of light and gladness, accept the prayers we offer on this joyful feast. 
 
 ## We Receive the Gift of God
 {{% stt/2021/communion-covid %}}
-{{% he/communion "Of the Father's love (Hymnal 82)" %}}
-{{% he/hymn "It came upon the midnight clear (Hymnal 89)" %}}
+{{% hymn Communion "Of the Father's love (Hymnal 82)" %}}
+{{% hymn Communion  "It came upon the midnight clear (Hymnal 89)" %}}
 ##### pb
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
-{{% he/hymn "Away in a manger (Hymnal 101)" %}}
-{{% he/processional "Hark the Herald Angels Sing (Hymnal 87)" %}}
+{{% hymn "Away in a manger (Hymnal 101)" %}}
+{{% hymn Processional "Hark the Herald Angels Sing (Hymnal 87)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

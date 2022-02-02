@@ -17,7 +17,7 @@ If you are feeling ill or think you may have been exposed to someone ill within 
 {{% advent/wreath5 %}}
 {{% he/greeting/blessedareyou %}}
 
-{{% he/hymn "O Come, All Ye Faithful (Hymnal 83)" %}}
+{{% hymn "O Come, All Ye Faithful (Hymnal 83)" %}}
 
 {{% he/propercollect-custom %}}
 God be with you.
@@ -39,7 +39,7 @@ O God, you have caused this holy night to shine with the brightness of the true 
 ##### 7pm:
 {{% he/anthem "Let there be peace on earth" %}}
 ##### 11pm, standing:
-{{% he/sequence "The first Nowell the angel did say (Hymnal 109)" %}}
+{{% hymn Sequence "The first Nowell the angel did say (Hymnal 109)" %}}
 
 ##### The people stand as able.
 ### The Holy Gospel: _Luke 2:1-20_
@@ -135,25 +135,25 @@ Source of light and gladness, accept the prayers we offer on this joyful feast. 
 
 ## We Offer Ourselves to God
 ##### An offering basin will not be passed, but may be found near the door.
-{{% he/offertory "Angels we have heard on high (Hymnal 96)" %}}
+{{% hymn Offertory "Angels we have heard on high (Hymnal 96)" %}}
 {{% he/eucharisticprayer/eow2 %}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/agnusdei %}}
 
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion "Of the Father's love (Hymnal 82)" %}}
-{{% he/hymn "It came upon the midnight clear (Hymnal 89)" %}}
+{{% hymn Communion "Of the Father's love (Hymnal 82)" %}}
+{{% hymn Communion "It came upon the midnight clear (Hymnal 89)" %}}
 ##### pb
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
 ##### 7pm only: Choir sings v. 1, the people join for vv. 2-3.
 ##### 11pm only: As the torches process down the aisle, please light your candle from them and share the flame with your neighbor.
-{{% he/hymn "Silent Night (Hymnal 111)" %}}
+{{% hymn "Silent Night (Hymnal 111)" %}}
 {{% rubric-sit %}}
 ### The Prologue of John (John 1:1-14)
 {{% rubric-stand %}}
 ##### 11pm only: As the lights are raised and the altar party processes, please extinguish your candles safely and deposit them with the ushers on your way out. Beware dripping hot wax on yourself, others, or furnishings!
-{{% he/processional "Away in a manger (Hymnal 101)" %}}
+{{% hymn Processional "Away in a manger (Hymnal 101)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

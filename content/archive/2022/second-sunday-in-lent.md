@@ -17,7 +17,7 @@ bcppage: 351ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence %}}
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -26,19 +26,19 @@ bcppage: 351ff.
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-
-## We Offer Ourselves To God
-{{% he/offertory "levas-184" %}}
+{{% stt/2022/offertory %}}
+{{% hymn Offertory "levas-184" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long-lent %}}
 
-## We Receive the Gift of God
+##### pb
+### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/lent %}}
-{{% he/processional "levas-1" %}}
+{{% hymn Processional "levas-1" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

@@ -8,7 +8,7 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% hymn Processional "l-12" %}}
+{{% hymn Entrance "l-12" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -30,8 +30,7 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
-
-## We Offer Ourselves To God
+{{% stt/2022/offertory %}}
 {{% hymn Offertory "l-181" %}}
 {{% he/eucharisticprayer/b /%}}
 
@@ -41,7 +40,8 @@ bcppage: 355ff.
 #### Hymnal S-154
 {{% he/fraction/long %}}
 
-## We Receive the Gift of God
+##### pb
+### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
 {{% hymn Communion "l-152" %}}
 {{% he/postcommunion/almighty %}}

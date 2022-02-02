@@ -24,13 +24,15 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/peace %}}
-{{% he/offertory %}}
+{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 
-## We Receive the Gift of God
-{{% he/communion %}}
+##### pb
+### We Receive the Gift of God
+{{% stt/2022/communion-covid %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
 {{% he/dismissal/goinpeace %}}

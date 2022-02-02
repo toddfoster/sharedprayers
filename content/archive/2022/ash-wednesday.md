@@ -17,13 +17,15 @@ bcppage: 264ff.
 ## We Respond in Faith
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% he/offertory %}}
+{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long-lent %}}
 
-## We Receive the Gift of God
-{{% he/communion %}}
+##### pb
+### We Receive the Gift of God
+{{% stt/2022/communion-covid %}}
+{{% hymn Communion %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

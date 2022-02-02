@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Choir Anthem: Watchman, tell us of the night" %}}
+{{% hymn Sequence "Choir Anthem: Watchman, tell us of the night" %}}
 ##### pb
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
@@ -36,7 +36,7 @@ bcppage: 355ff.
 
 ##### pb
 ## We Offer Ourselves To God
-{{% he/offertory "Hark! A Thrilling Voice is Sounding (Hymnal 59)" %}}
+{{% hymn Offertory "Hark! A Thrilling Voice is Sounding (Hymnal 59)" %}}
 {{% he/eucharisticprayer/b /%}}
 ##### pb
 {{% he/lordsprayer/1 %}}
@@ -45,11 +45,11 @@ bcppage: 355ff.
 ##### pb
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion "Choir Anthem: Taste and See" %}}
+{{% hymn Communion "Choir Anthem: Taste and See" %}}
 ##### pb
-{{% he/hymn "Comfort, comfort ye my people (Hymnal 67)" %}}
+{{% hymn Communion "Comfort, comfort ye my people (Hymnal 67)" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/advent-short %}}
-{{% he/processional "Prepare the way, O Zion (Hymnal 65)" %}}
+{{% hymn Processional "Prepare the way, O Zion (Hymnal 65)" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
