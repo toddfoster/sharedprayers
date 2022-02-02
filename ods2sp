@@ -360,7 +360,7 @@ def unpack_liturgy(row):
     result += "---\n"
 
     closed_codes = ["lesson", "he/eucharisticprayer/b"]
-    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
+    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn", "hymn"]
     maybe_hymn = ""
 
     for col in range(COL_BCPP + 1, len(row)):
