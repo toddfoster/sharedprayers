@@ -360,7 +360,7 @@ def unpack_liturgy(row):
     result += "---\n"
 
     closed_codes = ["lesson", "he/eucharisticprayer/b"]
-    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn", "hymn"]
+    hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
     maybe_hymn = ""
 
     for col in range(COL_BCPP + 1, len(row)):
@@ -388,9 +388,12 @@ def unpack_liturgy(row):
 
         # Check whether to look for a hymn in the next column
         if maybe_hymn != "found":
-            for code in hymn_optional_codes:
-                if code in entry:
-                    maybe_hymn = entry
+            if entry.startswith("hymn "):
+                maybe_hymn = entry
+            else:
+                for code in hymn_optional_codes:
+                    if code in entry:
+                        maybe_hymn = entry
         if maybe_hymn and maybe_hymn != "found":
             continue
 

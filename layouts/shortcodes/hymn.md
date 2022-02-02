@@ -11,7 +11,7 @@
 
 {{ if not $arg }}
 	{{ $arg = $title }}
-	{{ $title = "Hymn" }}
+	{{ $title = "" }}
 {{ end }}
 
 {{/* look for hymn text provided */}}
@@ -48,7 +48,7 @@
 
 {{/* If no title, output argument verbatim */}}
 {{ if not $content }}
-### {{ $title -}}: {{$arg}}
+### {{ $title }} Hymn: {{$arg}}
 {{ else }}
-### {{ $title -}}: _{{ $content }}_ ({{- $hymnal }} {{ $number -}})
+### {{ $title }} Hymn: _{{ $content }}_ ({{- $hymnal }} {{ $number -}})
 {{ end }}
