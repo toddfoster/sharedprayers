@@ -33,7 +33,11 @@ bcppage: 355ff.
 ## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
+
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-154
 {{% he/fraction/long %}}
 
 ## We Receive the Gift of God

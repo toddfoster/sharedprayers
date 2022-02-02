@@ -8,7 +8,7 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% he/entrance %}}
+{{% hymn Processional "l-12" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -19,7 +19,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence %}}
+{{% hymn Sequence "l-111" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -32,17 +32,21 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 
 ## We Offer Ourselves To God
-{{% he/offertory %}}
+{{% hymn Offertory "l-181" %}}
 {{% he/eucharisticprayer/b /%}}
+
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-154
 {{% he/fraction/long %}}
 
 ## We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% he/communion %}}
+{{% hymn Communion "l-152" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
-{{% he/processional %}}
+{{% hymn Processional "l-227" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
