@@ -36,6 +36,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - summaries of each week's lesson references for easy cut/paste
 - x Add json db of hymns: {{% hymn L-20 %}} -- Greg Johnstone provides!
 - rename hymns/* to match h- l- wlp- convention of shortcode hymns
+- Combine non-hymn part of he/communion into About Communion options
 - x Add second parameter to hymn for "Processional" "Anthem" etc.
 - Store psalms in json?
 - Store scriptures in json?!?
