@@ -4,6 +4,7 @@ weight: 50
 ---
 --------
 ### The Daily Office
+* [Readings and Collects for the Daily Office](https://www.commonprayeronline.org/en/daily-readings)
 * Morning Prayer
   * in the season of Epiphany: [Mon](mp/mp-epiphany-mon) / [Tues](mp/mp-epiphany-tue) / [Wed](mp/mp-epiphany-wed) / [Thurs](mp/mp-epiphany-thu) / [Fri](mp/mp-epiphany-fri) / [Sat](mp/mp-epiphany-sat) / [Sun](mp/mp-epiphany-sun)
   * in Christmas: [Mon](mp/mp-xmas-mon) / [Tues](mp/mp-xmas-tue) / [Wed](mp/mp-xmas-wed) / [Thurs](mp/mp-xmas-thu) / [Fri](mp/mp-xmas-fri) / [Sat](mp/mp-xmas-sat) / [Sun](mp/mp-xmas-sun)
