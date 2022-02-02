@@ -7,18 +7,19 @@ title: Shared Prayers
 -------------
 
 **Sunday Liturgies for this month:**
-- [Holy Eucharist for Sunday, 9 January: Baptism of Our Lord](archive/2022/first-sunday-after-epiphany)
-- [Holy Eucharist for Sunday, 16 January: Epiphany 2](archive/2022/second-sunday-after-epiphany)
-- [Holy Eucharist for Sunday, 23 January: Epiphany 3](archive/2022/third-sunday-after-epiphany)
-- [Holy Eucharist for Sunday, 30 January: Epiphany 4 (Annual Meeting)](archive/2022/fourth-sunday-after-epiphany-annual-meeting)
-- [Holy Eucharist for Sunday, 6 February: Epiphany 5](archive/2022/fifth-sunday-after-epiphany-bhm)
+- [Holy Eucharist for Sunday, 6 February: Black History Month Celebration (Epiphany 5)](archive/2022/fifth-sunday-after-epiphany-bhm)
+- [Holy Eucharist for Sunday, 13 February: Epiphany 6](archive/2022/sixth-sunday-after-epiphany)
+- [Holy Eucharist for Sunday, 20 February: Epiphany 7](archive/2022/seventh-sunday-after-epiphany)
+- [Holy Eucharist for Sunday, 27 February: Epiphany Last](archive/2022/last-sunday-after-the-epiphany)
+- [Holy Eucharist for Sunday, 6 March: The First Sunday in Lent](archive/2022/first-sunday-in-lent/)
+
 
 **Weekday Liturgies this month:**
-- [Holy Eucharist for Wednesday night, 5 January (Feast of the Epiphany)](archive/2022/the-epiphany)
-- [Holy Eucharist for Wednesday night, 12 January (Feast of Aelred, Monastic)](archive/2022/aelred)
-- [Holy Eucharist for Wednesday night, 19 January (Feast of the Confession of St. Peter)](archive/2022/confession-of-st-peter)
-- [Holy Eucharist for Wednesday night, 23 January (Feast of the Conversion of St. Paul)](archive/2022/conversion-of-st-paul)
 - [Holy Eucharist for Wednesday night, 2 February (Feast of the Presentation)](archive/2022/the-presentation)
+- [Holy Eucharist for Wednesday night, 9 February (Feast of Bakhita)]()
+- [Holy Eucharist for Wednesday night, 16 February (Feast of Absalom Jones)]()
+- [Holy Eucharist for Wednesday night, 23 February (Feast of St. Matthias the Apostle)](archive/2022/st-matthias/)
+- [Ash Wednesday](archive/2022/ash-wednesday/)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
