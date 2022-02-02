@@ -1,28 +1,45 @@
-{{/* shortcodes/hymn.md [reference] */}}
-{{/* references are to hymnal: H-250, H-S154, L-246, WLP-50 */}}
-{{/* TODO: look for a hymn text provided */}}
+{{/* shortcodes/hymn.md [heading] reference */}}
+{{/* optional heading is text: e.g., "Processional Hymn" */}}
+{{/* references are to hymnals: e.g., H-250, H-S154, L-246, WLP-50 */}}
+{{/* look for a hymn text provided in shortcodes/hymns */}}
 {{/* else simply provide the title from appropriate json data */}}
 {{/* else just output the argument as-is */}}
 {{ $DEBUG := false }}
 {{ $content := "" }}
-{{ $arg := .Get 0 }}
+{{ $title := .Get 0 }}
+{{ $arg := .Get 1 }}
 
-{{/* TODO look for hymn text provided */}}
+{{ if not $arg }}
+	{{ $arg = $title }}
+	{{ $title = "Hymn" }}
+{{ end }}
+
+{{/* look for hymn text provided */}}
+{{ $filename := printf "%s.md" (path.Join "layouts/shortcodes/hymns" $arg) }}
+{{ if fileExists $filename }}
+	{{ $content = $filename | readFile | safeHTML }}
+{{ end }}
 
 {{/* If no content, then look for a title in .Site.Data.hymnals */}}
 {{/* If it begins with letters and a dash, it might be a reference to a hymn! */}}
+{{ $hymnal := "" }}
+{{ $referenceArray := (split $arg "-") }}
+{{ $h := upper (index $referenceArray 0) }}
+{{ $number := upper (index $referenceArray 1) }}
 {{ if and (not $content) (in $arg "-") }}
-	{{ $referenceArray := (split $arg "-") }}
-	{{ $h := upper (index $referenceArray 0) }}
 	{{ if $DEBUG }} h={{$h}} {{ end }}
-	{{ $id := "" }}
-	{{ if in "L"  $h }}{{ $id = "LEVAS" }}
-	{{ else if in "H" $h }} {{ $id = "Hymnal1982" }}
-	{{ else if in "WLP" $h }}{{ $id = "WLP" }}
+	{{ if in "L"  $h }}
+		{{ $filename = "LEVAS" }}
+		{{ $hymnal = "LEVAS" }}
+	{{ else if in "H" $h }}
+		{{ $filename = "Hymnal1982" }}
+		{{ $hymnal = "Hymnal" }}
+	{{ else if in "WLP" $h }}
+		{{ $filename = "WLP" }}
+		{{ $hymnal = "WLP" }}
 	{{ end}}
-	{{ $number := upper (index $referenceArray 1) }}
-	{{ if $DEBUG }} id={{$id}}, number={{$number}} {{ end }}
-	{{ with index .Site.Data.hymnals $id }}
+	{{ if $DEBUG }} id={{$filename}}, number={{$number}} {{ end }}
+	{{ with index .Site.Data.hymnals $filename }}
 		{{with first 1 (where .hymns "number" $number) }}
 			{{ $content = index (index . 0) "title" }}
 		{{ end }}
@@ -30,6 +47,8 @@
 {{ end }}
 
 {{/* If no title, output argument verbatim */}}
-{{ if not $content }}{{ $content = $arg }}{{ end }}
-
-### Hymn: {{ $content }}
+{{ if not $content }}
+### {{ $title -}}: {{$arg}}
+{{ else }}
+### {{ $title -}}: _{{ $content }}_ ({{- $hymnal }} {{ $number -}})
+{{ end }}

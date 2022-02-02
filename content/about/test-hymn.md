@@ -18,3 +18,7 @@ date: 2022-02-01
 {{% hymn h-s154 %}}
 
 {{% hymn wlp-777 %}}
+
+{{% hymn h-72 %}}
+
+{{% hymn "Entrance Hymn"  h-12 %}}

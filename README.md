@@ -34,7 +34,9 @@ No effort stands alone. I particularly want to recognize important inspirations 
 ### MAYBE/SOMEDAY
 - automate updating archive/he-current.md to forward to the current week
 - summaries of each week's lesson references for easy cut/paste
-- Add json db of hymns: {{% hymn "L-20" %}}
+- x Add json db of hymns: {{% hymn L-20 %}} -- Greg Johnstone provides!
+- rename hymns/* to match h- l- wlp- convention of shortcode hymns
+- x Add second parameter to hymn for "Processional" "Anthem" etc.
 - Store psalms in json?
 - Store scriptures in json?!?
 - Add json db of BCP page number for Pss, Eucharistic Ps selections
