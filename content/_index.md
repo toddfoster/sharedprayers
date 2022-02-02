@@ -11,7 +11,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 16 January: Epiphany 2](archive/2022/second-sunday-after-epiphany)
 - [Holy Eucharist for Sunday, 23 January: Epiphany 3](archive/2022/third-sunday-after-epiphany)
 - [Holy Eucharist for Sunday, 30 January: Epiphany 4 (Annual Meeting)](archive/2022/fourth-sunday-after-epiphany-annual-meeting)
-- [Holy Eucharist for Sunday, 6 February: Epiphany 5](archive/2022/fifth-sunday-after-epiphany)
+- [Holy Eucharist for Sunday, 6 February: Epiphany 5](archive/2022/fifth-sunday-after-epiphany-bhm)
 
 **Weekday Liturgies this month:**
 - [Holy Eucharist for Wednesday night, 5 January (Feast of the Epiphany)](archive/2022/the-epiphany)
