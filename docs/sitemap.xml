@@ -518,6 +518,16 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/about/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/about/test-hymn/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2022/fourth-sunday-after-epiphany-annual-meeting/</loc>
     <lastmod>2022-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -890,11 +900,6 @@
   <url>
     <loc>http://www.sharedprayers.net/archive/2021/auto/proper24/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/about/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
