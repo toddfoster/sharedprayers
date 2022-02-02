@@ -19,7 +19,6 @@ weight: 50
     * [Monday](compline/compline1), [Tuesday](compline/compline2), [Wednesday](compline/compline3), [Thursday](compline/compline4), [Friday](compline/compline3), [Saturday](compline/complinesat), [Sunday](compline/compline4)
 	* [Week 1](compline/compline-wk1), [Week 2](compline/compline-wk2), [Week 3](compline/compline-wk3), [Week 4](compline/compline-wk4)
 
-
 ### Daily Devotions for Individuals and Families
 - [In the Morning](dd-morning)
 - [At Noon](dd-noon)
@@ -27,6 +26,9 @@ weight: 50
 - [At the Close of Day](dd-night)
 
 --------
+### Readings and Collects
+[Readings and Collects for the Daily Office may be found here.](https://www.commonprayeronline.org/en/daily-readings)
+
 ### Notes
 The Daily Office is not complicated, but can be a little daunting because it is so flexible.
 
