@@ -21,6 +21,10 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 23 February (Feast of St. Matthias the Apostle)](archive/2022/st-matthias/)
 - [Ash Wednesday](archive/2022/ash-wednesday/)
 
+**Liturgies for Vestry Retreat**
+- [Morning Prayer for Saturday, 5 February](archive/2022/mp-20220205)
+- [Holy Eucharist for Saturday, 5 February](archive/2022/he-sixth-epiphany-vestry)
+
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts in Covid-tide](archive/he-covid-feasts)
