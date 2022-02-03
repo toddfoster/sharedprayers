@@ -19,14 +19,9 @@
 	{{ end }}
 {{ end }}
 
-### The Collect of the Day
-
-{{ if $collect }}
-##### Officiant:
-{{ $collect }}
+_The Collect of the Day_
+{{ if $collect -}}
+{{- $collect }} **Amen.**
 {{ else }}
 ##### The presider provides the collect proper to the day.
 {{ end }}
-
-##### **People:**
-**Amen.**
