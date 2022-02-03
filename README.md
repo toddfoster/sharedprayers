@@ -25,23 +25,24 @@ At a minimum you're going to want:
 No effort stands alone. I particularly want to recognize important inspirations and data sources specific to this project:
 - Kelly Puckett, maintainer of the invaluable [lectionarypage.net](http://lectionarypage.net/).
 - Charles Wohlers of [satucket.com](http://satucket.com/bcp/), an early provider of digital texts of the BCP.
-- The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
+- The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home) and * [Common Prayer Online](https://www.commonprayeronline.org/) with [readings for the daily office](https://www.commonprayeronline.org/en/daily-readings), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
 
 # Tasks
 
 ### TODO
+- (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
+- yaml/toml db for lff/saints
+- (python) update home page, automate updating archive/he-current.md to forward to the current week
+- Add proper prefaces to Prayer A, Prayer B using bcpcollects
 
 ### MAYBE/SOMEDAY
-- automate updating archive/he-current.md to forward to the current week
-- summaries of each week's lesson references for easy cut/paste
-- x Add json db of hymns: {{% hymn L-20 %}} -- Greg Johnstone provides!
+- Daily Office RCL
+- Calendar interface simple range exercises
+- Liturgical colors
 - rename hymns/* to match h- l- wlp- convention of shortcode hymns
-- Combine non-hymn part of he/communion into About Communion options
-- x Add second parameter to hymn for "Processional" "Anthem" etc.
 - Store psalms in json?
 - Store scriptures in json?!?
 - Add json db of BCP page number for Pss, Eucharistic Ps selections
-- lesson/track1 and lesson/track2 or {{% lesson "first-track2" %}} ?
 - Test suite for lesson shortcode
 - About
     - Inspiration & Intended uses
@@ -55,24 +56,28 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - Review shortcodes for updated formatting
 - Be able to select which readings/collects when alternatives are available (alt=2) -- or just require manual override?
 - Generate lesser feasts
-- Daily Office RCL
-- Calendar interface simple range exercises
-- Liturgical colors
 - Versioned shortcodes to maintain older liturgies?
 - Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
-- Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
-- Check that all scriptures in bcprcl are available
+- (python) Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
+- (python) Check that all scriptures in bcprcl are available
 - script to generate responsive psalms for all partial psalms in rcl
 - x lectionary pages (all readings for a season / year)
 - Separate generated liturgies for St. Thomas', generic?
-- Add proper prefaces to Prayer A, Prayer B using bcpcollects
 - add BCP page numbers to more pieces
-x Daily Office
-    x For each season
 - Eucharist
     - For each season
     - For Major Feasts during each season
 - Full years for each prayer?
+
+### 2022 February
+- x summaries of each week's lesson references for easy cut/paste
+- x Combine non-hymn part of he/communion into About Communion options
+- x Add second parameter to hymn for "Processional" "Anthem" etc.
+
+### 2022 January
+x Daily Office
+    x For each season
+- x Add json db of hymns: {{% hymn L-20 %}} -- Greg Johnstone provides!
 
 ### 2021
 x Finish out Advent, Xmas liturgy templates
