@@ -29,7 +29,7 @@ It is right, and a good and joyful thing, always and everywhere to give thanks t
 
 Therefore we praise you, joining our voices with Angels and Archangels and with all the company of heaven, who for ever sing this hymn to proclaim the glory of your Name:
 
-{{ if (.Get 0) }}#### {{ (.Get 0) }}{{end}}
+{{ with .Get "sanctus" }}#### {{ . }}{{end}}
 ### Sanctus
 ##### Celebrant and **People:**
 **Holy, holy, holy Lord, God of power and might,
@@ -53,7 +53,7 @@ We await his coming in glory;**
 ##### The Celebrant continues:
 And we offer our sacrifice of praise and thanksgiving to you, O Lord of all; presenting to you, from your creation, this bread and this wine.
 
-We pray you, gracious God, to send your Holy Spirit upon these gifts that they may be the Sacrament of the Body of Christ and his Blood of the new Covenant. Unite us to your Son in his sacrifice, that we may be acceptable through him, being sanctified by the Holy Spirit. In the fullness of time, put all things in subjection under your Christ, and bring us to that heavenly country where, with {{ (.Get 0) }} blessed Thomas, the Blessed Virgin Mary, and all your saints, we may enter the everlasting heritage of your sons and daughters; through Jesus Christ our Lord, the firstborn of all creation, the head of the Church, and the author of our salvation.
+We pray you, gracious God, to send your Holy Spirit upon these gifts that they may be the Sacrament of the Body of Christ and his Blood of the new Covenant. Unite us to your Son in his sacrifice, that we may be acceptable through him, being sanctified by the Holy Spirit. In the fullness of time, put all things in subjection under your Christ, and bring us to that heavenly country where, with{{ with .Get "saints" }}{{ . }}{{end}} blessed Thomas, the Blessed Virgin Mary, and all your saints, we may enter the everlasting heritage of your sons and daughters; through Jesus Christ our Lord, the firstborn of all creation, the head of the Church, and the author of our salvation.
 
 ##### Celebrant:
 By him, and with him, and in him, in the unity of the Holy Spirit all honor and glory is yours, Almighty Father, now and for ever.

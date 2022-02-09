@@ -27,7 +27,7 @@ bcppage: 355ff.
 
 ## We Offer Ourselves To God
 {{% he/offertory %}}
-{{% he/eucharisticprayer/b "blessed Ambrose," /%}}
+{{% he/eucharisticprayer/b saints="blessed Ambrose," /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 

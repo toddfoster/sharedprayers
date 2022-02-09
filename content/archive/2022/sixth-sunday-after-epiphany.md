@@ -33,7 +33,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory l-56 %}}
-{{% he/eucharisticprayer/b "LEVAS 255" /%}}
+{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
 
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
