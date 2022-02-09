@@ -10484,22 +10484,345 @@ Found dates, bio's, maybe collects in venite.app, but not scriptures.
 
 Have pdf of Lesser Feasts and Fasts 2018 which converts readily to text. Strategy:
 
+*** DONE Find page separators: pdf has 584pp.: "\f"
+CLOSED: [2022-02-05 Sat 14:45]
+#+BEGIN_SRC python
+  lines = 0
+  pages = 0
+  characters = 0
+  with open("../../lectionarydata/raw/lff2018.txt", "r") as f:
+      for line in f:
+        lines += 1
+        if '\f' in line:
+            pages += 1
+  print("{} lines on {} pages".format(lines, pages))
+#+END_SRC
 
+#+RESULTS:
+: 17798 lines on 584 pages
 
+*** Parse index to LFF2018 for authoritative date & name of each feast
+Pp 7--18
 
 #+BEGIN_SRC python
-    import os
+  from calendar import month_name
 
-    for root, dirs, files in os.walk("../layouts/shortcodes/holydays"):
-      for d in dirs:
-        print(d)
-        for f in files:
-          print(f)
+  page = 0
+  index_start = 14
+  index_end = 25
+  characters = 0
+
+  months = []
+  for m in month_name[1:]:
+      months += [m.upper()]
 
 
+  def print_hex_chars(line_in):
+      """Print hex characters so I can find & remove them."""
+      for c in line_in:
+          print(f"{c}: {ord(c):02x}")
+
+
+  with open("../../lectionarydata/raw/lff2018.txt", "r", encoding="utf-8") as f:
+      current_month = 0
+      previous_record = {}
+      for line in f:
+          if "\f" in line:
+              page += 1
+
+          # skip to beginning of index
+          if page < index_start:
+              continue
+
+          # found index
+          if index_start <= page and page <= index_end:
+              l = line.strip().replace("\x07", "")
+
+              # Check for new month name
+              if l in months:
+                  current_month = months.index(l) + 1
+                  print(f"current_month={current_month}")
+                  continue
+              if current_month < 0:
+                  continue  # just in case
+
+              # parse line in month -- sometimes lines have a linebreak!
+              splits = l.split(" ", maxsplit=1)
+
+              if len(splits) < 2:
+                  continue
+              day = splits[0]
+              feast = splits[1].strip()
+              if day.isnumeric() and int(day)<32:
+                  print(f"{int(current_month):02}/{int(day):02}: {feast}")
+
+          continue
+          # Past index
+          print("past index")
+          break
+  print("{} pages processed".format(page))
 #+END_SRC
-*** Parse index to LFF2018 for authoritative date & name of each feast
+
+#+RESULTS:
+#+begin_example
+current_month=1
+01/01: THE HOLY NAME OF OUR LORD JESUS CHRIST
+01/04: [Elizabeth Ann Seton, Vowed Religious and Educator, 1821]
+01/05: [Sarah, Theodora, and Syncletica of Egypt, Desert Mothers,
+01/06: THE EPIPHANY OF OUR LORD JESUS CHRIST
+01/08: Harriet Bedell, Deaconess and Missionary, 1969
+01/09: Julia Chester Emery, Lay Leader and Missionary, 1922
+01/10: William Laud, Archbishop of Canterbury, 1645
+01/12: Aelred of Rievaulx, Monastic and Theologian, 1167
+01/13: Hilary of Poitiers, Bishop, 367
+01/14: [Richard Meux Benson, Priest, and Charles Gore, Bishop, 1915
+01/17: Antony of Egypt, Monastic, 356
+01/18: THE CONFESSION OF SAINT PETER THE APOSTLE
+01/19: Wulfstan of Worcester, Bishop, 1095
+01/20: Fabian, Bishop and Martyr, 250
+01/21: Agnes [and Cecilia] of Rome, Martyrs, 304 [and c.230]
+01/22: Vincent of Saragossa, Deacon and Martyr, 304
+01/23: Phillips Brooks, Bishop, 1893
+01/24: Florence Li Tim-Oi, Priest, 1992
+01/25: THE CONVERSION OF SAINT PAUL THE APOSTLE
+01/26: Timothy and Titus, Companions of Saint Paul
+01/27: John Chrysostom, Bishop and Theologian, 407
+01/28: Thomas Aquinas, Friar and Theologian, 1274
+01/31: [Marcella of Rome, Monastic and Scholar, 410]
+current_month=2
+02/01: Brigid of Kildare, Monastic, c.523
+02/02: THE PRESENTATION OF OUR LORD JESUS CHRIST
+02/03: Anskar, Bishop and Missionary, 865
+02/04: Cornelius the Centurion, or
+02/05: The Martyrs of Japan, 1597, or
+02/08: [Bakhita (Josephine Margaret Bakhita), Monastic, 1947]
+02/10: [Scholastica, Monastic, 543]
+02/11: [Theodora, Empress, c.867]
+02/13: Absalom Jones, Priest, 1818
+02/14: Cyril and Methodius, Missionaries, 869 and 885
+02/15: Thomas Bray, Priest and Missionary, 1730
+02/17: Janani Luwum, Archbishop and Martyr, 1977
+02/18: Martin Luther, Pastor and Reformer, 1546
+02/19: [Agnes Tsao Kou Ying, Agatha Lin Zhao, and Lucy Yi Zhenmei,
+02/20: [Frederick Douglass, Social Reformer, 1895]
+02/22: [Margaret of Cortona, Monastic, 1297]
+02/23: Polycarp of Smyrna, Bishop and Martyr, 156
+02/24: SAINT MATTHIAS THE APOSTLE
+02/25: [Emily Malbone Morgan, Lay Leader and Contemplative, 1937]
+02/26: [Photini, The Samaritan Woman, c.67]
+02/27: George Herbert, Priest and Poet, 1633
+02/28: Anna Julia Haywood Cooper, Educator, 1964
+current_month=3
+03/01: David of Wales, Bishop, c.544
+03/02: Chad of Lichfield, Bishop, 672
+03/03: John and Charles Wesley, Priests, 1791, 1788
+03/07: Perpetua and Felicity, Martyrs, 202
+03/09: Gregory of Nyssa, Bishop and Theologian, c.394
+03/12: Gregory the Great, Bishop and Theologian, 604
+03/13: James Theodore Holly, Bishop, 1911
+03/15: [Vincent de Paul, Priest, and Louise de Marillac,
+03/17: Patrick of Ireland, Bishop and Missionary, 461
+03/18: Cyril of Jerusalem, Bishop and Theologian, 386
+03/19: SAINT JOSEPH
+03/20: Cuthbert, Bishop, 687
+03/21: Thomas Ken, Bishop, 1711
+03/22: James De Koven, Priest, 1879
+03/23: Gregory the Illuminator, Bishop and Missionary, c.332
+03/24: Óscar Romero, Archbishop and Martyr, 1980,
+03/25: THE ANNUNCIATION OF OUR LORD JESUS CHRIST
+03/26: [Harriet Monsell, Monastic, 1883]
+03/27: Charles Henry Brent, Bishop, 1929
+03/28: [James Solomon Russell, Priest, 1935]
+03/29: John Keble, Priest and Poet, 1866
+03/31: John Donne, Priest and Poet, 1631
+current_month=4
+04/01: Frederick Denison Maurice, Priest, 1872
+04/02: James Lloyd Breck, Priest, 1876
+04/03: Richard of Chichester, Bishop, 1253, or
+04/04: Martin Luther King, Jr., Pastor and Martyr, 1968
+04/05: [Harriet Starr Cannon, Monastic, 1896]
+04/07: Tikhon, Bishop and Ecumenist, 1925
+04/08: William Augustus Muhlenberg, Priest, 1877
+04/09: Dietrich Bonhoeffer, Pastor and Theologian, 1945
+04/10: William Law, Priest, 1761
+04/11: George Augustus Selwyn, Bishop, 1878
+04/14: [Zenaida, Philonella, and Hermione, Unmercenary Physicians,
+04/15: [Damien, Priest, 1889 and Marianne Cope, Monastic 1918
+04/16: [Peter Williams Cassey, Deacon, 1917 and Annie Besant Cassey, 1875]
+04/17: [Kateri Tekakwitha, Lay Contemplative, 1680]
+04/18: [Juana Inés de la Cruz, Monastic and Theologian, 1695]
+04/19: Alphege, Archbishop of Canterbury and Martyr, 1012
+04/21: Anselm, Archbishop of Canterbury and Theologian, 1109
+04/22: [Hadewijch of Brabant, Poet and Mystic, thirteenth century]
+04/23: [Toyohiko Kagawa, Social Reformer, 1960]
+04/25: SAINT MARK THE EVANGELIST
+04/27: [Zita of Tuscany, Worker of Charity, 1271]
+04/29: Catherine of Siena, Mystic and Prophetic Witness, 1380
+current_month=5
+current_month=6
+current_month=7
+07/01: Pauli Murray, Priest, 1985
+07/02: [Moses the Black, Monastic and Martyr, c.400]
+07/04: INDEPENDENCE DAY (United States)
+07/06: [Eva Lee Matthews, Monastic, 1928]
+07/08: [Priscilla and Aquila, Coworkers of the Apostle Paul]
+07/11: Benedict of Nursia, Monastic, c.543
+07/14: [Argula von Grumbach, Scholar and Church Reformer, c.1554]
+07/17: William White, Bishop, 1836
+07/19: Macrina of Caesarea, Monastic and Teacher, 379
+07/20: Elizabeth Cady Stanton, Amelia Bloomer, Sojourner Truth, and
+07/21: [Maria Skobtsova, Monastic and Martyr, 1945]
+07/22: SAINT MARY MAGDALENE
+07/23: [John Cassian, Monastic and Theologian, 435]
+07/24: Thomas à Kempis, Priest and Mystic, 1471
+07/25: SAINT JAMES THE APOSTLE
+07/26: The Parents of the Blessed Virgin Mary
+07/27: William Reed Huntington, Priest, 1909
+07/28: [Johann Sebastian Bach, Composer, 1750]
+07/29: Mary and Martha of Bethany
+07/30: William Wilberforce, Social Reformer, 1833
+07/31: Ignatius of Loyola, Priest and Spiritual Writer, 1556
+current_month=8
+08/01: Joseph of Arimathea
+08/03: [Joanna, Mary, and Salome, Myrrh-Bearing Women]
+08/06: THE TRANSFIGURATION OF OUR LORD JESUS CHRIST
+08/07: John Mason Neale, Priest and Hymnographer, 1866
+08/08: Dominic, Priest and Friar, 1221
+08/09: [Edith Stein (Teresa Benedicta of the Cross), Philosopher, Monastic,
+08/10: Laurence of Rome, Deacon and Martyr, 258
+08/11: Clare of Assisi, Monastic, 1253
+08/12: Florence Nightingale, Nurse, 1910
+08/13: Jeremy Taylor, Bishop and Theologian, 1667
+08/14: Jonathan Myrick Daniels, Martyr, 1965
+08/15: SAINT MARY THE VIRGIN,
+08/18: William Porcher DuBose, Priest, 1918
+08/20: Bernard of Clairvaux, Monastic and Theologian, 1153
+08/24: SAINT BARTHOLOMEW THE APOSTLE
+08/25: Louis, King, 1270
+08/27: Thomas Gallaudet and Henry Winter Syle, Priests, 1902 and 1890
+08/28: Augustine of Hippo, Bishop and Theologian, 430
+08/29: [The Beheading of Saint John the Baptist]
+08/30: [Margaret Ward, Margaret Clitherow, and Anne Line, Martyrs,
+08/31: Aidan of Lindisfarne, Bishop, 651
+current_month=9
+09/01: David Pendleton Oakerhater, Deacon, 1931
+09/02: The Martyrs of New Guinea, 1942
+09/03: [Phoebe, Deacon]
+09/04: Paul Jones, Bishop, 1941
+09/05: [Katharina Zell, Church Reformer and Writer, 1562]
+09/06: [Hannah More, Religious Writer and Philanthropist, 1833]
+09/07: [Kassiani, Poet and Hymnographer, 865]
+09/08: [The Nativity of the Blessed Virgin Mary]
+09/09: Constance, Thecla, Ruth, Frances, Charles Parsons, and Louis
+09/10: Alexander Crummell, Priest, 1898
+09/12: John Henry Hobart, Bishop, 1830
+09/13: Cyprian of Carthage, Bishop and Martyr, 258
+09/14: HOLY CROSS DAY
+09/15: [Catherine of Genoa, Mystic and Nurse, 1510]
+09/16: Ninian, Bishop, c.430
+09/17: Hildegard of Bingen, Mystic and Scholar, 1179
+09/18: Edward Bouverie Pusey, Priest, 1882
+09/19: Theodore of Tarsus, Archbishop of Canterbury, 690
+09/20: John Coleridge Patteson, Bishop, and his Companions, Martyrs, 1871
+09/21: SAINT MATTHEW, APOSTLE AND EVANGELIST
+09/22: Philander Chase, Bishop, 1852
+09/23: [Thecla of Iconium, Proto-Martyr Among Women, c.70]
+09/24: [Anna Ellison Butler Alexander, Deaconess and Teacher, 1947]
+09/25: Sergius of Radonezh, Monastic, 1392
+09/26: Lancelot Andrewes, Bishop, 1626
+09/27: Euphrosyne/Smaragdus of Alexandria, Monastic, fifth century]
+09/28: [Paula and Eustochium of Rome, Monastics and Scholars, 404
+09/29: SAINT MICHAEL AND ALL ANGELS
+09/30: Jerome, Priest and Scholar, 420
+current_month=10
+10/01: Remigius of Rheims, Bishop, c.530, or
+10/03: [John Raleigh Mott, Ecumenist and Missionary, 1955]
+10/04: Francis of Assisi, Friar and Deacon, 1226
+10/06: William Tyndale, Priest, 1536
+10/07: [Birgitta of Sweden, Mystic, 1373]
+10/09: Robert Grosseteste, Bishop, 1253
+10/10: Vida Dutton Scudder, Educator, 1954
+10/11: Philip, Deacon and Evangelist
+10/12: [Edith Cavell, Nurse, 1915]
+10/14: Samuel Isaac Joseph Schereschewsky, Bishop and Missionary, 1906
+10/15: Teresa of Avila, Mystic and Monastic Reformer, 1582
+10/16: Hugh Latimer and Nicholas Ridley, Bishops and Martyrs, 1555,
+10/17: Ignatius of Antioch, Bishop and Martyr, c.115
+10/18: SAINT LUKE THE EVANGELIST
+10/19: Henry Martyn, Priest and Missionary, 1812
+10/23: SAINT JAMES OF JERUSALEM,
+10/25: [Tabitha (Dorcas) of Joppa]
+10/26: Alfred, King, 899
+10/28: SAINT SIMON AND SAINT JUDE, Apostles
+10/29: James Hannington, Bishop, and his Companions, Martyrs, 1885
+10/30: [Maryam of Qidun, Monastic, fourth century]
+current_month=11
+11/01: ALL SAINTS
+11/02: All Souls/All the Faithful Departed
+11/03: Richard Hooker, Priest and Theologian, 1600
+11/06: William Temple, Archbishop of Canterbury, 1944
+11/07: Willibrord, Bishop and Missionary, 739
+11/08: [Ammonius, Hermit, c.403]
+11/09: [Richard Rolle, Walter Hilton, and Margery Kempe, Mystics,
+11/10: Leo of Rome, Bishop, 461
+11/11: Martin of Tours, Bishop, 397
+11/12: Charles Simeon, Priest, 1836
+11/14: The Consecration of Samuel Seabury, 1784
+11/15: [Herman of Alaska, Missionary, 1837]
+11/16: Margaret of Scotland, Queen, 1093
+11/17: Hugh of Lincoln, Bishop, 1200
+11/18: Hilda of Whitby, Abbess, 680
+11/19: Elizabeth of Hungary, Princess, 1231
+11/20: Edmund, King, 870
+11/21: [Mechthilde of Hackeborn and Gertrude the Great, Mystics and
+11/22: Clive Staples Lewis, Apologist and Spiritual Writer, 1963
+11/23: Clement of Rome, Bishop, c.100
+11/24: [Catherine of Alexandria, Barbara of Nicomedia, and
+11/25: James Otis Sargent Huntington, Monastic and Priest, 1935
+11/28: Kamehameha and Emma of Hawaii, King and Queen, 1863 and 1885
+11/30: SAINT ANDREW THE APOSTLE
+current_month=12
+12/01: Nicholas Ferrar, Deacon, 1637, or
+12/02: Channing Moore Williams, Bishop and Missionary, 1910
+12/03: [Francis Xavier, Priest and Missionary, 1552]
+12/04: John of Damascus, Priest and Theologian, c.760
+12/05: Clement of Alexandria, Priest and Theologian, c.210
+12/06: Nicholas of Myra, Bishop, c.342
+12/07: Ambrose of Milan, Bishop and Theologian, 397
+12/12: [Francis de Sales, Bishop, and Jane de Chantal, Vowed Religious,
+12/13: [Lucy of Syracuse, Martyr, 304]
+12/14: [John of the Cross, Mystic and Monastic Reformer, 1591]
+12/15: [Nino of Georgia, Missionary, c.332]
+12/17: [Dorothy L Sayers, Apologist and Spiritual Writer, 1957]
+12/20: [Katharina von Bora, Church Reformer, 1552]
+12/21: SAINT THOMAS THE APOSTLE
+12/25: THE NATIVITY OF OUR LORD JESUS CHRIST
+12/26: SAINT STEPHEN, DEACON AND MARTYR
+12/27: SAINT JOHN, APOSTLE AND EVANGELIST
+12/28: HOLY INNOCENTS
+12/29: Thomas Becket, Archbishop of Canterbury and Martyr, 1170
+12/31: Frances Joseph Gaudet, Educator and Social Reformer, 1934
+584 pages processed
+#+end_example
+
 *** How to choose slugs? Halfway manual?
 *** Find main page for each feast
 - preceding page is bio
 - page with name at top has two collects, scriptures, preface
+
+
+
+#+BEGIN_SRC python
+  lines = 0
+  pages = 0
+  characters = 0
+  with open("../../lectionarydata/raw/lff2018.txt", "r") as f:
+      for line in f:
+        lines += 1
+        if '\f' in line:
+            pages += 1
+  print("{} lines on {} pages".format(lines, pages))
+#+END_SRC
+
+#+RESULTS:
+: 17798 lines on 584 pages
