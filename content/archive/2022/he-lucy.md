@@ -1,5 +1,5 @@
 ---
-title: Holy Eucharist, Rite II (Lucy of Syracuse))
+title: Holy Eucharist, Rite II (Lucy of Syracuse)
 date: 2021-12-07
 lectionaryyear: c
 proper: lucyofsyracuse
