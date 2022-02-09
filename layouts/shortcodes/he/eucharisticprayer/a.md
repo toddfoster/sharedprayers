@@ -29,6 +29,7 @@ It is right, and a good and joyful thing, always and everywhere to give thanks t
 
 Therefore we praise you, joining our voices with Angels and Archangels and with all the company of heaven, who for ever sing this hymn to proclaim the glory of your Name:
 
+{{ if (.Get 0) }}#### {{ (.Get 0) }}{{end}}
 ### Sanctus
 ##### Presider and **People:**
 **Holy, holy, holy Lord, God of power and might,
