@@ -11,6 +11,7 @@ bcppage: 355ff.
 {{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+##### pb
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -23,6 +24,7 @@ bcppage: 355ff.
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
@@ -48,4 +50,3 @@ bcppage: 355ff.
 {{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
