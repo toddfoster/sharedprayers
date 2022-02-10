@@ -12,7 +12,7 @@ bcppage: 355ff.
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 ##### pb
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/alleluiaamen %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
