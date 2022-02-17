@@ -18,6 +18,7 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday night, 2 February (Feast of the Presentation)](archive/2022/the-presentation)
 - [Holy Eucharist for Wednesday night, 9 February (Feast of Bakhita)](archive/2022/st-bakhita)
 - [Holy Eucharist for Wednesday night, 16 February (Feast of Absalom Jones)](archive/2022/st-absalomjones)
+- [Holy Eucharist for Church in the Woods, 17 February (Epiphany 6)](archive/2022/churchinwoods20220217)
 - [Holy Eucharist for Wednesday night, 23 February (Feast of St. Matthias the Apostle)](archive/2022/st-matthias/)
 - [Ash Wednesday](archive/2022/ash-wednesday/)
 
