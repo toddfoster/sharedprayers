@@ -9,6 +9,7 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+##### pb
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -26,6 +27,7 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 
+##### pb
 ## We Offer Ourselves To God
 {{% he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
