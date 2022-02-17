@@ -25,18 +25,18 @@ At a minimum you're going to want:
 No effort stands alone. I particularly want to recognize important inspirations and data sources specific to this project:
 - Kelly Puckett, maintainer of the invaluable [lectionarypage.net](http://lectionarypage.net/).
 - Charles Wohlers of [satucket.com](http://satucket.com/bcp/), an early provider of digital texts of the BCP.
-- The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home) and * [Common Prayer Online](https://www.commonprayeronline.org/) with [readings for the daily office](https://www.commonprayeronline.org/en/daily-readings), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
+- The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home) and [Common Prayer Online](https://www.commonprayeronline.org/) with [readings for the daily office](https://www.commonprayeronline.org/en/daily-readings), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
 
 # Tasks
 
 ### TODO
 - (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
-- yaml/toml db for lff/saints
+- x yaml/toml db for lff/saints -- converted lff2018 to json
 - (python) update home page, automate updating archive/he-current.md to forward to the current week
 - Add proper prefaces to Prayer A, Prayer B using bcpcollects
 
 ### MAYBE/SOMEDAY
-- Daily Office RCL
+ - Daily Office RCL: begin by just drawing down from https://www.commonprayeronline.org/api/daily_summary/en/2022-2-16.json
 - Calendar interface simple range exercises
 - Liturgical colors
 - rename hymns/* to match h- l- wlp- convention of shortcode hymns
