@@ -30,13 +30,15 @@ No effort stands alone. I particularly want to recognize important inspirations 
 # Tasks
 
 ### TODO
-- (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
-- x yaml/toml db for lff/saints -- converted lff2018 to json
-- (python) update home page, automate updating archive/he-current.md to forward to the current week
-- Add proper prefaces to Prayer A, Prayer B using bcpcollects
+- add lff2018 feasts to template spreadsheet
+- use lff2018.json to generate collects, lessons from shortcodes
 
 ### MAYBE/SOMEDAY
- - Daily Office RCL: begin by just drawing down from https://www.commonprayeronline.org/api/daily_summary/en/2022-2-16.json
+- (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
+- (python) generate monthly home pages for the year; quick script to copy into index.html, and update archive/he-current.md to forward to the current week
+- (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
+ - (python) Daily Office RCL: begin by just drawing down from https://www.commonprayeronline.org/api/daily_summary/en/2022-2-16.json
+- Add proper prefaces to Prayer A, Prayer B using bcpcollects
 - Calendar interface simple range exercises
 - Liturgical colors
 - rename hymns/* to match h- l- wlp- convention of shortcode hymns
@@ -61,7 +63,6 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - (python) Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
 - (python) Check that all scriptures in bcprcl are available
 - script to generate responsive psalms for all partial psalms in rcl
-- x lectionary pages (all readings for a season / year)
 - Separate generated liturgies for St. Thomas', generic?
 - add BCP page numbers to more pieces
 - Eucharist
@@ -71,8 +72,10 @@ No effort stands alone. I particularly want to recognize important inspirations 
 
 ### 2022 February
 - x summaries of each week's lesson references for easy cut/paste
+- x lectionary pages (all readings for a season / year)
 - x Combine non-hymn part of he/communion into About Communion options
 - x Add second parameter to hymn for "Processional" "Anthem" etc.
+- x yaml/toml db for lff/saints -- converted lff2018 to json
 
 ### 2022 January
 x Daily Office
