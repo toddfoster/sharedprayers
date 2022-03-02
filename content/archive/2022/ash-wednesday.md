@@ -8,6 +8,10 @@ bcppage: 264ff.
 ---
 
 ## We Gather in God's Name
+{{% he/propercollect %}}
+{{% rubric-sit %}}
+
+## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
@@ -15,6 +19,12 @@ bcppage: 264ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
+{{% lent/ashwednesdayinvitation %}}
+{{% lent/ashes %}}
+
+##### Silence is then kept for a time, all kneeling.
+{{% lesson psalm "51:1-18" /%}}
+{{% lent/litanyofpenitence %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% hymn Offertory %}}
