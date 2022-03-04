@@ -112,6 +112,17 @@ But it does have two paragraphs.
 # TEST: offertory with hymn
 {{% stt/2021/offertory-covid "hymns/levas-184" %}}
 
+# TEST: Lord's prayer with default BCP page
+{{% he/lordsprayer/1 %}}
+
+
+# TEST: Lord's prayer with custom BCP page
+{{% he/lordsprayer/1 bcp="42" %}}
+
+# TEST: Lord's prayer with no BCP page
+{{% he/lordsprayer/1 bcp="no" %}}
+
+
 # TEST: prayer a
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}

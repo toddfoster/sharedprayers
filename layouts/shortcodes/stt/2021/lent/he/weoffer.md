@@ -72,8 +72,24 @@ Presider:
 **People:**
 > **AMEN.**
 
+#### BCP 364
+### The Lord's Prayer
+##### Presider:
+And now, as our Savior Christ has taught us, we are bold to say,
 
-{{ "layouts/shortcodes/he/lordsprayer/1.md" | readFile | safeHTML }}
+##### Officiant and **People:**
+Our Father, **who art in heaven,
+	hallowed be thy Name,
+	thy kingdom come,
+	thy will be done,
+	on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+	as we forgive those who trespass against us.
+And lead us not into temptation,
+	but deliver us from evil.
+For thine is the kingdom, and the power, and the glory,
+	for ever and ever.  Amen.**
 
 ### The Breaking of the Bread
 Presider:

@@ -35,7 +35,7 @@ weekday: wednesday
 ## The Prayers
 ##### The people stand or kneel
 {{% letuspray %}}
-{{% he/lordsprayer/2 %}}
+{{% he/lordsprayer/2 bcp="no" %}}
 {{% office/ep/suffragesb %}}
 {{% office/propercollect %}}
 {{% office/ep/collect/presence %}}
