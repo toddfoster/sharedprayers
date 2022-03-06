@@ -1,5 +1,5 @@
 ---
-title: An Order for Compline in Lent (3)
+title: An Order for Compline in Lent (2)
 date: 2022-03-06
 layout: slide
 ---
@@ -9,7 +9,7 @@ class: middle
 ---
 class: center
 # An Order for Compline  
-# in Lent (3)
+# in Lent (2)
 ### _from the Book of Common Prayer, pp. 127ff._
 ???
 emacs was destroying my two-space line breaks.
@@ -66,56 +66,38 @@ as it was in the beginning, is now,
 and will be for ever.  Amen.**
 
 ---
-**Psalm** 91
-_Qui habitat_
+**Psalm** 8
+_Domine, Dominus noster_
 
-> 1	He who dwells in the shelter of the Most High, \*  
-abides under the shadow of the Almighty.  
-> **2	He shall say to the LORD,  
-"You are my refuge and my stronghold, \*  
-my God in whom I put my trust."**
-
-> 3	He shall deliver you from the snare of the hunter \*  
-and from the deadly pestilence.  
-> **4	He shall cover you with his pinions,  
-and you shall find refuge under his wings; \*  
-his faithfulness shall be a shield and buckler.**
-
----
-> 5	You shall not be afraid of any terror by night, \*  
-nor of the arrow that flies by day;  
-> **6	Of the plague that stalks in the darkness, \*  
-nor of the sickness that lays waste at mid-day.**
-
-> 7	A thousand shall fall at your side  
-and ten thousand at your right hand, \*  
-but it shall not come near you.  
-> **8	Your eyes have only to behold \*  
-to see the reward of the wicked.**
+> 1	O LORD our Governor, \*  
+how exalted is your Name in all the world!  
+> **2	Out of the mouths of infants and children \*  
+your majesty is praised above the heavens.**  
+  
+> 3	You have set up a stronghold against your adversaries, \*  
+to quell the enemy and the avenger.  
+> **4	When I consider your heavens,  
+the work of your fingers, \*  
+the moon and the stars you have set in their courses,**  
+  
+> 5	What is man that you should be mindful of him? \*  
+the son of man that you should seek him out?  
+> **6	You have made him  
+but little lower than the angels; \*  
+you adorn him with glory and honor;**  
 
 ---
-> 9	Because you have made the LORD your refuge, \*  
-and the Most High your habitation,  
-> **10	There shall no evil happen to you, \*  
-neither shall any plague come near your dwelling.**  
 
-> 11	For he shall give his angels charge over you, \*  
-to keep you in all your ways.  
-> **12	They shall bear you in their hands, \*  
-lest you dash your foot against a stone.**
-
----
-> 13	You shall tread upon the lion and the adder; \*  
-you shall trample the young lion and the serpent under your feet.  
-> **14	Because he is bound to me in love,  
-therefore will I deliver him; \*  
-I will protect him, because he knows my Name.**
-
-> 15	He shall call upon me, and I will answer him; \*  
-I am with him in trouble;  
-I will rescue him and bring him to honor.  
-> **16	With long life will I satisfy him, \*  
-and show him my salvation.**
+> 7	You give him mastery  
+over the works of your hands; \*  
+you put all things under his feet:  
+> **8	All sheep and oxen, \*  
+even the wild beasts of the field,**  
+  
+> 9	The birds of the air, the fish of the sea, \*  
+and whatsoever walks in the paths of the sea.  
+> **10	O LORD our Governor, \*  
+how exalted is your Name in all the world!**  
 
 > **Glory to the Father, and to the Son,  
 and to the Holy Spirit: \*  
@@ -125,8 +107,8 @@ and will be for ever. Amen.**
 
 ---
 _Reader_
-> May the God of peace, who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant, equip you with everything good that you may do his will, working in you that which is pleasing in his sight; through Jesus Christ, to whom be glory for ever and ever.
-.smaller[(_Hebrews 13:20-21_)]
+> Come to me, all who labor and are heavy-laden, and I will give you rest. Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light. 
+.smaller[(_Matthew 11:28-30_)]
 
 **People**
 > **Thanks be to God.**
@@ -136,7 +118,7 @@ _Reader_
 
 _Officiant_ and **People**
 > V.  Into your hands, O Lord, I commend my spirit;  
-> **R.  For you have redeemed me, O Lord,
+> **R.  For you have redeemed me, O Lord,  
 O God of truth.**  
 > V.  Keep us, O Lord, as the apple of your eye;  
 > **R.  Hide us under the shadow of your wings.**
@@ -176,11 +158,11 @@ _Officiant_
 
 _Officiant_
 
-> Look down, O Lord, from your heavenly throne, and illumine this night with your celestial brightness; that by night as by day your people may glorify your holy Name; through Jesus Christ our Lord.  **Amen.**
+> Be present, O merciful God, and protect us through the hours of this night, so that we who are wearied by the changes and chances of this life may rest in your eternal changelessness; through Jesus Christ our Lord. **Amen.**
 
 ---
 _Officiant_
-> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  **Amen.**
+> O God, your unfailing providence sustains the world we live in and the life we live: Watch over those, both night and day, who work while others sleep, and grant that we may never forget that our common life depends upon each other's toil; through Jesus Christ our Lord. **Amen.**
 
 .smaller[_Silence may be kept, and free intercessions and thanksgivings may be offered._]
 

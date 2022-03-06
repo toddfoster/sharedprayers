@@ -18,6 +18,7 @@ weight: 50
 * [Compline](compline/compline):
     * [Mon](compline/compline1), [Tues](compline/compline2), [Wed](compline/compline3), [Thurs](compline/compline4), [Fri](compline/compline3), [Sat](compline/complinesat), [Sun](compline/compline4)
 	* [Week 1](compline/compline-wk1), [Week 2](compline/compline-wk2), [Week 3](compline/compline-wk3), [Week 4](compline/compline-wk4)
+	* Compline Slides for Lent: [1](../about/slides/compline1), [2](../about/slides/compline2), [3](../about/slides/compline3), [4](../about/slides/compline4)
 
 ### Daily Devotions for Individuals and Families
 - [In the Morning](dd-morning)
