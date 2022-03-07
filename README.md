@@ -32,6 +32,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 ### TODO
 - add lff2018 feasts to template spreadsheet
 - use lff2018.json to generate collects, lessons from shortcodes
+- x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 
 ### MAYBE/SOMEDAY
 - (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
