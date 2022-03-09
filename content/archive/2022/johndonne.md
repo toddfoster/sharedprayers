@@ -19,7 +19,6 @@ _for the Feast of John Donne, Priest and Poet, 1631_
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
