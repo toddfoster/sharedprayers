@@ -1,15 +1,15 @@
 ---
-title: "Saint Joseph"
-date: 2022-03-19
+title: Church in the Woods / Holy Eucharist (Lent 4)
+date: 2022-03-24
 lectionaryyear: c
-proper: st-joseph
-rite: Holy Eucharist
+proper: fourth-sunday-in-lent
 bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+##### pb
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -22,21 +22,23 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/form3 %}}
+{{% he/pop/form5-rowan %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
-{{% he/eucharisticprayer/b /%}}
-{{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
 
 ##### pb
-### We Receive the Gift of God
-{{% stt/2022/communion-covid %}}
-{{% he/postcommunion/almighty %}}
-{{% he/blessing/lent %}}
-{{% he/dismissal/goinpeace %}}
-{{% nrsv %}}
+## We Offer Ourselves To God
+{{% he/offertory %}}
+{{% he/eucharisticprayer/b /%}}
+{{% he/lordsprayer/1 %}}
+{{% he/fraction/short %}}
 
+## We Receive the Gift of God
+{{% stt/2022/communion %}}
+{{% he/postcommunion/almighty %}}
+{{% he/blessing/thepeace %}}
+{{% he/processional %}}
+{{% he/dismissal/goinpeace %}}
+{{% stt/2021/postscript %}}
+{{% nrsv %}}

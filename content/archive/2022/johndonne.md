@@ -1,17 +1,19 @@
 ---
-title: "Saint Joseph"
-date: 2022-03-19
-lectionaryyear: c
-proper: st-joseph
-rite: Holy Eucharist
+title: Holy Eucharist - Feast of John Donne
+date: 2022-03-31
+liturgydate: 2022-03-30
 bcppage: 355ff.
+season: lent
+proper: john-donne
 ---
+Holy Eucharist
+_for the Feast of John Donne, Priest and Poet, 1631_
 
-## We Gather in God's Name
+## We Gather in God’s Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
-{{% he/propercollect %}}
+{{% he/propercollect  %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
@@ -22,7 +24,6 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
@@ -39,4 +40,3 @@ bcppage: 355ff.
 {{% he/blessing/lent %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-

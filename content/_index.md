@@ -7,24 +7,18 @@ title: Shared Prayers
 -------------
 
 **Sunday Liturgies for this month:**
-- [Holy Eucharist for Sunday, 6 February: Black History Month Celebration (Epiphany 5)](archive/2022/fifth-sunday-after-epiphany-bhm)
-- [Holy Eucharist for Sunday, 13 February: Epiphany 6](archive/2022/sixth-sunday-after-epiphany)
-- [Holy Eucharist for Sunday, 20 February: Epiphany 7](archive/2022/seventh-sunday-after-epiphany)
-- [Holy Eucharist for Sunday, 27 February: Epiphany Last](archive/2022/last-sunday-after-the-epiphany)
-- [Holy Eucharist for Sunday, 6 March: The First Sunday in Lent](archive/2022/first-sunday-in-lent/)
+- [Holy Eucharist for Sunday, 13 March: The Second Sunday in Lent](archive/2022/second-sunday-in-lent/)
+- [Holy Eucharist for Sunday, 20 March: The Third Sunday in Lent](archive/2022/third-sunday-in-lent/)
+- [Holy Eucharist for Sunday, 27 March: The Fourth Sunday in Lent](archive/2022/fourth-sunday-in-lent/)
+- [Holy Eucharist for Sunday, 3 April: The Fifth Sunday in Lent (Laetare Sunday)](archive/2022/fifth-sunday-in-lent/)
 
 
 **Weekday Liturgies this month:**
-- [Holy Eucharist for Wednesday night, 2 February (Feast of the Presentation)](archive/2022/the-presentation)
-- [Holy Eucharist for Wednesday night, 9 February (Feast of Bakhita)](archive/2022/st-bakhita)
-- [Holy Eucharist for Wednesday night, 16 February (Feast of Absalom Jones)](archive/2022/st-absalomjones)
-- [Holy Eucharist for Church in the Woods, 17 February (Epiphany 6)](archive/2022/churchinwoods20220217)
-- [Holy Eucharist for Wednesday night, 23 February (Feast of St. Matthias the Apostle)](archive/2022/st-matthias/)
-- [Ash Wednesday](archive/2022/ash-wednesday/)
-
-**Liturgies for Vestry Retreat**
-- [Morning Prayer for Saturday, 5 February](archive/2022/mp-20220205)
-- [Holy Eucharist for Saturday, 5 February](archive/2022/he-sixth-epiphany-vestry)
+- [Holy Eucharist for Wednesday, 9 March, Feast of Perpetua and Felicity, Martyrs](archive/2022/perpetua)
+- [Holy Eucharist for Wednesday, 16 March, Feast of St. Joseph](archive/2022/st-joseph)
+- [Holy Eucharist for Wednesday, 23 March, Feast of the Annunciation](archive/2022/the-annunciation)
+- [Holy Eucharist for Thursday, 24 March, Church in the Woods](archive/2022/churchinwoods20220324)
+- [Holy Eucharist for Wednesday, 30 March, Feast of John Donne](archive/2022/johndonne)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays in Covid-tide](archive/he-covid-weekday)

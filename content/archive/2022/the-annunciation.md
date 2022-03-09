@@ -28,7 +28,6 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
@@ -36,10 +35,8 @@ bcppage: 355ff.
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/epiphany-long %}}
-{{% hymn Processional %}}
+{{% he/blessing/lent %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
