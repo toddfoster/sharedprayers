@@ -28,13 +28,13 @@ bcppage: 351ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-137" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
 
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
 
 #### LEVAS 269
-{{% he/fraction/long-lent %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God

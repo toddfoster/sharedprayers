@@ -28,13 +28,13 @@ bcppage: 351ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "h-474" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="S-124" /%}}
 
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 
 #### Hymnal S-161
-{{% he/fraction/long-lent %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God
