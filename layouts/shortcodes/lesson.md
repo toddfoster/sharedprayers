@@ -40,12 +40,23 @@
 {{  with first 1 (where (where (where $.Site.Data.bcprcl "year" $year) "day" $day) "lesson" $ordinal) }}
 	{{ $reference = (index . 0).citation }}
 {{ else }}
-	{{/* Second, check holydays directory for a named holiday */}}
-	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/%s" $day $ordinal ) }}
-	{{ if $DEBUG }}{{ printf "holy day file is %v" $reffile }}{{ end }}
-	{{ if fileExists $reffile }}
-		{{ $reference = ($reffile | readFile | safeHTML) }}
-	{{ end }}
+{{/* Second, check lff2018.json */}}
+{{ $slug := upper (printf "lff2018-%s" $day) }}
+{{ $lff_ordinal := $ordinal }}
+{{ if or (in $ordinal "irst") (in $ordinal "econd") (in $ordinal "hird") }}
+  {{ $lff_ordinal = printf "%s_lesson" $ordinal }}
+{{ end }}
+{{ if $DEBUG }}{{ printf "lff slug is %s with ordinal %s" $slug $lff_ordinal }}{{ end }}
+{{  with first 1 (where $.Site.Data.lff2018 "slug" $slug) }}
+    {{ $reference = (index (index . 0) $lff_ordinal) }}
+{{ else }}
+{{/* Third, check holydays directory for a named holiday */}}
+{{ $reffile := (printf "layouts/shortcodes/holydays/%s/%s" $day $ordinal ) }}
+{{ if $DEBUG }}{{ printf "holy day file is %v" $reffile }}{{ end }}
+{{ if fileExists $reffile }}
+	{{ $reference = ($reffile | readFile | safeHTML) }}
+{{ end }}
+{{ end }}
 {{ end }}
 {{/* else assume a literal reference or blank */}}
 

@@ -12,12 +12,18 @@
 {{  with first 1 (where $.Site.Data.bcpcollects "day" $day) }}
 	{{ $collect = (index . 0).collect }}
 {{ else }}
+{{/* Second, check lff2018.json */}}
+{{ $slug := upper (printf "lff2018-%s" $day) }}
+{{  with first 1 (where $.Site.Data.lff2018 "slug" $slug) }}
+    {{ $collect = strings.TrimSuffix " Amen." (index (index . 0) "rite2_collect") }}
+{{ else }}
     {{/* Check for a named holiday */}}
 	{{ $reffile := (printf "layouts/shortcodes/holydays/%s/collect" $day ) }}
 	{{ if fileExists $reffile }}
 		{{ $collect = ($reffile | readFile | safeHTML) }}
 	{{ end }}
 {{ end }}
+{{ end}}
 
 ### The Collect of the Day
 ##### Officiant:
