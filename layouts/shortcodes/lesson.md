@@ -41,7 +41,7 @@
 	{{ $reference = (index . 0).citation }}
 {{ else }}
 {{/* Second, check lff2018.json */}}
-{{ $slug := upper (printf "lff2018-%s" $day) }}
+{{ $slug := printf "lff2018-%s" $day }}
 {{ $lff_ordinal := $ordinal }}
 {{ if or (in $ordinal "irst") (in $ordinal "econd") (in $ordinal "hird") }}
   {{ $lff_ordinal = printf "%s_lesson" $ordinal }}
