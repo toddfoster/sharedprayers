@@ -30,8 +30,10 @@ No effort stands alone. I particularly want to recognize important inspirations 
 # Tasks
 
 ### TODO
-- add lff2018 feasts to template spreadsheet
-- use lff2018.json to generate collects, lessons from shortcodes
+- update lff2json to remove accents from slugs
+- regenerate & re-import lff2018keys.csv into lituryplans
+- x add lff2018 feasts to template spreadsheet
+- x use lff2018.json to generate collects, lessons from shortcodes
 - x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 
 ### MAYBE/SOMEDAY

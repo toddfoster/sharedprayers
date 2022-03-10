@@ -75,6 +75,7 @@ limitations under the License.
 CALCDATESFILE = 'data/calcdates.json'
 COLLECTSFILE = 'data/bcpcollects.json'
 TEMPLATESFILE = 'liturgyplans.ods'
+LFF2018FILE = 'data/lff2018.json'
 
 # Default directories
 OUTPUTDIR = "content/archive"
@@ -130,6 +131,13 @@ collects = []
 with open(COLLECTSFILE, "r", encoding='utf-8') as f:
     data = f.read()
     collects = json.loads(data)
+with open(LFF2018FILE, "r", encoding='utf-8') as f:
+    data = f.read()
+    lff = json.loads(data)
+    for l in lff:
+        l["day"] = l["slug"]
+        l["collect"] = l["rite2_collect"]
+        collects.append(l)
 
 #TODO: check for successful load or throw error
 templates = get_data(TEMPLATESFILE)
