@@ -4,7 +4,7 @@ date: 2022-04-16
 lectionaryyear: c
 proper: holy-saturday
 rite: Holy Saturday
-bcppage: 283/355
+bcppage: 283f.
 ---
 
 ## We Gather in God's Name

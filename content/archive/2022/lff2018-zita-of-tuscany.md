@@ -1,10 +1,14 @@
 ---
-title: "Ascension Day"
-date: 2022-05-26
+title: "[Zita of Tuscany], Worker of Charity, 1271"
+date: 2022-04-27
 lectionaryyear: c
-proper: ascension-day
+proper: lff2018-zita-of-tuscany
+rite: Holy Eucharist
+bcppage: 355ff.
 ---
-{{% he/greeting/alleluia %}}
+
+## We Gather in God's Name
+{{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
@@ -18,13 +22,11 @@ proper: ascension-day
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
@@ -32,10 +34,8 @@ proper: ascension-day
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-long %}}
-{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
