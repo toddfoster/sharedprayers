@@ -41,13 +41,13 @@
 	{{ $reference = (index . 0).citation }}
 {{ else }}
 {{/* Second, check lff2018.json */}}
-{{ $slug := printf "lff2018-%s" $day }}
+{{ $lff_slug := $day }}
 {{ $lff_ordinal := $ordinal }}
-{{ if or (in $ordinal "irst") (in $ordinal "econd") (in $ordinal "hird") }}
+{{ if or (or (eq $ordinal "first") (eq $ordinal "second")) (eq $ordinal "third") }}
   {{ $lff_ordinal = printf "%s_lesson" $ordinal }}
 {{ end }}
-{{ if $DEBUG }}{{ printf "lff slug is %s with ordinal %s" $slug $lff_ordinal }}{{ end }}
-{{  with first 1 (where $.Site.Data.lff2018 "slug" $slug) }}
+{{ if $DEBUG }}{{ printf "lff slug is %s with ordinal %s" $lff_slug $lff_ordinal }}{{ end }}
+{{  with first 1 (where $.Site.Data.lff2018 "slug" $lff_slug) }}
     {{ $reference = (index (index . 0) $lff_ordinal) }}
 {{ else }}
 {{/* Third, check holydays directory for a named holiday */}}
@@ -74,8 +74,8 @@
 {{ end }}
 
 {{ $reference = $reference | chomp }}
-{{ $slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
-{{ $slug = substr $slug 0 5 }}
+{{ $ref_slug := $reference | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
+{{ $ref_slug = substr $ref_slug 0 5 }}
 
 
 {{/* ---------------------------- */}}
@@ -109,7 +109,7 @@ The Holy Gospel of our Lord Jesus Christ according to {{ with $gospel }}{{ . }}{
 {{/* Heading other lessons */}}
 ### The {{ $prettyOrdinal }} Lesson: _{{- $reference -}}_
 ##### Lector:
-{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $slug ) | readFile | safeHTML }}
+{{ $intro := ( printf "layouts/shortcodes/readings/intro/%s" $ref_slug ) | readFile | safeHTML }}
 A reading from {{ $intro }}
 {{ end }}
 
@@ -121,8 +121,8 @@ A reading from {{ $intro }}
 {{ else }}
 {{ if $reference }}
     {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
-    {{ $slug := $filename | replaceRE "psalm" "" }}
-    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $slug ) }}
+    {{ $ref_slug := $filename | replaceRE "psalm" "" }}
+    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $ref_slug ) }}
 	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
 	{{ if not (fileExists $filepath) }}
       {{ $filepath = printf "layouts/shortcodes/readings/lpn/%s" $filename }}
