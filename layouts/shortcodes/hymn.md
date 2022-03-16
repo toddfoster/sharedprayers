@@ -6,12 +6,13 @@
 {{/* else just output the argument as-is */}}
 {{ $DEBUG := false }}
 {{ $content := "" }}
-{{ $title := .Get 0 }}
+{{ $title := "" }}
+{{ $hymn_function := .Get 0 }}
 {{ $arg := .Get 1 }}
 
 {{ if not $arg }}
-	{{ $arg = $title }}
-	{{ $title = "" }}
+	{{ $arg = $hymn_function }}
+	{{ $hymn_function = "" }}
 {{ end }}
 
 {{/* look for hymn text provided */}}
@@ -26,7 +27,7 @@
 {{ $referenceArray := (split $arg "-") }}
 {{ $h := upper (index $referenceArray 0) }}
 {{ $number := upper (index $referenceArray 1) }}
-{{ if and (not $content) (in $arg "-") }}
+{{ if and (not $title) (in $arg "-") }}
 	{{ if $DEBUG }} h={{$h}} {{ end }}
 	{{ if in "L"  $h }}
 		{{ $filename = "LEVAS" }}
@@ -41,14 +42,16 @@
 	{{ if $DEBUG }} id={{$filename}}, number={{$number}} {{ end }}
 	{{ with index .Site.Data.hymnals $filename }}
 		{{with first 1 (where .hymns "number" $number) }}
-			{{ $content = index (index . 0) "title" }}
+			{{ $title = index (index . 0) "title" }}
 		{{ end }}
 	{{ end }}
 {{ end }}
 
 {{/* If no title, output argument verbatim */}}
-{{ if not $content }}
-### {{ $title }} Hymn: {{$arg}}
+{{ if $content }}
+### {{ $hymn_function}} Hymn: {{$content }}
+{{ else if not $title }}
+### {{ $hymn_function }} Hymn: {{$arg}}
 {{ else }}
-### {{ $title }} Hymn: _{{ $content }}_ ({{- $hymnal }} {{ $number -}})
+### {{ $hymn_function }} Hymn: _{{ $title }}_ ({{- $hymnal }} {{ $number -}})
 {{ end }}
