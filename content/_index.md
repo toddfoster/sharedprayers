@@ -10,7 +10,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 13 March: The Second Sunday in Lent](archive/2022/second-sunday-in-lent/)
 - [Holy Eucharist for Sunday, 20 March: The Third Sunday in Lent](archive/2022/third-sunday-in-lent/)
 - [Holy Eucharist for Sunday, 27 March: The Fourth Sunday in Lent](archive/2022/fourth-sunday-in-lent/)
-- [Holy Eucharist for Sunday, 3 April: The Fifth Sunday in Lent (Laetare Sunday)](archive/2022/fifth-sunday-in-lent/)
+- [Holy Eucharist for Sunday, 3 April: The Fifth Sunday in Lent](archive/2022/fifth-sunday-in-lent/)
 
 
 **Weekday Liturgies this month:**
