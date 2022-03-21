@@ -4,11 +4,13 @@ date: 2022-03-27
 lectionaryyear: c
 proper: fourth-sunday-in-lent
 rite: Holy Eucharist
-bcppage: 351ff.
+bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% he/penitentialorder %}}
+{{% hymn Entrance "l-165" %}}
+{{% he/greeting/blessthelord %}}
+{{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -24,6 +26,7 @@ bcppage: 351ff.
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
+{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
