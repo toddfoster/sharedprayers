@@ -13,8 +13,7 @@
 	{{ $collect = (index . 0).collect }}
 {{ else }}
 {{/* Second, check lff2018.json */}}
-{{ $slug := printf "lff2018-%s" $day }}
-{{  with first 1 (where $.Site.Data.lff2018 "slug" $slug) }}
+{{  with first 1 (where $.Site.Data.lff2018 "slug" $day) }}
     {{ $collect = strings.TrimSuffix " Amen." (index (index . 0) "rite2_collect") }}
 {{ else }}
     {{/* Check for a named holiday */}}
