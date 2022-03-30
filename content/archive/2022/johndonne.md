@@ -4,13 +4,13 @@ date: 2022-03-31
 liturgydate: 2022-03-30
 bcppage: 355ff.
 season: lent
-proper: john-donne
+proper: lff2018-john-donne
 ---
 Holy Eucharist
 _for the Feast of John Donne, Priest and Poet, 1631_
 
 ## We Gather in God’s Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect  %}}
