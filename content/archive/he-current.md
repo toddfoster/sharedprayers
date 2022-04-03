@@ -1,5 +1,5 @@
 ---
-date: 2021-04-18
+date: 2022-04-03
 layout: forward
-forward: "/archive/2021/auto/proper8/"
+forward: "archive/2022/palm-sunday-liturgy-of-the-word/"
 ---
