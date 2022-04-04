@@ -136,7 +136,7 @@ _Officiant_
 
 _Officiant_
 
-> Visit this place, O Lord, and drive far from it all snares for the enemy; let your holy angels dwell with us to preserve us in peace; and let your blessing be upon us always; through Jesus Christ our Lord. **Amen.**
+> Visit this place, O Lord, and drive far from it all snares of the enemy; let your holy angels dwell with us to preserve us in peace; and let your blessing be upon us always; through Jesus Christ our Lord. **Amen.**
 
 ---
 _Officiant_
