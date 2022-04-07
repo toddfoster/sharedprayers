@@ -20,7 +20,7 @@ _work in progress_
 
 **Weekday Liturgies this month:**
 - [Holy Eucharist for Wednesday, 6 April, Feast of Martin Luther King, Jr., Pastor and Martyr](archive/2022/lff2018-martin-luther-king)
-- [Holy Eucharist for Wednesday, 6 April, Feast of St. Mark the Evangelist](archive/2022/lff2018-saint-mark-the-evangelist/)
+- [Holy Eucharist for Wednesday, 27 April, Feast of St. Mark the Evangelist](archive/2022/lff2018-saint-mark-the-evangelist/)
 - [Holy Eucharist for Wednesday, 4 May, Feast of Saint Philip and Saint James, Apostles](archive/2022/lff2018-apostles-saint-philip-and-saint-james/)
 
 **Liturgies for any week:**
