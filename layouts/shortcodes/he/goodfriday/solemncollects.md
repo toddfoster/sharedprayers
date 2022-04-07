@@ -5,7 +5,7 @@ Deacon:
 >
 > We pray, therefore, for people everywhere according to their needs.
 
-> Let us pray for the holy Catholic Church of Christ throughout the world; For its unity in witness and service; For all bishops and other ministers and the people whom they serve; For William, our Bishop, and all the people of this diocese; For all Christians in this community; For those about to be baptized particularly Brandon; That God will confirm his Church in faith, increase it in love, and preserve it in peace.
+> Let us pray for the holy Catholic Church of Christ throughout the world; For its unity in witness and service; For all bishops and other ministers and the people whom they serve; For William, our Bishop, and all the people of this diocese; For all Christians in this community; For those about to be baptized [particularly ______]; That God will confirm his Church in faith, increase it in love, and preserve it in peace.
 
 
 ##### Silence
@@ -17,7 +17,7 @@ Priest:
 > **Amen.**
 
 Deacon:
-> Let us pray for all nations and peoples of the earth, and for those in authority among them; For Donald, the President of the United States; For the Congress and the Supreme Court; For the Members and Representatives of the United Nations; For all who serve the common good; That by God’s help they may seek justice and truth, and live in peace and concord.
+> Let us pray for all nations and peoples of the earth, and for those in authority among them; For Joseph, the President of the United States; For the Congress and the Supreme Court; For the Members and Representatives of the United Nations; For all who serve the common good; That by God’s help they may seek justice and truth, and live in peace and concord.
 
 ##### Silence
 
@@ -28,7 +28,7 @@ Priest:
 > **Amen.**
 
 Deacon:
-> Let us pray for all who suffer and are afflicted in body or in mind; For the hungry and the homeless, the destitute and the oppressed; For the sick, the wounded, and the crippled; For all who are afflicted by the corona virus; For those in loneliness, fear, and anguish; For those who face temptation, doubt, and despair; For the sorrowful and bereaved; For prisoners and captives, and those in mortal danger; That God in his mercy will comfort and relieve them, and grant them the knowledge of his love, and stir up in us the will and patience to minister to their needs.
+> Let us pray for all who suffer and are afflicted in body or in mind; For the hungry and the homeless, the destitute and the oppressed; For the sick, the wounded, and the crippled; For those in loneliness, fear, and anguish; For those who face temptation, doubt, and despair; For the sorrowful and bereaved; For prisoners and captives, and those in mortal danger; That God in his mercy will comfort and relieve them, and grant them the knowledge of his love, and stir up in us the will and patience to minister to their needs.
 
 ##### Silence
 

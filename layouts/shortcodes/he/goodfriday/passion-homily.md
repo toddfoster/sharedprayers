@@ -13,17 +13,64 @@ Then the high priest questioned Jesus about his disciples and about his teaching
 
 Now Simon Peter was standing and warming himself. They asked him, "You are not also one of his disciples, are you?" He denied it and said, "I am not." One of the slaves of the high priest, a relative of the man whose ear Peter had cut off, asked, "Did I not see you in the garden with him?" Again Peter denied it, and at that moment the cock crowed.
 
-Then they took Jesus from Caiaphas to Pilate's headquarters. It was early in the morning. They themselves did not enter the headquarters, so as to avoid ritual defilement and to be able to eat the Passover. So Pilate went out to them and said, "What accusation do you bring against this man?" They answered, **"If this man were not a criminal, we would not have handed him over to you."** Pilate said to them, "Take him yourselves and judge him according to your law." The Jews replied, **"We are not permitted to put anyone to death."** (This was to fulfill what Jesus had said when he indicated the kind of death he was to die.)
+Then they took Jesus from Caiaphas to Pilate's headquarters. It was early in the morning. They themselves did not enter the headquarters, so as to avoid ritual defilement and to be able to eat the Passover. So Pilate went out to them and said, "What accusation do you bring against this man?" They answered,
+
+##### **People:**
+**"If this man were not a criminal, we would not have handed him over to you."**
+
+Pilate said to them, "Take him yourselves and judge him according to your law." The Jews replied,
+
+##### **People:**
+
+**"We are not permitted to put anyone to death."**
+
+(This was to fulfill what Jesus had said when he indicated the kind of death he was to die.)
 
 Then Pilate entered the headquarters again, summoned Jesus, and asked him, "Are you the King of the Jews?" Jesus answered, "Do you ask this on your own, or did others tell you about me?" Pilate replied, "I am not a Jew, am I? Your own nation and the chief priests have handed you over to me. What have you done?" Jesus answered, "My kingdom is not from this world. If my kingdom were from this world, my followers would be fighting to keep me from being handed over to the Jews. But as it is, my kingdom is not from here." Pilate asked him, "So you are a king?" Jesus answered, "You say that I am a king. For this I was born, and for this I came into the world, to testify to the truth. Everyone who belongs to the truth listens to my voice." Pilate asked him, "What is truth?"
 
-After he had said this, he went out to the Jews again and told them, "I find no case against him. But you have a custom that I release someone for you at the Passover. Do you want me to release for you the King of the Jews?" They shouted in reply, **"Not this man, but Barabbas!"** Now Barabbas was a bandit.
+After he had said this, he went out to the Jews again and told them, "I find no case against him. But you have a custom that I release someone for you at the Passover. Do you want me to release for you the King of the Jews?" They shouted in reply,
 
-Then Pilate took Jesus and had him flogged. And the soldiers wove a crown of thorns and put it on his head, and they dressed him in a purple robe. They kept coming up to him, saying, **"Hail, King of the Jews!"** and striking him on the face. Pilate went out again and said to them, "Look, I am bringing him out to you to let you know that I find no case against him." So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, "Here is the man!" When the chief priests and the police saw him, they shouted, **"Crucify him! Crucify him!"** Pilate said to them, "Take him yourselves and crucify him; I find no case against him." The Jews answered him, **"We have a law, and according to that law he ought to die because he has claimed to be the Son of God."**
+##### **People:**
+
+**"Not this man, but Barabbas!"**
+
+Now Barabbas was a bandit.
+
+Then Pilate took Jesus and had him flogged. And the soldiers wove a crown of thorns and put it on his head, and they dressed him in a purple robe. They kept coming up to him, saying,
+
+##### **People:**
+
+**"Hail, King of the Jews!"**
+
+and striking him on the face. Pilate went out again and said to them, "Look, I am bringing him out to you to let you know that I find no case against him." So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, "Here is the man!" When the chief priests and the police saw him, they shouted,
+
+##### **People:**
+
+**"Crucify him! Crucify him!"**
+
+Pilate said to them, "Take him yourselves and crucify him; I find no case against him." The Jews answered him,
+
+##### **People:**
+
+**"We have a law, and according to that law he ought to die because he has claimed to be the Son of God."**
+
+
 
 Now when Pilate heard this, he was more afraid than ever. He entered his headquarters again and asked Jesus, "Where are you from?" But Jesus gave him no answer. Pilate therefore said to him, "Do you refuse to speak to me? Do you not know that I have power to release you, and power to crucify you?" Jesus answered him, "You would have no power over me unless it had been given you from above; therefore the one who handed me over to you is guilty of a greater sin." From then on Pilate tried to release him, but the Jews cried out, "If you release this man, you are no friend of the emperor. Everyone who claims to be a king sets himself against the emperor."
 
-When Pilate heard these words, he brought Jesus outside and sat on the judge's bench at a place called The Stone Pavement, or in Hebrew Gabbatha. Now it was the day of Preparation for the Passover; and it was about noon. He said to the Jews, "Here is your King!" They cried out, **"Away with him! Away with him! Crucify him!"** Pilate asked them, "Shall I crucify your King?" The chief priests answered, **"We have no king but the emperor."** Then he handed him over to them to be crucified.
+When Pilate heard these words, he brought Jesus outside and sat on the judge's bench at a place called The Stone Pavement, or in Hebrew Gabbatha. Now it was the day of Preparation for the Passover; and it was about noon. He said to the Jews, "Here is your King!" They cried out,
+
+##### **People:**
+
+**"Away with him! Away with him! Crucify him!"**
+
+Pilate asked them, "Shall I crucify your King?" The chief priests answered,
+
+##### **People:**
+
+**"We have no king but the emperor."**
+
+Then he handed him over to them to be crucified.
 
 So they took Jesus; and carrying the cross by himself, he went out to what is called The Place of the Skull, which in Hebrew is called Golgotha.
 

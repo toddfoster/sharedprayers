@@ -9,7 +9,6 @@ bcppage: 276ff.
 
 ## We Gather in God's Name
 {{% he/goodfriday/greeting %}}
-{{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
@@ -19,10 +18,15 @@ bcppage: 276ff.
 {{% he/goodfriday/passion-homily %}}
 
 ## We Respond in Faith
-{{% he/goodfriday/hymn %}}
+{{% hymn "L-31" %}}
 {{% he/goodfriday/solemncollects %}}
-{{% he/goodfriday/hymn-devotions %}}
+{{% hymn "l-38" %}}
+
+##### Prayers left in the box before the cross will be burned on the new fire at the Great Vigil of Easter.
+{{% he/goodfriday/veneration %}}
+{{% hymn "l-36" %}}
 {{% he/lordsprayer/1 %}}
+{{% he/goodfriday/contribution %}}
 {{% he/goodfriday/shortconclusion %}}
 {{% nrsv %}}
 
