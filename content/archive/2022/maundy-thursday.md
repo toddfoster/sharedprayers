@@ -8,34 +8,42 @@ bcppage: 274/355
 ---
 
 ## We Gather in God's Name
+{{% he/greeting/blessthelord %}}
 {{% he/penitentialorder %}}
-{{% he/songofpraise/kyrie %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
+{{% lesson "second" /%}}
+{{% hymn Sequence "h-439" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/maundythursday/washfeet %}}
+{{% hymn %}}
+{{% h-602 %}}
 {{% he/pop/lordhavemercy %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-577" %}}
+{{% he/eucharisticprayer/a %}}
+
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-161
 {{% he/fraction/long-lent %}}
 
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
-{{% he/postcommunion/almighty %}}
-{{% he/blessing/palmsunday %}}
+{{% hymn Communion "h-171" %}}
+{{% hymn Communion "h-329" %}}
+{{% he/postcommunion/eternal %}}
 {{% he/maundythursday/stripaltar %}}
 {{% nrsv %}}
 
