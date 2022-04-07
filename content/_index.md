@@ -16,8 +16,15 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 24 April: The Second Sunday of Easter](archive/2022/second-sunday-of-easter/)
 - [Holy Eucharist for Sunday, 1 May: The Third Sunday of Easter](archive/2022/third-sunday-of-easter/)
 
-**Liturgies for Holy Week:**
-_work in progress_
+**Liturgies for Holy Week (11-16 April):**
+- [Holy Monday - Eucharist](archive/2022/monday-in-holy-week)
+- [Holy Tuesday - Eucharist](archive/2022/tuesday-in-holy-week)
+- [Holy Wednesday - Eucharist](archive/2022/wednesday-in-holy-week)
+- [Maundy Thursday](archive/2022/maundy-thursday)
+- [Good Friday](archive/2022/good-friday)
+- [Holy Saturday Prayer Office](archive/2022/holy-saturday)
+- [The Great Vigil of Easter](archive/2022/easter-day-the-great-vigil)
+- [Holy Eucharist for the Sunday of the Resurrection](archive/2022/easter-day-principal-service/)
 
 **Weekday Liturgies this month:**
 - [Holy Eucharist for Wednesday, 6 April, Feast of Martin Luther King, Jr., Pastor and Martyr](archive/2022/lff2018-martin-luther-king)
