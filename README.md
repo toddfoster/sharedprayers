@@ -36,6 +36,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x use lff2018.json to generate collects, lessons from shortcodes
 - x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 - Psalms  page to access psalms individually
+- ods2sp: only regenerate pages older than spreadsheet
 
 ### MAYBE/SOMEDAY
 - (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
