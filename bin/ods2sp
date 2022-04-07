@@ -396,7 +396,7 @@ def unpack_liturgy(row):
 
         # Check whether to look for a hymn in the next column
         if maybe_hymn != "found":
-            if entry.startswith("hymn "):
+            if entry.startswith("hymn"):
                 maybe_hymn = entry
             else:
                 for code in hymn_optional_codes:
