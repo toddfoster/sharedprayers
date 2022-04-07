@@ -21,7 +21,6 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/peace %}}
 {{% hymn Offertory %}}
