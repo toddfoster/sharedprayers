@@ -24,19 +24,18 @@ bcppage: 274/355
 
 ## We Respond in Faith
 {{% he/maundythursday/washfeet %}}
-{{% hymn %}}
-{{% h-602 %}}
+{{% hymn "h-602" %}}
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% hymn Offertory "h-577" %}}
-{{% he/eucharisticprayer/a %}}
+{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
 
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 
 #### Hymnal S-161
-{{% he/fraction/long-lent %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God

@@ -83,4 +83,6 @@ _Deus, Deus meu_
 > 30	They shall come and make known to a people yet unborn \*
 > the saving deeds that he has done.
 
-##### Tonight's portion of the liturgy concludes without further ceremony. Please depart in silence.
+##### Tonight's portion of the liturgy concludes with the closing of the chancel door. The congregation departs in silence.
+##### A Prayer Vigil commences in the Nave at this time.
+##### The liturgy continues tomorrow with the observance of Good Friday.
