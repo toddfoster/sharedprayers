@@ -14,6 +14,8 @@ bcppage: 283f.
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
+{{% lesson "second" /%}}
+{{% lesson "third" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
