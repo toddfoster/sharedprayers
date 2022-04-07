@@ -8,21 +8,21 @@ bcppage: 270ff.
 ---
 
 ## We Gather in God's Name
-{{% he/palmsunday/palms/b %}}
-{{% he/palmsunday/palms/procession %}}
+{{% hymn Entrance "l-31" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
+
+##### Today we read Psalm 31 in its entirety, in solidarity with those suffering in Ukraine.
 {{% lesson "psalm" 31 /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-189" %}}
-{{% lesson "gospel" /%}}
-{{% he/homily/brief %}}
+{{% he/palmsunday/passion/c %}}
 
 ## We Respond in Faith
-{{% he/palmsunday/prayers %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
@@ -42,5 +42,6 @@ bcppage: 270ff.
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/palmsunday %}}
 {{% hymn Processional "l-29" %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/dismissal/letusbless %}}
 {{% nrsv %}}
+

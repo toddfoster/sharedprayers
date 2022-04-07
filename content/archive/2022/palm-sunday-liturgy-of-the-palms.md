@@ -6,7 +6,11 @@ proper: palm-sunday-liturgy-of-the-palms
 rite: Holy Eucharist
 bcppage: 270ff.
 ---
+{{% he/palmsunday/palms/c %}}
 
-## We Gather in God's Name
+##### If there is no procession, the service continues with the [liturgy of the word](/archive/2022/palm-sunday-liturgy-of-the-word/).
+{{% he/palmsunday/palms/procession %}}
+
+## The service continues with the [liturgy of the word](/archive/2022/palm-sunday-liturgy-of-the-word/).
 {{% nrsv %}}
 

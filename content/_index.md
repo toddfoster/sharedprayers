@@ -9,8 +9,9 @@ title: Shared Prayers
 
 **Sunday Liturgies for this month:**
 - [Holy Eucharist for Sunday, 3 April: The Fifth Sunday in Lent](archive/2022/fifth-sunday-in-lent/)
-- [Holy Eucharist for Sunday, 10 April: The Liturgy of the Palms](archive/2022/palm-sunday-liturgy-of-the-palms/)
-- [Holy Eucharist for Sunday, 10 April: The Sunday of the Passion: PALM SUNDAY](archive/2022/palm-sunday-liturgy-of-the-word/)
+- Holy Eucharist for Sunday, 10 April: The Sunday of the Passion:
+    - [Liturgy of the Palms](archive/2022/palm-sunday-liturgy-of-the-palms/)
+	- [Liturgy of the Word](archive/2022/palm-sunday-liturgy-of-the-word/)
 - [Holy Eucharist for Sunday, 17 April: The Sunday of the Resurrection, or Easter Day](archive/2022/easter-day-principal-service/)
 - [Holy Eucharist for Sunday, 24 April: The Second Sunday of Easter](archive/2022/second-sunday-of-easter/)
 - [Holy Eucharist for Sunday, 1 May: The Third Sunday of Easter](archive/2022/third-sunday-of-easter/)

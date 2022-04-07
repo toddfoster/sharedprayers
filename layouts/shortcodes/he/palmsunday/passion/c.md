@@ -1,0 +1,210 @@
+------
+
+## The Passion
+_Luke 22:14–23:56 (RCL Year C)_
+##### The congregation may be seated for the first part of the Passion. At the verse which mentions the arrival at Golgotha all stand.
+
+_Dramatis personæ: 	People, Narrator, Jesus, Peter, Servant, Pilate, Soldier, Criminal_
+
+_Narrator:_	The Passion of our Lord Jesus Christ according to Luke.
+
+_Narrator:_	When the hour came, Jesus took his place at the table, and the apostles with him. He said to them,
+
+_Jesus:_	I have eagerly desired to eat this Passover with you before I suffer; for I tell you, I will not eat it until it is fulfilled in the kingdom of God.
+
+_Narrator:_	Then he took a cup, and after giving thanks he said,
+
+_Jesus:_	Take this and divide it among yourselves; for I tell you that from now on I will not drink of the fruit of the vine until the kingdom of God comes.
+
+_Narrator:_	Then he took a loaf of bread, and when he had given thanks, he broke it and gave it to them, saying,
+
+_Jesus:_	This is my body, which is given for you. Do this in remembrance of me.
+
+_Narrator:_	And he did the same with the cup after supper, saying,
+
+_Jesus:_	This cup that is poured out for you is the new covenant in my blood. But see, the one who betrays me is with me, and his hand is on the table. For the Son of Man is going as it has been determined, but woe to that one by whom he is betrayed!
+
+_Narrator:_	Then they began to ask one another which one of them it could be who would do this.
+
+A dispute also arose among them as to which one of them was to be regarded as the greatest. But he said to them,
+
+_Jesus:_	The kings of the Gentiles lord it over them; and those in authority over them are called benefactors. But not so with you; rather the greatest among you must become like the youngest, and the leader like one who serves. For who is greater, the one who is at the table or the one who serves? Is it not the one at the table? But I am among you as one who serves.
+
+You are those who have stood by me in my trials; and I confer on you, just as my Father has conferred on me, a kingdom, so that you may eat and drink at my table in my kingdom, and you will sit on thrones judging the twelve tribes of Israel.
+
+Simon, Simon, listen! Satan has demanded to sift all of you like wheat, but I have prayed for you that your own faith may not fail; and you, when once you have turned back, strengthen your brothers.
+
+_Peter:_	Lord, I am ready to go with you to prison and to death!
+
+_Jesus:_	I tell you, Peter, the cock will not crow this day, until you have denied three times that you know me.
+
+_Narrator:_	He said to them,
+
+_Jesus:_	When I sent you out without a purse, bag, or sandals, did you lack anything?
+
+**_People:_	No, not a thing.**
+
+_Jesus:_	But now, the one who has a purse must take it, and likewise a bag. And the one who has no sword must sell his cloak and buy one. For I tell you, this scripture must be fulfilled in me, “And he was counted among the lawless”; and indeed what is written about me is being fulfilled.
+
+**_People:_	Lord, look, here are two swords.**
+
+_Jesus:_	It is enough.
+
+_Narrator:_	He came out and went, as was his custom, to the Mount of Olives; and the disciples followed him. When he reached the place, he said to them,
+
+_Jesus:_	Pray that you may not come into the time of trial.
+
+_Narrator:_	Then he withdrew from them about a stone’s throw, knelt down, and prayed,
+
+_Jesus:_	Father, if you are willing, remove this cup from me; yet, not my will but yours be done.
+
+_Narrator:_	Then an angel from heaven appeared to him and gave him strength. In his anguish he prayed more earnestly, and his sweat became like great drops of blood falling down on the ground. When he got up from prayer, he came to the disciples and found them sleeping because of grief, and he said to them,
+
+_Jesus:_	Why are you sleeping? Get up and pray that you may not come into the time of trial.
+
+_Narrator:_	While he was still speaking, suddenly a crowd came, and the one called Judas, one of the twelve, was leading them. He approached Jesus to kiss him; but Jesus said to him,
+
+_Jesus:_	Judas, is it with a kiss that you are betraying the Son of Man?
+
+_Narrator:_	When those who were around him saw what was coming, they asked,
+
+**_People:_	Lord, should we strike with the sword?**
+
+_Narrator:_	Then one of them struck the slave of the high priest and cut off his right ear. But Jesus said,
+
+_Jesus:_	No more of this!
+
+
+_Narrator:_	And he touched his ear and healed him. Then Jesus said to the chief priests, the officers of the temple police, and the elders who had come for him,
+
+_Jesus:_	Have you come out with swords and clubs as if I were a bandit? When I was with you day after day in the temple, you did not lay hands on me. But this is your hour, and the power of darkness!
+
+_Narrator:_	Then they seized him and led him away, bringing him into the high priest’s house. But Peter was following at a distance. When they had kindled a fire in the middle of the courtyard and sat down together, Peter sat among them. Then a servant-girl, seeing him in the firelight, stared at him and said,
+
+_Servant:_	This man also was with him.
+
+_Narrator:_	But he denied it, saying,
+
+_Peter:_	Woman, I do not know him.
+
+_Narrator:_	A little later someone else, on seeing him, said,
+
+_Servant:_	You also are one of them.
+
+_Peter:_	Man, I am not!
+
+_Narrator:_	Then about an hour later yet another kept insisting,
+
+_Servant:_	Surely this man also was with him; for he is a Galilean.
+
+_Peter:_	Man, I do not know what you are talking about!
+
+_Narrator:_	At that moment, while he was still speaking, the cock crowed. The Lord turned and looked at Peter. Then Peter remembered the word of the Lord, how he had said to him, ‘Before the cock crows today, you will deny me three times.’ And he went out and wept bitterly.
+
+_Narrator:_		Now the men who were holding Jesus began to mock him and beat him; they also blindfolded him and kept asking him,
+
+_Soldier:_	Prophesy! Who is it that struck you?
+
+_Narrator:_	They kept heaping many other insults on him.
+
+When day came, the assembly of the elders of the people, both chief priests and scribes, gathered together, and they brought him to their council. They said,
+
+**_People:_	If you are the Messiah, tell us.**
+
+_Jesus:_	If I tell you, you will not believe; and if I question you, you will not answer. But from now on the Son of Man will be seated at the right hand of the power of God.
+
+**_People:_	Are you, then, the Son of God?**
+
+_Jesus:_	You say that I am.
+
+**_People:_	What further testimony do we need? We have heard it ourselves from his own lips!**
+
+_Narrator:_	Then the assembly rose as a body and brought Jesus before Pilate. They began to accuse him, saying,
+
+**_People:_	We found this man perverting our nation, forbidding us to pay taxes to the emperor, and saying that he himself is the Messiah, a king.**
+
+_Pilate:_	Are you the king of the Jews?
+
+_Jesus:_	You say so.
+
+_Narrator:_	Then Pilate said to the chief priests and the crowds,
+
+_Pilate:_	I find no basis for an accusation against this man.
+
+_Narrator:_	But they were insistent and said,
+
+**_People:_	He stirs up the people by teaching throughout all Judea, from Galilee where he began even to this place.**
+
+_Narrator:_	When Pilate heard this, he asked whether the man was a Galilean. And when he learned that he was under Herod’s jurisdiction, he sent him off to Herod, who was himself in Jerusalem at that time. When Herod saw Jesus, he was very glad, for he had been wanting to see him for a long time, because he had heard about him and was hoping to see him perform some sign. He questioned him at some length, but Jesus gave him no answer. The chief priests and the scribes stood by, vehemently accusing him. Even Herod with his soldiers treated him with contempt and mocked him; then he put an elegant robe on him, and sent him back to Pilate. That same day Herod and Pilate became friends with each other; before this they had been enemies.
+
+Pilate then called together the chief priests, the leaders, and the people, and said to them,
+
+_Pilate:_	You brought me this man as one who was perverting the people; and here I have examined him in your presence and have not found this man guilty of any of your charges against him. Neither has Herod, for he sent him back to us. Indeed, he has done nothing to deserve death. I will therefore have him flogged and release him.
+
+**_People:_	Away with this fellow! Release Barabbas for us!**
+
+_Narrator:_	(This was a man who had been put in prison for an insurrection that had taken place in the city, and for murder.) Pilate, wanting to release Jesus, addressed them again; but they kept shouting,
+
+**_People:_	Crucify, crucify him!**
+
+_Narrator:_	A third time he said to them,
+_Pilate:_	Why, what evil has he done? I have found in him no ground for the sentence of death; I will therefore have him flogged and then release him.
+
+_Narrator:_	But they kept urgently demanding with loud shouts that he should be crucified; and their voices prevailed. So Pilate gave his verdict that their demand should be granted. He released the man they asked for, the one who had been put in prison for insurrection and murder, and he handed Jesus over as they wished.
+
+As they led him away, they seized a man, Simon of Cyrene, who was coming from the country, and they laid the cross on him, and made him carry it behind Jesus. A great number of the people followed him, and among them were women who were beating their breasts and wailing for him. But Jesus turned to them and said,
+
+_Jesus:_	Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children. For the days are surely coming when they will say, “Blessed are the barren, and the wombs that never bore, and the breasts that never nursed.” Then they will begin to say to the mountains, “Fall on us”; and to the hills, “Cover us.” For if they do this when the wood is green, what will happen when it is dry?
+
+_Narrator:_	Two others also, who were criminals, were led away to be put to death with him. When they came to the place that is called The Skull, they crucified Jesus there with the criminals, one on his right and one on his left.
+
+**SILENCE**
+
+**The Congregation stands at this time.**
+
+_Narrator:_ Then Jesus said,
+
+_Jesus:_	Father, forgive them; for they do not know what they are doing.
+
+_Narrator:_	And they cast lots to divide his clothing. And the people stood by, watching; but the leaders scoffed at him, saying,
+
+**_People:_	He saved others; let him save himself if he is the Messiah of God, his chosen one!**
+
+_Narrator:_	The soldiers also mocked him, coming up and offering him sour wine, and saying,
+
+_Soldier:_	If you are the King of the Jews, save yourself!
+
+_Narrator:_	There was also an inscription over him, ‘This is the King of the Jews.’
+
+One of the criminals who were hanged there kept deriding him and saying,
+
+**_People:_	Are you not the Messiah? Save yourself and us!**
+
+_Narrator:_	But the other rebuked him, saying,
+
+_Criminal:_	Do you not fear God, since you are under the same sentence of condemnation? And we indeed have been condemned justly, for we are getting what we deserve for our deeds, but this man has done nothing wrong.
+
+Jesus, remember me when you come into your kingdom.
+
+_Jesus:_	Truly I tell you, today you will be with me in Paradise.
+
+_Narrator:_	It was now about noon, and darkness came over the whole land until three in the afternoon, while the sun’s light failed; and the curtain of the temple was torn in two. Then Jesus, crying with a loud voice, said,
+
+_Jesus:_	Father, into your hands I commend my spirit.
+
+_Narrator:_	Having said this, he breathed his last.
+
+When the centurion saw what had taken place, he praised God and said,
+
+_Soldier:_	Certainly this man was innocent.
+
+_Narrator:_	And when all the crowds who had gathered there for this spectacle saw what had taken place, they returned home, beating their breasts. But all his acquaintances, including the women who had followed him from Galilee, stood at a distance, watching these things.
+
+Now there was a good and righteous man named Joseph, who, though a member of the council, had not agreed to their plan and action. He came from the Jewish town of Arimathea, and he was waiting expectantly for the kingdom of God. This man went to Pilate and asked for the body of Jesus. Then he took it down, wrapped it in a linen cloth, and laid it in a rock-hewn tomb where no one had ever been laid. It was the day of Preparation, and the sabbath was beginning. The women who had come with him from Galilee followed, and they saw the tomb and how his body was laid. Then they returned, and prepared spices and ointments.
+
+On the sabbath they rested according to the commandment.
+
+
+##### There follows a great silence. You may be seated for silent reflection.
+
+----
