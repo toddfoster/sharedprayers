@@ -15,7 +15,7 @@ bcppage: 270ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm" 31 /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-189" %}}
 {{% lesson "gospel" /%}}
@@ -44,4 +44,3 @@ bcppage: 270ff.
 {{% hymn Processional "l-29" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
