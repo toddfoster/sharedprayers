@@ -25,7 +25,7 @@ Fountain of life and source of all goodness, you made all things and fill them w
 
 Countless throngs of angels stand before you to serve you night and day; and, beholding the glory of your presence, they offer you unceasing praise. Joining with them, and giving voice to every creature under heaven, we acclaim you, and glorify your Name, as we sing,
 
-
+{{ with .Get "sanctus" }}#### {{ . }}{{end}}
 ### Sanctus
 ##### Celebrant and **People:**
 **Holy, holy, holy Lord, God of power and might,
@@ -59,9 +59,13 @@ Grant that all who share this bread and cup may become one body and one spirit, 
 
 Remember, Lord, your one holy catholic and apostolic Church, redeemed by the blood of your Christ. Reveal its unity, guard its faith, and preserve it in peace.
 
-{{ if .Inner }}
-{{ strings.TrimLeft "\n " .Inner }}
-{{end}}
+Remember Justin, Archbishop of Canterbury, Michael, our Presiding Bishop, William our Bishop, and all who minister in your Church.
+
+Remember all your people and those who seek your truth.
+
+Remember _N. and_ all who this night have been united to Christ’s death in baptism, and so united to Christ’s risen life forever.
+
+Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
 
 And grant that we may find our inheritance with the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, with Blessed Thomas and all the saints who have found favor with you in ages past. We praise you in union with them and give you glory through your Son Jesus Christ our Lord. Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.
 
