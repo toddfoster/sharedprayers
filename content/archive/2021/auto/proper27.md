@@ -31,7 +31,7 @@ bcppage: 299ff.
 
 ## We Offer Ourselves To God
 {{% he/offertory "Ye watchers and ye holy ones (Hymnal 618)" %}}
-{{% he/eucharisticprayer/d %}}
+{{% he/eucharisticprayer/d-inner %}}
 Remember the newly baptized of this and every parish, especially Peyton, Addie, Gage, and James.
 
 Remember Archbishop Welby, Presiding Bishop Curry, our Bishop Stokes, and all who minister in your Church.
@@ -41,7 +41,7 @@ Remember the Diocese of New Jersey Bishop Search committee, and the person you w
 Remember all your people, and those who seek your truth.
 
 Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light. Remember especially those lost to us in the last year or so, including Kathy, Ryan, Nelson, Joan, Helen, Sandy, Joanne, Pat, Margie, Dale, Tina, Jackie, Ryan, Destiny, Dan, Evelyn, Angie, Nikol, Russel, Catherine, Jimmie, Patty, Bill, Linda, and Virginia.
-{{% /he/eucharisticprayer/d %}}
+{{% /he/eucharisticprayer/d-inner %}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
 
