@@ -33,7 +33,7 @@ bcppage: 285ff.
 ##### You are invited to bring your candles to light the altar at this time.
 {{% he/anthem "Christ is Risen, Alleluia (St. Thomas' Choir)" %}}
 {{% hymn Offertory "h-174" %}}
-{{% he/eucharisticprayer/d sanctus="Hymnal S-125" %}}
+{{% he/eucharisticprayer/d-generic sanctus="Hymnal S-125" %}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 
@@ -46,4 +46,3 @@ bcppage: 285ff.
 {{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
