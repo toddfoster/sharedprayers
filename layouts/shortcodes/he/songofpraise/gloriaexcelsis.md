@@ -1,5 +1,5 @@
-#### BCP 356
-### Gloria in excelsis
+#### BCP 94/356
+### Canticle 20: Glory to God, _Gloria in excelsis_
 ##### Officiant and **People:**
 > **Glory to God in the highest,
 > 	and peace to God’s people on earth.
