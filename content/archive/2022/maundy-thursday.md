@@ -17,11 +17,13 @@ bcppage: 274/355
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
+##### pb
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-439" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/maundythursday/washfeet %}}
 {{% hymn "h-602" %}}
@@ -43,6 +45,6 @@ bcppage: 274/355
 {{% hymn Communion "h-171" %}}
 {{% hymn Communion "h-329" %}}
 {{% he/postcommunion/eternal %}}
+##### pb
 {{% he/maundythursday/stripaltar %}}
 {{% nrsv %}}
-
