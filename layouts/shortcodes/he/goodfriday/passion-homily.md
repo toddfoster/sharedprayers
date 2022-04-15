@@ -54,9 +54,11 @@ Pilate said to them, "Take him yourselves and crucify him; I find no case agains
 
 **"We have a law, and according to that law he ought to die because he has claimed to be the Son of God."**
 
+Now when Pilate heard this, he was more afraid than ever. He entered his headquarters again and asked Jesus, "Where are you from?" But Jesus gave him no answer. Pilate therefore said to him, "Do you refuse to speak to me? Do you not know that I have power to release you, and power to crucify you?" Jesus answered him, "You would have no power over me unless it had been given you from above; therefore the one who handed me over to you is guilty of a greater sin." From then on Pilate tried to release him, but the Jews cried out,
 
+##### **People:**
 
-Now when Pilate heard this, he was more afraid than ever. He entered his headquarters again and asked Jesus, "Where are you from?" But Jesus gave him no answer. Pilate therefore said to him, "Do you refuse to speak to me? Do you not know that I have power to release you, and power to crucify you?" Jesus answered him, "You would have no power over me unless it had been given you from above; therefore the one who handed me over to you is guilty of a greater sin." From then on Pilate tried to release him, but the Jews cried out, "If you release this man, you are no friend of the emperor. Everyone who claims to be a king sets himself against the emperor."
+**"If you release this man, you are no friend of the emperor. Everyone who claims to be a king sets himself against the emperor."**
 
 When Pilate heard these words, he brought Jesus outside and sat on the judge's bench at a place called The Stone Pavement, or in Hebrew Gabbatha. Now it was the day of Preparation for the Passover; and it was about noon. He said to the Jews, "Here is your King!" They cried out,
 
