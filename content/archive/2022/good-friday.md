@@ -15,7 +15,7 @@ bcppage: 276ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn "L-31" %}}
+{{% hymn "Sequence" "L-31" %}}
 {{% he/goodfriday/passion-homily %}}
 
 ## We Respond in Faith
