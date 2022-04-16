@@ -1,18 +1,18 @@
 ##### The people stand as able.
 ### The Renewal of Baptismal Vows
-##### Officiant:
+##### Presider:
 Do you reaffirm your renunciation of evil and renew your commitment to Jesus Christ?
 
 ##### **People:**
 **I do.**
 
-##### Officiant:
+##### Presider:
 Do you believe in God the Father?
 
 ##### **People:**
 **I believe in God, the Father almighty, creator of heaven and earth.**
 
-##### Officiant:
+##### Presider:
 Do you believe in Jesus Christ, the Son of God?
 
 ##### **People:**
@@ -28,7 +28,7 @@ and is seated at the right hand of the Father.
 He will come again to judge the living and the dead.**
 
 
-##### Officiant:
+##### Presider:
 Do you believe in God the Holy Spirit?
 
 ##### **People:**
@@ -36,35 +36,35 @@ Do you believe in God the Holy Spirit?
 the communion of saints, the forgiveness of sins,
 the resurrection of the body, and the life everlasting.**
 
-##### Officiant:
+##### Presider:
 Will you continue in the apostles’ teaching and fellowship, in the breaking of bread, and in the prayers?
 
 ##### **People:**
 **I will, with God’s help.**
 
-##### Officiant:
+##### Presider:
 Will you persevere in resisting evil, and, whenever you fall into sin, repent and return to the Lord?
 
 ##### **People:**
 **I will, with God’s help.**
 
-##### Officiant:
+##### Presider:
 Will you proclaim by word and example the Good News of God in Christ?
 
 ##### **People:**
 **I will, with God’s help.**
 
-##### Officiant:
+##### Presider:
 Will you seek and serve Christ in all persons, loving your neighbor as yourself?
 
 ##### **People:**
 **I will, with God’s help.**
 
-##### Officiant:
+##### Presider:
 Will you strive for justice and peace among all people, and respect the dignity of every human being?
 
 ##### **People:**
 **I will, with God’s help.**
 
-##### Officiant:
+##### Presider:
 May Almighty God, the Father of our Lord Jesus Christ, who has given us a new birth by water and the Holy Spirit, and bestowed upon us the forgiveness of sins, keep us in eternal life by his grace, in Christ Jesus our Lord. **Amen.**
