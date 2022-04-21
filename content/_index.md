@@ -28,6 +28,7 @@ title: Shared Prayers
 
 **Weekday Liturgies this month:**
 - [Holy Eucharist for Wednesday, 6 April, Feast of Martin Luther King, Jr., Pastor and Martyr](archive/2022/lff2018-martin-luther-king)
+- [Church in the Woods / Holy Eucharist for Thursday, 21 April, Thursday in Easter Week](archive/2022/churchinwoods20220421/)
 - [Holy Eucharist for Wednesday, 27 April, Feast of St. Mark the Evangelist](archive/2022/lff2018-saint-mark-the-evangelist/)
 - [Holy Eucharist for Wednesday, 4 May, Feast of Saint Philip and Saint James, Apostles](archive/2022/lff2018-apostles-saint-philip-and-saint-james/)
 
