@@ -17,7 +17,8 @@ bcppage: 355ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+#### Hymnal S-415
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-435" %}}
 {{% lesson "gospel" /%}}
@@ -48,4 +49,3 @@ bcppage: 355ff.
 {{% hymn Processional "h-193" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
-

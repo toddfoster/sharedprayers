@@ -1,6 +1,6 @@
 {{/* shortcodes/lesson.md */}}
 {{/* parameters: ordinal day/reference conclusion*/}}
-{{/* ordinal can be first|second|third|gospel|psalm */}}
+{{/* ordinal can be first|second|third|gospel|psalm|psalm-sac */}}
 {{/* reference can be blank (assume  $.Page.Params.proper) or the day code (e.g., proper-22) or else literal */}}
 {{/* TODO: specify track, use opinionated lectionary by default */}}
 {{ $DEBUG := false }}
@@ -12,9 +12,19 @@
 {{ if fileExists $filename }}
     {{ $prettyOrdinal = ( printf "layouts/shortcodes/readings/ordinal/%s" $ordinal ) | readFile | chomp | safeHTML }}
 {{ end}}
+
+{{/* third readings are from gospels */}}
 {{ $gospelheadings := (in $ordinal "ospel") }}
 {{ if in $ordinal "hird" }}
   {{ $ordinal = "gospel" }}
+{{ end }}
+
+{{/* psalms have different renderings */}}
+{{ $psalm_rendering := "responsively" }}
+{{ if (in $ordinal "alm-") }}
+    {{ $psalm_rendering = $ordinal | lower | replaceRE "^.*alm-" "" }}
+    {{ $ordinal = "psalm" }}
+    {{ if $DEBUG }}{{ printf "psalm_rendering = %s" $psalm_rendering }}{{ end }}
 {{ end }}
 
 {{/* Figure out day: argument (day spec or literal reference) or page parameter */}}
@@ -121,13 +131,13 @@ A reading from {{ $intro }}
 {{ else }}
 {{ if $reference }}
     {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
-    {{ $ref_slug := $filename | replaceRE "psalm" "" }}
-    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/responsively/%s" $ref_slug ) }}
+	{{ $ref_slug := $filename | replaceRE "psalm" "" }}
+    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
 	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-	{{ if not (fileExists $filepath) }}
+  	{{ if not (fileExists $filepath) }}
       {{ $filepath = printf "layouts/shortcodes/readings/lpn/%s" $filename }}
       {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-      {{ if not (fileExists $filepath) }}
+	  {{ if not (fileExists $filepath) }}
         {{ $filepath = printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
         {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
       {{ end }}
