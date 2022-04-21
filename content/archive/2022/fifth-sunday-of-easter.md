@@ -41,6 +41,6 @@ bcppage: 355ff.
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
 {{% hymn Processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 
