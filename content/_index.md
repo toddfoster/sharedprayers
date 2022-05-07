@@ -8,29 +8,16 @@ title: Shared Prayers
 
 
 **Sunday Liturgies for this month:**
-- [Holy Eucharist for Sunday, 3 April: The Fifth Sunday in Lent](archive/2022/fifth-sunday-in-lent/)
-- Holy Eucharist for Sunday, 10 April: The Sunday of the Passion:
-    - [Liturgy of the Palms](archive/2022/palm-sunday-liturgy-of-the-palms/)
-	- [Liturgy of the Word](archive/2022/palm-sunday-liturgy-of-the-word/)
-- [Holy Eucharist for Sunday, 17 April: The Sunday of the Resurrection, or Easter Day](archive/2022/easter-day-principal-service/)
-- [Holy Eucharist for Sunday, 24 April: The Second Sunday of Easter](archive/2022/second-sunday-of-easter/)
-- [Holy Eucharist for Sunday, 1 May: The Third Sunday of Easter](archive/2022/third-sunday-of-easter/)
-
-**Liturgies for Holy Week (11-16 April):**
-- [Holy Monday - Eucharist](archive/2022/monday-in-holy-week)
-- [Holy Tuesday - Eucharist](archive/2022/tuesday-in-holy-week)
-- [Holy Wednesday - Eucharist](archive/2022/wednesday-in-holy-week)
-- [Maundy Thursday](archive/2022/maundy-thursday)
-- [Good Friday](archive/2022/good-friday)
-- [Holy Saturday Prayer Office](archive/2022/holy-saturday)
-- [The Great Vigil of Easter](archive/2022/easter-day-the-great-vigil)
-- [Holy Eucharist for the Sunday of the Resurrection](archive/2022/easter-day-principal-service/)
+- [Holy Eucharist for Sunday, 8 May: The Fourth  Sunday of Easter](archive/2022/fourth-sunday-of-easter/)
+- [Holy Eucharist for Sunday, 15 May: The Fifth  Sunday of Easter](archive/2022/fifth-sunday-of-easter/)
+- [Holy Eucharist for Sunday, 22 May: The  Sixth Sunday of Easter](archive/2022/sixth-sunday-of-easter/)
+- [Holy Eucharist for Sunday, 29 May: The  Seventh Sunday of Easter](archive/2022/seventh-sunday-of-easter/)
 
 **Weekday Liturgies this month:**
-- [Holy Eucharist for Wednesday, 6 April, Feast of Martin Luther King, Jr., Pastor and Martyr](archive/2022/lff2018-martin-luther-king)
-- [Church in the Woods / Holy Eucharist for Thursday, 21 April, Thursday in Easter Week](archive/2022/churchinwoods20220421/)
-- [Holy Eucharist for Wednesday, 27 April, Feast of St. Mark the Evangelist](archive/2022/lff2018-saint-mark-the-evangelist/)
 - [Holy Eucharist for Wednesday, 4 May, Feast of Saint Philip and Saint James, Apostles](archive/2022/lff2018-apostles-saint-philip-and-saint-james/)
+- [Holy Eucharist for Wednesday, 11 May, Feast of Francis Perkins](archive/2022/lff2018-frances-perkins/)
+- [Holy Eucharist for Wednesday, 18 May, Feast of Thurgood Marshall](archive/2022/lff2018-thurgood-marshall/)
+- [Holy Eucharist for Wednesday, 25 May, Ascension Day](archive/2022/ascension-day/)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
