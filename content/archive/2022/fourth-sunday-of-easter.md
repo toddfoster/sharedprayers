@@ -19,9 +19,12 @@ bcppage: 355ff.
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+
+#### Hymnal 645
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-469" %}}
+
+### Sequence Anthem: _Wade in the Water_
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
