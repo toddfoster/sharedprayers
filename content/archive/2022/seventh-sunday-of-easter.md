@@ -13,7 +13,7 @@ bcppage: 355ff.
 {{% he/collect-purity %}}
 
 #### Hymnal S-280
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 

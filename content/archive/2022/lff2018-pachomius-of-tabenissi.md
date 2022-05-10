@@ -33,7 +33,7 @@ bcppage: 355ff.
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/epiphany-long %}}
+{{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

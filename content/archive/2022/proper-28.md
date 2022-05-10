@@ -1,6 +1,6 @@
 ---
 title: "Proper 28"
-date: 2022-11-20
+date: 2022-11-13
 lectionaryyear: c
 proper: proper-28
 rite: Holy Eucharist
@@ -10,6 +10,8 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+
+#### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -30,7 +32,9 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
+
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 

@@ -8,10 +8,10 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
-{{% hymn Entrance "h-425" %}}
+{{% hymn Entrance "l-52" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -36,7 +36,7 @@ bcppage: 355ff.
 {{% he/lordsprayer/1 %}}
 
 #### LEVAS 269
-{{% he/fraction/long %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God
@@ -44,7 +44,7 @@ bcppage: 355ff.
 {{% hymn Communion "L-120" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
-{{% hymn Processional %}}
+{{% hymn Processional "L-196" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 

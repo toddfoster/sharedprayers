@@ -20,7 +20,6 @@ proper: ascension-day
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
@@ -32,10 +31,8 @@ proper: ascension-day
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/epiphany-long %}}
-{{% hymn Processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/blessing/easter-short %}}
+{{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 

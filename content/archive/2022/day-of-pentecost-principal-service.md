@@ -8,17 +8,20 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
+{{% hymn Entrance "h-707" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
+
+#### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-516" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -28,18 +31,23 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-508" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
+
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-154
 {{% he/fraction/long %}}
 
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-510" %}}
+{{% hymn Communion "h-209" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/pentecost-long %}}
-{{% hymn Processional %}}
+{{% hymn Processional "H-293" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
