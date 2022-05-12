@@ -13,7 +13,7 @@ bcppage: 355ff.
 {{% he/collect-purity %}}
 
 #### Hymnal S-280
-{{% he/songofpraise/trishagion %}}
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -49,4 +49,3 @@ bcppage: 355ff.
 {{% hymn Processional "h-482" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
-
