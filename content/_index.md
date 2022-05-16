@@ -14,6 +14,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 22 May: The  Sixth Sunday of Easter](archive/2022/sixth-sunday-of-easter/)
 - [Evening Prayer for Saturday, 28 May: The  Seventh Sunday of Easter](archive/2022/ep-seventh-sunday-of-easter/)
 - [Holy Eucharist for Sunday, 29 May: The  Seventh Sunday of Easter](archive/2022/seventh-sunday-of-easter/)
+- [Evening Prayer for Saturday, 4 June: The  Day of Pentecost](archive/2022/ep-pentecost/)
 - [Holy Eucharist for Sunday, 5 June: The Day of Pentecost](archive/2022/day-of-pentecost-principal-service/)
 
 **Weekday Liturgies this month:**
