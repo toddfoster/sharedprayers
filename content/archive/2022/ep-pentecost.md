@@ -15,7 +15,7 @@ weekday: sunday
 {{% office/gloriapatri %}}
 
 ## The Lessons
-{{% lesson "first" /%}}
+{{% lesson "first" "Acts 2" /%}}
 
 ##### Silence may be kept.
 ##### The People stand as able.

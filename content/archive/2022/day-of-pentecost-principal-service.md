@@ -18,7 +18,7 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% lesson "first" /%}}
+{{% lesson "first" "Acts 2" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-516" %}}
@@ -50,4 +50,3 @@ bcppage: 355ff.
 {{% hymn Processional "H-293" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
