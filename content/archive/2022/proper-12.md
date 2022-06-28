@@ -21,7 +21,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-69" %}}
+{{% hymn Sequence "l-192" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
