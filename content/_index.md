@@ -11,7 +11,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 3 July: Proper 9](archive/2022/proper-9/)
 - [Evening Prayer for Sunday, 9 July: Proper 10](archive/2022/proper-10-a/)
 - [Holy Eucharist for Sunday, 10 July: Proper 10](archive/2022/proper-10/)
-- [Evening Prayer for Sunday, 6 July: Proper 11](archive/2022/proper-11-a/)
+- [Evening Prayer for Sunday, 16 July: Proper 11](archive/2022/proper-11-a/)
 - [Holy Eucharist for Sunday, 17 July: Proper 11](archive/2022/proper-11/)
 - [Evening Prayer for Sunday, 23 July: Proper 12](archive/2022/proper-12-a/)
 - [Holy Eucharist for Sunday, 24 July: Proper 12](archive/2022/proper-12/)
