@@ -1,8 +1,10 @@
 ---
-title: "Paul Jones, Bishop, 1941"
+title: "Holy Eucharist for Paul Jones, Bishop, 1941"
 date: 2022-09-04
 lectionaryyear: c
 proper: lff2018-paul-jones
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

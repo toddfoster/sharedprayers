@@ -1,8 +1,10 @@
 ---
-title: "Jeremy Taylor, Bishop and Theologian, 1667"
+title: "Holy Eucharist for Jeremy Taylor, Bishop and Theologian, 1667"
 date: 2022-08-13
 lectionaryyear: c
 proper: lff2018-jeremy-taylor
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

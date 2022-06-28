@@ -1,8 +1,10 @@
 ---
-title: "Irenaeus of Lyons, Bishop and Theologian, c.202"
+title: "Holy Eucharist for Irenaeus of Lyons, Bishop and Theologian, c.202"
 date: 2022-06-28
 lectionaryyear: c
 proper: lff2018-irenaeus-of-lyons
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

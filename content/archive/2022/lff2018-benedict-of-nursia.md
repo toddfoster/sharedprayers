@@ -1,8 +1,10 @@
 ---
-title: "Benedict of Nursia, Monastic, c.543"
+title: "Holy Eucharist for Benedict of Nursia, Monastic, c.543"
 date: 2022-07-11
 lectionaryyear: c
 proper: lff2018-benedict-of-nursia
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

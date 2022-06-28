@@ -1,8 +1,10 @@
 ---
-title: "Ignatius of Antioch, Bishop and Martyr, c.115"
+title: "Holy Eucharist for Ignatius of Antioch, Bishop and Martyr, c.115"
 date: 2022-10-17
 lectionaryyear: c
 proper: lff2018-ignatius-of-antioch
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Laurence of Rome, Deacon and Martyr, 258"
+title: "Holy Eucharist for Laurence of Rome, Deacon and Martyr, 258"
 date: 2022-08-10
 lectionaryyear: c
 proper: lff2018-laurence-of-rome
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

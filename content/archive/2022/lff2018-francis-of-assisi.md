@@ -1,8 +1,10 @@
 ---
-title: "Francis of Assisi, Friar and Deacon, 1226"
+title: "Holy Eucharist for Francis of Assisi, Friar and Deacon, 1226"
 date: 2022-10-04
 lectionaryyear: c
 proper: lff2018-francis-of-assisi
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "[Thecla of Iconium], Proto-Martyr Among Women, c.70"
+title: "Holy Eucharist for [Thecla of Iconium], Proto-Martyr Among Women, c.70"
 date: 2022-09-23
 lectionaryyear: c
 proper: lff2018-thecla-of-iconium
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

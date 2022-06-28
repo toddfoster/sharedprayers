@@ -1,8 +1,10 @@
 ---
-title: "Saint Mary Magdalene"
+title: "Holy Eucharist for Saint Mary Magdalene"
 date: 2022-07-22
 lectionaryyear: c
 proper: lff2018-saint-mary-magdalene
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

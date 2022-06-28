@@ -1,8 +1,10 @@
 ---
-title: "Saint Matthew, Apostle and Evangelist"
+title: "Holy Eucharist for Saint Matthew, Apostle and Evangelist"
 date: 2022-09-21
 lectionaryyear: c
 proper: lff2018-saint-matthew
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

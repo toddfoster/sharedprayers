@@ -1,8 +1,10 @@
 ---
-title: "[Euphrosyne/Smaragdus of Alexandria], Monastic, fifth century"
+title: "Holy Eucharist for [Euphrosyne/Smaragdus of Alexandria], Monastic, fifth century"
 date: 2022-09-27
 lectionaryyear: c
 proper: lff2018-euphrosyne
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

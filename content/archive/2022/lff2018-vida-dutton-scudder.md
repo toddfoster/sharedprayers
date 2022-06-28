@@ -1,8 +1,10 @@
 ---
-title: "Vida Dutton Scudder, Educator, 1954"
+title: "Holy Eucharist for Vida Dutton Scudder, Educator, 1954"
 date: 2022-10-10
 lectionaryyear: c
 proper: lff2018-vida-dutton-scudder
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

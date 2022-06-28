@@ -1,8 +1,10 @@
 ---
-title: "Margaret of Scotland, Queen, 1093"
+title: "Holy Eucharist for Margaret of Scotland, Queen, 1093"
 date: 2022-11-16
 lectionaryyear: c
 proper: lff2018-margaret-of-scotland
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

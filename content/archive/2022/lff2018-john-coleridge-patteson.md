@@ -1,8 +1,10 @@
 ---
-title: "John Coleridge Patteson, Bishop, and his companions, Martyrs, 1871"
+title: "Holy Eucharist for John Coleridge Patteson, Bishop, and his companions, Martyrs, 1871"
 date: 2022-09-20
 lectionaryyear: c
 proper: lff2018-john-coleridge-patteson
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

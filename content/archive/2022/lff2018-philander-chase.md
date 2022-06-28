@@ -1,8 +1,10 @@
 ---
-title: "Philander Chase, Bishop, 1852"
+title: "Holy Eucharist for Philander Chase, Bishop, 1852"
 date: 2022-09-22
 lectionaryyear: c
 proper: lff2018-philander-chase
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

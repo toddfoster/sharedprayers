@@ -1,8 +1,10 @@
 ---
-title: "Martin of Tours, Bishop, 397"
+title: "Holy Eucharist for Martin of Tours, Bishop, 397"
 date: 2022-11-11
 lectionaryyear: c
 proper: lff2018-martin-of-tours
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

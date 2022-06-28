@@ -1,8 +1,10 @@
 ---
-title: "[Eva Lee Matthews], Monastic, 1928"
+title: "Holy Eucharist for [Eva Lee Matthews], Monastic, 1928"
 date: 2022-07-06
 lectionaryyear: c
 proper: lff2018-eva-lee-matthews
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

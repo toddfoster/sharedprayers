@@ -1,8 +1,10 @@
 ---
-title: "[Priscilla and Aquila], Coworkers of the Apostle Paul"
+title: "Holy Eucharist for [Priscilla and Aquila], Coworkers of the Apostle Paul"
 date: 2022-07-08
 lectionaryyear: c
 proper: lff2018-priscilla
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

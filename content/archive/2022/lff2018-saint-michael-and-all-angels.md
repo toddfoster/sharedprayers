@@ -1,8 +1,10 @@
 ---
-title: "Saint Michael and All Angels"
+title: "Holy Eucharist for Saint Michael and All Angels"
 date: 2022-09-29
 lectionaryyear: c
 proper: lff2018-saint-michael-and-all-angels
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

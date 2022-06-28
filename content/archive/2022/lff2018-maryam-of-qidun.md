@@ -1,8 +1,10 @@
 ---
-title: "[Maryam of Qidun], Monastic, fourth century"
+title: "Holy Eucharist for [Maryam of Qidun], Monastic, fourth century"
 date: 2022-10-30
 lectionaryyear: c
 proper: lff2018-maryam-of-qidun
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

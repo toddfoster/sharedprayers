@@ -1,8 +1,10 @@
 ---
-title: "Teresa of Avila, Mystic and Monastic Reformer, 1582"
+title: "Holy Eucharist for Teresa of Avila, Mystic and Monastic Reformer, 1582"
 date: 2022-10-15
 lectionaryyear: c
 proper: lff2018-teresa-of-avila
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "All Saints"
+title: "Holy Eucharist for All Saints"
 date: 2022-11-01
 lectionaryyear: c
 proper: lff2018-all-saints
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

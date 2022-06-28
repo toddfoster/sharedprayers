@@ -1,8 +1,10 @@
 ---
-title: "Independence Day (United States)"
+title: "Holy Eucharist for Independence Day (United States)"
 date: 2022-07-04
 lectionaryyear: c
 proper: lff2018-independence-day
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

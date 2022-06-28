@@ -1,8 +1,10 @@
 ---
-title: "The Transfiguration of Our Lord Jesus Christ"
+title: "Holy Eucharist for The Transfiguration of Our Lord Jesus Christ"
 date: 2022-08-06
 lectionaryyear: c
 proper: lff2018-transfiguration
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

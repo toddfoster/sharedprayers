@@ -1,8 +1,10 @@
 ---
-title: "[John Cassian], Monastic and Theologian, 435"
+title: "Holy Eucharist for [John Cassian], Monastic and Theologian, 435"
 date: 2022-07-23
 lectionaryyear: c
 proper: lff2018-john-cassian
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

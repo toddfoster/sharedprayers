@@ -1,8 +1,10 @@
 ---
-title: "[Herman of Alaska], Missionary, 1837"
+title: "Holy Eucharist for [Herman of Alaska], Missionary, 1837"
 date: 2022-11-15
 lectionaryyear: c
 proper: lff2018-herman-of-alaska
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

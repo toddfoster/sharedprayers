@@ -1,8 +1,10 @@
 ---
-title: "[Margaret Ward, Margaret Clitherow, and Anne Line], Martyrs, 1588, 1586, and 1601"
+title: "Holy Eucharist for [Margaret Ward, Margaret Clitherow, and Anne Line], Martyrs, 1588, 1586, and 1601"
 date: 2022-08-30
 lectionaryyear: c
 proper: lff2018-margaret-ward
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

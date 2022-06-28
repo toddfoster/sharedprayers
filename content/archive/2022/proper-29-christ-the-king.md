@@ -1,8 +1,10 @@
 ---
-title: "The Last Sunday after Pentecost"
+title: "Holy Eucharist for The Last Sunday after Pentecost"
 date: 2022-11-20
 lectionaryyear: c
 proper: proper-29-christ-the-king
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

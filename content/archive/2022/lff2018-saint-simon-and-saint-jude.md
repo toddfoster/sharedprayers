@@ -1,8 +1,10 @@
 ---
-title: "Saint Simon and Saint Jude, Apostles"
+title: "Holy Eucharist for Saint Simon and Saint Jude, Apostles"
 date: 2022-10-28
 lectionaryyear: c
 proper: lff2018-saint-simon-and-saint-jude
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

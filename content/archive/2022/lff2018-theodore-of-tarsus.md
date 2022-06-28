@@ -1,8 +1,10 @@
 ---
-title: "Theodore of Tarsus, Archbishop of Canterbury, 690"
+title: "Holy Eucharist for Theodore of Tarsus, Archbishop of Canterbury, 690"
 date: 2022-09-19
 lectionaryyear: c
 proper: lff2018-theodore-of-tarsus
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

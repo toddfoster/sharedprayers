@@ -1,8 +1,10 @@
 ---
-title: "[Thérèse of Lisieux], Monastic, 1897"
+title: "Holy Eucharist for [Thérèse of Lisieux], Monastic, 1897"
 date: 2022-10-01
 lectionaryyear: c
 proper: lff2018-therese-of-lisieux
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

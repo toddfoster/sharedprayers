@@ -1,8 +1,10 @@
 ---
-title: "Proper 22"
+title: "Holy Eucharist for Proper 22"
 date: 2022-10-02
 lectionaryyear: c
 proper: proper-22
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

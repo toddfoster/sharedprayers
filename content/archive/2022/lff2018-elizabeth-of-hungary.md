@@ -1,8 +1,10 @@
 ---
-title: "Elizabeth of Hungary, Princess, 1231"
+title: "Holy Eucharist for Elizabeth of Hungary, Princess, 1231"
 date: 2022-11-19
 lectionaryyear: c
 proper: lff2018-elizabeth-of-hungary
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

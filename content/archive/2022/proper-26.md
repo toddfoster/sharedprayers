@@ -1,8 +1,10 @@
 ---
-title: "Proper 26"
+title: "Holy Eucharist for Proper 26"
 date: 2022-10-30
 lectionaryyear: c
 proper: proper-26
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Sergius of Radonezh, Monastic, 1392"
+title: "Holy Eucharist for Sergius of Radonezh, Monastic, 1392"
 date: 2022-09-25
 lectionaryyear: c
 proper: lff2018-sergius-of-radonezh
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

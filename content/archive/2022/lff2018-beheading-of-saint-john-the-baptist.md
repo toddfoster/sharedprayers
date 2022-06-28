@@ -1,8 +1,10 @@
 ---
-title: "[The Beheading of Saint John the Baptist]"
+title: "Holy Eucharist for [The Beheading of Saint John the Baptist]"
 date: 2022-08-29
 lectionaryyear: c
 proper: lff2018-beheading-of-saint-john-the-baptist
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

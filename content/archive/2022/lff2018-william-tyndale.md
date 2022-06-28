@@ -1,8 +1,10 @@
 ---
-title: "William Tyndale, Priest, 1536"
+title: "Holy Eucharist for William Tyndale, Priest, 1536"
 date: 2022-10-06
 lectionaryyear: c
 proper: lff2018-william-tyndale
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

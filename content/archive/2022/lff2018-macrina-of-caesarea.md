@@ -1,8 +1,10 @@
 ---
-title: "Macrina of Caesarea, Monastic and Teacher, 379"
+title: "Holy Eucharist for Macrina of Caesarea, Monastic and Teacher, 379"
 date: 2022-07-19
 lectionaryyear: c
 proper: lff2018-macrina-of-caesarea
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

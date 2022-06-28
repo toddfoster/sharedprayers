@@ -1,8 +1,10 @@
 ---
-title: "All Souls/All the Faithful Departed"
+title: "Holy Eucharist for All Souls/All the Faithful Departed"
 date: 2022-11-02
 lectionaryyear: c
 proper: lff2018-all-souls
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

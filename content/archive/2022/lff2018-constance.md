@@ -1,8 +1,10 @@
 ---
-title: "Constance, Thecla, Ruth, Frances, Charles Parsons, and Louis Schuyler, Martyrs, 1878"
+title: "Holy Eucharist for Constance, Thecla, Ruth, Frances, Charles Parsons, and Louis Schuyler, Martyrs, 1878"
 date: 2022-09-09
 lectionaryyear: c
 proper: lff2018-constance
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

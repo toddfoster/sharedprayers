@@ -1,8 +1,10 @@
 ---
-title: "Clement of Rome, Bishop, c.100"
+title: "Holy Eucharist for Clement of Rome, Bishop, c.100"
 date: 2022-11-23
 lectionaryyear: c
 proper: lff2018-clement-of-rome
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

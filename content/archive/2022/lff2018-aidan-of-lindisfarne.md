@@ -1,8 +1,10 @@
 ---
-title: "Aidan of Lindisfarne, Bishop, 651"
+title: "Holy Eucharist for Aidan of Lindisfarne, Bishop, 651"
 date: 2022-08-31
 lectionaryyear: c
 proper: lff2018-aidan-of-lindisfarne
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Ignatius of Loyola, Priest and Spiritual Writer, 1556"
+title: "Holy Eucharist for Ignatius of Loyola, Priest and Spiritual Writer, 1556"
 date: 2022-07-31
 lectionaryyear: c
 proper: lff2018-ignatius-of-loyola
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

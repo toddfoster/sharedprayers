@@ -1,8 +1,10 @@
 ---
-title: "James Otis Sargent Huntington, Monastic and Priest, 1935"
+title: "Holy Eucharist for James Otis Sargent Huntington, Monastic and Priest, 1935"
 date: 2022-11-25
 lectionaryyear: c
 proper: lff2018-james-otis-sargent-huntington
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

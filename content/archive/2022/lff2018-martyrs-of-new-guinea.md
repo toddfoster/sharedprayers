@@ -1,8 +1,10 @@
 ---
-title: "The Martyrs of New Guinea, 1942"
+title: "Holy Eucharist for The Martyrs of New Guinea, 1942"
 date: 2022-09-02
 lectionaryyear: c
 proper: lff2018-martyrs-of-new-guinea
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

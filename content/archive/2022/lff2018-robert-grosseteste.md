@@ -1,8 +1,10 @@
 ---
-title: "Robert Grosseteste, Bishop, 1253"
+title: "Holy Eucharist for Robert Grosseteste, Bishop, 1253"
 date: 2022-10-09
 lectionaryyear: c
 proper: lff2018-robert-grosseteste
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

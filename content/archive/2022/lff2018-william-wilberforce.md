@@ -1,8 +1,10 @@
 ---
-title: "William Wilberforce, Social Reformer, 1833"
+title: "Holy Eucharist for William Wilberforce, Social Reformer, 1833"
 date: 2022-07-30
 lectionaryyear: c
 proper: lff2018-william-wilberforce
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

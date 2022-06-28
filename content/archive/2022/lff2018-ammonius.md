@@ -1,8 +1,10 @@
 ---
-title: "[Ammonius], Hermit, c.403"
+title: "Holy Eucharist for [Ammonius], Hermit, c.403"
 date: 2022-11-08
 lectionaryyear: c
 proper: lff2018-ammonius
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

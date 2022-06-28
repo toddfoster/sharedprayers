@@ -1,8 +1,10 @@
 ---
-title: "[Mechthilde of Hackeborn and Gertrude the Great], Mystics and Theologians, 1298 and 1302"
+title: "Holy Eucharist for [Mechthilde of Hackeborn and Gertrude the Great], Mystics and Theologians, 1298 and 1302"
 date: 2022-11-21
 lectionaryyear: c
 proper: lff2018-mechthilde-of-hackeborn
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

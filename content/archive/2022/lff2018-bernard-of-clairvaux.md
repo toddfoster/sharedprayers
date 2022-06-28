@@ -1,8 +1,10 @@
 ---
-title: "Bernard of Clairvaux, Monastic and Theologian, 1153"
+title: "Holy Eucharist for Bernard of Clairvaux, Monastic and Theologian, 1153"
 date: 2022-08-20
 lectionaryyear: c
 proper: lff2018-bernard-of-clairvaux
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

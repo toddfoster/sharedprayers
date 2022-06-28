@@ -1,8 +1,10 @@
 ---
-title: "David Pendleton Oakerhater, Deacon, 1931"
+title: "Holy Eucharist for David Pendleton Oakerhater, Deacon, 1931"
 date: 2022-09-01
 lectionaryyear: c
 proper: lff2018-david-pendleton-oakerhater
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

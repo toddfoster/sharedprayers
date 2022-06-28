@@ -1,8 +1,10 @@
 ---
-title: "Hugh Latimer and Nicholas Ridley, Bishops and Martyrs, 1555, and Thomas Cranmer, Archbishop of Canterbury, 1556"
+title: "Holy Eucharist for Hugh Latimer and Nicholas Ridley, Bishops and Martyrs, 1555, and Thomas Cranmer, Archbishop of Canterbury, 1556"
 date: 2022-10-16
 lectionaryyear: c
 proper: lff2018-hugh-latimer
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

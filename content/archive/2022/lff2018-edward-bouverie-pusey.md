@@ -1,8 +1,10 @@
 ---
-title: "Edward Bouverie Pusey, Priest, 1882"
+title: "Holy Eucharist for Edward Bouverie Pusey, Priest, 1882"
 date: 2022-09-18
 lectionaryyear: c
 proper: lff2018-edward-bouverie-pusey
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

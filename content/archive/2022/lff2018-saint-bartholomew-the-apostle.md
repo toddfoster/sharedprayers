@@ -1,8 +1,10 @@
 ---
-title: "Saint Bartholomew the Apostle"
+title: "Holy Eucharist for Saint Bartholomew the Apostle"
 date: 2022-08-24
 lectionaryyear: c
 proper: lff2018-saint-bartholomew-the-apostle
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

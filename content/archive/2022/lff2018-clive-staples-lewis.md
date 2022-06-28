@@ -1,8 +1,10 @@
 ---
-title: "Clive Staples Lewis, Apologist and Spiritual Writer, 1963"
+title: "Holy Eucharist for Clive Staples Lewis, Apologist and Spiritual Writer, 1963"
 date: 2022-11-22
 lectionaryyear: c
 proper: lff2018-clive-staples-lewis
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

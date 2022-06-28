@@ -1,8 +1,10 @@
 ---
-title: "[Edith Stein (Teresa Benedicta of the Cross)], Philosopher, Monastic, and Martyr, 1942"
+title: "Holy Eucharist for [Edith Stein (Teresa Benedicta of the Cross)], Philosopher, Monastic, and Martyr, 1942"
 date: 2022-08-09
 lectionaryyear: c
 proper: lff2018-edith-stein
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

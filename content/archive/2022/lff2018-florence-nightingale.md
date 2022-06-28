@@ -1,8 +1,10 @@
 ---
-title: "Florence Nightingale, Nurse, 1910"
+title: "Holy Eucharist for Florence Nightingale, Nurse, 1910"
 date: 2022-08-12
 lectionaryyear: c
 proper: lff2018-florence-nightingale
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

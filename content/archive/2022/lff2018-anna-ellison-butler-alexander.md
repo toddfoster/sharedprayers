@@ -1,8 +1,10 @@
 ---
-title: "[Anna Ellison Butler Alexander], Deaconess and Teacher, 1947"
+title: "Holy Eucharist for [Anna Ellison Butler Alexander], Deaconess and Teacher, 1947"
 date: 2022-09-24
 lectionaryyear: c
 proper: lff2018-anna-ellison-butler-alexander
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

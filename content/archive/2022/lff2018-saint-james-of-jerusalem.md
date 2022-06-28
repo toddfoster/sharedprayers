@@ -1,8 +1,10 @@
 ---
-title: "Saint James of Jerusalem, Brother of Our Lord Jesus Christ"
+title: "Holy Eucharist for Saint James of Jerusalem, Brother of Our Lord Jesus Christ"
 date: 2022-10-23
 lectionaryyear: c
 proper: lff2018-saint-james-of-jerusalem
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "John Henry Hobart, Bishop, 1830"
+title: "Holy Eucharist for John Henry Hobart, Bishop, 1830"
 date: 2022-09-12
 lectionaryyear: c
 proper: lff2018-john-henry-hobart
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

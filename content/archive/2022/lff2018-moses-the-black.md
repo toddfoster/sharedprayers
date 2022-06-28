@@ -1,8 +1,10 @@
 ---
-title: "[Moses the Black], Monastic and Martyr, c.400"
+title: "Holy Eucharist for [Moses the Black], Monastic and Martyr, c.400"
 date: 2022-07-02
 lectionaryyear: c
 proper: lff2018-moses-the-black
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

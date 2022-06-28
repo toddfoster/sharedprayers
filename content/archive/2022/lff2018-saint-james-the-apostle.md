@@ -1,8 +1,10 @@
 ---
-title: "Saint James the Apostle"
+title: "Holy Eucharist for Saint James the Apostle"
 date: 2022-07-25
 lectionaryyear: c
 proper: lff2018-saint-james-the-apostle
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

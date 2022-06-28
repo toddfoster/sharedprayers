@@ -1,8 +1,10 @@
 ---
-title: "[Maria Skobtsova], Monastic and Martyr, 1945"
+title: "Holy Eucharist for [Maria Skobtsova], Monastic and Martyr, 1945"
 date: 2022-07-21
 lectionaryyear: c
 proper: lff2018-maria-skobtsova
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

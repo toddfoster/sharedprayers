@@ -1,8 +1,10 @@
 ---
-title: "Edmund, King, 870"
+title: "Holy Eucharist for Edmund, King, 870"
 date: 2022-11-20
 lectionaryyear: c
 proper: lff2018-edmund
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Saint Luke the Evangelist"
+title: "Holy Eucharist for Saint Luke the Evangelist"
 date: 2022-10-18
 lectionaryyear: c
 proper: lff2018-saint-luke-the-evangelist
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

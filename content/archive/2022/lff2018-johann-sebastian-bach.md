@@ -1,8 +1,10 @@
 ---
-title: "[Johann Sebastian Bach, Composer, 1750]"
+title: "Holy Eucharist for [Johann Sebastian Bach, Composer, 1750]"
 date: 2022-07-28
 lectionaryyear: c
 proper: lff2018-johann-sebastian-bach
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

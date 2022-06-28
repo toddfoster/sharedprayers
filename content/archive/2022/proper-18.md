@@ -1,18 +1,19 @@
 ---
-title: "Proper 18"
+title: "Holy Eucharist for Proper 18"
 date: 2022-09-04
 lectionaryyear: c
 proper: proper-18
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
+{{% hymn Entrance "l-106" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-
-#### Hymnal S-280
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/acapellachoice %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -20,31 +21,28 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "l-218" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/form4 %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
-
-#### Hymnal S-119
+{{% hymn Offertory "l-145" %}}
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional %}}
+{{% hymn Processional "l-196" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

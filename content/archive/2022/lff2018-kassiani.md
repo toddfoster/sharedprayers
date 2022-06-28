@@ -1,8 +1,10 @@
 ---
-title: "[Kassiani], Poet and Hymnographer, 865"
+title: "Holy Eucharist for [Kassiani], Poet and Hymnographer, 865"
 date: 2022-09-07
 lectionaryyear: c
 proper: lff2018-kassiani
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

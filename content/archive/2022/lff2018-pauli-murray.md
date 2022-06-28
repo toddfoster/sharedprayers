@@ -1,8 +1,10 @@
 ---
-title: "Pauli Murray, Priest, 1985"
+title: "Holy Eucharist for Pauli Murray, Priest, 1985"
 date: 2022-07-01
 lectionaryyear: c
 proper: lff2018-pauli-murray
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

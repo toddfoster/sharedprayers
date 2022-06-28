@@ -1,8 +1,10 @@
 ---
-title: "Alfred, King, 899"
+title: "Holy Eucharist for Alfred, King, 899"
 date: 2022-10-26
 lectionaryyear: c
 proper: lff2018-alfred
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

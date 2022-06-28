@@ -1,8 +1,10 @@
 ---
-title: "Hilda of Whitby, Abbess, 680"
+title: "Holy Eucharist for Hilda of Whitby, Abbess, 680"
 date: 2022-11-18
 lectionaryyear: c
 proper: lff2018-hilda-of-whitby
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Ninian, Bishop, c.430"
+title: "Holy Eucharist for Ninian, Bishop, c.430"
 date: 2022-09-16
 lectionaryyear: c
 proper: lff2018-ninian
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Lancelot Andrewes, Bishop, 1626"
+title: "Holy Eucharist for Lancelot Andrewes, Bishop, 1626"
 date: 2022-09-26
 lectionaryyear: c
 proper: lff2018-lancelot-andrewes
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

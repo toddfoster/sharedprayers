@@ -1,8 +1,10 @@
 ---
-title: "[Argula von Grumbach], Scholar and Church Reformer, c.1554"
+title: "Holy Eucharist for [Argula von Grumbach], Scholar and Church Reformer, c.1554"
 date: 2022-07-14
 lectionaryyear: c
 proper: lff2018-argula-von-grumbach
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

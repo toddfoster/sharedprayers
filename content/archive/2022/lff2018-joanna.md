@@ -1,8 +1,10 @@
 ---
-title: "[Joanna, Mary, and Salome], Myrrh-Bearing Women"
+title: "Holy Eucharist for [Joanna, Mary, and Salome], Myrrh-Bearing Women"
 date: 2022-08-03
 lectionaryyear: c
 proper: lff2018-joanna
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

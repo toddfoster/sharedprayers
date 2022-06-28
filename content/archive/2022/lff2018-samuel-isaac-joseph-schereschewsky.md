@@ -1,8 +1,10 @@
 ---
-title: "Samuel Isaac Joseph Schereschewsky, Bishop and Missionary, 1906"
+title: "Holy Eucharist for Samuel Isaac Joseph Schereschewsky, Bishop and Missionary, 1906"
 date: 2022-10-14
 lectionaryyear: c
 proper: lff2018-samuel-isaac-joseph-schereschewsky
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

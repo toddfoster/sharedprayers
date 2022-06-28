@@ -1,8 +1,10 @@
 ---
-title: "Joseph of Arimathea"
+title: "Holy Eucharist for Joseph of Arimathea"
 date: 2022-08-01
 lectionaryyear: c
 proper: lff2018-joseph-of-arimathea
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

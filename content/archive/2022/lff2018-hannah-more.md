@@ -1,8 +1,10 @@
 ---
-title: "[Hannah More], Religious Writer and Philanthropist, 1833"
+title: "Holy Eucharist for [Hannah More], Religious Writer and Philanthropist, 1833"
 date: 2022-09-06
 lectionaryyear: c
 proper: lff2018-hannah-more
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

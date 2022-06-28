@@ -1,8 +1,10 @@
 ---
-title: "Leo of Rome, Bishop, 461"
+title: "Holy Eucharist for Leo of Rome, Bishop, 461"
 date: 2022-11-10
 lectionaryyear: c
 proper: lff2018-leo-of-rome
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

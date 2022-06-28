@@ -1,8 +1,10 @@
 ---
-title: "[Katharina Zell], Church Reformer and Writer, 1562"
+title: "Holy Eucharist for [Katharina Zell], Church Reformer and Writer, 1562"
 date: 2022-09-05
 lectionaryyear: c
 proper: lff2018-katharina-zell
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

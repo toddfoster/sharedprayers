@@ -1,8 +1,10 @@
 ---
-title: "The Parents of the Blessed Virgin Mary"
+title: "Holy Eucharist for The Parents of the Blessed Virgin Mary"
 date: 2022-07-26
 lectionaryyear: c
 proper: lff2018-parents-of-the-blessed-virgin-mary
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

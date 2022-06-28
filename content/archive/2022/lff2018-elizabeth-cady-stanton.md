@@ -1,8 +1,10 @@
 ---
-title: "Elizabeth Cady Stanton, 1902, Amelia Bloomer, 1894, Sojourner Truth, 1883, and Harriet Ross Tubman, 1913, Social Reformers"
+title: "Holy Eucharist for Elizabeth Cady Stanton, 1902, Amelia Bloomer, 1894, Sojourner Truth, 1883, and Harriet Ross Tubman, 1913, Social Reformers"
 date: 2022-07-20
 lectionaryyear: c
 proper: lff2018-elizabeth-cady-stanton
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

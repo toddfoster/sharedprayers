@@ -1,8 +1,10 @@
 ---
-title: "Henry Martyn, Priest and Missionary, 1812"
+title: "Holy Eucharist for Henry Martyn, Priest and Missionary, 1812"
 date: 2022-10-19
 lectionaryyear: c
 proper: lff2018-henry-martyn
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Augustine of Hippo, Bishop and Theologian, 430"
+title: "Holy Eucharist for Augustine of Hippo, Bishop and Theologian, 430"
 date: 2022-08-28
 lectionaryyear: c
 proper: lff2018-augustine-of-hippo
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

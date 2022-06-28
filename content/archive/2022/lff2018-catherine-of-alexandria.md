@@ -1,8 +1,10 @@
 ---
-title: "[Catherine of Alexandria, Barbara of Nicomedia, and Margaret of Antioch], Martyrs, c.305"
+title: "Holy Eucharist for [Catherine of Alexandria, Barbara of Nicomedia, and Margaret of Antioch], Martyrs, c.305"
 date: 2022-11-24
 lectionaryyear: c
 proper: lff2018-catherine-of-alexandria
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

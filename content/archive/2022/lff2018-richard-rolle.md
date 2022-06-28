@@ -1,8 +1,10 @@
 ---
-title: "[Richard Rolle, 1349, Walter Hilton, 1396, and Margery Kempe, c.1440], Mystics"
+title: "Holy Eucharist for [Richard Rolle, 1349, Walter Hilton, 1396, and Margery Kempe, c.1440], Mystics"
 date: 2022-11-09
 lectionaryyear: c
 proper: lff2018-richard-rolle
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

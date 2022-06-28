@@ -1,8 +1,10 @@
 ---
-title: "The Apostles Saint Peter and Saint Paul"
+title: "Holy Eucharist for The Apostles Saint Peter and Saint Paul"
 date: 2022-06-29
 lectionaryyear: c
 proper: lff2018-apostles-saint-peter-and-saint-paul
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

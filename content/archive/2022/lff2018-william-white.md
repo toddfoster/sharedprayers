@@ -1,8 +1,10 @@
 ---
-title: "William White, Bishop, 1836"
+title: "Holy Eucharist for William White, Bishop, 1836"
 date: 2022-07-17
 lectionaryyear: c
 proper: lff2018-william-white
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

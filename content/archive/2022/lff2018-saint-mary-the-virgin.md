@@ -1,8 +1,10 @@
 ---
-title: "Saint Mary the Virgin, Mother of Our Lord Jesus Christ"
+title: "Holy Eucharist for Saint Mary the Virgin, Mother of Our Lord Jesus Christ"
 date: 2022-08-15
 lectionaryyear: c
 proper: lff2018-saint-mary-the-virgin
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

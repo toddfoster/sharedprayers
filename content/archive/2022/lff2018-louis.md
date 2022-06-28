@@ -1,8 +1,10 @@
 ---
-title: "Louis, King, 1270"
+title: "Holy Eucharist for Louis, King, 1270"
 date: 2022-08-25
 lectionaryyear: c
 proper: lff2018-louis
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Thanksgiving Day"
+title: "Holy Eucharist for Thanksgiving Day"
 date: 2022-11-24
 lectionaryyear: c
 proper: thanksgiving-day
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Cyprian of Carthage, Bishop and Martyr, 258"
+title: "Holy Eucharist for Cyprian of Carthage, Bishop and Martyr, 258"
 date: 2022-09-13
 lectionaryyear: c
 proper: lff2018-cyprian-of-carthage
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

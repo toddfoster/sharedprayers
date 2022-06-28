@@ -1,8 +1,10 @@
 ---
-title: "Willibrord, Bishop and Missionary, 739"
+title: "Holy Eucharist for Willibrord, Bishop and Missionary, 739"
 date: 2022-11-07
 lectionaryyear: c
 proper: lff2018-willibrord
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

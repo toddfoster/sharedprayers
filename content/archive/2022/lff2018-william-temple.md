@@ -1,8 +1,10 @@
 ---
-title: "William Temple, Archbishop of Canterbury, 1944"
+title: "Holy Eucharist for William Temple, Archbishop of Canterbury, 1944"
 date: 2022-11-06
 lectionaryyear: c
 proper: lff2018-william-temple
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

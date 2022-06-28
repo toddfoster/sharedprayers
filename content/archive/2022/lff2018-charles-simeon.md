@@ -1,8 +1,10 @@
 ---
-title: "Charles Simeon, Priest, 1836"
+title: "Holy Eucharist for Charles Simeon, Priest, 1836"
 date: 2022-11-12
 lectionaryyear: c
 proper: lff2018-charles-simeon
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

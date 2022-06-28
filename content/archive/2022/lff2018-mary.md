@@ -1,8 +1,10 @@
 ---
-title: "Mary and Martha of Bethany"
+title: "Holy Eucharist for Mary and Martha of Bethany"
 date: 2022-07-29
 lectionaryyear: c
 proper: lff2018-mary
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

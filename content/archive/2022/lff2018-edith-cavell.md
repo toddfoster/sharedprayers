@@ -1,8 +1,10 @@
 ---
-title: "[Edith Cavell], Nurse, 1915"
+title: "Holy Eucharist for [Edith Cavell], Nurse, 1915"
 date: 2022-10-12
 lectionaryyear: c
 proper: lff2018-edith-cavell
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

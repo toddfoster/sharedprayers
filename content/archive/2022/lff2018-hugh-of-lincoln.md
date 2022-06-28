@@ -1,8 +1,10 @@
 ---
-title: "Hugh of Lincoln, Bishop, 1200"
+title: "Holy Eucharist for Hugh of Lincoln, Bishop, 1200"
 date: 2022-11-17
 lectionaryyear: c
 proper: lff2018-hugh-of-lincoln
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

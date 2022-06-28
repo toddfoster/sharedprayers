@@ -1,8 +1,10 @@
 ---
-title: "[Catherine of Genoa], Mystic and Nurse, 1510"
+title: "Holy Eucharist for [Catherine of Genoa], Mystic and Nurse, 1510"
 date: 2022-09-15
 lectionaryyear: c
 proper: lff2018-catherine-of-genoa
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

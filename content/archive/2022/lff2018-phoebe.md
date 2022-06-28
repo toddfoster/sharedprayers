@@ -1,8 +1,10 @@
 ---
-title: "[Phoebe], Deacon"
+title: "Holy Eucharist for [Phoebe], Deacon"
 date: 2022-09-03
 lectionaryyear: c
 proper: lff2018-phoebe
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

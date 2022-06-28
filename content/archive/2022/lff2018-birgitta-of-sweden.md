@@ -1,8 +1,10 @@
 ---
-title: "[Birgitta of Sweden], Mystic, 1373"
+title: "Holy Eucharist for [Birgitta of Sweden], Mystic, 1373"
 date: 2022-10-07
 lectionaryyear: c
 proper: lff2018-birgitta-of-sweden
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

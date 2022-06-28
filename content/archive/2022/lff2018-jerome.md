@@ -1,8 +1,10 @@
 ---
-title: "Jerome, Priest and Scholar, 420"
+title: "Holy Eucharist for Jerome, Priest and Scholar, 420"
 date: 2022-09-30
 lectionaryyear: c
 proper: lff2018-jerome
+season: pentecost
+weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

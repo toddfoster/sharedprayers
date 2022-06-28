@@ -1,8 +1,10 @@
 ---
-title: "Hildegard of Bingen, Mystic and Scholar, 1179"
+title: "Holy Eucharist for Hildegard of Bingen, Mystic and Scholar, 1179"
 date: 2022-09-17
 lectionaryyear: c
 proper: lff2018-hildegard-of-bingen
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

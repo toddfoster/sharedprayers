@@ -1,8 +1,10 @@
 ---
-title: "John Mason Neale, Priest and Hymnographer, 1866"
+title: "Holy Eucharist for John Mason Neale, Priest and Hymnographer, 1866"
 date: 2022-08-07
 lectionaryyear: c
 proper: lff2018-john-mason-neale
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

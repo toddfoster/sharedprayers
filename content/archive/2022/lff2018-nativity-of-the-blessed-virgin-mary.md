@@ -1,8 +1,10 @@
 ---
-title: "[The Nativity of the Blessed Virgin Mary]"
+title: "Holy Eucharist for [The Nativity of the Blessed Virgin Mary]"
 date: 2022-09-08
 lectionaryyear: c
 proper: lff2018-nativity-of-the-blessed-virgin-mary
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

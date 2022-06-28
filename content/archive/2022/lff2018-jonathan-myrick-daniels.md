@@ -1,8 +1,10 @@
 ---
-title: "Jonathan Myrick Daniels, Martyr, 1965"
+title: "Holy Eucharist for Jonathan Myrick Daniels, Martyr, 1965"
 date: 2022-08-14
 lectionaryyear: c
 proper: lff2018-jonathan-myrick-daniels
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

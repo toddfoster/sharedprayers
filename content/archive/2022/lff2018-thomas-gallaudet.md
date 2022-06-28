@@ -1,8 +1,10 @@
 ---
-title: "Thomas Gallaudet and Henry Winter Syle, Priests, 1902 and 1890"
+title: "Holy Eucharist for Thomas Gallaudet and Henry Winter Syle, Priests, 1902 and 1890"
 date: 2022-08-27
 lectionaryyear: c
 proper: lff2018-thomas-gallaudet
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

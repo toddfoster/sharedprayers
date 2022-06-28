@@ -1,8 +1,10 @@
 ---
-title: "Thomas à Kempis, Priest and Mystic, 1471"
+title: "Holy Eucharist for Thomas à Kempis, Priest and Mystic, 1471"
 date: 2022-07-24
 lectionaryyear: c
 proper: lff2018-thomas-a-kempis
+season: pentecost
+weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

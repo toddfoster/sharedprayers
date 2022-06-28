@@ -1,8 +1,10 @@
 ---
-title: "Alexander Crummell, Priest, 1898"
+title: "Holy Eucharist for Alexander Crummell, Priest, 1898"
 date: 2022-09-10
 lectionaryyear: c
 proper: lff2018-alexander-crummell
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

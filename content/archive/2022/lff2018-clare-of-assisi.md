@@ -1,8 +1,10 @@
 ---
-title: "Clare of Assisi, Monastic, 1253"
+title: "Holy Eucharist for Clare of Assisi, Monastic, 1253"
 date: 2022-08-11
 lectionaryyear: c
 proper: lff2018-clare-of-assisi
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

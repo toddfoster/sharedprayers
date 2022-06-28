@@ -1,8 +1,10 @@
 ---
-title: "[Tabitha (Dorcas) of Joppa]"
+title: "Holy Eucharist for [Tabitha (Dorcas) of Joppa]"
 date: 2022-10-25
 lectionaryyear: c
 proper: lff2018-tabitha
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

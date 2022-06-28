@@ -1,8 +1,10 @@
 ---
-title: "Holy Cross Day"
+title: "Holy Eucharist for Holy Cross Day"
 date: 2022-09-14
 lectionaryyear: c
 proper: lff2018-holy-cross-day
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

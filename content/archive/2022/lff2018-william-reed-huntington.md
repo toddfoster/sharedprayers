@@ -1,8 +1,10 @@
 ---
-title: "William Reed Huntington, Priest, 1909"
+title: "Holy Eucharist for William Reed Huntington, Priest, 1909"
 date: 2022-07-27
 lectionaryyear: c
 proper: lff2018-william-reed-huntington
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

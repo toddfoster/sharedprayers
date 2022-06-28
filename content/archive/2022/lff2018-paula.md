@@ -1,8 +1,10 @@
 ---
-title: "[Paula and Eustochium of Rome], Monastics and Scholars, 404 and c.419"
+title: "Holy Eucharist for [Paula and Eustochium of Rome], Monastics and Scholars, 404 and c.419"
 date: 2022-09-28
 lectionaryyear: c
 proper: lff2018-paula
+season: pentecost
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

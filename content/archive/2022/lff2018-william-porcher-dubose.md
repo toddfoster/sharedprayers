@@ -1,8 +1,10 @@
 ---
-title: "William Porcher Dubose, Priest, 1918"
+title: "Holy Eucharist for William Porcher Dubose, Priest, 1918"
 date: 2022-08-18
 lectionaryyear: c
 proper: lff2018-william-porcher-dubose
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

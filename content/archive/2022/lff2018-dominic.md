@@ -1,8 +1,10 @@
 ---
-title: "Dominic, Priest and Friar, 1221"
+title: "Holy Eucharist for Dominic, Priest and Friar, 1221"
 date: 2022-08-08
 lectionaryyear: c
 proper: lff2018-dominic
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "[John Raleigh Mott], Ecumenist and Missionary, 1955"
+title: "Holy Eucharist for [John Raleigh Mott], Ecumenist and Missionary, 1955"
 date: 2022-10-03
 lectionaryyear: c
 proper: lff2018-john-raleigh-mott
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Richard Hooker, Priest and Theologian, 1600"
+title: "Holy Eucharist for Richard Hooker, Priest and Theologian, 1600"
 date: 2022-11-03
 lectionaryyear: c
 proper: lff2018-richard-hooker
+season: pentecost
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

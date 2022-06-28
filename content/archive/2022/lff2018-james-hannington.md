@@ -1,8 +1,10 @@
 ---
-title: "James Hannington, Bishop, and his Companions, Martyrs, 1885"
+title: "Holy Eucharist for James Hannington, Bishop, and his Companions, Martyrs, 1885"
 date: 2022-10-29
 lectionaryyear: c
 proper: lff2018-james-hannington
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

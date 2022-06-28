@@ -1,8 +1,10 @@
 ---
-title: "Philip, Deacon and Evangelist"
+title: "Holy Eucharist for Philip, Deacon and Evangelist"
 date: 2022-10-11
 lectionaryyear: c
 proper: lff2018-philip
+season: pentecost
+weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

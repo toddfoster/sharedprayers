@@ -1,8 +1,10 @@
 ---
-title: "The Consecration of Samuel Seabury, 1784"
+title: "Holy Eucharist for The Consecration of Samuel Seabury, 1784"
 date: 2022-11-14
 lectionaryyear: c
 proper: lff2018-consecration-of-samuel-seabury
+season: pentecost
+weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---

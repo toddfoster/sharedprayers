@@ -1,8 +1,10 @@
 ---
-title: "Remigius of Rheims, Bishop, c.530"
+title: "Holy Eucharist for Remigius of Rheims, Bishop, c.530"
 date: 2022-10-01
 lectionaryyear: c
 proper: lff2018-remigius-of-rheims
+season: pentecost
+weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
