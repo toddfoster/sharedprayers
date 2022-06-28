@@ -164,6 +164,29 @@ def getrecord(data, day):
         if i['day'] == day:
             return i
 
+def liturgyseason(the_date):
+    the_year = the_date.year
+
+    if the_date < liturgydate('the-epiphany', the_year):
+        return 'christmas'
+
+    if the_date < liturgydate('ash-wednesday', the_year):
+        return "epiphany"
+
+    if the_date < easter(the_year):
+        return "lent"
+
+    if the_date < liturgydate('day-of-pentecost-principal-service', the_year):
+        return "easter"
+
+    if the_date < liturgydate("first-sunday-of-advent", the_year+1):
+        return "pentecost"
+
+    if the_date.month == 11 or the_date.day < 25:
+        return "advent"
+    
+    return "christmas"
+        
 def liturgydate(day, year):
     """
     Calculate the calendar date for a liturgy in a liturgical year.
@@ -353,13 +376,19 @@ def unpack_liturgy(row):
                   "r", encoding='utf-8') as title_file:
             title = title_file.read().strip()
 
+    rite = row[COL_RITE]
+    if rite:
+        title = rite + " for " + title
+    
     result = "---\n"
     result += 'title: "' + title + '"\n'
     result += "date: " + str(date) + "\n"
     result += "lectionaryyear: " + lectionary_year_from_date(date) + "\n"
     result += "proper: " + day + "\n"
+    result += "season: " + liturgyseason(date) + "\n"
+    result += "weekday: " + date.strftime("%A").lower() + "\n"
 
-    rite = row[COL_RITE]
+
     if rite:
         result += "rite: " + rite + "\n"
     bcpp = row[COL_BCPP]
@@ -428,6 +457,8 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
     if not args.dry_run:
         os.makedirs(target, exist_ok=True)
 
+    filenames = []
+        
     found_day = False
     sheet = templates[str(year)]
     for row in sheet:
@@ -457,13 +488,23 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
         if not force_rewrite_history and rowdate < date.today():
             continue
 
+        filename = row[COL_CODE]
+        if filename in filenames:
+            alt=ord('a')
+            filename = filename + "-" + chr(alt)
+            while filename in filenames:
+                alt += 1
+                filename = filename[0:-2] + "-" + chr(alt)
+            print ("Alt filename: " + filename)
+        filenames.append(filename)
+        
         # don't write on dry_run
         if args.dry_run:
-            print ("DRY RUN: Not writing liturgy for " + row[COL_CODE] + ": " + row[COL_DATE])
+            print ("DRY RUN: Not writing liturgy for " + filename + ": " + row[COL_DATE])
             continue
 
-        print ("Writing liturgy for " + row[COL_CODE] + ": " + str(row[COL_DATE]))
-        with open (target + "/" + row[COL_CODE] + ".md", "w") as t:
+        print ("Writing liturgy for " + filename + ": " + str(row[COL_DATE]))
+        with open (target + "/" + filename + ".md", "w") as t:
             t.write(unpack_liturgy(row))
             t.write("\n")
     if not found_day:
