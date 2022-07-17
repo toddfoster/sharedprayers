@@ -4,7 +4,7 @@ weight: 50
 ---
 --------
 ### The Daily Office
-* [Readings and Collects for the Daily Office](https://www.commonprayeronline.org/en/readings)
+* [Readings and Collects for the Daily Office](https://www.commonprayeronline.org/en/readings/office)
 * Morning Prayer
   * in the season of Epiphany: [Mon](mp/mp-epiphany-mon) / [Tues](mp/mp-epiphany-tue) / [Wed](mp/mp-epiphany-wed) / [Thurs](mp/mp-epiphany-thu) / [Fri](mp/mp-epiphany-fri) / [Sat](mp/mp-epiphany-sat) / [Sun](mp/mp-epiphany-sun)
   * in Lent: [Mon](mp/mp-lent-mon) / [Tues](mp/mp-lent-tue) / [Wed](mp/mp-lent-wed) / [Thurs](mp/mp-lent-thu) / [Fri](mp/mp-lent-fri) / [Sat](mp/mp-lent-sat) / [Sun](mp/mp-lent-sun)
