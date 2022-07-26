@@ -30,6 +30,7 @@ bcppage: 355ff.
 {{% he/pop/form4 %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-89" %}}
@@ -45,4 +46,3 @@ bcppage: 355ff.
 {{% hymn Processional "l-181" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
