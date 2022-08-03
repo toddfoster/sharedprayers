@@ -29,7 +29,7 @@ Then Peter began to speak to them: ‘I truly understand that God shows no parti
 
 While Peter was still speaking, the Holy Spirit fell upon all who heard the word. The circumcised believers who had come with Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles, for they heard them speaking in tongues and extolling God. Then Peter said, ‘Can anyone withhold the water for baptizing these people who have received the Holy Spirit just as we have?’ So he ordered them to be baptized in the name of Jesus Christ. Then they invited him to stay for several days.
 {{% /lesson %}}
-{{% hymn Sequence "l-107" %}}
+{{% hymn Sequence "l-72" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -40,7 +40,7 @@ While Peter was still speaking, the Holy Spirit fell upon all who heard the word
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "l-65" %}}
+{{% hymn Offertory "l-88" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
