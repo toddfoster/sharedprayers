@@ -21,7 +21,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-107" %}}
+{{% hymn Sequence "l-72" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -32,7 +32,7 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "l-65" %}}
+{{% hymn Offertory "l-88" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}

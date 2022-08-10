@@ -10,6 +10,7 @@ bcppage: 355ff.
 ---
 
 ## We Gather in God's Name
+{{% hymn Entrance "h-551" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 
@@ -22,7 +23,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-523" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -33,11 +34,13 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
+{{% hymn Offertory "h-429" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
 
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-154
 {{% he/fraction/long %}}
 
 ##### pb
@@ -46,7 +49,7 @@ bcppage: 355ff.
 {{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional %}}
+{{% hymn Processional "h-438" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
