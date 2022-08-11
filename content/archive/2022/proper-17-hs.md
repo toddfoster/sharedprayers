@@ -14,12 +14,16 @@ bcppage: 355ff.
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/acapellachoice %}}
+##### pb
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
+##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
+##### pb
 {{% lesson "psalm" /%}}
+##### pb
 {{% lesson "second" "Acts 10.24-48" %}}
 The following day they came to Caesarea. Cornelius was expecting them and had called together his relatives and close friends. On Peter’s arrival Cornelius met him, and falling at his feet, worshipped him. But Peter made him get up, saying, ‘Stand up; I am only a mortal.’ And as he talked with him, he went in and found that many had assembled; and he said to them, ‘You yourselves know that it is unlawful for a Jew to associate with or to visit a Gentile; but God has shown me that I should not call anyone profane or unclean. So when I was sent for, I came without objection. Now may I ask why you sent for me?’
 
@@ -29,10 +33,12 @@ Then Peter began to speak to them: ‘I truly understand that God shows no parti
 
 While Peter was still speaking, the Holy Spirit fell upon all who heard the word. The circumcised believers who had come with Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles, for they heard them speaking in tongues and extolling God. Then Peter said, ‘Can anyone withhold the water for baptizing these people who have received the Holy Spirit just as we have?’ So he ordered them to be baptized in the name of Jesus Christ. Then they invited him to stay for several days.
 {{% /lesson %}}
+##### pb
 {{% hymn Sequence "h-438" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form4 %}}

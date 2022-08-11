@@ -27,6 +27,7 @@ Samuel took a phial of oil and poured it on [Saul's] head, and kissed him; he sa
 {{% lesson "psalm" /%}}
 ##### pb
 {{% lesson "second" /%}}
+##### pb
 {{% hymn Sequence "l-115" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}

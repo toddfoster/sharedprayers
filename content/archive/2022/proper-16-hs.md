@@ -14,19 +14,24 @@ bcppage: 355ff.
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/acapellachoice %}}
+##### pb
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
+##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
+##### pb
 {{% lesson "psalm" /%}}
 {{% lesson "second" "Galatians 5.22-25" %}}
 By contrast, the fruit of the Spirit is love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, and self-control. There is no law against such things. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also be guided by the Spirit.
 {{% /lesson %}}
+##### pb
 {{% hymn Sequence "l-72" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form4 %}}
