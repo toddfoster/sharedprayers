@@ -31,6 +31,7 @@ bcppage: 355ff.
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
+{{% stt/backpackblessing %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-145" %}}
 {{% he/eucharisticprayer/b /%}}
