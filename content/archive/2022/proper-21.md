@@ -23,7 +23,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-523" %}}
+{{% hymn Sequence "h-380" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -46,7 +46,7 @@ bcppage: 355ff.
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion-covid %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-127" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% hymn Processional "h-438" %}}
