@@ -15,7 +15,7 @@ bcppage: 355ff.
 {{% he/collect-purity %}}
 
 #### Hymnal S-280
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/acapellachoice %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -45,11 +45,10 @@ bcppage: 355ff.
 
 ##### pb
 ### We Receive the Gift of God
-{{% stt/2022/communion-covid %}}
+{{% stt/2022/communion %}}
 {{% hymn Communion "l-203" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% hymn Processional "l-47" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
