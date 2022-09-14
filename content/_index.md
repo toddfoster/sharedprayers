@@ -17,7 +17,7 @@ title: Shared Prayers
 **Weekday Liturgies:**
 - [Church in the Woods at Rowan University, 8 September: Proper 19](archive/2022/churchinwoods20220908/)
 - [Holy Eucharist for Cardinal Village, 8 September: Proper 19](archive/2022/proper-19-cv/)
-- [Holy Eucharist for Wednesday, 14 September: Holy Cross Day](archive/2022/holy-cross-day/)
+- [Holy Eucharist for Wednesday, 14 September: Holy Cross Day](archive/2022/lff2018-holy-cross-day/)
 - [Holy Eucharist for Wednesday, 21 September: Feast of St. Matthew](archive/2022/lff2018-saint-matthew/)
 - [Holy Eucharist for Wednesday, 28 September: Feast of St. Michael and All Angels](archive/2022/lff2018-saint-michael-and-all-angels/)
 - [Holy Eucharist for Wednesday, 2 October: Feast of St. Therese of Lisieux](archive/2022/lff2018-therese-of-lisieux/)
