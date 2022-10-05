@@ -41,7 +41,7 @@ bcppage: 355ff.
 
 ##### pb
 ### We Receive the Gift of God
-{{% stt/2022/communion-covid %}}
+{{% stt/2022/communion %}}
 {{% hymn Communion "h-433" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
