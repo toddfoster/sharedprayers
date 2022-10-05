@@ -34,7 +34,10 @@ bcppage: 355ff.
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
+##### 5.30pm:
 {{% hymn Offertory "h-493" %}}
+##### 10.30am:
+### Choir Anthem: St. Phillip
 {{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
 
 #### Hymnal S-119
@@ -45,11 +48,10 @@ bcppage: 355ff.
 
 ##### pb
 ### We Receive the Gift of God
-{{% stt/2022/communion-covid %}}
+{{% stt/2022/communion %}}
 {{% hymn Communion "h-655" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
 {{% hymn Processional "h-411" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
