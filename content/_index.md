@@ -8,19 +8,20 @@ title: Shared Prayers
 
 
 **Weekend Liturgies for this month:**
-- [Holy Eucharist for Sunday, 11 September: Proper 19](archive/2022/proper-19/)
-- [Holy Eucharist for Sunday, 18 September: Proper 20](archive/2022/proper-20/)
-- [Holy Eucharist for Sunday, 25 September: Proper 21](archive/2022/proper-21/)
 - [Holy Eucharist for Sunday, 2 October: Proper 22](archive/2022/proper-22/)
 - [Holy Eucharist for Sunday, 9 October: Proper 23](archive/2022/proper-23/)
+- [Holy Eucharist for Sunday, 16 October: Proper 24](archive/2022/proper-24/)
+- [Holy Eucharist for Sunday, 23 October: Proper 25](archive/2022/proper-25/)
+- [Holy Eucharist for Sunday, 30 October: Proper 26](archive/2022/proper-26/)
+- [Holy Eucharist for Sunday, 6 November: Proper 27](archive/2022/proper-27/)
 
 **Weekday Liturgies:**
-- [Church in the Woods at Rowan University, 8 September: Proper 19](archive/2022/churchinwoods20220908/)
-- [Holy Eucharist for Cardinal Village, 8 September: Proper 19](archive/2022/proper-19-cv/)
-- [Holy Eucharist for Wednesday, 14 September: Holy Cross Day](archive/2022/lff2018-holy-cross-day/)
-- [Holy Eucharist for Wednesday, 21 September: Feast of St. Matthew](archive/2022/lff2018-saint-matthew/)
-- [Holy Eucharist for Wednesday, 28 September: Feast of St. Michael and All Angels](archive/2022/lff2018-saint-michael-and-all-angels/)
 - [Holy Eucharist for Wednesday, 5 October: Feast of St. Therese of Lisieux](archive/2022/lff2018-therese-of-lisieux/)
+- [Holy Eucharist for Wednesday, 12 October: Feast of Teresa of Avila](archive/2022/lff2018-teresa-of-avila/)
+- [Church in the Woods at Rowan University, 13 October: Proper 24](archive/2022/churchinwoods20221013/)
+- [Holy Eucharist for Wednesday, 19 October: Feast of  St. Luke the Evangelist](archive/2022/lff2018-saint-luke-the-evangelist/)
+- [Holy Eucharist for Wednesday, 26 October: Feast of Saints Simon and Jude, Apostles](archive/2022/lff2018-saint-simon-and-saint-jude/)
+- [Holy Eucharist for Wednesday, 2 November: Feast of All Souls, Apostles](archive/2022/lff2018-all-souls/)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
