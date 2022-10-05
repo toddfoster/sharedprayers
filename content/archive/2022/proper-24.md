@@ -13,7 +13,7 @@ bcppage: 355ff.
 {{% hymn Entrance "l-187" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/acapellachoice %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
@@ -39,7 +39,7 @@ bcppage: 355ff.
 {{% he/lordsprayer/1 %}}
 
 #### LEVAS 269
-{{% he/fraction/long %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God
@@ -50,4 +50,3 @@ bcppage: 355ff.
 {{% hymn Processional "l-50" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
