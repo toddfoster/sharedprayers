@@ -10,6 +10,8 @@ title: Shared Prayers
 **Weekend Liturgies for this month:**
 - [Holy Eucharist for Sunday, 2 October: Proper 22](archive/2022/proper-22/)
 - [Holy Eucharist for Sunday, 9 October: Proper 23](archive/2022/proper-23/)
+- [Evening Prayer for Saturday, 15 October (5.30pm): Proper 24](archive/2022/ep-proper-24/)
+- [Morning Prayer for Sunday, 16 October (8am): Proper 24](archive/2022/mp-proper-24/)
 - [Holy Eucharist for Sunday, 16 October: Proper 24](archive/2022/proper-24/)
 - [Holy Eucharist for Sunday, 23 October: Proper 25](archive/2022/proper-25/)
 - [Holy Eucharist for Sunday, 30 October: Proper 26](archive/2022/proper-26/)
