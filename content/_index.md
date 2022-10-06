@@ -21,7 +21,7 @@ title: Shared Prayers
 - [Church in the Woods at Rowan University, 13 October: Proper 24](archive/2022/churchinwoods20221013/)
 - [Holy Eucharist for Wednesday, 19 October: Feast of  St. Luke the Evangelist](archive/2022/lff2018-saint-luke-the-evangelist/)
 - [Holy Eucharist for Wednesday, 26 October: Feast of Saints Simon and Jude, Apostles](archive/2022/lff2018-saint-simon-and-saint-jude/)
-- [Holy Eucharist for Wednesday, 2 November: Feast of All Souls, Apostles](archive/2022/lff2018-all-souls/)
+- [Holy Eucharist for Wednesday, 2 November: Feast of All Souls](archive/2022/lff2018-all-souls/)
 
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
