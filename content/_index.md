@@ -21,6 +21,7 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday, 5 October: Feast of St. Therese of Lisieux](archive/2022/lff2018-therese-of-lisieux/)
 - [Evening Prayer for Wednesday, 12 October: Feast of Teresa of Avila](archive/2022/ep-teresa-of-avila/)
 - [Church in the Woods at Rowan University, 13 October: Proper 24](archive/2022/churchinwoods20221013/)
+- [Communion Under Special Circumstances, 13 October: Proper 24](archive/2022/cardinalvillage20221013/)
 - [Holy Eucharist for Wednesday, 19 October: Feast of  St. Luke the Evangelist](archive/2022/lff2018-saint-luke-the-evangelist/)
 - [Holy Eucharist for Wednesday, 26 October: Feast of Saints Simon and Jude, Apostles](archive/2022/lff2018-saint-simon-and-saint-jude/)
 - [Holy Eucharist for Wednesday, 2 November: Feast of All Souls](archive/2022/lff2018-all-souls/)
