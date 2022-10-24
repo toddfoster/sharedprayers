@@ -27,7 +27,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
@@ -39,7 +39,7 @@ bcppage: 355ff.
 {{% he/lordsprayer/1 %}}
 
 #### LEVAS 269
-{{% he/fraction/long %}}
+{{% he/fraction/agnusdei %}}
 
 ##### pb
 ### We Receive the Gift of God
