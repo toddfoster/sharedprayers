@@ -15,7 +15,7 @@ title: Shared Prayers
 - [Holy Eucharist for Sunday, 16 October: Proper 24](archive/2022/proper-24/)
 - [Holy Eucharist for Sunday, 23 October: Proper 25](archive/2022/proper-25/)
 - [Holy Eucharist for Sunday, 30 October: Proper 26](archive/2022/proper-26/)
-- [Holy Eucharist for Sunday, 6 November: Proper 27](archive/2022/proper-27/)
+- [Holy Eucharist for Sunday, 6 November: All Saints'](archive/2022/all-saints-day/)
 
 **Weekday Liturgies:**
 - [Holy Eucharist for Wednesday, 5 October: Feast of St. Therese of Lisieux](archive/2022/lff2018-therese-of-lisieux/)
