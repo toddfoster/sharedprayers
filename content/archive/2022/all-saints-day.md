@@ -28,14 +28,19 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 
 ## We Respond in Faith
-{{% he/creed/nicene %}}
+{{% he/creed/baptismalvowsrenewal %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "h-556" %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
+{{% he/eucharisticprayer/d-inner sanctus="Hymnal S-124" %}}
+Remember Justin, Archbishop of Canterbury, Michael, our Presiding Bishop, William our Bishop, and all who minister in your Church.
+
+Remember all your people and those who seek your truth.
+
+Remember N..., all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
+{{% /he/eucharisticprayer/d-inner %}}
 
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
