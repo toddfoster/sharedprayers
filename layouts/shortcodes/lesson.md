@@ -132,6 +132,7 @@ A reading from {{ $intro }}
 {{ else }}
 {{ if $reference }}
    {{ $reference = replace $reference "Ecclesiasticus" "Sirach" }}
+     {{ $reference = replace $reference "Wisdom" "Wisdom of Solomon" }}
    {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
 	{{ $ref_slug := $filename | replaceRE "psalm" "" }}
     {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
