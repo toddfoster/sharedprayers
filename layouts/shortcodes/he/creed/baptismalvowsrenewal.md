@@ -1,4 +1,5 @@
 ##### The people stand as able.
+#### BCP 292
 ### The Renewal of Baptismal Vows
 ##### Presider:
 Do you reaffirm your renunciation of evil and renew your commitment to Jesus Christ?
