@@ -20,7 +20,9 @@ bcppage: 355ff.
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
+
+#### Hymnal 679
+Lesson "second" 
 {{% hymn Sequence "l-205" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
@@ -28,7 +30,9 @@ bcppage: 355ff.
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
+
+### Prayer for Veterans (BCP 839)
+{{% he/special/biblesunday %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
