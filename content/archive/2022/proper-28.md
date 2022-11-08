@@ -31,7 +31,7 @@ Lesson "second"
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
 
-### Prayer for Veterans (BCP 839)
+{{% he/special/veteransday %}}
 {{% he/special/biblesunday %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
