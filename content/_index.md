@@ -23,7 +23,7 @@ title: Shared Prayers
 - [Holy Eucharist for Wednesday, 16 November: Hilda of Whitby](archive/2022/lff2018-hilda-of-whitby/)
 - [Holy Eucharist for Wednesday, 23 November: Catherine of Alexandria](archive/2022/lff2018-catherine-of-alexandria/)
 - [Holy Eucharist for Wednesday, 24 November: Thanksgiving](archive/2022/thanksgiving-day/)
-- [Advent Vespers for Tuesday, 29 November: St. Andrew the Apostle](archive/2023/st-andrew/)
+- [Advent Vespers for Tuesday, 29 November: St. Andrew the Apostle](archive/2023/lff2018-saint-andrew-the-apostle/)
 - [Holy Eucharist for Wednesday, 30 November: Kamehameha and Emma of Hawaii](archive/2023/lff2018-kamehameha/)
 
 **Liturgies for Province IX Campus Ministry Retreat**

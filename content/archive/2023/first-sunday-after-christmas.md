@@ -14,8 +14,7 @@ bcppage: 355ff.
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/hymnofpraise %}}
-{{% Hark! the herald angels sing (Hymnal 87) %}}
-{{% he/propercollect %}}
+{{% hymn h-87 "he/propercollect" %}}
 {{% rubric-sit %}}
 
 ## We Hear God's Word

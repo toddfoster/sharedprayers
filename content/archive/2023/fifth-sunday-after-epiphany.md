@@ -30,8 +30,8 @@ bcppage: 355ff.
 {{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/commissionvestry
-stt/birthdaysanniversaries %}}
+{{% stt/commissionvestry %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-181" %}}
