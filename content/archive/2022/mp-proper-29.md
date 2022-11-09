@@ -7,6 +7,9 @@ season: pentecost
 weekday: sunday
 rite: Morning Prayer
 bcppage: 78ff.
+tags:
+- StT
+- weekend
 ---
 
 {{% office/mp/sentence %}}
