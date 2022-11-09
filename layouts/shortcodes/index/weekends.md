@@ -21,9 +21,10 @@
 
 **Weekend  liturgies for {{ $date.Format "January" }}:**
 {{ range first 1 $results }}{{ range .Pages }}
-{{- if or (in "Sunday" (.Date.Format "Monday")) (in "Saturday" (.Date.Format "Monday")) }}
+{{- if or (eq "Sunday" (.Date.Format "Monday")) (eq "Saturday" (.Date.Format "Monday")) }}
+{{- if not (in (.Param "proper") "lff2018") }}
 - {{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title -}}
-{{ end }}{{ end }}{{ end }}
+{{ end }}{{ end }}{{ end }}{{ end }}
 
 
 **Weekend liturgies for {{ $date.Format "January" }}:**
