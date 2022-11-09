@@ -1,7 +1,8 @@
 {{/* index/weekends.md */}}
 {{/* parameters: [month [year]] */}}
+{{/* TODO: add front matter to know whether to list for St. Thomas' index page */}}
 
-{{ $DEBUG := true }}
+{{ $DEBUG := false }}
 {{ if $DEBUG }}{{ printf "DEBUG: running index/weekends.md"  }}{{ end }}
 
 {{/* Figure out date: argument or system date */}}
@@ -17,23 +18,34 @@
 {{ $limit := $date.Format "2006-01" }}
 {{ $results := first 2 (where (.Site.RegularPages.GroupByDate  "2006-01" "asc") ".Key" "ge" $limit) }}
 
-**TODO exclude lff2018 from weekends **
+{{ $weekends := slice }}
+{{ $weekdays := slice }}
+{{ range first 1 $results }}{{ range .Pages }}
+{{ if or (eq "Sunday" (.Date.Format "Monday")) (eq "Saturday" (.Date.Format "Monday")) }}
+{{ if not (in (.Param "proper") "lff2018") }}
+{{ $weekends = $weekends | append . }}
+{{ end }}
+{{ else }}
+{{ $weekdays = $weekdays | append . }}
+{{ end }}{{ end }}{{ end }}
+
+{{/* Pick up first weekend of following month */}}
+{{- range first 1 $results.Reverse }}{{ range .Pages }}
+{{ if or (eq "Sunday" (.Date.Format "Monday")) (eq "Saturday" (.Date.Format "Monday")) }}
+{{ if lt .Date.Day 7 }}
+{{ if not (in (.Param "proper") "lff2018") }}
+{{ $weekends = $weekends | append . }}
+{{ else }}
+{{ $weekdays = $weekdays | append . }}
+{{ end }}{{ end }}{{ end }}{{ end }}{{ end }}
+
 
 **Weekend  liturgies for {{ $date.Format "January" }}:**
-{{ range first 1 $results }}{{ range .Pages }}
-{{- if or (eq "Sunday" (.Date.Format "Monday")) (eq "Saturday" (.Date.Format "Monday")) }}
-{{- if not (in (.Param "proper") "lff2018") }}
-- {{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title -}}
-{{ end }}{{ end }}{{ end }}{{ end }}
+{{ range $weekends }}
+- [{{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}]({{ .Permalink }}){{ end }}
 
+**Weekday  liturgies for {{ $date.Format "January" }}:**
+{{ range $weekdays }}
+- [{{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}]({{ .Permalink }}){{ end }}
 
-**Weekend liturgies for {{ $date.Format "January" }}:**
-{{ range first 1 $results }}{{ range .Pages }}
-- {{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title -}}
-{{ end }}{{ end }}
-
-{{- range first 1 $results.Reverse }}{{ range first 1 .Pages }}
-- {{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}
-{{ end }}
-{{ end }}
 
