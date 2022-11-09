@@ -1798,6 +1798,21 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/tags/stt/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekend/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2023/lff2018-francis-xavier/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url>
@@ -1829,6 +1844,11 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/lff2018-kamehameha/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekday/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -4927,10 +4947,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/about/indices/january/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/</loc>
   </url>
   
 </urlset>
