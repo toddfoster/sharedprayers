@@ -31,6 +31,11 @@
 {{ $liturgies = $liturgies | append . }}
 {{ end }}{{ end }}{{ end }}
 
-{{ range where $liturgies "Params.tags" "intersect" $tags }}
+{{ $tagged := $liturgies }}
+{{ range $tags }}
+  	{{ $tagged = where $tagged "Params.tags" "intersect" (slice .) }}
+{{ end }}
+
+{{ range $tagged }}
 - [{{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}]({{ .Permalink }}){{ end }}
 
