@@ -4,11 +4,6 @@ title: Shared Prayers
 
 [Pray the Daily Office](daily/)
 
--------------
-**Testing**
-{{% index/weekends %}}
-** Done Test**
-
 **Weekend Liturgies for this month:**
 - [Holy Eucharist for Sunday, 6 November: All Saints'](archive/2022/all-saints-day/)
 - [Holy Eucharist for Sunday, 13 November: Proper 28](archive/2022/proper-28/)
