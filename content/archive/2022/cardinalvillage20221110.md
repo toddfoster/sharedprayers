@@ -1,5 +1,5 @@
 ---
-title: Holy Eucharist (Proper 28)
+title: Holy Eucharist at Cardinal Village (Proper 28)
 date: 2022-11-10
 lectionaryyear: c
 proper: proper-28
