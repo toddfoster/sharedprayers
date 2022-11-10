@@ -1,8 +1,8 @@
 ---
-title: Holy Eucharist, Rite II (Proper 29)
+title: Holy Eucharist, Rite II
 date: 2021-11-19
 lectionaryyear: c
-proper: proper-29-christ-the-king
+proper: proper-12
 bcppage: 355ff.
 ---
 
@@ -16,9 +16,9 @@ bcppage: 355ff.
 {{% rubric-sit %}}
 
 ## We Hear God's Word
-{{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
+{{% lesson "first" "Malachi 3:6-18" /%}}
+{{% lesson "psalm" "84" /%}}
+{{% lesson "second" "James 1:17-22" /%}}
 ##### (A hymn, psalm or song may be used here.)
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
