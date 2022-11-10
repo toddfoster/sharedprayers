@@ -52,7 +52,7 @@ tags:
 {{% hymn Communion "h-324" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "h-436" %}}
+{{% hymn Processional "h-296" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
