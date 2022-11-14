@@ -1,4 +1,5 @@
-**Canticle 9: The First Song of Isaiah** -- _Ecce Deus_ (Isaiah 12:2-6) (BCP 86)
+#### BCP 86
+**Canticle 9: The First Song of Isaiah** -- _Ecce Deus_ (Isaiah 12:2-6) 
 ##### **All:**
 **Surely, it is God who saves me; *
 I will trust in him and not be afraid.

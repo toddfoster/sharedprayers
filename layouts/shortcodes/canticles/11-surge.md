@@ -1,4 +1,5 @@
-**Canticle 11: The Third Song of Isaiah** -- _Surge, illuminare_ (Isaiah 60:1-3, 11a, 14c, 18-19) (BCP 87)
+#### BCP 87
+**Canticle 11: The Third Song of Isaiah** -- _Surge, illuminare_ (Isaiah 60:1-3, 11a, 14c, 18-19) 
 ##### **All:**
 **Arise, shine, for your light has come, \*
 and the glory of the Lord has dawned upon you.

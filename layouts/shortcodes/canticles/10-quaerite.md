@@ -1,4 +1,5 @@
-**Canticle 10: The Second Song of Isaiah** -- _Quaerite Dominum_ (Isaiah 55:6-11) (BCP 86)
+#### BCP 86
+**Canticle 10: The Second Song of Isaiah** -- _Quaerite Dominum_ (Isaiah 55:6-11) 
 ##### **All:**
 **Seek the Lord while he wills to be found; \*
 call upon him when he draws near.

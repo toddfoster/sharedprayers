@@ -1,4 +1,5 @@
-**Canticle 12: A Song of Creation**  -- _Benedicite, omnia opera Domini_ (Song of the Three Young Men, 35-65) (BCP 88)
+#### BCP 88
+**Canticle 12: A Song of Creation**  -- _Benedicite, omnia opera Domini_ (Song of the Three Young Men, 35-65)
 ##### One or more sections of this Canticle may be used. Whatever the selection, it begins with the Invocation and concludes with the Doxology.
 
 ##### **All:**

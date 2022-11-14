@@ -1,4 +1,5 @@
-**Canticle 14: A Song of Penitence** -- _Kyrie, Pantokrator_ (Prayer of Manasseh, 1-2, 4, 6-7, 11-15) (BCP 90)
+#### BCP 90
+**Canticle 14: A Song of Penitence** -- _Kyrie, Pantokrator_ (Prayer of Manasseh, 1-2, 4, 6-7, 11-15) 
 ##### Especially suitable in Lent, and on other penitential occasions
 
 ##### **All:**

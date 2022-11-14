@@ -1,1 +1,1 @@
-../../../canticles/15-magnificat.md
+../../../canticles/15-magnificat-ep.md

@@ -1,1 +1,1 @@
-../../../canticles/17-nunc.md
+../../../canticles/17-nunc-ep.md

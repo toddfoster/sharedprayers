@@ -1,4 +1,5 @@
-**Canticle 8: The Song of Moses** -- _Cantemus Domino_ (Exodus 15:1-6, 11-13, 17-18) (BCP 85)
+#### BCP 85
+**Canticle 8: The Song of Moses** -- _Cantemus Domino_ (Exodus 15:1-6, 11-13, 17-18) 
 ##### Especially suitable for use in Easter Season
 ##### **All:**
 **I will sing to the Lord, for he is lofty and uplifted; \*

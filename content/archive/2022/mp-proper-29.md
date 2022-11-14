@@ -12,6 +12,7 @@ tags:
 - weekend
 ---
 
+#### BCP 78
 {{% office/mp/sentence %}}
 ##### pb
 {{% office/mp/confession %}}
@@ -20,7 +21,7 @@ tags:
 ##### pb
 {{% office/psalmintro %}}
 {{% lesson psalm /%}}
-{{% office/psalmgloria %}}
+{{% comment office/psalmgloria %}}
 ##### pb
 # The Lessons
 {{% lesson first /%}}
@@ -39,13 +40,14 @@ tags:
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 
 ##### pb
-{{% office/apostlescreed %}}
+{{% office/mp/apostlescreed %}}
 ##### pb
+#### BCP 97
 # The Prayers
 
 ##### The people stand or kneel
 {{% letuspray %}}
-{{% lordsprayer2 %}}
+{{% he/lordsprayer/2 bcp="97" %}}
 {{% office/mp/suffrages %}}
 {{% office/propercollect %}}
 {{% office/mp/collect %}}

@@ -1,4 +1,5 @@
-**Canticle 18: A Song to the Lamb** -- _Dignus es_ (Rev. 4.11; 5.9--10, 13) (BCP 93)
+#### BCP 93
+**Canticle 18: A Song to the Lamb** -- _Dignus es_ (Rev. 4.11; 5.9--10, 13) 
 ##### **All:**
 **Splendor and honor and kingly power \*
 are yours by right, O Lord our God,

@@ -1,4 +1,5 @@
-**Canticle 20: Glory to God** -- _Gloria in excelsis_ (BCP 94)
+#### BCP 94
+**Canticle 20: Glory to God** -- _Gloria in excelsis_ 
 ##### **All:**
 **Glory to God in the highest,
 and peace to his people on earth.**

@@ -19,7 +19,7 @@ tags:
 {{% office/ep/invitatory "pentecost" %}}
 
 {{% lesson "psalm" /%}}
-{{% office/gloriapatri %}}
+{{% comment "office/gloriapatri   built in to Canticle on Proper 29" /%}}
 ##### pb
 ## The Lessons
 {{% lesson "first" /%}}
@@ -40,12 +40,13 @@ tags:
 ##### Silence may be kept.
 ##### A brief homily, spiritual conversation, or moment of silence may be placed here.
 ##### pb
-{{% office/apostlescreed %}}
+{{% office/ep/apostlescreed %}}
 ##### pb
+#### BCP 121
 ## The Prayers
 ##### The people stand or kneel
 {{% letuspray %}}
-{{% he/lordsprayer/2 %}}
+{{% he/lordsprayer/2 bcp="121" %}}
 ##### pb
 {{% office/ep/suffragesb %}}
 {{% office/propercollect %}}
@@ -54,6 +55,6 @@ tags:
 ##### Intercessions and thanksgivings may follow.
 {{% office/ep/prayer-chrysostom %}}
 ##### pb
-{{% office/mp/letusbless %}}
+{{% office/ep/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

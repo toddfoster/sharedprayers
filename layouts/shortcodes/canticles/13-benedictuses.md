@@ -1,4 +1,5 @@
-**Canticle 13: A Song of Praise** -- _Benedictus es, Domine_ (Song of the Three Young Men, 29-34) (BCP 90)
+#### BCP 90
+**Canticle 13: A Song of Praise** -- _Benedictus es, Domine_ (Song of the Three Young Men, 29-34)
 ##### **All:**
 **Glory to you, Lord God of our fathers; \*
 you are worthy of praise; glory to you.

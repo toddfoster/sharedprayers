@@ -1,3 +1,4 @@
+#### BCP 80
 ## The Invitatory and Psalter
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
 {{ $day := default ($.Page.Params.weekday) ("monday") }}

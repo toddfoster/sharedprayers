@@ -1,3 +1,4 @@
+#### BCP 117
 ## The Invitatory and Psalter
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
 {{ $alleluia := " Alleluia." }}
@@ -13,7 +14,10 @@ O God, make speed to save us.
 **Glory to the Father, and to the Son, and to the Holy Spirit:
 as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}**
 
-#### {{ .Get 1 }}
+#### BCP 118
+{{ with .Get 1 }}
+#### {{ . }}
+{{ end }}
 **O Gracious Light** ---   _Phos hilaron_
 
 ##### **All:**

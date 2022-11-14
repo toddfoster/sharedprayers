@@ -1,4 +1,4 @@
-#### BCP 102
+#### BCP 126
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
 {{ $alleluia := "" }}
 {{ if (eq $season "easter") }}{{ $alleluia = " Alleluia, alleluia!" }}{{ end }}

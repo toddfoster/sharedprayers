@@ -1,3 +1,4 @@
+#### BCP 82
 ### Jubilate _(Psalm 100)_
 ##### **All:**
 **Be joyful in the Lord, all you lands; *
