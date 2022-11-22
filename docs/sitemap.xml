@@ -133,6 +133,21 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/tags/stt/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekend/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2023/lff2018-hilda-of-whitby/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url>
@@ -1198,6 +1213,11 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/tags/holyweek/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2023/good-friday/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -1439,6 +1459,11 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/ash-wednesday/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekday/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -1893,21 +1918,6 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/tags/stt/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/weekend/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.sharedprayers.net/archive/2022/ep-proper-29/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url>
@@ -1934,11 +1944,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2022/lff2018-hilda-of-whitby/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/weekday/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url>
   
