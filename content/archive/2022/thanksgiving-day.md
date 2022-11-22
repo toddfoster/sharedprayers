@@ -7,10 +7,10 @@ season: pentecost
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
+---
 tags:
 - StT
 - weekday
----
 
 ## We Gather in God's Name
 {{% hymn Entrance "h-290" %}}
@@ -30,7 +30,7 @@ tags:
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/form3 %}}
+{{% misc/litanyofthanksgiving %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
