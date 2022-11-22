@@ -394,7 +394,6 @@ def unpack_liturgy(row):
     bcpp = row[COL_BCPP]
     if bcpp:
         result += "bcppage: " + bcpp + "\n"
-    result += "---\n"
 
     tagstring = row[COL_TAGS].strip()
     if tagstring:
@@ -404,6 +403,8 @@ def unpack_liturgy(row):
             result += "tags:\n"
             for t in tags:
                 result += "- " + t + "\n"
+
+    result += "---\n"
 
     closed_codes = ["lesson", "he/eucharisticprayer/b", "he/eucharisticprayer/a"]
     hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
