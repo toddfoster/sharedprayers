@@ -7,10 +7,10 @@ season: pentecost
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
----
 tags:
 - StT
 - weekend
+---
 
 ##### pb
 ## We Gather in God's Name

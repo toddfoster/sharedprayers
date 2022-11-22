@@ -7,10 +7,10 @@ season: christmas
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
----
 tags:
 - StT
 - weekday
+---
 
 ## We Gather in God's Name
 {{% advent/wreath %}}

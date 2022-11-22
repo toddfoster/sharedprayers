@@ -7,10 +7,10 @@ season: lent
 weekday: friday
 rite: Good Friday
 bcppage: 276ff.
----
 tags:
 - StT
 - holyweek
+---
 
 ## We Gather in God's Name
 {{% he/goodfriday/greeting %}}

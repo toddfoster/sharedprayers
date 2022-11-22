@@ -7,10 +7,10 @@ season: easter
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
----
 tags:
 - StT
 - weekend
+---
 
 ## We Gather in God's Name
 {{% hymn Entrance "h-427" %}}
