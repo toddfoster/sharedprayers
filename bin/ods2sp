@@ -355,7 +355,8 @@ def lectionary_year_from_date(d):
     return lectionaryyear(year)
 
 COL_DATE = 0
-COL_CODE = 4
+COL_TAGS = 4
+COL_CODE = 5
 COL_RITE = COL_CODE + 1
 COL_BCPP = COL_RITE + 1
 COL_BEGN = COL_BCPP + 1
@@ -388,13 +389,21 @@ def unpack_liturgy(row):
     result += "season: " + liturgyseason(date) + "\n"
     result += "weekday: " + date.strftime("%A").lower() + "\n"
 
-
     if rite:
         result += "rite: " + rite + "\n"
     bcpp = row[COL_BCPP]
     if bcpp:
         result += "bcppage: " + bcpp + "\n"
     result += "---\n"
+
+    tagstring = row[COL_TAGS].strip()
+    if tagstring:
+        tags = tagstring.split(',')
+        tags = [s.strip() for s in tags]
+        if len(tags) > 0:
+            result += "tags:\n"
+            for t in tags:
+                result += "- " + t + "\n"
 
     closed_codes = ["lesson", "he/eucharisticprayer/b", "he/eucharisticprayer/a"]
     hymn_optional_codes = ["he/entrance", "he/sequence", "he/offertory", "he/communion", "he/processional", "he/hymn"]
