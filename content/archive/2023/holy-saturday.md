@@ -8,6 +8,9 @@ weekday: saturday
 rite: Holy Saturday
 bcppage: 283f.
 ---
+tags:
+- StT
+- holyweek
 
 ## We Gather in God's Name
 {{% he/propercollect %}}

@@ -8,6 +8,9 @@ weekday: sunday
 rite: Holy Eucharist
 bcppage: 270ff.
 ---
+tags:
+- StT
+- holyweek
 
 ## We Gather in God's Name
 {{% hymn Entrance "l-31" %}}

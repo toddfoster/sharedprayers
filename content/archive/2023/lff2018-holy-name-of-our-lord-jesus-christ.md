@@ -6,6 +6,9 @@ proper: lff2018-holy-name-of-our-lord-jesus-christ
 season: christmas
 weekday: sunday
 ---
+tags:
+- StT
+- weekend
 {{% lesson "second" /%}}
 {{% he/creed/nicene %}}
 

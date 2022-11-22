@@ -8,6 +8,9 @@ weekday: thursday
 rite: Holy Eucharist
 bcppage: 274/355
 ---
+tags:
+- StT
+- holyweek
 
 ## We Gather in God's Name
 {{% he/greeting/blessthelord %}}

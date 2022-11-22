@@ -8,6 +8,9 @@ weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
+tags:
+- StT
+- weekend
 
 ## We Gather in God's Name
 {{% he/entrance "We three kings (Hymnal 128)" %}}

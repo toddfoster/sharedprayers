@@ -8,6 +8,9 @@ weekday: saturday
 rite: Holy Eucharist
 bcppage: 285ff.
 ---
+tags:
+- StT
+- holyweek
 
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}

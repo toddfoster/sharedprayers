@@ -8,6 +8,9 @@ weekday: sunday
 rite: Holy Eucharist
 bcppage: 351ff.
 ---
+tags:
+- StT
+- weekend
 
 ## We Gather in God's Name
 {{% he/penitentialorder %}}

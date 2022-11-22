@@ -25,8 +25,7 @@ bcppage: 355ff.
 
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/form3 %}}
-{{% he/confession %}}
+{{% misc/litanyofthanksgiving %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
