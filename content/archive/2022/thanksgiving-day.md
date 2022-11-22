@@ -31,7 +31,6 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% misc/litanyofthanksgiving %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
