@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The Nativity of Our Lord Jesus Christ"
 date: 2022-12-25
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-nativity-of-our-lord-jesus-christ
 season: christmas
 weekday: sunday

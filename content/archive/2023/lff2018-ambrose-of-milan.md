@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Ambrose of Milan, Bishop and Theologian, 397"
 date: 2022-12-07
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-ambrose-of-milan
 season: advent
 weekday: wednesday

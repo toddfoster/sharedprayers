@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [Nino of Georgia], Missionary, c.332"
 date: 2022-12-15
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-nino-of-georgia
 season: advent
 weekday: thursday

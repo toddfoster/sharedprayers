@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Thomas Becket, Archbishop of Canterbury and Martyr, 1170"
 date: 2022-12-29
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-thomas-becket
 season: christmas
 weekday: thursday

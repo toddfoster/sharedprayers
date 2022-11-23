@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Saint Stephen, Deacon and Martyr"
 date: 2022-12-26
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-saint-stephen
 season: christmas
 weekday: monday

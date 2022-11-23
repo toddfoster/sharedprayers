@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Saint John, Apostle and Evangelist"
 date: 2022-12-27
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-saint-john
 season: christmas
 weekday: tuesday

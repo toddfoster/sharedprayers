@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [Katharina von Bora], Church Reformer, 1552"
 date: 2022-12-20
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-katharina-von-bora
 season: advent
 weekday: tuesday

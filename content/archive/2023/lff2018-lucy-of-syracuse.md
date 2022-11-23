@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [Lucy of Syracuse], Martyr, 304"
 date: 2022-12-13
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-lucy-of-syracuse
 season: advent
 weekday: tuesday

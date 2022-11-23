@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [John of the Cross], Mystic and Monastic Reformer, 1591"
 date: 2022-12-14
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-john-of-the-cross
 season: advent
 weekday: wednesday

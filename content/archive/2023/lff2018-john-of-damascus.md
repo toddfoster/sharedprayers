@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for John of Damascus, Priest and Theologian, c.760"
 date: 2022-12-04
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-john-of-damascus
 season: advent
 weekday: sunday

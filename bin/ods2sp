@@ -224,7 +224,7 @@ def liturgydate(day, year):
         when = date.fromisoformat(value)
         when = date(year, when.month, when.day)
         # correct for static dates that occur between advent 1 & turn of year
-        if when > liturgydate('first-sunday-of-advent', year+1):
+        if when >= liturgydate('first-sunday-of-advent', year+1):
             when = date(year-1, when.month, when.day)
         return when
 
@@ -349,8 +349,9 @@ def generate_lectionary(year, day):
 
 def lectionary_year_from_date(d):
     year = d.year
-    holy_name = liturgydate("holy-name", year)
-    if d < holy_name:
+    if liturgyseason(d) == "advent":
+        year = year + 1
+    elif liturgyseason(d) == "christmas" and d.month == 12:
         year = year + 1
     return lectionaryyear(year)
 

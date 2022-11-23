@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Holy Innocents"
 date: 2022-12-28
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-holy-innocents
 season: christmas
 weekday: wednesday

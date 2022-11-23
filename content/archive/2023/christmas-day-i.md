@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
 date: 2022-12-25
-lectionaryyear: c
+lectionaryyear: a
 proper: christmas-day-i
 season: christmas
 weekday: sunday

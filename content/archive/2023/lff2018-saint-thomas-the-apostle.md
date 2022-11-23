@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Saint Thomas the Apostle"
 date: 2022-12-21
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-saint-thomas-the-apostle
 season: advent
 weekday: wednesday

@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Nicholas of Myra, Bishop, c.342"
 date: 2022-12-06
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-nicholas-of-myra
 season: advent
 weekday: tuesday

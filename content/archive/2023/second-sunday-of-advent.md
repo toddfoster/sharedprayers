@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The Second Sunday of Advent"
 date: 2022-12-04
-lectionaryyear: c
+lectionaryyear: a
 proper: second-sunday-of-advent
 season: advent
 weekday: sunday

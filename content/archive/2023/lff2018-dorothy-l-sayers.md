@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [Dorothy L Sayers], Apologist and Spiritual Writer, 1957"
 date: 2022-12-17
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-dorothy-l-sayers
 season: advent
 weekday: saturday

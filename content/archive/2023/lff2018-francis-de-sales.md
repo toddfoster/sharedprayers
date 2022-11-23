@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for [Francis de Sales, Bishop, and Jane de Chantal, Vowed Religious], 1622 and 1641"
 date: 2022-12-12
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-francis-de-sales
 season: advent
 weekday: monday

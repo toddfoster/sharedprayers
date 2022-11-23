@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Clement of Alexandria, Priest and Theologian, c.210"
 date: 2022-12-05
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-clement-of-alexandria
 season: advent
 weekday: monday

@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The Third Sunday of Advent"
 date: 2022-12-11
-lectionaryyear: c
+lectionaryyear: a
 proper: third-sunday-of-advent
 season: advent
 weekday: sunday

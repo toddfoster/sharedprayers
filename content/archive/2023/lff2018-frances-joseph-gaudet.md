@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for Frances Joseph Gaudet, Educator and Social Reformer, 1934"
 date: 2022-12-31
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-frances-joseph-gaudet
 season: christmas
 weekday: saturday

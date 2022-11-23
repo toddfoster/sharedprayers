@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The Fourth Sunday of Advent"
 date: 2022-12-18
-lectionaryyear: c
+lectionaryyear: a
 proper: fourth-sunday-of-advent
 season: advent
 weekday: sunday
