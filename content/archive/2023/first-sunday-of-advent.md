@@ -36,8 +36,12 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "Lo! He comes, with clouds descending (Hymnal 58)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+
+#### Hymnal S-155
 {{% he/fraction/long %}}
 
 ##### pb
