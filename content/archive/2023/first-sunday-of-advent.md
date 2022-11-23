@@ -1,7 +1,7 @@
 ---
 title: "Holy Eucharist for The First Sunday of Advent"
 date: 2022-11-27
-lectionaryyear: c
+lectionaryyear: a
 proper: first-sunday-of-advent
 season: pentecost
 weekday: sunday
