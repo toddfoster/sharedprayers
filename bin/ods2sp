@@ -155,16 +155,19 @@ def straight_quotes(text):
     text = text.replace(double_close, '"')
     return text
 
-def sundayafterchristmas(year):
-    """Calculate the Sunday following Christmas.
+def christmas_sunday(year):
+    """Calculate the Sunday of or following Christmas.
 
     Examples:
-    >>> sundayafterchristmas(2022)
-    datetime.date(2023, 1, 1)
-    >>> sundayafterchristmas(2023)
+    >>> christmas_sunday(2022)
+    datetime.date(2022, 12, 25)
+    >>> christmas_sunday(2023)
     datetime.date(2023, 12, 31)
     """
-    return date(year,12,26) + relativedelta(weekday=calendar.SUNDAY)
+    xmas = date(year, 12, 25)
+    if xmas.weekday() == calendar.SUNDAY:
+        return xmas
+    return date(year, 12, 26) + relativedelta(weekday=calendar.SUNDAY)
 
 def sundayafterepiphany(year):
     """ Calculate the Sunday following Epiphany
@@ -183,6 +186,36 @@ def getrecord(data, day):
             return i
 
 def liturgyseason(the_date):
+    """Return the liturgical season for the given date.
+
+    Examples:
+    >>> liturgyseason(date(2022, 1, 1))
+    'christmas'
+    >>> liturgyseason(date(2022, 1, 5))
+    'christmas'
+    >>> liturgyseason(date(2022, 1, 6))
+    'epiphany'
+    >>> liturgyseason(date(2022, 1, 9))
+    'epiphany'
+    >>> liturgyseason(date(2022, 2, 18))
+    'epiphany'
+    >>> liturgyseason(date(2022, 3, 1))
+    'epiphany'
+    >>> liturgyseason(date(2022, 3, 2))
+    'lent'
+    >>> liturgyseason(date(2022, 4, 16))
+    'lent'
+    >>> liturgyseason(date(2022, 4, 17))
+    'easter'
+    >>> liturgyseason(date(2022, 6, 5))
+    'pentecost'
+    >>> liturgyseason(date(2022, 11, 26))
+    'pentecost'
+    >>> liturgyseason(date(2022, 11, 27))
+    'advent'
+    >>> liturgyseason(date(2022, 12, 24))
+    'advent'
+    """
     the_year = the_date.year
 
     if the_date < liturgydate('the-epiphany', the_year):
@@ -200,18 +233,21 @@ def liturgyseason(the_date):
     if the_date < liturgydate("first-sunday-of-advent", the_year+1):
         return "pentecost"
 
-    if the_date.month == 11 or the_date.day < 25:
-        return "advent"
+    if the_date < date(the_year, 12, 25):
+        return 'advent'
     
     return "christmas"
         
 def liturgydate(day, year):
-    """
-    Calculate the calendar date for a liturgy in a liturgical year.
+    """Calculate the calendar date for a liturgy in a liturgical year.
 
-    Liturgical year begins on Advent 1 (fourth Sunday before
-    Christmas). So liturgydate('first-sunday-of-advent', 2022)
-    returns "2021-11-28".
+    Liturgical year begins on Advent 1 (fourth Sunday before Christmas).
+
+    Examples:
+    >>> liturgydate('first-sunday-of-advent', 2023)
+    datetime.date(2022, 11, 27)
+    >>> liturgydate('first-sunday-of-advent', 2024)
+    datetime.date(2023, 12, 3)
     """
     year = int(year)
 
@@ -227,10 +263,10 @@ def liturgydate(day, year):
 
     # methods = ["xmas-last", "date", "eiphany1", "easter", "xmas-next"]
     if method == 'xmas-last':
-        return sundayafterchristmas(year-1) + relativedelta(days=int(value))
+        return christmas_sunday(year-1) + relativedelta(days=int(value))
 
     if method == 'xmas-next':
-        return sundayafterchristmas(year) + relativedelta(days=int(value))
+        return christmas_sunday(year) + relativedelta(days=int(value))
 
     if method == 'epiphany1':
         return sundayafterepiphany(year) + relativedelta(days=int(value))
