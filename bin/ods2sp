@@ -34,6 +34,7 @@ Flags
  - --output -o dir : directory for output
  - --day -d day : code for liturgical day to generate
  - --lectionary: generate a 'lectionary' of lessons on a single page
+ - --test : run tests on this script
  - --help -h : command-line options
  - --usage : more information
 
@@ -97,6 +98,7 @@ parser.add_argument('-d', '--day', type=str,
                     help='specific day code to generate (e.g., first-sunday-of-advent)')
 parser.add_argument('--usage', action="store_true", help="more usage information")
 parser.add_argument('--copyright', action="store_true", help="show copyright info")
+parser.add_argument('--test', action="store_true", help="run tests on script")
 parser.add_argument('--templates', type=str, help='templates file')
 parser.add_argument('--output', type=str, help='output directory')
 parser.add_argument('--debug', action="store_true", help="show debugging info")
@@ -154,9 +156,25 @@ def straight_quotes(text):
     return text
 
 def sundayafterchristmas(year):
+    """Calculate the Sunday following Christmas.
+
+    Examples:
+    >>> sundayafterchristmas(2022)
+    datetime.date(2023, 1, 1)
+    >>> sundayafterchristmas(2023)
+    datetime.date(2023, 12, 31)
+    """
     return date(year,12,26) + relativedelta(weekday=calendar.SUNDAY)
 
 def sundayafterepiphany(year):
+    """ Calculate the Sunday following Epiphany
+
+    Examples:
+    >>> sundayafterepiphany(2022)
+    datetime.date(2022, 1, 9)
+    >>> sundayafterepiphany(2023)
+    datetime.date(2023, 1, 8)
+    """
     return date(year,1,7) + relativedelta(weekday=calendar.SUNDAY)
 
 def getrecord(data, day):
@@ -522,10 +540,14 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
         print ("WARNING: could not locate requested day " + target_day)
 
 
-
-
+if args.test:
+    import doctest
+    failures, tests = doctest.testmod(verbose=True)
+    assert failures == 0
+    sys.exit(0)
 
 if args.lectionary and not args.dry_run:
     generate_lectionary(args.year, args.day)
 else:
     convert_spreadsheet(args.year, args.day, args.force)
+
