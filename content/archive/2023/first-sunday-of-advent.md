@@ -3,7 +3,7 @@ title: "Holy Eucharist for The First Sunday of Advent"
 date: 2022-11-27
 lectionaryyear: a
 proper: first-sunday-of-advent
-season: pentecost
+season: advent
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.

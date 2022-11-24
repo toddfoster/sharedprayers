@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for [Francis Xavier], Priest and Missionary, 1552"
 date: 2022-12-03
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-francis-xavier
-season: pentecost
+season: advent
 weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.

@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for [Charles de Foucauld], Monastic and Martyr, 1916"
 date: 2022-12-01
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-charles-de-foucauld
-season: pentecost
+season: advent
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.

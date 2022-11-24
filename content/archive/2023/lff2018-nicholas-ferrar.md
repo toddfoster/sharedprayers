@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for Nicholas Ferrar, Deacon, 1637"
 date: 2022-12-01
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-nicholas-ferrar
-season: pentecost
+season: advent
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.

@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for Channing Moore Williams, Bishop and Missionary, 1910"
 date: 2022-12-02
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-channing-moore-williams
-season: pentecost
+season: advent
 weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.

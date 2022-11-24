@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for Kamehameha and Emma of Hawaii, King and Queen, 1863 and 1885"
 date: 2022-11-28
-lectionaryyear: c
+lectionaryyear: a
 proper: lff2018-kamehameha
-season: pentecost
+season: advent
 weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.
