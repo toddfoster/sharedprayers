@@ -41,15 +41,17 @@ Flags
 Templates
  Templates are contained in a LibreOffice Calc file. Template will
  be chosen from a sheet named after the desired year. In that sheet,
- a row with the liturgical day code in the fifth column will be
+ a row with the liturgical day code in the sixth column will be
  selected as the chosen template. It is suggested a "default" row
  be provided in case the desired day code is not found. Columns 1-4
- are ignored. Columns 6 and 7 have special meaning, being used to
+ are ignored. Column 5 is for tags delimited by commas. Columns 7
+ and 8 have special meaning, being used to
  populate the "rite:" and "bcppage:" fields of the page headers,
  respectively. Columns that begin with "#" are passed through without
  changes. Columns that begin with ";" are ignored as comments.
  Certain codes will take the next column as a hymn specification
- (or blank).
+ (or blank). Columns can have multiple lines of input, which will
+ be treated independently, as if each were a new column.
 
 The liturgies output, as origianlly implemented, are used to
 populate the website https://www.sharedprayers.net using
@@ -466,49 +468,50 @@ def unpack_liturgy(row):
     maybe_hymn = ""
 
     for col in range(COL_BCPP + 1, len(row)):
-        entry = straight_quotes(row[col])
-        if maybe_hymn:
-            if DEBUG: print("Found maybe hymn: " + maybe_hymn + "(" + entry + ")")
-            if entry:
-                entry = maybe_hymn + ' "' + entry + '"'
+        entries = straight_quotes(row[col]).split('\n')
+        for entry in entries:
+            if maybe_hymn:
+                if DEBUG: print("Found maybe hymn: " + maybe_hymn + "(" + entry + ")")
+                if entry:
+                    entry = maybe_hymn + ' "' + entry + '"'
+                else:
+                    entry = maybe_hymn
+                maybe_hymn = "found"
+
+            # Check for empty cell
+            if not entry:
+                continue
+
+            # Check for comment (";"): skip column
+            if entry.startswith(";"):
+                continue
+
+            # Check for heading ("#"): print column as-is
+            if entry.startswith("#"):
+                result += entry + "\n"
+                continue
+
+            # Check whether to look for a hymn in the next column
+            if maybe_hymn != "found":
+                if entry.startswith("hymn"):
+                    maybe_hymn = entry
+                else:
+                    for code in hymn_optional_codes:
+                        if code in entry:
+                            maybe_hymn = entry
+            if maybe_hymn and maybe_hymn != "found":
+                continue
+
+            # Add entry with or without a closer
+            needs_closer = False
+            for code in closed_codes:
+                needs_closer = needs_closer or code in entry
+            needs_closer = needs_closer and not entry.endswith(" /")
+            if needs_closer:
+                result += '{{% ' + entry.strip() + " /%}}\n"
             else:
-                entry = maybe_hymn
-            maybe_hymn = "found"
-
-        # Check for empty cell
-        if not entry:
-            continue
-
-        # Check for comment (";"): skip column
-        if entry.startswith(";"):
-            continue
-
-        # Check for heading ("#"): print column as-is
-        if entry.startswith("#"):
-            result += "\n" + entry + "\n"
-            continue
-
-        # Check whether to look for a hymn in the next column
-        if maybe_hymn != "found":
-            if entry.startswith("hymn"):
-                maybe_hymn = entry
-            else:
-                for code in hymn_optional_codes:
-                    if code in entry:
-                        maybe_hymn = entry
-        if maybe_hymn and maybe_hymn != "found":
-            continue
-
-        # Add entry with or without a closer
-        needs_closer = False
-        for code in closed_codes:
-            needs_closer = needs_closer or code in entry
-        needs_closer = needs_closer and not entry.endswith(" /")
-        if needs_closer:
-            result += '{{% ' + entry.strip() + " /%}}\n"
-        else:
-            result += '{{% ' + entry.strip() + " %}}\n"
-        maybe_hymn = ""
+                result += '{{% ' + entry.strip() + " %}}\n"
+            maybe_hymn = ""
     return result
 
 def convert_spreadsheet(year, target_day, force_rewrite_history):
