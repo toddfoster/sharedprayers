@@ -11,7 +11,6 @@ tags:
 - StT
 - holyweek
 ---
-
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}
 {{% he/eastervigil/peoples-exsultet %}}
@@ -20,32 +19,25 @@ tags:
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "second" /%}}
 {{% he/eastervigil/greatalleluia %}}
 {{% lesson "gospel" /%}}
-
 ## We Respond in Faith
 {{% he/creed/holybaptism-presentation %}}
 {{% hymn "h-469" %}}
 {{% he/creed/holybaptism-water %}}
 {{% hymn "h-679" %}}
 {{% he/peace %}}
-
 ## We Offer Ourselves to God
-
 ##### You are invited to bring your candles to light the altar at this time.
 {{% he/anthem "_Christ is Risen, Alleluia_ (St. Thomas' Choir)" %}}
 {{% hymn Offertory "h-174" %}}
 {{% he/eucharisticprayer/d sanctus="Hymnal S-125" %}}
-
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-
 #### S-155
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

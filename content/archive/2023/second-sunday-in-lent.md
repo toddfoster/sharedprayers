@@ -11,13 +11,11 @@ tags:
 - StT
 - weekend
 ---
-
 ## We Gather in God's Name
 {{% he/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
@@ -25,7 +23,6 @@ tags:
 {{% hymn Sequence "l-76" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
@@ -34,13 +31,10 @@ tags:
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-210" %}}
 {{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
-
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
-
 #### LEVAS 269
 {{% he/fraction/agnusdei %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

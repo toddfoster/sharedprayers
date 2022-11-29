@@ -11,17 +11,14 @@ tags:
 - StT
 - weekend
 ---
-
 ## We Gather in God's Name
 {{% hymn Entrance "h-450" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-
 #### Hymnal S-280
 {{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
@@ -29,7 +26,6 @@ tags:
 {{% hymn Sequence "H-405" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
@@ -38,13 +34,10 @@ tags:
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "h-495" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
-
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-
 #### Hymnal S-155
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

@@ -8,20 +8,17 @@ weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
 ---
-
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
@@ -31,7 +28,6 @@ bcppage: 355ff.
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

@@ -11,7 +11,6 @@ tags:
 - StT
 - weekend
 ---
-
 ## We Gather in God's Name
 {{% he/entrance "We three kings (Hymnal 128)" %}}
 {{% he/greeting/blessedbegod %}}
@@ -19,7 +18,6 @@ tags:
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
@@ -27,24 +25,19 @@ tags:
 {{% he/sequence "How firm a foundation (Hymnal 637)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
-
 #### Epiphany Proclamation, Blessing of Chalk
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "O love, how deep (Hymnal 448, vv. 1--3, 6)" %}}
 {{% he/eucharisticprayer/b /%}}
-
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-
 #### Hymnal S-154
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

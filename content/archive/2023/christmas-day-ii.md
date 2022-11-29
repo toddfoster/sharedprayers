@@ -11,14 +11,12 @@ tags:
 - StT
 - weekday
 ---
-
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
@@ -26,7 +24,6 @@ tags:
 {{% he/sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
@@ -37,7 +34,6 @@ tags:
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

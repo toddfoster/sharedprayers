@@ -11,7 +11,6 @@ tags:
 - StT
 - weekend
 ---
-
 ## We Gather in God's Name
 {{% he/entrance "Christ is the world's true light (Hymnal 542)" %}}
 {{% he/greeting/blessedbegod %}}
@@ -19,7 +18,6 @@ tags:
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
@@ -27,7 +25,6 @@ tags:
 {{% he/sequence "Jesus shall reign where'er the sun (Hymnal 544)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
@@ -37,13 +34,10 @@ tags:
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "The stars declare his glory (Hymnal 431)" %}}
 {{% he/eucharisticprayer/b /%}}
-
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-
 #### Hymnal S-154
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

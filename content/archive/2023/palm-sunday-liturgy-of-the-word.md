@@ -11,21 +11,17 @@ tags:
 - StT
 - holyweek
 ---
-
 ## We Gather in God's Name
 {{% hymn Entrance "l-31" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
-
 ##### Today we read Psalm 31 in its entirety, in solidarity with those suffering in Ukraine.
 {{% lesson "psalm" 31 /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-189" %}}
 {{% he/palmsunday/passion/c %}}
-
 ## We Respond in Faith
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
@@ -33,13 +29,10 @@ tags:
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-36" %}}
 {{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
-
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
-
 #### LEVAS 269
 {{% he/fraction/agnusdei %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

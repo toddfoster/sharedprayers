@@ -11,17 +11,14 @@ tags:
 - StT
 - holyweek
 ---
-
 ## We Gather in God's Name
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% lesson "third" /%}}
 {{% he/homily/brief %}}
-
 ## We Respond in Faith
 {{% burial/inthemidstoflife %}}
 {{% he/lordsprayer/letuspray %}}

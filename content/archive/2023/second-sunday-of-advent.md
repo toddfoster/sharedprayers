@@ -11,16 +11,13 @@ tags:
 - StT
 - weekend
 ---
-
 ##### pb
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-
 ###### pb
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
@@ -29,7 +26,6 @@ tags:
 {{% he/sequence "Choir Anthem: Watchman, tell us of the night" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
@@ -43,11 +39,9 @@ tags:
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-
 ## Choir Anthem: Taste and See
 {{% hymn Communion "Comfort, comfort ye my people (Hymnal 67)" %}}
 {{% he/postcommunion/almighty %}}

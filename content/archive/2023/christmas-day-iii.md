@@ -11,7 +11,6 @@ tags:
 - StT
 - weekday
 ---
-
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
@@ -20,14 +19,12 @@ tags:
 {{% he/hymnofpraise "Hark! the herald angels sing (Hymnal 87)" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
@@ -39,7 +36,6 @@ tags:
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

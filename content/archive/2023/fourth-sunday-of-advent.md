@@ -11,27 +11,22 @@ tags:
 - StT
 - weekend
 ---
-
 ##### pb
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-
 ###### pb
 {{% he/propercollect %}}
 {{% rubric-sit %}}
-
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-
 #### Hymnal 437
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% he/sequence "Come, thou long-expected Jesus (Hymnal 66)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-
 ##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
@@ -44,7 +39,6 @@ tags:
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
-
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
