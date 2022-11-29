@@ -9,7 +9,7 @@ rite: Holy Eucharist
 bcppage: 355ff.
 ---
 ## We Gather in God's Name
-{{% he/entrance "Once in royal David's city (Hymnal 102)" %}}
+{{% hymn Entrance "Once in royal David's city (Hymnal 102)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/hymnofpraise %}}
@@ -19,7 +19,7 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "God rest you merry, gentlemen (Hymnal 105)" %}}
+{{% hymn Sequence "God rest you merry, gentlemen (Hymnal 105)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -36,7 +36,7 @@ bcppage: 355ff.
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "Lo, how a Rose e'er blooming (Hymnal 81)" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-short %}}
 {{% hymn Processional "Joy to the world! the Lord is come (Hymnal 100)" %}}
 {{% he/dismissal/goinpeace %}}

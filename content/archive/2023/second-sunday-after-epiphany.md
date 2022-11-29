@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/entrance "Christ is the world's true light (Hymnal 542)" %}}
+{{% hymn Entrance "Christ is the world's true light (Hymnal 542)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Jesus shall reign where'er the sun (Hymnal 544)" %}}
+{{% hymn Sequence "Jesus shall reign where'er the sun (Hymnal 544)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,7 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "God be in my head (Hymnal 694)" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-short %}}
 {{% hymn Processional "Lord, you give the great commission (Hymnal 528)" %}}
 {{% he/dismissal/goinpeace %}}

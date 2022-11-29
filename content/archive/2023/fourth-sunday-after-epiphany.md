@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/entrance "There's a wideness in God's mercy (Hymnal 470)" %}}
+{{% hymn Entrance "There's a wideness in God's mercy (Hymnal 470)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Open your ears, O faithful people (Hymnal 536)" %}}
+{{% hymn Sequence "Open your ears, O faithful people (Hymnal 536)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,7 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "Here in Christ we gather (Hymnal 577)" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-short %}}
 {{% hymn Processional "Brightest and best of the stars of the morning (Hymnal 117)" %}}
 {{% he/dismissal/goinpeace %}}

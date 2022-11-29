@@ -15,37 +15,43 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-###### pb
+{{% hymn Entrance "H-72" %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/collect-purity %}}
+#### Hymnal S-280
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-#### Hymnal 679
+#### Hymnal 444
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "There's a voice in the wilderness crying (Hymnal 75)" %}}
+{{% hymn Sequence "h-482" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/comeandsave %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "Come, thou long-expected Jesus (Hymnal 66)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "H-429" %}}
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "Watchman, tell us of the night (Hymnal 640)" %}}
-{{% he/postcommunion/almighty %}}
+{{% hymn Communion "h-81" %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/advent-short %}}
-{{% hymn Processional "On Jordan's bank the Baptist's cry (Hymnal 76)" %}}
+{{% hymn Processional "h-66" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

@@ -40,7 +40,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-long %}}
 {{% hymn Processional "Joy to the world! the Lord is come (Hymnal 100)" %}}
 {{% he/dismissal/goinpeace %}}

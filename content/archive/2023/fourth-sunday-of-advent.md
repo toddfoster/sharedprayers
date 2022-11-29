@@ -15,37 +15,41 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-###### pb
+{{% hymn Entrance "L-21" %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/collect-purity %}}
+{{% he/songofpraise/acapellachoice %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-#### Hymnal 437
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Come, thou long-expected Jesus (Hymnal 66)" %}}
+{{% hymn Sequence "l-73" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/comeandsave %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "Lo! he comes with clouds descending (Hymnal 57)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "l-60" %}}
+{{% he/eucharisticprayer/c sanctus="LEVAS 255" %}}
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+#### LEVAS 269
+{{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "Hark! the glad sound! (Hymnal 72)" %}}
-{{% he/postcommunion/almighty %}}
+{{% hymn Communion "l-75" %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/advent-short %}}
-{{% hymn Processional "The King shall come (Hymnal 73)" %}}
+{{% hymn Processional "l-14" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

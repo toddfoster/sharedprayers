@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/entrance "We three kings (Hymnal 128)" %}}
+{{% hymn Entrance "We three kings (Hymnal 128)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "How firm a foundation (Hymnal 637)" %}}
+{{% hymn Sequence "How firm a foundation (Hymnal 637)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,7 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "I come, the great Redeemer cries (Hymnal 116)" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-long %}}
 {{% hymn Processional "Songs of faithfulness and praise (Hymnal 135)" %}}
 {{% he/dismissal/goinpeace %}}

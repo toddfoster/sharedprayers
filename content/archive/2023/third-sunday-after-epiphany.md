@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/entrance "Soon and very soon (LEVAS 14)" %}}
+{{% hymn Entrance "Soon and very soon (LEVAS 14)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/gloriaexcelsis %}}
@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% he/sequence "Christ has arisen, Alleluia (LEVAS 41)" %}}
+{{% hymn Sequence "Christ has arisen, Alleluia (LEVAS 41)" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,7 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "O Lord my God (LEVAS 60)" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-short %}}
 {{% hymn Processional "My hope is built on nothing less (LEVAS 99)" %}}
 {{% he/dismissal/goinpeace %}}

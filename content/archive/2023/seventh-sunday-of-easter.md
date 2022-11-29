@@ -16,7 +16,7 @@ tags:
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
-{{% he/songofpraise/trishagion %}}
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word

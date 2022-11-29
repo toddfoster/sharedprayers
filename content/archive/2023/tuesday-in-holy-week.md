@@ -33,7 +33,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}

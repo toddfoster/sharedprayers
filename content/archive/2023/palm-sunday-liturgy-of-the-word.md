@@ -37,7 +37,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "l-37" %}}
-{{% he/postcommunion/almighty %}}
+{{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
 {{% hymn Processional "l-29" %}}
 {{% he/dismissal/letusbless %}}
