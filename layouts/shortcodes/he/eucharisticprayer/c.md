@@ -46,6 +46,7 @@ By his wounds, we are healed.**
 ##### Celebrant:
 And therefore we praise you, joining with the heavenly chorus, with prophets, apostles, and martyrs, and with all those in every generation who have looked to you in hope, to proclaim with them your glory, in their unending hymn:
 
+{{ with .Get "sanctus" }}#### {{ . }}{{end}}
 ### Sanctus
 ##### Celebrant and **People:**
 **Holy, holy, holy Lord, God of power and might,
