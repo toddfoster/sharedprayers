@@ -19,11 +19,11 @@ tags:
 {{% lesson first /%}}
 ##### Silence may be kept
 {{% rubric-stand %}}
-{{% canticles/15-magnificat %}}
+{{% canticles/15-magnificat-ep %}}
 {{% rubric-sit %}}
 {{% lesson second /%}}
 {{% rubric-stand %}}
-{{% canticles/17-nunc %}}
+{{% canticles/17-nunc-ep %}}
 {{% rubric-sit %}}
 {{% lesson third /%}}
 ##### Silence may be kept
