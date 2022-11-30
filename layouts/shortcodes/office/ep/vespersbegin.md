@@ -1,5 +1,4 @@
 ##### The church is dark, or partially so, when the service is to begin.
-
 ##### All stand, and the Officiant greets the people with these words
 
 #### BCP 109
@@ -18,3 +17,19 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 **Amen.**
 
 ##### The candles at the Altar are now lighted, as are other candles and lamps as may be convenient. During the candle-lighting silence is kept.
+##### The following hymn is then given voice.
+
+#### BCP 112
+_O Gracious Light_  --- _Phos hilaron_
+##### Officiant and **People:**
+**O gracious light,
+pure brightness of the everliving Father in heaven,
+O Jesus Christ, holy and blessed!**
+
+**Now as we come to the setting of the sun,
+and our eyes behold the vesper light,
+we sing your praises, O God:  Father, Son, and Holy Spirit.**
+
+**You are worthy at all times to be praised by happy voices,
+O Son of God, O Giver of Life,
+and to be glorified through all the worlds.**

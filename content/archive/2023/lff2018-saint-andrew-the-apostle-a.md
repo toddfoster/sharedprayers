@@ -12,11 +12,10 @@ tags:
 - weekday
 ---
 {{% office/ep/vespersbegin %}}
-##### The following hymn is then given voice.
-{{% office/ep/phoshilaron %}}
 {{% office/psalmintro %}}
 {{% lesson psalm /%}}
 {{% office/psalmgloria %}}
+##### pb 
 ## The Lessons
 {{% lesson first /%}}
 ##### Silence may be kept
