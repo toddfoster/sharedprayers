@@ -27,7 +27,7 @@ tags:
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
 #### Epiphany Proclamation, Blessing of Chalk
 {{% stt/announcements %}}
