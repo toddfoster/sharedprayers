@@ -26,7 +26,7 @@ tags:
 ## We Hear God's Word
 {{% lesson "first" /%}}
 #### Hymnal 444
-{{% lesson "psalm" /%}}
+{{% canticles/15-magnificat %}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-482" %}}
 {{% lesson "gospel" /%}}
