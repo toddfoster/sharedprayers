@@ -1,36 +1,44 @@
 ---
-title: "Holy Eucharist for Clement of Alexandria, Priest and Theologian, c.210"
-date: 2022-12-07
+title: Church in the Woods / Holy Eucharist (Advent 3)
+date: 2022-12-08
 lectionaryyear: a
-proper: lff2018-clement-of-alexandria
+proper: third-sunday-of-advent
 season: advent
-weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 tags:
 - StT
 - weekday
 ---
+
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+##### pb
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
+
+##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% canticles/15-magnificat %}}
+##### pb 
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
+##### pb 
 ## We Respond in Faith
-{{% he/pop/form3 %}}
-{{% he/confession %}}
+{{% he/pop/form5-rowan %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+
+## We Offer Ourselves To God
+{{%he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
+##### pb
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+{{% he/fraction/short %}}
+
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
@@ -38,4 +46,3 @@ tags:
 {{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-

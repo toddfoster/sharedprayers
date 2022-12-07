@@ -1,41 +1,49 @@
 ---
-title: "Holy Eucharist for Clement of Alexandria, Priest and Theologian, c.210"
-date: 2022-12-07
+title: Holy Eucharist at Cardinal Village (Advent 3)
+date: 2022-12-08
 lectionaryyear: a
-proper: lff2018-clement-of-alexandria
+proper: third-sunday-of-advent
 season: advent
-weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
 tags:
 - StT
 - weekday
 ---
+
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+##### pb
+{{% he/songofpraise/lordhavemercy %}}
 {{% he/propercollect %}}
-{{% rubric-sit %}}
+
+##### pb 
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% canticles/15-magnificat %}}
+{{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
+##### pb
 ## We Respond in Faith
+{{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
+
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% he/eucharisticprayer/b /%}}
-{{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
 ##### pb
+{{% he/lordsprayer/1 %}}
+
+{{% he/fraction/long %}}
+
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+##### pb
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/blessing/trinity-long %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
-
