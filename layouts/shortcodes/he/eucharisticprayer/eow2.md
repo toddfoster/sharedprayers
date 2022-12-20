@@ -17,7 +17,7 @@ Lift up your hearts.
 Let us give thanks to the Lord our God.
 
 ##### **People:**
-**It is right to give God thanks and praise.**
+**It is right to give God our thanks and praise.**
 
 ##### The Presider continues:
 We praise you and we bless you, holy and gracious God, source of life abundant. From before time you made ready the creation. Your Spirit moved over the deep and brought all things into being: sun, moon, and stars; earth, winds, and waters; and every living thing.

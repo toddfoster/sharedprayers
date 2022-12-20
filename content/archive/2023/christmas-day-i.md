@@ -1,45 +1,47 @@
 ---
 title: "Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
-date: 2022-12-25
+date: 2022-12-24
 lectionaryyear: a
 proper: christmas-day-i
-season: christmas
-weekday: sunday
+season: advent
+weekday: saturday
 rite: Holy Eucharist
-bcppage: 355ff.
 tags:
 - StT
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/trishagion %}}
-{{% he/propercollect %}}
+{{% advent/wreath %}}
+{{% he/greeting/blessedareyou %}}
+{{% hymn h-83 %}}
+{{% he/eow/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+### Sequence Anthem: The Virgin Mary by St. Thomas' Children
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
-{{% he/peace %}}
+{{% he/eow/nicene %}}
+{{% he/pop/children %}}
+{{% he/eow/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-101" %}}
+{{% he/eucharisticprayer/eow2 sanctus="Hymnal S-130" %}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+#### Hymnal S-161
+{{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
-{{% he/postcommunion/eternal %}}
+{{% hymn Communion "h-111" %}}
+{{% hymn Communion "h-89" %}}
+{{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
+{{% hymn Processional "h-100" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
