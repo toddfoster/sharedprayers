@@ -26,6 +26,7 @@ You made us in your image, and taught us to walk in your ways. But we rebelled a
 
 And so this day we join with Saints and Angels in the chorus of praise that rings through eternity, lifting our voices to magnify you as we sing:
 
+{{ with .Get "sanctus" }}#### {{ . }}{{end}}
 ### Sanctus
 ##### Presider and **People:**
 **Holy, holy, holy Lord, God of power and might,
