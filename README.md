@@ -21,6 +21,10 @@ At a minimum you're going to want:
 - Run `hugo` to build static pages
 - Push to [github](https://github.com/toddfoster/sharedprayers) (or your host of choice) to deploy
 
+# Tags
+There's a tags field that can be filled in, and picked up by index pages to automatically include select pages. The way I include them 
+`index/listliturgies "StT weekend"` will pick up pages containing _all_ the specified tags for the current month _or_ the first week of the subsequent month. Because that's how I like to populate my indices.
+
 # Acknowledgements
 No effort stands alone. I particularly want to recognize important inspirations and data sources specific to this project:
 - Kelly Puckett, maintainer of the invaluable [lectionarypage.net](http://lectionarypage.net/).
@@ -28,6 +32,11 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home) and [Common Prayer Online](https://www.commonprayeronline.org/) with [readings for the daily office](https://www.commonprayeronline.org/en/daily-readings), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
 
 # Tasks
+
+### IDEAS
+- provide aliases to bcp/xxx to include by page number
+- provide he/rite1/ versions
+- provide he/eow/ versions
 
 ### TODO
 - update lff2json to remove accents from slugs
