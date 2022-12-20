@@ -29,7 +29,7 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "The snow lay on the ground (Hymnal 110)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb

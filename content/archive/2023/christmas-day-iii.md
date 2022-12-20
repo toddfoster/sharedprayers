@@ -14,16 +14,16 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
+{{% hymn Entrance "h-89" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/hymnofpraise "Hark! the herald angels sing (Hymnal 87)" %}}
-{{% he/propercollect %}}
+{{% hymn h-87 "he/propercollect" %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% lesson "gospel" /%}}
+{{% hymn Sequence "h-79" %}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
@@ -32,17 +32,19 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "O Little Town of Bethlehem (Hymnal 79)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-105" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-115" %}}
+{{% hymn Communion "h-109" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-long %}}
-{{% hymn Processional "Joy to the world! the Lord is come (Hymnal 100)" %}}
+{{% hymn Processional "h-100" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
