@@ -9,7 +9,7 @@ tags:
 
 ---
 ### About the Longest Night
-The **winter solstice** happens around 21 December every year. This is the longest night of the year, before the nights start getting shorter and the days longer. The Advent and Christmas seasons can feel like long, dark nights for those who find themselves out of step with the persistent and often artificial “cheer” of the season that assaults us from every side. The backdrop of traditions and cheeriness can remind us of our own losses and sadness. The added stresses of the continuing pandemic, politics, unrest, and visible injustice have added to our weight of sadness in 2021. The absence of the sun during this time of year doesn’t help either!
+The **winter solstice** happens around 21 December every year. This is the longest night of the year, before the nights start getting shorter and the days longer. The Advent and Christmas seasons can feel like long, dark nights for those who find themselves out of step with the persistent and often artificial “cheer” of the season that assaults us from every side. The backdrop of traditions and cheeriness can remind us of our own losses and sadness. The added stresses of the continuing pandemic, politics, unrest, and visible injustice add to our weight of sadness.
 
 The **Nativity of our Lord** was a time for rejoicing, but it also involved much fear, sadness, anxiety, and terror. The Incarnation of our Lord meant that God in the flesh would experience the full range of human emotions, joining us in our mourning as well as in our joy.
 
@@ -29,13 +29,15 @@ St. Thomas’ mission and ministry is completely funded by its members and guest
 ##### Presider:
 > O God of peace, who has taught us that in returning and rest we shall be saved, in quietness and confidence shall be our strength: By the might of your Spirit lift us, we pray you, to your presence, where we may be still and know that you are God; through Jesus Christ our Lord.  **Amen.**
 
+##### pb 
 {{% rubric-sit %}}
 ## We Hear God’s Word
 {{% lesson "first" "Lamentations 3.1–9, 19–24" /%}}
+##### pb 
 {{% lesson psalm 123 /%}}
+##### pb 
 {{% lesson "gospel" "John 11:17–35" /%}}
 {{% he/homily/brief %}}
-
 
 ## We Respond in Faith
 {{% rubric-stand %}}
