@@ -15,7 +15,7 @@ The **Nativity of our Lord** was a time for rejoicing, but it also involved much
 
 The **Longest Night Mass** is intended to bring balance to our Advent and Christmas observances, making space for those emotions which don’t fit into the advertisers’ profit motive, but are very much a part of our lives. Sadness, emptiness, and even depression are valid, important emotions for Christians. They are God-given and correspond to the very real challenges and brokenness in our lives. You are welcome here.
 
-St. Thomas’ mission and ministry is completely funded by its members and guests. If you would like to support the work we do, you can find an offering basin behind the last pew, or you can [give online](https://donate.stthomasglassboro.org).
+St. Thomas’ mission and ministry is completely funded by its members and guests. If you would like to contribute to the work we do, you can find an offering basin behind the last pew before the offertory, or you can [give online](https://donate.stthomasglassboro.org).
 
 -------------
 
