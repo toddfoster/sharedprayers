@@ -14,16 +14,18 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-{{% hymn Entrance "h-89" %}}
+{{% hymn Entrance "h-100" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% hymn h-87 "he/propercollect" %}}
+### Hymn of Praise: Angels we have heard on high (Hymnal 96)
+{{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-79" %}}
+{{% hymn Sequence "h-99" %}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
@@ -44,7 +46,7 @@ tags:
 {{% hymn Communion "h-109" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-long %}}
-{{% hymn Processional "h-100" %}}
+{{% hymn Processional "h-101" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
