@@ -1,4 +1,4 @@
-### Blessing of Chalk
+### Blessing of Chalk 
 
 ##### Presider:
 Our help is the name of the Lord:
@@ -25,3 +25,4 @@ Loving God, bless this chalk which you have created, that it may be helpful to y
 
 ##### **People:**
 **Amen.**
+#### _[src](https://interruptingthesilence.com/2019/01/03/blessing-chalk-for-an-epiphany-house-blessing/)_
