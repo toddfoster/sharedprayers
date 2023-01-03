@@ -1,21 +1,19 @@
 ---
-title: "Holy Eucharist for The First Sunday after the Epiphany: The Baptism of Our Lord"
+title: "Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord"
 date: 2023-01-08
 lectionaryyear: a
 proper: first-sunday-after-epiphany
 season: epiphany
 weekday: sunday
-rite: Holy Eucharist
-bcppage: 355ff.
+rite: Holy Baptism
+bcppage: 299ff.
 tags:
 - StT
 - weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "We three kings (Hymnal 128)" %}}
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% baptism/blessedbegod %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
@@ -26,10 +24,13 @@ tags:
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
-{{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/gloryandpraise %}}
+{{% baptism/presentation %}}
+{{% baptism/covenant %}}
+{{% baptism/prayers %}}
+{{% baptism/thanksgiving %}}
+{{% baptism/baptism %}}
 {{% he/peace %}}
-#### Epiphany Proclamation, Blessing of Chalk
+### Epiphany Proclamation
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "O love, how deep (Hymnal 448, vv. 1--3, 6)" %}}
