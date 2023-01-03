@@ -28,6 +28,7 @@ tags:
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% misc/blessingchalk %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% he/eucharisticprayer/b /%}}
