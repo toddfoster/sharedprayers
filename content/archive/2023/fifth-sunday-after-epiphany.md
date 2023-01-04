@@ -15,7 +15,7 @@ tags:
 {{% hymn Entrance "l-12" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word

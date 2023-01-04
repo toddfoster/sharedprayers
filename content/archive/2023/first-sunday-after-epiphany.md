@@ -7,9 +7,6 @@ season: epiphany
 weekday: sunday
 rite: Holy Baptism
 bcppage: 299ff.
-tags:
-- StT
-- weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "We three kings (Hymnal 128)" %}}

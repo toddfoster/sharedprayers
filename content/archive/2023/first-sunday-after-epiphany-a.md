@@ -7,12 +7,15 @@ season: epiphany
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "We three kings (Hymnal 128)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word

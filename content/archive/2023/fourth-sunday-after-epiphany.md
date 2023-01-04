@@ -15,7 +15,7 @@ tags:
 {{% hymn Entrance "There's a wideness in God's mercy (Hymnal 470)" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
