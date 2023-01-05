@@ -31,10 +31,10 @@ bcppage: 299ff.
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "O love, how deep (Hymnal 448, vv. 1--3, 6)" %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-155
+#### Hymnal S-154
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
