@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "Christ is the world's true light (Hymnal 542)" %}}
+{{% hymn Entrance "h-542" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/trishagion %}}
@@ -22,29 +22,29 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "Jesus shall reign where'er the sun (Hymnal 544)" %}}
+{{% hymn Sequence "h-455" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "The stars declare his glory (Hymnal 431)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-232" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-154
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "God be in my head (Hymnal 694)" %}}
+{{% hymn Communion "h-558" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-short %}}
-{{% hymn Processional "Lord, you give the great commission (Hymnal 528)" %}}
+{{% hymn Processional "h-618" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

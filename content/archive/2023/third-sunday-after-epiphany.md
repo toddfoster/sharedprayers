@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "Soon and very soon (LEVAS 14)" %}}
+{{% hymn Entrance "h-688" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/trishagion %}}
@@ -22,29 +22,29 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "Christ has arisen, Alleluia (LEVAS 41)" %}}
+{{% hymn Sequence "h-577" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "Alas! And did my Savior bleed (LEVAS 30)" %}}
-{{% he/eucharisticprayer/b /%}}
-#### LEVAS 264
+{{% hymn Offertory "h-304" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-154
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "O Lord my God (LEVAS 60)" %}}
+{{% hymn Communion "h-660" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-short %}}
-{{% hymn Processional "My hope is built on nothing less (LEVAS 99)" %}}
+{{% hymn Processional "h-550" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

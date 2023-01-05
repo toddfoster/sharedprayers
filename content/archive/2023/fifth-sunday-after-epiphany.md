@@ -27,7 +27,7 @@ tags:
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/commissionvestry %}}

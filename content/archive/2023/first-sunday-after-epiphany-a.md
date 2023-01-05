@@ -22,29 +22,29 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "How firm a foundation (Hymnal 637)" %}}
+{{% hymn Sequence "h-637" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/gloryandpraise %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 ### Epiphany Proclamation
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "O love, how deep (Hymnal 448, vv. 1--3, 6)" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-154
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "I come, the great Redeemer cries (Hymnal 116)" %}}
+{{% hymn Communion "h-116" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/epiphany-long %}}
-{{% hymn Processional "Songs of faithfulness and praise (Hymnal 135)" %}}
+{{% hymn Processional "h-135" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
