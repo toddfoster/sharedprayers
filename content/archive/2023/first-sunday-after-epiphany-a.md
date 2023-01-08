@@ -42,7 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "h-116" %}}
-{{% he/postcommunion/eternal %}}
+{{% he/postcommunion/almight %}}
 {{% he/blessing/epiphany-long %}}
 {{% hymn Processional "h-135" %}}
 {{% he/dismissal/goinpeace %}}
