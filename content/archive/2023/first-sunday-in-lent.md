@@ -20,27 +20,27 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-529" %}}
+{{% hymn Sequence "l-70" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
+{{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "h-142" %}}
-{{% he/eucharisticprayer/b sanctus="S-124" /%}}
-#### Hymnal S-119
+{{% hymn Offertory "l-178" %}}
+{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
+#### LEVAS 269
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-383" %}}
+{{% hymn Communion "l-188" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "h-559" %}}
+{{% hymn Processional "l-1" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

@@ -27,6 +27,7 @@ tags:
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "l-210" %}}
