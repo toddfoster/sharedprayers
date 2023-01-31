@@ -557,7 +557,6 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
     and possibly excepting dates already passed.
     """
     year = str(year)
-
     target = OUTPUTDIR + "/" + year
     if not args.dry_run:
         os.makedirs(target, exist_ok=True)
