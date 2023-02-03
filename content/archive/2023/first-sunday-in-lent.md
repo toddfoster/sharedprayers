@@ -28,7 +28,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "l-178" %}}
+{{% hymn Offertory "l-1" %}}
 {{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
@@ -40,7 +40,7 @@ tags:
 {{% hymn Communion "l-188" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "l-1" %}}
+{{% hymn Processional "l-178" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
