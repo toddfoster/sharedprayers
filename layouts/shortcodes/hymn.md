@@ -16,7 +16,7 @@
 {{ end }}
 
 {{/* look for hymn text provided */}}
-{{ $filename := printf "%s.md" (path.Join "layouts/shortcodes/hymns" $arg) }}
+{{ $filename := printf "%s.md" (path.Join "layouts/shortcodes/hymns" (lower $arg)) }}
 {{ if fileExists $filename }}
 	{{ $content = $filename | readFile | safeHTML }}
 {{ end }}
