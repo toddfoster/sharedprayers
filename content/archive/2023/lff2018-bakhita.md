@@ -11,6 +11,7 @@ tags:
 - StT
 - weekday
 ---
+##### pb 
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
@@ -19,9 +20,11 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
+##### pb 
 {{% lesson "psalm" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
+##### pb 
 ## We Respond in Faith
 {{% he/pop/form3 %}}
 {{% he/confession %}}
