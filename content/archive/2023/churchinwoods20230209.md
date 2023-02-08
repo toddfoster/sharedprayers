@@ -20,12 +20,9 @@ tags:
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 
-##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-##### pb 
 {{% lesson "psalm" /%}}
-##### pb
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 
@@ -34,10 +31,10 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 
+##### pb
 ## We Offer Ourselves To God
 {{%he/offertory %}}
 {{% he/eucharisticprayer/b /%}}
-##### pb
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/short %}}
 
