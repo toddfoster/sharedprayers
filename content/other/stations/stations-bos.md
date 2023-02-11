@@ -1,5 +1,5 @@
 ---
-title: The Way of the Cross
+title: The Way of the Cross (BOS)
 date: 2021-02-08
 ---
 _according to the Book of Occasional Services (2018, pp. 49ff.)_
@@ -51,6 +51,8 @@ _Presider:_
 
 ##### The procession goes to the First Station.
 
+-----------------
+ 
 ## First Station
 
 ### Jesus is condemned to death
@@ -84,7 +86,8 @@ Holy and Mighty,
 Holy Immortal One, 
 Have mercy upon us.**
 
-
+--------------
+ 
 ## Second Station
 
 ### Jesus takes up his Cross
@@ -119,7 +122,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Third Station
 
 ### Jesus falls the first time
@@ -189,7 +192,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Fifth Station
 
 ### The Cross is laid on Simon of Cyrene
@@ -224,7 +227,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Sixth Station
 
 ### A woman wipes the face of Jesus
@@ -260,7 +263,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Seventh Station
 
 ### Jesus falls a second time
@@ -295,7 +298,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Eighth Station
 
 ### Jesus meets the women of Jerusalem
@@ -330,7 +333,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Ninth Station
 
 ### Jesus falls a third time
@@ -366,7 +369,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Tenth Station
 
 ### Jesus is stripped of his garments
@@ -402,7 +405,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Eleventh Station
 
 ### Jesus is nailed to the Cross
@@ -437,7 +440,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Twelfth Station
 
 ### Jesus dies on the Cross
@@ -472,7 +475,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Thirteenth Station
 
 ### The body of Jesus is placed in the arms of his mother
@@ -507,7 +510,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ## Fourteenth Station
 
 ### Jesus is laid in the tomb
@@ -542,7 +545,7 @@ Holy Immortal One,
 Have mercy upon us.**
 
 ----------
-
+ 
 ### Concluding Prayers before the Altar
 
 _Presider:_
