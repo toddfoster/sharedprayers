@@ -41,7 +41,11 @@ till they seek your name, LORD.
 you alone are the Most High over all the earth.**
 _(PS 83:2-3, 4-5, 6 & 13b, 17 & 19)_
 
-**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+{{% misc/lordsprayer2-short %}}
+
+{{% misc/hailmary2 %}}
+
+{{% misc/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
