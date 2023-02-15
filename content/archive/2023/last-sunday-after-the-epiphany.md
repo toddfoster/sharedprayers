@@ -33,7 +33,7 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 ### Offertory Anthem: We've Come This Far by Faith
-{{% hymn Offertory "l-208" %}}
+{{% hymn Offertory "l-120" %}}
 {{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
