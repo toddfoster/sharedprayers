@@ -15,7 +15,9 @@ tags:
 {{% hymn Entrance "l-14" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/acapellachoice %}}
+### 10.30: _Lift Every Voice and Sing_ (LEVAS 1)
+### or _Trishagion_:
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
