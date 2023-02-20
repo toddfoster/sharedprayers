@@ -6,9 +6,11 @@ _according to the Book of Occasional Services (2018, pp. 49ff.)_
 
 Stations: [Opening](#opening-devotions) [1](#first-station) [2](#second-station) [3](#third-station) [4](#fourth-station) [5](#fifth-station) [6](#sixth-station) [7](#seventh-station) [8](#eighth-station) [9](#ninth-station) [10](#tenth-station) [11](#eleventh-station) [12](#twelfth-station) [13](#thirteenth-station) [14](#fourteenth-station) [Conclusion](#concluding-prayers-before-the-altar)
 
+-------
+
 ##### A hymn or other song may be sung during the entrance of the ministers.
 
-### Opening Devotions
+# Opening Devotions
 
 _Presider:_
 > In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.
@@ -53,7 +55,7 @@ _Presider:_
 
 -----------------
  
-## First Station
+# First Station
 
 ### Jesus is condemned to death
 
@@ -88,7 +90,7 @@ Have mercy upon us.**
 
 --------------
  
-## Second Station
+# Second Station
 
 ### Jesus takes up his Cross
 
@@ -123,7 +125,7 @@ Have mercy upon us.**
 
 ----------
  
-## Third Station
+# Third Station
 
 ### Jesus falls the first time
 
@@ -158,7 +160,7 @@ Have mercy upon us.**
 
 ----------
 
-## Fourth Station
+# Fourth Station
 
 ### Jesus meets his afflicted mother
 
@@ -193,7 +195,7 @@ Have mercy upon us.**
 
 ----------
  
-## Fifth Station
+# Fifth Station
 
 ### The Cross is laid on Simon of Cyrene
 
@@ -228,7 +230,7 @@ Have mercy upon us.**
 
 ----------
  
-## Sixth Station
+# Sixth Station
 
 ### A woman wipes the face of Jesus
 
@@ -264,7 +266,7 @@ Have mercy upon us.**
 
 ----------
  
-## Seventh Station
+# Seventh Station
 
 ### Jesus falls a second time
 
@@ -299,7 +301,7 @@ Have mercy upon us.**
 
 ----------
  
-## Eighth Station
+# Eighth Station
 
 ### Jesus meets the women of Jerusalem
 
@@ -334,7 +336,7 @@ Have mercy upon us.**
 
 ----------
  
-## Ninth Station
+# Ninth Station
 
 ### Jesus falls a third time
 
@@ -370,7 +372,7 @@ Have mercy upon us.**
 
 ----------
  
-## Tenth Station
+# Tenth Station
 
 ### Jesus is stripped of his garments
 
@@ -406,7 +408,7 @@ Have mercy upon us.**
 
 ----------
  
-## Eleventh Station
+# Eleventh Station
 
 ### Jesus is nailed to the Cross
 
@@ -441,7 +443,7 @@ Have mercy upon us.**
 
 ----------
  
-## Twelfth Station
+# Twelfth Station
 
 ### Jesus dies on the Cross
 
@@ -476,7 +478,7 @@ Have mercy upon us.**
 
 ----------
  
-## Thirteenth Station
+# Thirteenth Station
 
 ### The body of Jesus is placed in the arms of his mother
 
@@ -511,7 +513,7 @@ Have mercy upon us.**
 
 ----------
  
-## Fourteenth Station
+# Fourteenth Station
 
 ### Jesus is laid in the tomb
 
@@ -546,7 +548,7 @@ Have mercy upon us.**
 
 ----------
  
-### Concluding Prayers before the Altar
+# Concluding Prayers before the Altar
 
 _Presider:_
 > Savior of the world, by your cross and precious blood you have redeemed us:
