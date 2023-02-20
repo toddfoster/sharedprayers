@@ -13,7 +13,6 @@ tags:
 ---
 ## We Gather in God's Name
 {{% lent/greatlitany %}}
-{{% he/songofpraise/lordhavemercy %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
