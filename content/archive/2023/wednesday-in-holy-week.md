@@ -27,7 +27,7 @@ tags:
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long-lent %}}
 ##### pb

@@ -30,11 +30,11 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% hymn Offertory "h-143" %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161
-{{% he/fraction/long-lent %}}
+{{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
