@@ -1,8 +1,9 @@
 ---
-title: The Way of the Cross (St. Thomas' #2: Perfect Love)
+title: The Way of the Cross (StT2)
 date: 2021-02-08
 ---
 
+# St. Thomas' #2: Perfect Love
 _adapted from a printed booklet found at St. Thomas', Glassboro_
 
 Stations: [Opening](#opening-devotions) [1](#first-station) [2](#second-station) [3](#third-station) [4](#fourth-station) [5](#fifth-station) [6](#sixth-station) [7](#seventh-station) [8](#eighth-station) [9](#ninth-station) [10](#tenth-station) [11](#eleventh-station) [12](#twelfth-station) [13](#thirteenth-station) [14](#fourteenth-station) [15](#fifteenth-station)
