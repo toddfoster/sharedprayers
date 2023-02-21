@@ -3,6 +3,9 @@ title: Stations of the Cross
 ---
 
 - [Stations of the Cross according to the Book of Occasional Services](stations-bos)
+- Stations of the Cross from [St. Thomas'](https://www.stthomasglassboro.org)
+    - [1. Suffering](stations-stt-1)
+    - [2. Perfect Love](stations-stt-2)
 - Stations of the Cross from [Daylesford Abbey](https://daylesford.org/spirituality-center/stations-of-the-cross/)
     - Stations of the Cross for Children ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Children.pdf))
     - Stations of the Cross for Seniors ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Seniors.pdf))
