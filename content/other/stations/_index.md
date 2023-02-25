@@ -8,6 +8,8 @@ title: Stations of the Cross
     - [2. Perfect Love](stations-stt-2)
     - [3. Jesus and Me](stations-stt-3)
     - [4. How many times?](stations-stt-4)
+    - [5. Everyman](stations-stt-5)
+    - [6. From the Garden](stations-stt-6)
 - Stations of the Cross from [Daylesford Abbey, Paoli PA](https://daylesford.org/spirituality-center/stations-of-the-cross/)
     - Stations of the Cross for Children ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Children.pdf))
     - Stations of the Cross for Seniors ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Seniors.pdf))
