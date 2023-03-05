@@ -14,7 +14,7 @@ title: Stations of the Cross
     - [Stations of the Cross for Children](soc-da-children) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Children.pdf))
     - [Stations of the Cross for Seniors](soc-da-seniors) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Seniors.pdf))
     - Stations of the Cross for Widows and Widowers ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Widows-and-Widowers.pdf))
-    - Stations of the Cross for Divorced and Separated ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Divorced-Separated.pdf))
+    - [Stations of the Cross for Divorced and Separated](soc-da-divorce) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Divorced-Separated.pdf))
     - Stations of the Cross for Vocations ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Vocations.pdf))
     - Stations of the Cross for Migrants and Immigrants ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Migrants-Immigrants.pdf))
     - [Stations of the Cross for 12-Step Recovery](soc-da-recovery) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-12-Step-Recovery.pdf))
