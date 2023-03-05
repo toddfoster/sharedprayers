@@ -23,4 +23,4 @@ title: Stations of the Cross
     - [Stations of the Cross – Contemporary Reflections](soc-da-contemporary) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-Contemporary-Reflections.pdf))
     - [Stations of the Cross with the Psalms](soc-da-psalms) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-With-the-Psalms.pdf))
     - Stations of the Cross with Pope Francis ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-With-Pope-Francis.pdf))
-    - Stations of the Cross – In the Time of a Pandemic ([pdf](https://daylesford.org/wp-content/uploads/2020/04/SOC-In-the-Time-of-a-Pandemic-1.pdf))
+    - [Stations of the Cross – In the Time of a Pandemic](soc-da-pandemic) ([pdf](https://daylesford.org/wp-content/uploads/2020/04/SOC-In-the-Time-of-a-Pandemic-1.pdf))
