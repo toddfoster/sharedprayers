@@ -7,7 +7,7 @@ date: 2023-02-08
 
 _[Daylesford Abbey](https://daylesford.org/spirituality-center/stations-of-the-cross/)_
 
-## WE BEGIN
+# We Begin
 
 In the name of the Father, and of the Son and of the Holy Spirit. **Amen.**
 
