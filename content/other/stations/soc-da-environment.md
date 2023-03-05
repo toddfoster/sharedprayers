@@ -1,0 +1,379 @@
+---
+title: Stations of the Cross - For the Environment
+date: 2023-03-05
+---
+
+## The Stations of the Cross
+## For the Environment with Pope St. John Paul ii
+_[Daylesford Abbey](https://daylesford.org/spirituality-center/stations-of-the-cross/)_
+
+Stations: [We Begin](#we-begin) [1](#first-station) [2](#second-station) [3](#third-station) [4](#fourth-station) [5](#fifth-station) [6](#sixth-station) [7](#seventh-station) [8](#eighth-station) [9](#ninth-station) [10](#tenth-station) [11](#eleventh-station) [12](#twelfth-station) [13](#thirteenth-station) [14](#fourteenth-station) [15](#fifteenth-station) [About](#the-stations-of-the-cross-1)
+
+-------
+
+## WE BEGIN
+
+In the name of the Father, and of the Son and of the Holy Spirit. **Amen.**
+
+> _Then Jesus said to them ‘If anyone wishes to come after me,
+he must deny himself, and take up his cross daily and follow me.’”_ Luke 9:23
+
+
+---------------
+ 
+# First Station
+## Jesus is condemned to death
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_The earth dries up and withers, the world languishes and withers, the heavens languish with the earth. The earth lies polluted under its inhabitants; for they have transgressed laws, violated the statutes and broken the everlasting covenant. Therefore, a curse devours the earth, and its inhabitants suffer for their guilt._ ISA 24:4‐6
+
+“Man, especially in our time, has without hesitation devastated wooded plains and valleys, polluted waters, disfigured the earth’s habitat, made the air unbreathable, disturbed the hydro‐geological and atmospheric systems, turned luxuriant areas into deserts and undertaken forms of unrestrained industrialization, degrading that ‘flower bed’ – which is the earth, our dwelling place. In his desire to have and to enjoy rather than to be and to grow, man consumes the resources of the Earth and his own life in an excessive and disordered way. Man is no longer the Creator’s ‘steward,’ but an autonomous despot, who is finally beginning to understand that he must stop at the edge of the abyss.”
+
+### LET US PRAY
+O God, we confess that we have fallen into the temptation of believing that we can and should have it all: more income and comfort, more energy consumption, bigger houses and cars. Our addiction to the consumer version of the abundant life is ravaging our fellow creatures and ecosystems and condemning future generations to desolation. Forgive us, O Divine Creator, for the wrong that we have done and for the good that we have failed to do. Amen
+
+{{% misc/lordsprayer2-short %}}
+
+{{% misc/hailmary2 %}}
+
+{{% misc/gloriapatri %}}
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+-----------------
+ 
+# Second Station
+## Jesus accepts his cross
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_Jesus stood up and read: ‘The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord’s favor.’ Then he said, ‘Today this scripture is fulfilled in your hearing.’_ LK 4:18‐21 
+
+“Every individual is called upon to play their part to safeguard nature itself and the world about us. I wish to appeal with humility to everyone, to all men and women without exception. I wish to ask them to be convinced of the seriousness of the present moment and of each one’s individual responsibility, and to implement – by the way they live as individuals and as families, by the use of their resources, by their activities, by contributing to economic and political decisions, and by personal commitment to international undertakings. While in some cases the damage already done may be irreversible, in many other cases it can still be halted. It is necessary, however, that the entire human community – individuals, States and international bodies – take seriously their responsibility. Families and schools must train young people in respect for life, goodness and beauty. All followers of Christ should examine their own lifestyle.”
+
+### LET US PRAY
+God of justice, your Son identified himself with the joys and hopes, the grief and anguish of the people of his time. Strengthen us, the disciples of Jesus Christ, to take up the cross of our global responsibilities as seekers of justice and agents of healing for God’s creation. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+----------
+ 
+# Third Station
+## Jesus falls the first time
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_The land shall not be sold in perpetuity, for the land is mine; for you are strangers and sojourners with me. And in all the country you shall possess, you shall grant a redemption of the land._ LEV 25:23‐24
+
+“One of the greatest injustices in the contemporary world consists precisely in this: that the ones who possess much are relatively few and those who possess almost nothing are many. It is the injustice of the poor distribution of the goods originally intended for all. Poverty and unjust land distribution in many countries have led to subsistence farming and to the exhaustion of the soil. Once their land yields no more, many farmers clear new land, accelerating uncontrolled deforestation, or they settle in urban centers which lack the infrastructure to receive them. When people do not respect the goods of the earth, when they abuse them, they act unjustly, and their actions result in poverty and death.”
+
+### LET US PRAY
+O God, how often we have caused the living Christ to stumble and fall. As hundreds of millions of desperately poor people are being denied their basic human rights and even life itself, the whole structure of God’s creation begins to collapse. Strengthen our baptismal commitment to strive to overcome every form of exploitation and oppression. May your Kingdom come, O Lord, where wealth is measured by how much we can afford to do without, and comfort level by our ease in sacrifice. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+----------
+
+# Fourth Station
+## Jesus meets his mother
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_As a mother comforts her son, so I will comfort you. _ ISA 66:13
+
+“Nature becomes a Gospel that speaks to us of God. But this capacity for contemplation and knowledge, this discovery of a transcendent presence in creation, must lead us to rediscover our fraternity with the earth, to which we have been linked since creation. In contact with creation a person can better understand the eternal values upon which life is built. These are, among others, values of beauty and truth, of simplicity and love, of fidelity and solidarity. Whoever really wants to find himself, must learn to savor nature whose charm is intimately linked with the silence of contemplation. The rhythms of creation are so many, paths of extraordinary beauty along which the sensitive and believing heart easily catches the echo of the mysterious, loftier beauty, that is God the Creator, the source and the life of all reality.”
+
+### LET US PRAY
+O God, so many people in our world are forced to walk a via dolorosa of unjust policies, violence, poverty and hunger. As this happens, our earth also suffers. Like Mary who comforted Jesus, we too can be consoled, strengthened and reassured of your steadfast love for us through our encounter with the wonder and beauty of your creation. May it engender in us a greater sense of compassion and solidarity with all our kin in the community of life. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+ 
+# Fifth Station
+## Simon helps Jesus carry his cross
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_Truly I tell you, whatever you did for the least of my brothers, however insignificant, you did for me._ MT 25:40
+
+“There is a growing threat to the environment, to the vegetation, animals, water and air. Sacred Scripture hands us the image of Cain who rejects his responsibility: ‘Am I my brother’s keeper?’ The Bible shows the human person as his brother’s keeper and the guardian of creation which has been entrusted to him. A sense of the unity of humanity must come into play. Examine what is offered to you as progress. We have to be alert if we are to defend this planet and live on it effectively. Regarding the environmental protection, concerns long ceased to be only for the present moment, because we also have a concern for future generations. We must draw conclusions from the limits and hazards of growth. We must not do all that we are capable of doing. Asceticism, self‐restraint, self‐denial has suddenly become fashionable again. These virtues are vital to man’s survival.”
+
+### LET US PRAY
+O God of compassion, help us to recognize that we are our brother’s and sister’s keepers. Like Simon of Cyrene who helped Jesus carry his Cross, may we too work to alleviate the suffering of those who are being crushed by the heavy cross of injustice and violence committed against them and their fellow creatures. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+ 
+# Sixth Station
+## Veronica wipes the face of Jesus
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_I knew of you then only by report, but now I see you with my own eyes. Therefore, I yield, repenting in dust and ashes._ JOB 42:5‐6
+
+“Today there is a great need to slow down the hectic pace of our days. Contact with nature, with its beauty and its peace, gives us new strength and it restores us. Yet, while the eyes take in the wonder of the cosmos, it is also necessary to look into ourselves, into the depths of our heart, where we come face to face with our conscience. In this past century, man has used earthly materials in irresponsible ways. It is necessary to look at nature with new eyes. Before the panorama of meadows, woods, streams and mountain peaks, we discover afresh the desire to thank God for the wonders he has made and we listen in silence to the voice of nature so that we can transform our admiration into prayer.”
+
+### LET US PRAY
+O God, we see the face of your Son reflected in all men and women and in the whole universe created through him and for him. And yet our human sin and distorted desires have tarnished that divine image. Give us new eyes to lay hold of a deeper vision and see the world as you see it. May our works of charity and justice, contemplation and personal holiness serve to wipe the bloody, wounded face of Christ in our world today so that others may see a glimpse of the glory of God. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+ 
+# Seventh Station
+## Jesus falls the second time
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_Woe to those who add house to house and join field to field until everything belongs to them and they are the sole inhabitants of the land!_ ISA 5:8
+
+“God entrusted the earth to human beings ‘to till it and keep it’. When this principle is forgotten and they become tyrants rather than the custodians of nature, sooner or later nature will rebel. There is a temptation of an unbridled exploitation of resources under the urge of unlimited profit seeking. Thus the environment has often fallen prey to the interests of a few strong groups to the detriment of humanity as a whole. We are deeply worried to see that entire people, millions of human beings, have been reduced to destitution and are suffering from hunger and disease because they lack drinking water. Hunger and disease are closely linked to drought and water pollution. In places where rain is scarce, life becomes more fragile; it fades away to the point of disappearing. We are running the risk of leaving as our heritage to the future generations the tragedy of thirst and deforestation in many part of the world.”
+
+### LET US PRAY
+Lord, you fall to the ground crushed by the forces of greed, rampant consumerism and politics without soul. Help us to recognize you in those who carry the heavy load of unjust public policies. May we not remain on the sidelines in the struggle for a more just and sustainable future. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+ 
+# Eighth Station
+## Jesus meets the women of Jerusalem
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_This day I call heaven and earth as witnesses against you that I have set before you life and death, blessings and curses. Now choose life, so that you and your children may live._ DEUT 30:19
+
+“Today, the conflict is between a culture that affirms and celebrates the gift of life, and a culture that seeks to declare entire groups of human beings "unuseful" – to be outside the boundaries of legal protection. My prayer is that through the grace of God Americans of every race, ethnic group, economic condition and creed, will resist the culture of death and choose to stand on the side of life. To choose life involves rejecting every form of violence: the violence of poverty and hunger, the violence of armed conflicts and the violence of mindless damage to the natural environment. It is my hope that the inspiration of Saint Francis will help us to keep ever alive a sense of ‘fraternity’ with all those good and beautiful things which Almighty God has created. And may he remind us of our serious obligation to respect and watch over them with care, in light of the greater and higher fraternity that exists within the human family.”
+
+### LET US PRAY
+O God, we lament when we see Christ suffering in the poor. Still, like women of Jerusalem, we should perhaps also weep for our own children who will bear the brunt of global environmental destruction. May our tears of repentance purify our vision and empower us to choose life, for our children, grandchildren and all God’s creatures. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+ 
+# Ninth Station
+## Jesus falls the third time
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_They say to the seers, ‘You are not to see,’ and to those who have visions, Do not produce true visions for us; give us smooth words and illusory visions. Turn aside, leave the straight path and rid us of the Holy One of Israel._ ISA 30:10‐11
+
+
+“Faced with the grave social problems Catholics know that they can find in the Church's social doctrine an answer which serves as a starting‐point in the search for practical solutions. It is therefore important that in America the agents of evangelization (bishops, priests, teachers, pastoral workers, etc.) make their own this treasure which is capable of interpreting the present situation and determine the actions to take. The lack of interest in politics on the part of so many people reveals their sense of helplessness in the struggle for good. The realization that the earth as a gift from God is for all people gives rise to a corresponding duty with regard to others.”
+
+### LET US PRAY
+O Lord, you have graced us with your intelligence, wisdom and power. You have called us to exercise leadership for the good of all your creation. And yet, so many times we as the Church and as members of the larger society fall short in responding to that call. Forgive us and renew in us a commitment to you the Creator, Redeemer and Sanctifier. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+ 
+# Tenth Station
+## Jesus is stripped of his garments
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_He was despised and forsaken of men. A man of sorrows and acquainted with grief. And like one from whom men hide their face. He was despised, and we did not esteem him._ ISA 53:3
+
+“How much ecological abuse and destruction there is in many parts of America! It is enough to think of the uncontrolled emission of harmful gases. This is an especially urgent problem in the forests of Amazonia. This is one of the world's most precious natural regions because of its bio‐diversity, which makes it vital for the environmental balance of the entire planet. Around the world, we see the results of exploitation which destroys much without taking future generations into account. Protecting the world’s forests; stemming desertification and erosion; avoiding the spread of toxic substances harmful to man, animals and plants; protecting the atmosphere; all these can be accomplished only through active and wise cooperation, without borders or political power plays.”
+
+### LET US PRAY
+O gracious God, all too often human life and the rest of your creation are stripped of the integrity, beauty and dignity with which you have endowed them. This happens right before our eyes, and yet we don’t recognize it as part of the modern Calvary. Like the Roman soldiers throwing dice for your seamless garment, we may even be willing accomplices in your passion, seeking a short‐term gain from ecological destruction of the very fabric of life on our planet. Touch our hearts so that we change. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+ 
+# Eleventh Station
+## Jesus is nailed to the Cross
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son._ ZECH 12:10
+
+“Respect for life and for the dignity of the human person extends also to the rest of creation, which is called to join man in praising God. The earth is not a limitless, exploitable reservoir but part of the mystery of creation. To arrive at this attitude, we need a culture of asceticism. It is not too late for a radical conversion to the earth as a living space to be a garden, not a desert. False models of progress have led to a threat against the earth’s ecological balance. Man – made in in the image and likeness of the Creator – is called to be the good shepherd of the environment, not the destroyer of his natural environment that he has become.”
+
+### LET US PRAY
+O God whose forgiveness is boundless, your Son spoke to you of us when he cried out, “Father, forgive them, for they know not what they are doing.” Our dismissiveness of the intrinsic dignity of all human life, our obliviousness to the wonder and sacred destiny of all your creation, our misguided models of progress – these are like nails with which we crucify you today on a cross of small visions. May our tears of repentance reawaken us to your abiding presence in which everything lives, moves and has its being. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+ 
+# Twelfth Station
+## Jesus dies on the Cross
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_[Christ Jesus,] though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to death, even death on a Cross._ PHIIL 2:6-8
+
+“The profound sense that the earth is ‘suffering’ is shared by those who do not profess our faith in God. Indeed, the increasing devastation of the world of nature is apparent to all. Clearly, an adequate solution cannot by found merely in a better management or a more rational use of the earth’s resources. Rather, we must go to the source of the problem and face in its entirety that profound moral crisis of which the destruction of the environment is only one troubling aspect. In our day, there is a growing awareness that the world peace is threatened, not only by the arms race, regional conflicts and continued injustices among peoples and nations, but also by a lack of due respect for nature, by the plundering of natural resources.”
+
+### LET US PRAY
+O God of compassion, you who embrace and keep close to your heart all human suffering and earth’s travails, hold us in your mercy. Give us courage to accept our vulnerability and personal crosses and free us from the fear of changes to which you call us in our personal lives, our society and its institutions. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+ 
+# Thirteenth Station
+## Jesus is taken down from the cross
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_For in him (Christ), God in his fullness chose to dwell, and through him to reconcile all things to himself, making peace through the blood of his Cross – all things, whether on earth or in heaven._ COL 1:19
+
+“Why does God not intervene when violence threatens his people? Why does God permit evil? Our trust can falter; we can lose patience with God. In the drama we can find our dependence upon God burdensome rather than liberating. We too can ‘harden our hearts.’ Openness to the Lord – a willingness to let him transform our lives – should produce a renewed spiritual among Christians. Jesus Christ is the answer to the question posed by every human life. The seriousness of the ecological issue lays bare the depth of man’s moral crisis. If an appreciation of the value of the human person and of human life is lacking, we will also lose interest in others and in earth itself. A spirit of sacrifice must become a part of everyday life, lest all suffer the negative consequences of the careless habits of a few.”
+
+### LET US PRAY
+O God who makes all things new, help us hold on to our faith, hope and love when we feel overwhelmed and discouraged by the daunting challenge of the ecological crisis. Deepen our courage and use us as instruments of the reconciliation and peace that you desire for all your creation. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+
+# Fourteenth Station
+## Jesus is laid in the tomb
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_Creation awaits with eager expectation the revelation of the children of God; for creation was made subject to futility, not of its own accord but because of the one who subjected it, in hope that creation itself would be set free from slavery to corruption and share in the glorious freedom of the children of God._ ROM 8:18‐21
+
+“Faced with the widespread destruction of the environment, people are coming to understand that we cannot continue to use the goods of the earth as we have in the past. A radical challenge facing the human family is to use the earth’s resources wisely and responsibly which means with respect to the limits to which these resources are necessarily subject. To do this is to respect the will of the Creator. Filled with the power of the Holy Spirit, may you become builders of a new world: one that is based on truth, justice, solidarity and love. The challenges that we face are enormous. They require courageous hearts capable of radical faith and trust in God.”
+
+### LET US PRAY
+O gracious God, for whom nothing is impossible, help your Church to be faithful to you in the midst of adversities. Empower us to be bearers of your dream of justice, peace and harmony for all your creation and prophets of hope in our world today. Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+# Fifteenth Station
+## The Resurrection
+
+> **We adore you, O Christ, and we praise you.
+> Because by your Holy Cross, you have redeemed the world.**
+
+_Then I saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more. Behold, I make all things new._ REV 21:1,5
+
+“It is not difficult to discern a ray of the face of Christ in the beauties of creation. A new ‘ecological awareness’ is emerging which ought to be encouraged to develop into concrete initiatives. In this rediscovered harmony with nature men and women are once again walking in the garden of creation. Christians have such a tradition of spiritual generosity, simplicity and sacrifice that you cannot fail to heed this call today. It is in this joyful simplicity inspired by the Gospel that you will find the best remedy for sour criticism, paralyzing doubt to make money the principal measure of human advancement.”
+
+### LET US PRAY
+O powerful God Jesus Christ is indeed risen. May we fan into flame the gifts we have received, mindful that you gave us a spirit of power, love and self‐discipline. May we as the Body of the Christ take up his mission, healing and sanctifying this world so that “God may be all in all.” Amen
+
+**Our Father . . . Hail Mary . . . Glory be to the Father . . .**
+
+May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
+
+---------------------------
+
+Adapted from “Stations of the Cross with John Paul II On the Path of Ecological Conversion” www.franciscanaction.org
+
+Cover Image from the frescos of Fra Angelico, San Marco Monastery & Museum, Florence, Italy.
+
+DOWNLOAD THIS AND OTHER MEDITATIONS AT ww.daylesford.org/about-us/stations-of-the-cross/
+
+220 S VALLEY ROAD
+PAOLI, PA
+19301
+610.647.2530
+
+-----------------
+# The Stations of the Cross
+The Stations of the Cross, the Way of the Cross, the Way of Sorrows, or the Via Crucis, all refer to the journey Jesus Christ travelled from the time he was condemned to death until his Body was placed in a burial tomb. Followers of Jesus have told the story of his Passion, Death and Resurrection while pilgrims who travelled to Jerusalem visited the sites where it is believed that Jesus was tried and executed. Journals have been discovered, dated as early as the fourth century, describing these pilgrims chanting psalms as they processed the Via Dolorosa (the Way of Sorrows) in Jerusalem. Liturgists view these processions as an embryonic form of the Stations of the Cross.
+
+Many churches typically contain fourteen Stations but as an outgrowth of the Second Vatican Council, a fifteenth Station was added reflecting our Lord’s victory over suffering and death and the Good News of Easter – the Resurrection. As we are a post Vatican Council II church, all of our Stations of the Cross, both inside the church and outside, reflect this more complete narrative. Today, Christians everywhere follow Jesus’ final journey to unite their suffering with his in the hope of sharing in his Resurrection. In the words of St. Paul: "_I wish to know Christ and to be conformed into the pattern of his death, so that somehow I may come to know the power of his Resurrection._" Phil 3:1
+
+## Disposition for praying the Stations of the Cross
+Suffering – in one of its many forms - invades all of our lives; no one needs to search for it. We may attempt to deny or run from suffering but it cannot be avoided. What is demanded is the need to come to terms with suffering. It is in this context that we provide the Stations of the Cross for Various Circumstances. We invite you to pray these Stations as a means of uniting your personal trials with our Lord’s, so that you too might share in his Passion so as to rejoice in his Resurrection.
+
+We believe in a God who became incarnate through his Son, Jesus Christ, who chose to suffer for the sake of our redemption. This Passion is made visible in the physical Way of the Cross and metaphysically in the psychological, emotional and spiritual suffering that took place in the Garden of Gethsemane – which one might call the overture to the Via Crucis.
+
+The radical symbol of the Cross - ubiquitous throughout the world - has lost much of its shocking, paradoxical impact. We see the Cross hanging on walls, towering above churches and suspended from one another’s necks in precious gold. The Cross has become a thing of beauty - and it should - for without the sacrifice made on the Cross, there would be no hope of eternal happiness with God.
+
+When we pray the Stations, it is not for the purpose of undertaking an historical remembering of what occurred, but to show us what is happening now - what is happening within each of us. The reason for praying the Stations of the Cross is to enter into the mystery of Jesus' gift of himself for us – to experience his means of transforming suffering through love. We do this “through, with, and in him”, step by step, learning how this plan of love can be carried out by us today. In one form or another, his trials are revealed in ours and our trials in his. This frames the spiritual pilgrimage which you are invited to undertake through your particular circumstances, in contemplation of the Passion of Jesus Christ inspired by our faith in the Resurrection.
+
+## Allow One Hour
+“_Could you not watch and pray with me for one hour?_” MT 26:40
+
+For the Cross of our Lord’s Passion becomes our Tree of Eternal Life
+
+-----------------
+
+# About Daylesford Abbey's Stations of the Cross
+## The Arbor Gateway
+Thresholds are primarily spiritual in nature, not simply physical. Thus, crossing a threshold confirms one’s willingness to move from the natural world to the supernatural. Our gateway entrance marks passage through a holy doorway designed to symbolize one’s decision to enter into the life of Jesus.
+
+## Saint Raphael
+Raphael, which translates as "It is God who heals", is the archangel known for facilitating all manners of healing. He is one of only three of the seven archangels named in the Bible. Raphael is credited with driving an evil spirit from Sarah and restoring Tobit's vision through the use of a fish. Tobit 6:7 Raphael is the patron saint of pilgrims and the appropriate guide for all who travel the Stations - particularly those seeking physical, emotional or spiritual healing. Pilgrimages in early times were a dangerous consideration. Pilgrims made wills before their journey as there was no certainty of a safe return. Unlike tourists, pilgrims travel toward their center; while tourists travel away. As a guardian to pilgrims, Raphael is often depicted holding a staff as well as a fish. The mission of Daylesford Abbey is healing and reconciliation, thus providing a suitable home for St. Raphael.
+
+## The Trail
+Most Stations of the Cross are typically laid out so that one follows a trail where station posts are staked and one pauses to pray. The Abbey's Stations are designed with alcoves where one must physically exit the trail - a place of certainty - so as to enter the spirituality of each Station’s mystery. Physically, one interrupts their journey to undergo an experience of potentially unitive and transformative change.
+
+## The Station Frame
+Wood is a powerful, consistent symbol throughout Scripture: the tree in the Garden of Eden, Noah’s ark, the altar in Exodus, the kindling Isaac carries. It is not by happenstance that both Jesus and Joseph were carpenters. For Christians, all wood signifies and leads us to the one salvific wood of the Cross. Jesus’ sacrifice, which redeemed us on Calvary, is re-membered today in the Eucharistic sacrifice that takes place on the altar. All grace flows from the Cross, from our Abbey’s altar, which is why our Station’s frames are designed to replicate the Abbey church. They are crafted from Brazilian hardwood of substantial weight and density but are ecologically respectful of the Amazon forest, reminding us of God's original commission to humankind in Eden - to be stewards of creation.
+
+## The Station Images
+The Station scenes are bas-relief replicas from the bronze doors located at the Basilica of San Zeno in Verona, Italy. According to tradition, the crypt inside the Basilica was the marriage site of Shakespeare’s Romeo and Juliet. The church is Romanesque in design typical of 12th century architecture. Our holy father, St. Norbert, lived during that time and the established the Order of Prémontré in 1120, thus connecting the Stations to the founding of our Order.
+
+## The Tree Trunk Benches
+Daylesford Abbey took root and evolved from our original home at the site of the former Cassatt Estate. As Providence would arrange it, an oak tree was being removed from that property while our Stations were under construction. Our plans called for some seating to be formed from large tree trunks. This coincidence provided the symbolic means to represent our historical roots.
