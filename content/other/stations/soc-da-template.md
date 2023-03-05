@@ -1,6 +1,6 @@
 ---
 title: Stations of the Cross - Template
-date: 2023-03-04
+date: 2023-03-06
 ---
 
 ## The Stations of the Cross

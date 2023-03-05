@@ -1,6 +1,6 @@
 ---
 title: Stations of the Cross - In the Time of a Pandemic
-date: 2023-03-04
+date: 2023-03-05
 ---
 
 ## The Stations of the Cross

@@ -11,7 +11,7 @@ Stations: [We Begin](#we-begin) [1](#first-station) [2](#second-station) [3](#th
 
 -------
 
-## WE BEGIN
+# We Begin
 
 In the name of the Father, and of the Son and of the Holy Spirit. **Amen.**
 
