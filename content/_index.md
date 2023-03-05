@@ -12,6 +12,8 @@ title: Shared Prayers
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
 
+[**Liturgies for Stations of the Cross**](other/stations)
+
 **Liturgies for any week:**
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts](archive/he-covid-feasts)
