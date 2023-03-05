@@ -18,7 +18,7 @@ title: Stations of the Cross
     - Stations of the Cross for Vocations ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Vocations.pdf))
     - Stations of the Cross for Migrants and Immigrants ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Migrants-Immigrants.pdf))
     - [Stations of the Cross for 12-Step Recovery](soc-da-recovery) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-12-Step-Recovery.pdf))
-    - Stations of the Cross for Forgiveness and Reconciliation ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Forgiveness-Reconciliation.pdf))
+    - [Stations of the Cross for Forgiveness and Reconciliation](soc-da-forgiveness) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-Forgiveness-Reconciliation.pdf))
     - Stations of the Cross for the Environment ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-For-the-Enviornment.pdf))
     - [Stations of the Cross – Contemporary Reflections](soc-da-contemporary) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-Contemporary-Reflections.pdf))
     - [Stations of the Cross with the Psalms](soc-da-psalms) ([pdf](https://daylesford.org/wp-content/uploads/2021/07/SOC-With-the-Psalms.pdf))
