@@ -59,6 +59,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -70,6 +71,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
@@ -87,6 +89,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -101,6 +104,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -113,6 +117,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
@@ -130,6 +135,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -143,6 +149,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
@@ -160,6 +167,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -173,6 +181,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
@@ -189,6 +198,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -201,6 +211,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
@@ -217,6 +228,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 > Because by your Holy Cross, you have redeemed the world.**
 
 
+
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
@@ -228,6 +240,7 @@ May the souls of the faithful departed, through the mercy of God, rest in peace.
 
 > **We adore you, O Christ, and we praise you.
 > Because by your Holy Cross, you have redeemed the world.**
+
 
 
 **Our Father . . . Hail Mary . . . Glory be to the Father . . .**
