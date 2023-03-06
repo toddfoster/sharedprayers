@@ -12,34 +12,35 @@ tags:
 - holyweek
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-31" %}}
+{{% he/palmsunday/palms/c %}}
+##### If there is no procession, the service continues with the [liturgy of the word](/archive/2022/palm-sunday-liturgy-of-the-word/).
+{{% he/palmsunday/palms/procession %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-##### Today we read Psalm 31 in its entirety, in solidarity with those suffering in Ukraine.
-{{% lesson "psalm" 31 /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-189" %}}
-{{% he/palmsunday/passion/c %}}
+{{% hymn Sequence "h-498" %}}
+{{% he/palmsunday/passion/a %}}
 ## We Respond in Faith
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
-{{% hymn Offertory "l-36" %}}
-{{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+{{% hymn Offertory "h-439" %}}
+{{% he/eucharisticprayer/a sanctus="S-130" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
+#### Hymnal S-161
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-37" %}}
+{{% hymn Communion "h-337" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% hymn Processional "l-29" %}}
+{{% hymn Processional "h-474" %}}
 {{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 

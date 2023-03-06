@@ -21,6 +21,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
+{{% hymn Sequence "h-508" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -35,6 +36,7 @@ tags:
 {{% stt/2022/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
+{{% hymn Processional "h-448" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

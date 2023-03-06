@@ -12,16 +12,16 @@ tags:
 - holyweek
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessthelord %}}
+{{% hymn Entrance "h-445" %}}
 {{% he/penitentialorder %}}
-{{% he/songofpraise/trishagion %}}
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-439" %}}
+{{% hymn Sequence "h-469" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -31,7 +31,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% hymn Offertory "h-577" %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
+{{% he/eucharisticprayer/a sanctus="S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161
@@ -40,7 +40,6 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "h-171" %}}
-{{% hymn Communion "h-329" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/maundythursday/stripaltar %}}
 {{% nrsv %}}
