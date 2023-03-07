@@ -4,12 +4,7 @@ _Matthew 26:14–27:66 (RCL Year A)_
 
 _Dramatis personæ: 	People, Judas, Narrator, Jesus, Peter, High Priest, Witness/Servant/Pilate’s Wife, Pilate_
 
-#### The congregation may be seated for the first part of the Passion. At the verse which mentions the arrival at Golgotha all stand.
-
-
-#### There follows a great silence. Please remain standing if you are able.
-
-----
+##### The congregation may be seated for the first part of the Passion. At the verse which mentions the arrival at Golgotha all stand.
 
 ##### Narrator:	
 The Passion of our Lord Jesus Christ according to Matthew.
@@ -26,7 +21,7 @@ They paid him thirty pieces of silver. And from that moment he began to look for
 
 On the first day of Unleavened Bread the disciples came to Jesus, saying,
 
-##### People:
+##### **People:**
 **Where do you want us to make the preparations for you to eat the Passover?**
 
 ##### Narrator:
@@ -47,7 +42,7 @@ Truly I tell you, one of you will betray me.
 ##### Narrator:
 And they became greatly distressed and began to say to him one after another, 
 
-##### People:
+##### **People:**
 **Surely not I, Lord?**
 
 ##### Jesus:
@@ -195,13 +190,13 @@ Then the high priest tore his clothes.
 ##### High Priest:
 He has blasphemed! Why do we still need witnesses? You have now heard his blasphemy. What is your verdict?
 
-##### People:
+##### **People:**
 **He deserves death.**
 
 ##### Narrator:
 Then they spat in his face and struck him; and some slapped him, saying,
 
-##### People:
+##### **People:**
 **Prophesy to us, you Messiah! Who is it that struck you?**
 
 ##### Narrator:
@@ -231,7 +226,7 @@ I do not know the man.
 ##### Narrator:
 After a little while the bystanders came up and said to Peter,
 
-##### People:
+##### **People:**
 **Certainly you are also one of them, for your accent betrays you.**
 
 ##### Narrator:
@@ -303,13 +298,13 @@ Now the chief priests and the elders persuaded the crowds to ask for Barabbas an
 ##### Pilate:
 Which of the two do you want me to release for you?”
 
-##### People:
+##### **People:**
 **Barabbas.**
 
 ##### Pilate:
 Then what should I do with Jesus who is called the Messiah?
 
-##### People:
+##### **People:**
 **Let him be crucified!**
 
 ##### Pilate:
@@ -327,7 +322,7 @@ I am innocent of this man’s blood; see to it yourselves.
 ##### Narrator:
 Then the people as a whole answered,
 
-##### People:
+##### **People:**
 **His blood be on us and on our children!**
 
 ##### Narrator:
@@ -335,7 +330,7 @@ So he released Barabbas for them; and after flogging Jesus, he handed him over t
 
 Then the soldiers of the governor took Jesus into the governor’s headquarters, and they gathered the whole cohort around him. They stripped him and put a scarlet robe on him, and after twisting some thorns into a crown, they put it on his head. They put a reed in his right hand and knelt before him and mocked him, saying,
 
-##### People:
+##### **People:**
 **Hail, King of the Jews!**
 
 ##### Narrator:
@@ -351,13 +346,13 @@ And when they had crucified him, they divided his clothes among themselves by ca
 
 Then two bandits were crucified with him, one on his right and one on his left. Those who passed by derided him, shaking their heads and saying,
 
-##### People:
+##### **People:**
 **You who would destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross.**
 
 ##### Narrator:
 In the same way the chief priests also, along with the scribes and elders, were mocking him, saying,
 
-##### People:
+##### **People:**
 **He saved others; he cannot save himself. He is the King of Israel; let him come down from the cross now, and we will believe in him. He trusts in God; let God deliver him now, if he wants to; for he said, “I am God’s Son.”**
 
 ##### Narrator:
@@ -372,19 +367,19 @@ Eli, Eli, lema sabachthani?
 ##### Narrator:
 That is, “My God, my God, why have you forsaken me?” When some of the bystanders heard it, they said,
 
-##### People:
+##### **People:**
 **This man is calling for Elijah.**
 
 ##### Narrator:
 At once one of them ran and got a sponge, filled it with sour wine, put it on a stick, and gave it to him to drink. But the others said,
 
-##### People:
+##### **People:**
 **Wait, let us see whether Elijah will come to save him.**
 
 ##### Narrator:
 Then Jesus cried again with a loud voice and breathed his last. At that moment the curtain of the temple was torn in two, from top to bottom. The earth shook, and the rocks were split. The tombs also were opened, and many bodies of the saints who had fallen asleep were raised. After his resurrection they came out of the tombs and entered the holy city and appeared to many. Now when the centurion and those with him, who were keeping watch over Jesus, saw the earthquake and what took place, they were terrified and said,
 
-##### People:
+##### **People:**
 **Truly this man was God’s Son!**
 
 ##### Narrator:
@@ -404,6 +399,7 @@ You have a guard of soldiers; go, make it as secure as you can.
 ##### Narrator:
 So they went with the guard and made the tomb secure by sealing the stone.
 
+##### There follows a great silence. Please remain standing if you are able.
 
 -----
 
