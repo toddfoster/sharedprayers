@@ -27,7 +27,7 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2022/offertory %}}
 {{% hymn Offertory "h-439" %}}
-{{% he/eucharisticprayer/a sanctus="S-130" /%}}
+{{% he/eucharisticprayer/a sanctus="S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161

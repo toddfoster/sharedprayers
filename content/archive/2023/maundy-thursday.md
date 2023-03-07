@@ -31,7 +31,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% hymn Offertory "h-577" %}}
-{{% he/eucharisticprayer/a sanctus="S-130" /%}}
+{{% he/eucharisticprayer/a sanctus="S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161
