@@ -11,9 +11,7 @@ tags:
 - StT
 - holyweek
 ---
-## We Gather in God's Name
-{{% he/palmsunday/palms/c %}}
-##### If there is no procession, the service continues with the [liturgy of the word](/archive/2022/palm-sunday-liturgy-of-the-word/).
+{{% he/palmsunday/palms/a %}}
 {{% he/palmsunday/palms/procession %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
