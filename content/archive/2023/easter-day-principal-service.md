@@ -26,7 +26,7 @@ bcppage: 355ff.
 {{% he/pop/hearourprayer %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}

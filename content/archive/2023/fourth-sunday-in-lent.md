@@ -29,7 +29,7 @@ tags:
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory "h-490" %}}
 {{% he/eucharisticprayer/a sanctus="S-124" /%}}
 #### Hymnal S-119

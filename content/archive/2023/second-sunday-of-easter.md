@@ -31,7 +31,7 @@ tags:
 {{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory "h-212" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119

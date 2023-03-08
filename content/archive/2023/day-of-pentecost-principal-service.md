@@ -31,7 +31,7 @@ tags:
 {{% he/pop/hearourprayer %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory "h-508" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
 #### Hymnal S-119

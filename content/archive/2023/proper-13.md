@@ -31,7 +31,7 @@ tags:
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory "l-31" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}

@@ -31,7 +31,7 @@ tags:
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
 #### Hymnal S-119

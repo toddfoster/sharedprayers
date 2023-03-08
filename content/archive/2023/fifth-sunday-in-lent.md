@@ -28,7 +28,7 @@ tags:
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% hymn Offertory "l-115" %}}
 {{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
 #### LEVAS 264

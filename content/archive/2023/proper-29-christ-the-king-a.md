@@ -1,5 +1,5 @@
 ---
-title: "Holy Eucharist for Purim"
+title: "Holy Eucharist for The Last Sunday after Pentecost"
 date: 2023-03-08
 lectionaryyear: a
 proper: proper-29-christ-the-king
@@ -27,7 +27,7 @@ tags:
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
