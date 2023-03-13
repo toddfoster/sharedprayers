@@ -13,7 +13,8 @@ tags:
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-493" %}}
-{{% he/penitentialorder %}}
+{{% he/greeting/blessthelord %}}
+{{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -21,16 +22,17 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-490" %}}
+### Sequence Anthem: Servant Song
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
+{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-490" %}}
+{{% hymn Offertory "h-671" %}}
 {{% he/eucharisticprayer/a sanctus="S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -40,6 +42,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "h-646" %}}
+{{% hymn Communion "h-490" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
 {{% hymn Processional "h-370" %}}
