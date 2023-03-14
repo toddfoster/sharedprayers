@@ -1,6 +1,7 @@
 ## The Passion Gospel
 
-_Matthew 26:14–27:66 (RCL Year A)_
+_Matthew 26:14–27:66 (RCL Year A)_ ([pdf](http://cdn.boidem.org/2023/PassionReading-YearA.pdf))
+
 
 _Dramatis personæ: 	People, Judas, Narrator, Jesus, Peter, High Priest, Witness/Servant/Pilate’s Wife, Pilate_
 

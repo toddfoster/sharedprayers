@@ -1,7 +1,7 @@
 ------
 
 ## The Passion Gospel
-_Mark 14:1-15:47 (RCL Year B)_
+_Mark 14:1-15:47 (RCL Year B)_ ([pdf](http://cdn.boidem.org/2023/PassionReading-YearB.pdf))
 ##### The congregation may be seated for the first part of the Passion. At the verse which mentions the arrival at Golgotha all stand.
 
 _Dramatis personæ: 	People, Narrator, Jesus, Peter, High Priest, Judas, Servant, Pilate_

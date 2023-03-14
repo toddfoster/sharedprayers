@@ -1,7 +1,7 @@
 ------
 
 ## The Passion
-_Luke 22:14–23:56 (RCL Year C)_
+_Luke 22:14–23:56 (RCL Year C)_ ([pdf](http://cdn.boidem.org/2023/PassionReading-YearC.pdf))
 ##### The congregation may be seated for the first part of the Passion. At the verse which mentions the arrival at Golgotha all stand.
 
 _Dramatis personæ: 	People, Narrator, Jesus, Peter, Servant, Pilate, Soldier, Criminal_
