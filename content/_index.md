@@ -12,6 +12,17 @@ title: Shared Prayers
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
 
+**Rowan Liturgies:**
+{{% index/listliturgies "tecatru" 2023-04 %}}
+{{% index/listliturgies "tecatru" 2023-05 %}}
+
+
+**Cardinal Village Liturgies:**
+{{% index/listliturgies "cardinalvillage" 2023-05 %}}
+{{% index/listliturgies "cardinalvillage" 2023-06 %}}
+{{% index/listliturgies "cardinalvillage" 2023-07 %}}
+{{% index/listliturgies "cardinalvillage" 2023-08 %}}
+
 [**Liturgies for Stations of the Cross**](other/stations)
 
 **Liturgies for any week:**

@@ -39,6 +39,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - provide he/eow/ versions
 
 ### TODO
+- add tags to filenames created by ods2sp
 - update lff2json to remove accents from slugs
 - regenerate & re-import lff2018keys.csv into liturgy plans
 - x add lff2018 feasts to template spreadsheet
