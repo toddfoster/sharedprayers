@@ -15,8 +15,14 @@
 > Assist us mercifully with your help, O Lord God of our salvation, that we may enter with joy upon the contemplation of those mighty acts, whereby you have given us life and immortality; through Jesus Christ our Lord. Amen.
 
 ##### A deacon or other person appointed reads the following
-##### Reader:
-> A Reading from Mathew’s Gospel.
+##### Deacon:
+The Holy Gospel of our Lord Jesus Christ according to Matthew.
+
+##### **People:**
+**Glory to you, Lord Christ.**
+
+##### or Reader:
+A Reading from Matthew’s Gospel.
 
 > When Jesus and his disciples had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, "Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, `The Lord needs them.' And he will send them immediately." This took place to fulfill what had been spoken through the prophet, saying,
 
@@ -34,11 +40,17 @@ Hosanna in the highest heaven!"
 > When he entered Jerusalem, the whole city was in turmoil, asking, "Who is this?" The crowds were saying, "This is the prophet Jesus from Nazareth in Galilee."
 _(Matthew 21:1-11 NRSV)_
 
-##### Reader:
-> The Word of the Lord.
+##### Deacon:
+The Gospel of the Lord.
 
 ##### **People:**
-> **Thanks be to God.**
+**Praise to you, Lord Christ.**
+
+##### or Reader:
+The Word of the Lord.
+
+##### **People:**
+**Thanks be to God.**
 
 
 ### The Blessing of the Palms
