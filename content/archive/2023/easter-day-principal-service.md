@@ -12,35 +12,40 @@ tags:
 - holyweek
 ---
 ## We Gather in God's Name
+{{% hymn Entrance "h-179" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
+#### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+### Sequence Anthem: Christ is Arisen
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-178" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+### Sequence Anthem: He is Risen
+{{% hymn Communion "h-190" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}
-{{% hymn Processional %}}
-{{% he/dismissal/goinpeace %}}
+{{% hymn Processional "h-207" %}}
+{{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 

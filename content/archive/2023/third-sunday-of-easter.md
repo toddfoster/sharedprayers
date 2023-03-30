@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-182" %}}
+{{% hymn Entrance "h-199" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
@@ -32,8 +32,8 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "H-293" %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
+{{% hymn Offertory "h-343" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-155
@@ -41,10 +41,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-343" %}}
+{{% hymn Communion "h-204" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
-{{% hymn Processional "h-460" %}}
+{{% hymn Processional "h-296" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 
