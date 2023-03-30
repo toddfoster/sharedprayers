@@ -22,9 +22,8 @@ tags:
 ## We Hear God's Word
 {{% lesson "first" /%}}
 #### Hymnal 645
-{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% h-379 %}}
+{{% hymn Sequence "h-379" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
