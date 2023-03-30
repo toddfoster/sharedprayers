@@ -15,6 +15,7 @@ tags:
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
+{{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% lesson "third" /%}}
@@ -22,7 +23,6 @@ tags:
 ## We Respond in Faith
 {{% burial/inthemidstoflife %}}
 {{% he/lordsprayer/letuspray %}}
-{{% he/peace %}}
 {{% office/mp/conclusion/thegrace %}}
 {{% nrsv %}}
 
