@@ -13,6 +13,7 @@ tags:
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-445" %}}
+{{% he/greeting/blessthelord %}}
 {{% he/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
@@ -39,6 +40,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+### Communion Anthem: _Servant Song_
 {{% hymn Communion "h-171" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/maundythursday/stripaltar %}}
