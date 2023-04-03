@@ -17,7 +17,7 @@ tags:
 {{% he/collect-purity %}}
 #### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
-{{% he/propercollect %}}
+{{% he/propercollect " " %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
@@ -41,7 +41,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Sequence Anthem: He is Risen
+### Communion Anthem: _He is Risen_
 {{% hymn Communion "h-190" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}
