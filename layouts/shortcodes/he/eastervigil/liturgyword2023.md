@@ -86,8 +86,6 @@ _Isaiah 55:1-11_
 ### V. God’s Wisdom calls a renewed Israel
 _Baruch 3:9-15, 3:32-4:4_
 
-### Anthem: Don Davis
-
 ##### Presider:
 > Let us pray.
 
@@ -105,6 +103,8 @@ _Ezekiel 36:24-28_
 
 ### VII. The gathering of God’s people
 _Zephaniah 3:14-20_
+
+### Anthem: Don Davis
 
 ##### Presider:
 > Let us pray.
