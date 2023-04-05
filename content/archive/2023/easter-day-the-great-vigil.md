@@ -13,8 +13,8 @@ tags:
 ---
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}
-{{% he/eastervigil/peoples-exsultet %}}
-{{% he/eastervigil/liturgyword %}}
+{{% he/eastervigil/exsultet %}}
+{{% he/eastervigil/liturgyword2023 %}}
 {{% he/eastervigil/transition %}}
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
@@ -22,18 +22,17 @@ tags:
 ## We Hear God's Word
 {{% lesson "second" /%}}
 {{% he/eastervigil/greatalleluia %}}
+{{% lesson "psalm" 114 /%}}
 {{% lesson "gospel" /%}}
 ## We Respond in Faith
-{{% he/creed/holybaptism-presentation %}}
-{{% hymn "h-469" %}}
-{{% he/creed/holybaptism-water %}}
-{{% hymn "h-679" %}}
+{{% he/creed/baptismalvowsrenewal %}}
+{{% hymn "h-296" %}}
 {{% he/peace %}}
+{{% stt/announcements %}}
 ## We Offer Ourselves to God
-##### You are invited to bring your candles to light the altar at this time.
 {{% he/anthem "_Christ is Risen, Alleluia_ (St. Thomas' Choir)" %}}
 {{% hymn Offertory "h-174" %}}
-{{% he/eucharisticprayer/d sanctus="Hymnal S-125" %}}
+{{% he/eucharisticprayer/d sanctus="Hymnal S-130" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### S-155
