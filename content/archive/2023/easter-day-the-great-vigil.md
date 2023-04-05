@@ -25,7 +25,7 @@ tags:
 {{% lesson "psalm" 114 /%}}
 {{% lesson "gospel" /%}}
 ## We Respond in Faith
-{{% he/creed/baptismalvowsrenewal %}}
+{{% he/creed/baptismalvowsvigil %}}
 {{% hymn "h-296" %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
