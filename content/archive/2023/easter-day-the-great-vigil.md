@@ -40,7 +40,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% he/anthem "He is Risen_ (St. Thomas' Choir)" %}}
+{{% he/anthem "_He is Risen_ (St. Thomas' Choir)" %}}
 {{% hymn Communion "h-190" %}}
 {{% hymn Communion "h-490" %}}
 {{% he/postcommunion/almighty %}}
