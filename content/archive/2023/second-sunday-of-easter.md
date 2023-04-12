@@ -30,7 +30,7 @@ tags:
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
+{{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory "h-212" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}

@@ -6,13 +6,14 @@ title: Shared Prayers
 
 ------
 
+<!-- 
 **Liturgies for Holy Week**
 {{% index/listliturgies "StT holyweek" 2023-04 %}}
+-->
 
-<!-- 
+
 **Weekend Liturgies for this month:** 
 {{% index/listliturgies "StT weekend" %}}
--->
 
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
@@ -23,6 +24,7 @@ title: Shared Prayers
 
 
 **Cardinal Village Liturgies:**
+{{% index/listliturgies "cardinalvillage" 2023-04 %}}
 {{% index/listliturgies "cardinalvillage" 2023-05 %}}
 {{% index/listliturgies "cardinalvillage" 2023-06 %}}
 {{% index/listliturgies "cardinalvillage" 2023-07 %}}
