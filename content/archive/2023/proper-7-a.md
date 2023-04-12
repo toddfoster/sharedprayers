@@ -1,11 +1,11 @@
 ---
-title: "Holy Eucharist for Proper 7"
+title: "Eucharistic Visit for Proper 7"
 date: 2023-06-08
 lectionaryyear: a
 proper: proper-7
 season: pentecost
 weekday: thursday
-rite: Holy Eucharist
+rite: Eucharistic Visit
 bcppage: 355ff.
 tags:
 - cardinalvillage
@@ -24,17 +24,10 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
+{{% he/ev/collect %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/a /%}}
-{{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
-##### pb
-### We Receive the Gift of God
-{{% stt/2022/communion %}}
-{{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/ev/specialcircumstances %}}
+{{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 
