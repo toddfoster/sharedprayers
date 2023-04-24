@@ -1,9 +1,9 @@
 ---
-title: Morning Prayer for Sundays  in the Season after Pentecost, Rite Two
-date: 2021-05-30
+title: Morning Prayer for Thursdays  in the Season after Pentecost, Rite Two
+date: 2021-05-27
 bcppage: 75ff.
 season: proper
-weekday: sunday
+weekday: thursday
 ---
 
 {{% office/lessonssource %}}
@@ -73,7 +73,6 @@ Thanks be to God.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/mp/mission %}}
 
 ##### Here may be sung a hymn or anthem.

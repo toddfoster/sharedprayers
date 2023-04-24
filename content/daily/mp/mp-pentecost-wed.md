@@ -1,19 +1,19 @@
 ---
-title: Morning Prayer for Wednesdays in Easter, Rite Two
-date: 2021-04-07
+title: Morning Prayer for Wednesdays  in the Season after Pentecost, Rite Two
+date: 2021-05-26
 bcppage: 75ff.
-season: easter
+season: proper
 weekday: wednesday
 ---
 
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-
+{{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
-
-{{% lesson "psalm" %}}
-{{% /lesson %}}
+{{% office/psalmintro %}}
+{{% lesson "psalm" /%}}
+{{% office/psalmgloria %}}
 
 # The Lessons
 ##### Reader:
@@ -73,7 +73,6 @@ Thanks be to God.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/mp/mission %}}
 
 ##### Here may be sung a hymn or anthem.

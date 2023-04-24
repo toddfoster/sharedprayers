@@ -10,8 +10,8 @@ weight: 50
   * in Christmas: [Mon](mp/mp-xmas-mon) / [Tues](mp/mp-xmas-tue) / [Wed](mp/mp-xmas-wed) / [Thurs](mp/mp-xmas-thu) / [Fri](mp/mp-xmas-fri) / [Sat](mp/mp-xmas-sat) / [Sun](mp/mp-xmas-sun)
   * in the season of Epiphany: [Mon](mp/mp-epiphany-mon) / [Tues](mp/mp-epiphany-tue) / [Wed](mp/mp-epiphany-wed) / [Thurs](mp/mp-epiphany-thu) / [Fri](mp/mp-epiphany-fri) / [Sat](mp/mp-epiphany-sat) / [Sun](mp/mp-epiphany-sun)
   * in Lent: [Mon](mp/mp-lent-mon) / [Tues](mp/mp-lent-tue) / [Wed](mp/mp-lent-wed) / [Thurs](mp/mp-lent-thu) / [Fri](mp/mp-lent-fri) / [Sat](mp/mp-lent-sat) / [Sun](mp/mp-lent-sun)
-  * in Easter: [Mon](mp/mp-easter-covid-mon) / [Tues](mp/mp-easter-covid-tue) / [Wed](mp/mp-easter-covid-wed) / [Thurs](mp/mp-easter-covid-thu) / [Fri](mp/mp-easter-covid-fri) / [Sat](mp/mp-easter-covid-sat) / [Sun](mp/mp-easter-covid-sun)
-  * in the season after Pentecost: [Mon](mp/mp-pentecost-covid-mon) / [Tues](mp/mp-pentecost-covid-tue) / [Wed](mp/mp-pentecost-covid-wed) / [Thurs](mp/mp-pentecost-covid-thu) / [Fri](mp/mp-pentecost-covid-fri) / [Sat](mp/mp-pentecost-covid-sat) / [Sun](mp/mp-pentecost-covid-sun)
+  * in Easter: [Mon](mp/mp-easter-mon) / [Tues](mp/mp-easter-tue) / [Wed](mp/mp-easter-wed) / [Thurs](mp/mp-easter-thu) / [Fri](mp/mp-easter-fri) / [Sat](mp/mp-easter-sat) / [Sun](mp/mp-easter-sun)
+  * in the season after Pentecost: [Mon](mp/mp-pentecost-mon) / [Tues](mp/mp-pentecost-tue) / [Wed](mp/mp-pentecost-wed) / [Thurs](mp/mp-pentecost-thu) / [Fri](mp/mp-pentecost-fri) / [Sat](mp/mp-pentecost-sat) / [Sun](mp/mp-pentecost-sun)
 
 * [Noonday Prayer](noonday) or smaller offices at [9am](noonday-terce), [Noon](noonday-sext), [3pm](noonday-none)
 * Evening Prayer (in the season after Pentecost): [Sunday](ep/ep-pentecost-sun)

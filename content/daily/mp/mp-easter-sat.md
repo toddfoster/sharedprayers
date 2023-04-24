@@ -1,9 +1,9 @@
 ---
-title: Morning Prayer for Fridays in Easter, Rite Two
-date: 2021-04-09
+title: Morning Prayer for Saturdays in Easter, Rite Two
+date: 2021-04-10
 bcppage: 75ff.
 season: easter
-weekday: friday
+weekday: saturday
 ---
 
 {{% office/lessonssource %}}
@@ -73,7 +73,6 @@ Thanks be to God.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/mp/mission %}}
 
 ##### Here may be sung a hymn or anthem.

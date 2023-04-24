@@ -74,7 +74,6 @@ weekday: sunday
 _Collect Proper to the Day_
 
 {{% office/ep/collect/sundays %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/ep/mission %}}
 
 ##### Here may be sung a hymn or anthem.

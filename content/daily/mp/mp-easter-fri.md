@@ -1,19 +1,19 @@
 ---
-title: Morning Prayer for Tuesdays  in the Season after Pentecost, Rite Two
-date: 2021-05-25
+title: Morning Prayer for Fridays in Easter, Rite Two
+date: 2021-04-09
 bcppage: 75ff.
-season: proper
-weekday: tuesday
+season: easter
+weekday: friday
 ---
 
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-{{% office/mp/confession %}}
+
 {{% office/mp/invitatory  %}}
-{{% office/psalmintro %}}
-{{% lesson "psalm" /%}}
-{{% office/psalmgloria %}}
+
+{{% lesson "psalm" %}}
+{{% /lesson %}}
 
 # The Lessons
 ##### Reader:
@@ -73,7 +73,6 @@ Thanks be to God.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/mp/mission %}}
 
 ##### Here may be sung a hymn or anthem.

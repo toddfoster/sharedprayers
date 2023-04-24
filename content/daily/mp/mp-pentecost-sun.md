@@ -1,19 +1,19 @@
 ---
-title: Morning Prayer for Sundays in Easter, Rite Two
-date: 2021-04-04
+title: Morning Prayer for Sundays  in the Season after Pentecost, Rite Two
+date: 2021-05-30
 bcppage: 75ff.
-season: easter
+season: proper
 weekday: sunday
 ---
 
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-
+{{% office/mp/confession %}}
 {{% office/mp/invitatory  %}}
-
-{{% lesson "psalm" %}}
-{{% /lesson %}}
+{{% office/psalmintro %}}
+{{% lesson "psalm" /%}}
+{{% office/psalmgloria %}}
 
 # The Lessons
 ##### Reader:
@@ -73,7 +73,6 @@ Thanks be to God.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% collects/20-ForTheSick-covid %}}
 {{% office/mp/mission %}}
 
 ##### Here may be sung a hymn or anthem.
