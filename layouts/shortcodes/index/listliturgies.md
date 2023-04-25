@@ -26,7 +26,7 @@
 {{ end }}{{ end }}
 
 {{/* Pick up first weekend of following month */}}
-{{- range first 1 $results.Reverse }}{{ range .Pages }}
+{{ range first 1 $results.Reverse }}{{ range .Pages }}
 {{ if lt .Date.Day 7 }}
 {{ $liturgies = $liturgies | append . }}
 {{ end }}{{ end }}{{ end }}
@@ -36,6 +36,5 @@
   	{{ $tagged = where $tagged "Params.tags" "intersect" (slice .) }}
 {{ end }}
 
-{{ range $tagged }}
-- [{{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}]({{ .Permalink }}){{ end }}
-
+{{ range $tagged }}[{{ .Date.Format "Monday, 2 January 2006" }}: {{ .Title }}]({{ .Permalink }})
+{{ end }}

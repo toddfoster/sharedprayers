@@ -14,17 +14,19 @@ title: Shared Prayers
 
 **Weekend Liturgies for this month:** 
 {{% index/listliturgies "StT weekend" %}}
+{{% index/listliturgies "StT weekend" 2023-05 %}}
+{{% index/listliturgies "StT weekend" 2023-06 %}}
+{{% index/listliturgies "StT weekend" 2023-07 %}}
 
+<!--
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
+-->
 
 **Rowan Liturgies:**
-{{% index/listliturgies "tecatru" 2023-04 %}}
 {{% index/listliturgies "tecatru" 2023-05 %}}
 
-
 **Cardinal Village Liturgies:**
-{{% index/listliturgies "cardinalvillage" 2023-04 %}}
 {{% index/listliturgies "cardinalvillage" 2023-05 %}}
 {{% index/listliturgies "cardinalvillage" 2023-06 %}}
 {{% index/listliturgies "cardinalvillage" 2023-07 %}}
