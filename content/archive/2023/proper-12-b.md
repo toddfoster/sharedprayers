@@ -11,18 +11,22 @@ tags:
 - StT
 - weekend
 ---
+{{% hymn Entrance "h-551" %}}
 {{% office/mp/sentence %}}
 {{% office/mp/confession %}}
-{{% office/mp/invitatory %}}
+#### Hymnal 377
+{{% office/mp/invitatory/jubilate %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
 {{% lesson "first" /%}}
-{{% office/mp/canticle/first %}}
+#### Hymnal 533
+{{% canticles/19-magna %}}
 {{% lesson "second" /%}}
-{{% office/mp/canticle/second %}}
+#### Hymnal 366
+{{% canticles/21-tedeum %}}
 {{% lesson "third" /%}}
 {{% he/homily/brief %}}
 # The Prayers
@@ -34,10 +38,11 @@ tags:
 {{% he/propercollect %}}
 {{% office/mp/collect/sundays %}}
 {{% office/mp/mission %}}
-##### Here may be sung a hymn or anthem.
+{{% hymn "" h-711 "  " %}}
 ##### Authorized intercessions and thanksgivings may follow.
 {{% office/mp/beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
+{{% hymn Processional "h-488" %}}
 {{% nrsv %}}
 
