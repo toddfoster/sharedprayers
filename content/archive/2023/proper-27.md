@@ -1,8 +1,8 @@
 ---
-title: "Holy Eucharist for Proper 18"
-date: 2023-09-10
+title: "Holy Eucharist for Proper 27"
+date: 2023-11-12
 lectionaryyear: a
-proper: proper-18
+proper: proper-27
 season: pentecost
 weekday: sunday
 rite: Holy Eucharist
@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-400" %}}
+{{% hymn Entrance "h-551" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
@@ -21,19 +21,19 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-546" %}}
+{{% hymn Sequence "h-620" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/lordhavemercy %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-174" %}}
+{{% hymn Offertory "h-691" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -42,10 +42,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-554" %}}
+{{% hymn Communion "h-53" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "h-376" %}}
+{{% hymn Processional "h-436" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

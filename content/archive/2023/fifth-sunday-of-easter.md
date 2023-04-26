@@ -30,9 +30,10 @@ tags:
 {{% he/creed/nicene %}}
 {{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-190" %}}
+{{% hymn Offertory "h-518" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -44,7 +45,7 @@ tags:
 {{% hymn Communion "h-508" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
-{{% hymn Processional "h-518" %}}
+{{% hymn Processional "h-293" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 

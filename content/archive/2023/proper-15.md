@@ -1,6 +1,6 @@
 ---
 title: "Holy Eucharist for Proper 15"
-date: 2023-08-13
+date: 2023-08-20
 lectionaryyear: a
 proper: proper-15
 season: pentecost
@@ -12,36 +12,40 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-198" %}}
+{{% hymn Entrance "h-410" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/acapellachoice %}}
+#### Hymnal S-280
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-115" %}}
+{{% hymn Sequence "h-533" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/form4 %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-74" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "h-469" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+{{% hymn Communion "h-321" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-111" %}}
+{{% hymn Processional "h-371" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

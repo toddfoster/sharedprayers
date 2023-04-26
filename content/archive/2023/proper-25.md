@@ -1,6 +1,6 @@
 ---
 title: "Holy Eucharist for Proper 25"
-date: 2023-10-22
+date: 2023-10-29
 lectionaryyear: a
 proper: proper-25
 season: pentecost
@@ -12,6 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
+{{% hymn Entrance "h-680" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
@@ -22,28 +23,29 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-602" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
+{{% hymn Offertory "h-450" %}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-707" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional %}}
+{{% hymn Processional "h-336" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

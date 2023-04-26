@@ -1,6 +1,6 @@
 ---
 title: "Holy Eucharist for Proper 7"
-date: 2023-06-18
+date: 2023-06-25
 lectionaryyear: a
 proper: proper-7
 season: pentecost
@@ -15,19 +15,19 @@ tags:
 {{% hymn Entrance "l-64" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/alleluiaamen %}}
+{{% he/songofpraise/acapellachoice %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-62" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
@@ -41,10 +41,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-151" %}}
+{{% hymn Communion "l-136" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-35" %}}
+{{% hymn Processional "l-192" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

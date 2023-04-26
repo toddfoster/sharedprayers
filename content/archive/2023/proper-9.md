@@ -1,6 +1,6 @@
 ---
 title: "Holy Eucharist for Proper 9"
-date: 2023-07-02
+date: 2023-07-09
 lectionaryyear: a
 proper: proper-9
 season: pentecost
@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-217" %}}
+{{% hymn Entrance "l-77" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/acapellachoice %}}
@@ -22,26 +22,29 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-77" %}}
+{{% hymn Sequence "l-217" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/form4 %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
+{{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-29" %}}
-{{% he/eucharisticprayer/b /%}}
+{{% hymn Offertory "l-137" %}}
+{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
+#### LEVAS 264
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+#### LEVAS 269
+{{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+{{% hymn Communion "l-101" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-164" %}}
+{{% hymn Processional "l-109" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

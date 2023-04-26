@@ -1,15 +1,12 @@
 ---
 title: "Holy Eucharist for Proper 26"
-date: 2023-10-29
+date: 2023-11-05
 lectionaryyear: a
 proper: proper-26
 season: pentecost
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
-tags:
-- StT
-- weekend
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
@@ -27,9 +24,10 @@ tags:
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}

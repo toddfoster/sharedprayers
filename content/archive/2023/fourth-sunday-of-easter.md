@@ -21,7 +21,7 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-#### Hymnal 645
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-379" %}}
 {{% lesson "gospel" /%}}
@@ -32,7 +32,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-708" %}}
+{{% hymn Offertory "h-645" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -44,7 +44,7 @@ tags:
 {{% hymn Communion "h-664" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
-{{% hymn Processional "h-293" %}}
+{{% hymn Processional "h-708" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 
