@@ -19,7 +19,7 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,16 +84,36 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/lff2018-james-otis-sargent-huntington/</loc>
-    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-29-christ-the-king/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.sharedprayers.net/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/stt/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekend/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/archive/2023/lff2018-james-otis-sargent-huntington/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,6 +129,11 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/thanksgiving-day/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.sharedprayers.net/tags/weekday/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,22 +158,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-29-christ-the-king/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/stt/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/weekend/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-28/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +193,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-28/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-27/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,6 +233,11 @@
   </url>
   
   <url>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-26/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.sharedprayers.net/archive/2023/lff2018-richard-hooker/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
@@ -248,7 +263,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-26/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-25/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,7 +293,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-25/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-24/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,7 +318,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-24/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-23/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -338,7 +353,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-23/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-22/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,7 +383,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-22/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-21/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,7 +428,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-21/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-20/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -453,7 +468,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-20/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-19/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -488,7 +503,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-19/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-18/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -528,7 +543,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-18/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-17/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -563,7 +578,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-17/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-16/</loc>
     <lastmod>2023-08-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -593,7 +608,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-16/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-15/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,7 +638,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-15/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-14/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -668,7 +683,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-14/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-13/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -693,7 +708,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-13/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-12/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -738,7 +753,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-12/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-11/</loc>
     <lastmod>2023-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -773,7 +788,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-11/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-10/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -793,7 +808,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-10/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-9/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -818,7 +833,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-9/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-8/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -843,7 +858,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-8/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-7/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -868,7 +883,7 @@
   </url>
   
   <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-7/</loc>
+    <loc>http://www.sharedprayers.net/archive/2023/proper-6/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -899,11 +914,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/proper-5/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/archive/2023/proper-6/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1124,11 +1134,6 @@
   
   <url>
     <loc>http://www.sharedprayers.net/archive/2023/lff2018-saint-mark-the-evangelist/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.sharedprayers.net/tags/weekday/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url>
   
