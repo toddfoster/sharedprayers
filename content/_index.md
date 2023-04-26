@@ -18,8 +18,10 @@ title: Shared Prayers
 {{% index/listliturgies "StT weekend" 2023-06 %}}
 {{% index/listliturgies "StT weekend" 2023-07 %}}
 
-<!--
+
 **Weekday Liturgies:**
+{{% index/listliturgies "StT weekday" %}}
+<!--
 {{% index/listliturgies "StT weekday" %}}
 -->
 
