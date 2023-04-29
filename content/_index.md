@@ -12,16 +12,15 @@ title: Shared Prayers
 -->
 
 
-**Weekend Liturgies for this month:** 
+**Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
 {{% index/listliturgies "StT weekend" 2023-05 %}}
 {{% index/listliturgies "StT weekend" 2023-06 %}}
 {{% index/listliturgies "StT weekend" 2023-07 %}}
 
 
-**Weekday Liturgies:**
-{{% index/listliturgies "StT weekday" %}}
 <!--
+**Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
 -->
 
