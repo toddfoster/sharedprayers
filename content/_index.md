@@ -14,33 +14,25 @@ title: Shared Prayers
 
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
-{{% index/listliturgies "StT weekend" 2023-05 %}}
-{{% index/listliturgies "StT weekend" 2023-06 %}}
-{{% index/listliturgies "StT weekend" 2023-07 %}}
-
 
 <!--
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
 -->
 
+<!--
 **Rowan Liturgies:**
-{{% index/listliturgies "tecatru" 2023-05 %}}
-
+{{% index/listliturgies "tecatru" %}}
+-->
 **Cardinal Village Liturgies:**
-{{% index/listliturgies "cardinalvillage" 2023-05 %}}
-{{% index/listliturgies "cardinalvillage" 2023-06 %}}
-{{% index/listliturgies "cardinalvillage" 2023-07 %}}
 {{% index/listliturgies "cardinalvillage" 2023-08 %}}
 
-[**Liturgies for Stations of the Cross**](other/stations)
-
-**Liturgies for any week:**
+**Liturgies for any time:**
+- [Liturgies for Stations of the Cross](other/stations)
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
 - [Holy Eucharist for Major Feasts](archive/he-covid-feasts)
-
-**Liturgies for pastoral occasions:**
 - Ministration at the time of death [for him](archive/occasions/atdeath-m), [for her](archive/occasions/atdeath-f)
+
 ------------
 
 {{< sharetheseprayers >}}
