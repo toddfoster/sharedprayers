@@ -1,8 +1,8 @@
 ---
-title: "Holy Eucharist for Proper 15"
+title: "Holy Eucharist for Proper 14"
 date: 2023-08-10
 lectionaryyear: a
-proper: proper-15
+proper: proper-14
 season: pentecost
 weekday: thursday
 rite: Holy Eucharist
