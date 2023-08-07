@@ -25,7 +25,7 @@ title: Shared Prayers
 {{% index/listliturgies "tecatru" %}}
 -->
 **Cardinal Village Liturgies:**
-{{% index/listliturgies "cardinalvillage" 2023-08 %}}
+{{% index/listliturgies "cardinalvillage" %}}
 
 **Liturgies for any time:**
 - [Liturgies for Stations of the Cross](other/stations)
