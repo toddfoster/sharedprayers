@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Holy Cross Day"
-date: 2023-09-14
+date: 2023-09-13
 lectionaryyear: a
 proper: lff2018-holy-cross-day
 season: pentecost
-weekday: thursday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

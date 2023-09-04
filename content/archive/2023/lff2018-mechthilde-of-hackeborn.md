@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for [Mechthilde of Hackeborn and Gertrude the Great], Mystics and Theologians, 1298 and 1302"
-date: 2023-11-21
+date: 2023-11-22
 lectionaryyear: a
 proper: lff2018-mechthilde-of-hackeborn
 season: pentecost
-weekday: tuesday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

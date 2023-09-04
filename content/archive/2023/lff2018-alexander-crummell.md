@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Alexander Crummell, Priest, 1898"
-date: 2023-09-10
+date: 2023-09-06
 lectionaryyear: a
 proper: lff2018-alexander-crummell
 season: pentecost
-weekday: sunday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

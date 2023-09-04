@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for [Edith Cavell], Nurse, 1915"
-date: 2023-10-12
+date: 2023-10-11
 lectionaryyear: a
 proper: lff2018-edith-cavell
 season: pentecost
-weekday: thursday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

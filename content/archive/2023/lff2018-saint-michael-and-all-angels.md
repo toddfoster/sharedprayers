@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Saint Michael and All Angels"
-date: 2023-09-29
+date: 2023-09-27
 lectionaryyear: a
 proper: lff2018-saint-michael-and-all-angels
 season: pentecost
-weekday: friday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

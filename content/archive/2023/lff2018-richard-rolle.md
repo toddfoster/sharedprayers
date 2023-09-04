@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for [Richard Rolle, 1349, Walter Hilton, 1396, and Margery Kempe, c.1440], Mystics"
-date: 2023-11-09
+date: 2023-11-08
 lectionaryyear: a
 proper: lff2018-richard-rolle
 season: pentecost
-weekday: thursday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

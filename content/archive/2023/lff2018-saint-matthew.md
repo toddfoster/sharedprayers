@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Saint Matthew, Apostle and Evangelist"
-date: 2023-09-21
+date: 2023-09-20
 lectionaryyear: a
 proper: lff2018-saint-matthew
 season: pentecost
-weekday: thursday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

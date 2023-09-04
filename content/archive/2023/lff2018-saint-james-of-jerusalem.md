@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Saint James of Jerusalem, Brother of Our Lord Jesus Christ"
-date: 2023-10-23
+date: 2023-10-25
 lectionaryyear: a
 proper: lff2018-saint-james-of-jerusalem
 season: pentecost
-weekday: monday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

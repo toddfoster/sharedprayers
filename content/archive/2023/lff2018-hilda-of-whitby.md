@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for Hilda of Whitby, Abbess, 680"
-date: 2023-11-18
+date: 2023-11-15
 lectionaryyear: a
 proper: lff2018-hilda-of-whitby
 season: pentecost
-weekday: saturday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

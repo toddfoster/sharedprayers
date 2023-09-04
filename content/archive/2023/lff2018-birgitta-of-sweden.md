@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for [Birgitta of Sweden], Mystic, 1373"
-date: 2023-10-07
+date: 2023-10-04
 lectionaryyear: a
 proper: lff2018-birgitta-of-sweden
 season: pentecost
-weekday: saturday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

@@ -1,12 +1,15 @@
 ---
 title: "Holy Eucharist for All Souls/All the Faithful Departed"
-date: 2023-11-02
+date: 2023-11-01
 lectionaryyear: a
 proper: lff2018-all-souls
 season: pentecost
-weekday: thursday
+weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}

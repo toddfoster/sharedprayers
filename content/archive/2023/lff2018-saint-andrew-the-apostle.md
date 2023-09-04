@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for Saint Andrew the Apostle"
-date: 2022-11-30
+date: 2023-11-29
 lectionaryyear: a
 proper: lff2018-saint-andrew-the-apostle
-season: advent
+season: pentecost
 weekday: wednesday
 rite: Holy Eucharist
 bcppage: 355ff.
@@ -29,7 +29,7 @@ tags:
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
-{{% stt/2022/offertory %}}
+{{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
