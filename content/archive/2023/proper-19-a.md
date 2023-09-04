@@ -1,9 +1,9 @@
 ---
-title: "Holy Eucharist for The Third Sunday of Advent"
-date: 2023-12-14
-lectionaryyear: b
-proper: third-sunday-of-advent
-season: advent
+title: "Holy Eucharist for Proper 19"
+date: 2023-09-14
+lectionaryyear: a
+proper: proper-19
+season: pentecost
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
@@ -13,7 +13,7 @@ tags:
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}

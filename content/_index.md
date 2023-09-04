@@ -15,10 +15,8 @@ title: Shared Prayers
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
 
-<!--
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
--->
 
 <!--
 **Rowan Liturgies:**
