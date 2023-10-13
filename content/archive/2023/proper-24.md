@@ -44,7 +44,7 @@ tags:
 {{% hymn Communion "l-177" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-50" %}}
+{{% hymn Processional "l-108" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
