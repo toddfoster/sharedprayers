@@ -23,16 +23,14 @@ bcppage: 355ff.
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
-{{% he/creed/nicene %}}
+{{% he/creed/baptismalvowsrenewal %}}
 {{% he/pop/hearourprayer %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-124" /%}}
-#### Hymnal S-119
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
