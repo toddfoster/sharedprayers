@@ -34,7 +34,7 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory "L-227" %}}
-{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
+{{% he/eucharisticprayer/d sanctus="LEVAS 255" %}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
 #### LEVAS 269
