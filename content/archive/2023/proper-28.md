@@ -15,14 +15,15 @@ tags:
 {{% hymn Entrance "l-198" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/acapellachoice %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-154" %}}
+### Choir Anthem: Make Me a Blessing
+{{% he/sequence-children %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -32,7 +33,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-222" %}}
+### Choir Anthem: Behold Your God
 {{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
