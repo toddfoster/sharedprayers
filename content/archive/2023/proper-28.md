@@ -31,6 +31,7 @@ tags:
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% he/special/biblesunday %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Choir Anthem: Behold Your God
