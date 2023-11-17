@@ -13,17 +13,17 @@ tags:
 ---
 {{% office/mp/sentence %}}
 {{% office/mp/confession %}}
-{{% office/mp/invitatory/jubilate %}}
+{{% office/mp/invitatory/venite %}}
 {{% office/psalmintro %}}
-{{% lesson "psalm" /%}}
+{{% lesson psalm "Psalm 66" /%}}
+{{% lesson psalm "Psalm 67" /%}}
 {{% office/psalmgloria %}}
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
-{{% lesson "first" /%}}
+{{% lesson first "1 Maccabees 2.29-43,49-50" /%}}
 {{% canticles/16-benedictusdominus %}}
-{{% lesson "second" /%}}
+{{% lesson second "Acts 28.14b-23" /%}}
 {{% canticles/21-tedeum %}}
-{{% lesson "third" /%}}
 {{% he/homily/brief %}}
 # The Prayers
 #### BCP 97
