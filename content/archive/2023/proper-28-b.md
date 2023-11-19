@@ -13,7 +13,7 @@ tags:
 ---
 {{% office/mp/sentence %}}
 {{% office/mp/confession %}}
-{{% office/mp/invitatory/venite %}}
+{{% office/mp/invitatory proper venite %}}
 {{% office/psalmintro %}}
 {{% lesson psalm "Psalm 66" /%}}
 {{% lesson psalm "Psalm 67" /%}}
@@ -25,6 +25,7 @@ tags:
 {{% lesson second "Acts 28.14b-23" /%}}
 {{% canticles/21-tedeum %}}
 {{% he/homily/brief %}}
+{{% office/apostlescreed %}}
 # The Prayers
 #### BCP 97
 ##### The people stand or kneel.
