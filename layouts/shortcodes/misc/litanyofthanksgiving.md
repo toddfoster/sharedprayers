@@ -1,4 +1,4 @@
-#### BCP	836
+#### BCP	837
 ### A Litany of Thanksgiving
 
 ##### Deacon:
@@ -46,4 +46,4 @@ For the communion of saints, in all times and places,
 
 ##### Celebrant:
 Above all, we give you thanks for the great mercies and promises given to us in Christ Jesus our Lord;
-To him be praise and glory, with you, O Father, and the Holy Spirit, now and for ever. Amen.
+**To him be praise and glory, with you, O Father, and the Holy Spirit, now and for ever. Amen.**
