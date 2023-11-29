@@ -20,7 +20,7 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" "Isaiah 9:2-7" /%}}
-{{% lesson "psalm" "96" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" "Titus 2:11-14" /%}}
 ### Sequence Hymn (7pm): Mary Borned a Baby by St. Thomas' Choir
 ### Sequence Hymn (11pm): The first Nowell (Hymnal 109)

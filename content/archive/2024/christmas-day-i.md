@@ -18,7 +18,7 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 ### Sequence Anthem: The Virgin Mary by St. Thomas' Children
 {{% lesson "gospel" /%}}
