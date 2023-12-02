@@ -71,8 +71,7 @@ That it may please thee to give us a heart to love and fear thee, and diligently
 That it may please thee so to rule the hearts of thy servants, the President of the United States (or of this nation), and all others in authority, that they may do justice, and love mercy, and walk in the ways of truth,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to make wars to cease in all the world; to give to all nations unity, peace, and concord; and to
-bestow freedom upon all peoples,
+That it may please thee to make wars to cease in all the world; to give to all nations unity, peace, and concord; and to bestow freedom upon all peoples,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to show thy pity upon all prisoners and captives, the homeless and the hungry, and all who are desolate and oppressed,
@@ -99,8 +98,7 @@ That it may please thee to support, help, and comfort all who are in danger, nec
 That it may please thee to have mercy upon all people,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to give us true repentance; to forgive us all our sins, negligences, and ignorances; and to endue
-us with the grace of thy Holy Spirit to amend our lives according to thy holy Word,
+That it may please thee to give us true repentance; to forgive us all our sins, negligences, and ignorances; and to endue us with the grace of thy Holy Spirit to amend our lives according to thy holy Word,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to forgive our enemies, persecutors, and slanderers, and to turn their hearts,
