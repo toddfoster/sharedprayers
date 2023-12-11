@@ -24,7 +24,8 @@ tags:
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+#### Hymnal 438
+{{% canticles/15-magnificat %}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-82" %}}
 {{% lesson "gospel" /%}}
