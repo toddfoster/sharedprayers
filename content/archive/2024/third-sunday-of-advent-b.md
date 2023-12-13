@@ -1,10 +1,10 @@
 ---
 title: "Holy Baptism for The Third Sunday of Advent"
-date: 2023-12-15
+date: 2023-12-16
 lectionaryyear: b
 proper: third-sunday-of-advent
 season: advent
-weekday: friday
+weekday: saturday
 rite: Holy Baptism
 bcppage: 299ff.
 tags:
