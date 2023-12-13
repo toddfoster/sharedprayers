@@ -16,8 +16,6 @@ tags:
 {{% advent/ocome %}}
 {{% hymn Entrance "l-6" %}}
 {{% baptism/blessedbegod %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
@@ -34,7 +32,6 @@ tags:
 {{% baptism/thanksgiving %}}
 {{% baptism/baptism %}}
 {{% he/peace %}}
-### Epiphany Proclamation
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory "l-62" %}}
