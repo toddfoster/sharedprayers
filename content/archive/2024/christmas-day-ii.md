@@ -1,11 +1,11 @@
 ---
-title: "Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
+title: " 7 & 11pm Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
 date: 2023-12-24
 lectionaryyear: b
 proper: christmas-day-ii
 season: advent
 weekday: sunday
-rite: Holy Eucharist
+rite:  7 & 11pm Holy Eucharist
 tags:
 - StT
 - weekend
@@ -14,17 +14,15 @@ tags:
 {{% advent/wreath %}}
 {{% hymn Entrance "h-83" %}}
 {{% he/greeting/blessedareyou %}}
-### Hymn of Praise (7pm): Song of Zechariah by St. Thomas' Choir
-### Hymn of Praise (11pm): Angels we have heard on high (Hymnal 96)
+{{% hymn "Praise" "h-96" %}}
 {{% he/eow/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
-{{% lesson "first" "Isaiah 9:2-7" /%}}
-{{% lesson "psalm-sac" /%}}
-{{% lesson "second" "Titus 2:11-14" /%}}
-### Sequence Hymn (7pm): Mary Borned a Baby by St. Thomas' Choir
-### Sequence Hymn (11pm): The first Nowell (Hymnal 109)
-{{% lesson "gospel" "Luke 2:1-20" /%}}
+{{% lesson "first" "christmas-day-i" /%}}
+{{% lesson "psalm-sac" "christmas-day-i" /%}}
+{{% lesson "second" "christmas-day-i" /%}}
+### Sequence Anthem: _Behold That Star_ by St. Thomas' Choir
+{{% lesson "gospel" "christmas-day-i" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/eow/nicene %}}
@@ -32,7 +30,7 @@ tags:
 {{% he/eow/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-101" %}}
+{{% hymn Offertory "h-89" %}}
 {{% he/eucharisticprayer/eow2 sanctus="Hymnal S-130" %}}
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161
@@ -40,15 +38,14 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-111" %}}
-### Communion Anthem (7pm): In the Bleak Midwinter by St. Thomas' Choir
-### Communion Hymn (11pm): Of the Father's Love (Hymnal 82)
+### Communion Anthem: _Of the Father's Love_ by the Choral Scholars
+### Communion Anthem: _Amid the Cold of Winter_ by the St. Thomas' Choir
+{{% hymn Communion "h-79" %}}
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
-{{% hymn "" h-101 "h-102" %}}
+{{% hymn "h-101" %}}
 {{% he/special/prologue-candles %}}
-### Processional Hymn (7pm): Once in royal David's city (Hymnal 102)
-### Processional Hymn (11pm): Silent Night (Hymnal 111)
+{{% hymn Processional "h-111" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

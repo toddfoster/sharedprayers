@@ -13,28 +13,25 @@ tags:
 ---
 ## We Gather in God's Name
 {{% advent/wreath %}}
-{{% advent/ocome %}}
 {{% hymn Entrance "l-27" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-### Hymn of Praise: Angels we have heard on high (Hymnal 96)
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-76" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
+{{% misc/litanyofthanksgiving %}}
 {{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-26" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -42,8 +39,6 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-75" %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-long %}}
 {{% hymn Processional "l-21" %}}

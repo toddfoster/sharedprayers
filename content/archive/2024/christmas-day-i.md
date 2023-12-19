@@ -1,26 +1,27 @@
 ---
-title: "Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
+title: "4pm Holy Eucharist for The Nativity of Our Lord Jesus Christ: Christmas Day"
 date: 2023-12-24
 lectionaryyear: b
 proper: christmas-day-i
 season: advent
 weekday: sunday
-rite: Holy Eucharist
+rite: 4pm Holy Eucharist
 tags:
 - StT
 - weekend
 ---
 ## We Gather in God's Name
 {{% advent/wreath %}}
+{{% hymn Entrance "h-83" %}}
 {{% he/greeting/blessedareyou %}}
-#### Hymn 83
+{{% hymn "Praise" "h-96" %}}
 {{% he/eow/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% hymn h-109 %}}
 {{% lesson "second" /%}}
-### Sequence Anthem: The Virgin Mary by St. Thomas' Children
+### Sequence Anthem: _Mary's Boy Child_ by St. Thomas' Children
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith

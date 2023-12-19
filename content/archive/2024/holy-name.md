@@ -12,28 +12,24 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-435" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-### Hymn of Praise: Angels we have heard on high (Hymnal 96)
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-644" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
+{{% lent/greatlitany %}}
 {{% he/creed/nicene %}}
-{{% misc/litanyofthanksgiving %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-93" %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -41,11 +37,9 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-104" %}}
-{{% hymn Communion "h-87" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-short %}}
-{{% hymn Processional "h-450" %}}
+{{% hymn Processional "h-87" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
