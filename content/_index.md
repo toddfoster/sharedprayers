@@ -34,5 +34,3 @@ title: Shared Prayers
 ------------
 
 {{< sharetheseprayers >}}
-
-Testing gh deploy!
