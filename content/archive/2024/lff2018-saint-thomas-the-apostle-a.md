@@ -32,7 +32,7 @@ tags:
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/ep/suffragesb "blessed Thomas" %}}
+{{% office/ep/suffragesb %}}
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 {{% office/propercollect %}}
 {{% office/ep/collect/protection %}}
