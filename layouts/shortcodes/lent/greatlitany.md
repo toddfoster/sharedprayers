@@ -80,7 +80,7 @@ That it may please thee to show thy pity upon all prisoners and captives, the ho
 That it may please thee to give and preserve to our use the bountiful fruits of the earth, so that in due time all may enjoy them,
 > **We beseech thee to hear us, good Lord.**
 
-That It may please thee to inspire us, in our several callings, to do the work which thou givest us to do with singleness of heart as thy servants, and for the common good,
+That it may please thee to inspire us, in our several callings, to do the work which thou givest us to do with singleness of heart as thy servants, and for the common good,
 > **We beseech thee to hear us, good Lord.**
 
 That it may please thee to preserve all who are in danger by reason of their labor or their travel,
