@@ -31,7 +31,7 @@ tags:
 {{% misc/blessingchalk %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/c %}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
