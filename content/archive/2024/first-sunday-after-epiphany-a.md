@@ -1,16 +1,22 @@
 ---
-title: "Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord"
+title: "Holy Eucharist for The First Sunday after the Epiphany: The Baptism of Our Lord"
 date: 2024-01-07
 lectionaryyear: b
 proper: first-sunday-after-epiphany
 season: epiphany
 weekday: sunday
-rite: Holy Baptism
-bcppage: 299ff.
+rite: Holy Eucharist
+bcppage: 355ff.
+tags:
+- StT
+- weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-109" %}}
-{{% baptism/blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/collect-purity %}}
+#### Hymnal S-280
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
@@ -21,13 +27,9 @@ bcppage: 299ff.
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
-{{% baptism/presentation %}}
 {{% baptism/covenant %}}
-{{% baptism/prayers %}}
-{{% baptism/thanksgiving %}}
-{{% baptism/baptism %}}
-{{% he/peace %}}
 {{% he/pop/lordhavemercy %}}
+{{% he/peace %}}
 ### Epiphany Proclamation
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
