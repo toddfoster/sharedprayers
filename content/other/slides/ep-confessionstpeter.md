@@ -1,0 +1,430 @@
+---
+title: Evening Prayer for the The Confession of Saint Peter the Apostle
+date: 2024-01-18
+layout: slide
+lectionaryyear: yearb
+proper: lff2018-confession-of-saint-peter-the-apostle
+bcppage: 115ff.
+---
+layout: true
+class: middle
+
+---
+class: center
+# Evening Prayer
+## For the The Confession of Saint Peter the Apostle
+### _from the Book of Common Prayer, pp. 115ff._
+
+???
+emacs was destroying my two-space line breaks.
+Use M-: to evaluate:
+(remove-hook 'before-save-hook 'delete-trailing-whitespace)
+Also: M-x electric-indent-mode (to turn off?)
+
+
+*******************
+START THE RECORDING!
+*******************
+
+
+To update weekly:
+- title page
+- opening sentence
+- psalm
+- readings
+- proper collect
+
+---
+ Officiant:
+
+> Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice. .smaller[_Psalm 141:2_]
+
+
+## Confession of Sin
+Officiant:
+> Dear friends in Christ, here in the presence of Almighty God, let us kneel in silence, and with penitent and obedient hearts confess our sins, so that we may obtain forgiveness by his infinite goodness and mercy.
+
+##### The people kneel or stand as able. Silence may be kept.
+
+
+???
+**Other possible openings sentences:**
+> Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice. .smaller[_Psalm 141:2_]
+
+> Grace to you and peace from God our Father and from the Lord Jesus Christ. .smaller[_Philippians 1:2_]
+
+> Worship the Lord in the beauty of holiness; let the whole earth tremble before him. .smaller[_Psalm 96:9_]
+
+> Yours is the day, O God, yours also the night; you established the moon and the sun. You fixed all the boundaries of the earth; you made both summer and winter. .smaller[_Psalm 74:15, 16_]
+
+> I will bless the Lord who gives me counsel; my heart teaches me, night after night. I have set the Lord always before me; because he is at my right hand, I shall not fall. .smaller[_Psalm 16:7, 8_]
+
+> Seek him who made the Pleiades and Orion, and turns deep darkness into the morning, and darkens the day into night; who calls for the waters of the sea and pours them out upon the surface of the earth: The Lord is his name. .smaller[_Amos 5:8_]
+
+> If I say, “Surely the darkness will cover me, and the light around me turn to night,” darkness is not dark to you, O Lord; the night is as bright as the day; darkness and light to you are both alike. .smaller[_Psalm 139:10, 11_]
+
+> Jesus said, “I am the light of the world; whoever follows me will not walk in darkness, but will have the light of life.” .smaller[_ John 8:12_]
+
+---
+
+Officiant and **People**:
+
+> **Most merciful God,  
+we confess that we have sinned against you  
+in thought, word, and deed,  
+by what we have done,  
+and by what we have left undone.  
+We have not loved you with our whole heart;  
+we have not loved our neighbors as ourselves.  
+We are truly sorry and we humbly repent.  
+For the sake of your Son Jesus Christ,  
+have mercy on us and forgive us;  
+that we may delight in your will,  
+and walk in your ways,  
+to the glory of your Name. Amen.**
+
+---
+ 
+Priest:
+> Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. 
+
+**People:**
+> **Amen.**
+
+##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
+
+---
+## The Invitatory and Psalter .smaller[_(BCP 117)_]
+
+Officiant:
+
+> O God, make speed to save us.
+
+**People:**
+
+> **O Lord, make haste to help us.**
+
+**All:**
+
+> **Glory to the Father, and to the Son,  
+and to the Holy Spirit: \*  
+as it was in the beginning, is now,  
+and will be for ever. Amen.**
+
+---
+### O Gracious Light — _Phos hilaron_
+
+**All:**
+
+> **O gracious light,  
+pure brightness of the everliving Father in heaven,  
+O Jesus Christ, holy and blessed!**
+
+> **Now as we come to the setting of the sun,  
+and our eyes behold the vesper light,  
+we sing your praises, O God:  
+Father, Son, and Holy Spirit.**
+
+> **You are worthy at all times  
+to be praised by happy voices,  
+O Son of God, O Giver of Life,  
+and to be glorified through all the worlds.**
+
+---
+## The Psalm Appointed
+##### The People are seated.
+##### The Psalm is sung or said in a suitable manner (e.g., responsively by verse, in unison, or read by the lector).
+
+**Psalm** 23
+
+_Dominus regit me_
+.right.smaller[_(BCP 612)_]
+
+> 1	The LORD is my shepherd; \*  
+I shall not be in want.  
+> **2	He makes me lie down in green pastures \*  
+and leads me beside still waters.**  
+
+---
+
+> 3	He revives my soul \*  
+and guides me along right pathways for his Name's sake.  
+> **4	Though I walk through the valley of the shadow of death,  
+I shall fear no evil; \*  
+for you are with me;  
+your rod and your staff, they comfort me.**  
+
+> 5	You spread a table before me in the presence of those who trouble me; \*  
+you have anointed my head with oil,  
+and my cup is running over.  
+> **6	Surely your goodness and mercy shall follow me all the days of my life, \*  
+and I will dwell in the house of the LORD for ever.**  
+
+---
+
+> **Glory to the Father, and to the Son,  
+and to the Holy Spirit: \*  
+as it was in the beginning, is now,  
+and will be for ever. Amen.**
+
+---
+## The Lessons
+### The First Lesson
+_Acts 4:8-13_
+
+Lector:
+
+> A reading from the book of Acts.
+
+> ...
+
+> The word of the Lord.
+
+**People:**
+
+> **Thanks be to God.**
+
+##### Silence may be kept.
+
+---
+**Canticle 15**: The Song of Mary – _Magnificat_ .smaller[(Luke 1:46-55) _(BCP 119)_]
+
+**All:**
+
+> **My soul proclaims the greatness of the Lord,  
+my spirit rejoices in God my Savior; \*  
+for he has looked with favor on his lowly servant.  
+From this day all generations will call me blessed: \*  
+the Almighty has done great things for me,  
+and holy is his Name.  
+He has mercy on those who fear him \*  
+in every generation.  
+He has shown the strength of his arm, \*  
+he has scattered the proud in their conceit.**  
+  
+---
+> **He has cast down the mighty from their thrones, \*  
+and has lifted up the lowly.  
+He has filled the hungry with good things, \*  
+and the rich he has sent away empty.  
+He has come to the help of his servant Israel, \*  
+for he has remembered his promise of mercy,  
+The promise he made to our fathers, \*  
+to Abraham and his children for ever.**  
+  
+> **Glory to the Father, and to the Son,  
+and to the Holy Spirit: \*  
+as it was in the beginning, is now,  
+and will be for ever. Amen.**  
+
+---
+### The Second Lesson
+_1 Peter 5:1-4_
+
+Lector:
+
+> A reading from the first epistle of St. Peter.
+
+> ...
+
+> The word of the Lord.
+
+**People:**
+
+> **Thanks be to God.**
+
+##### Silence may be kept.
+
+---
+**Canticle 17**: The Song of Simeon — _Nunc Dimittis_ .smaller[(Luke 2:29-32) _(BCP 120)_]
+
+**All:**
+
+> **Lord, you now have set your servant free \*  
+to go in peace as you have promised;  
+For these eyes of mine have seen the Savior, \*  
+whom you have prepared for all the world to see:  
+A Light to enlighten the nations, \*  
+and the glory of your people Israel.**  
+  
+> **Glory to the Father, and to the Son,  
+and to the Holy Spirit: \*  
+as it was in the beginning, is now,  
+and will be for ever. Amen.**  
+
+---
+## The Third Lesson
+_Matthew 16:13-20_
+
+Lector:
+
+> A reading from Matthew’s Gospel.
+
+> ...
+
+> The word of the Lord.
+
+**People:**
+
+> **Thanks be to God.**
+
+##### Silence may be kept.
+
+##### A brief homily, spiritual conversation, or moment of silence may be placed here.
+
+
+---
+## The Apostles' Creed .smaller[_(BCP 120)_]
+Officiant and **People** together, all standing:
+
+> **I believe in God, the Father almighty,  
+creator of heaven and earth.  
+I believe in Jesus Christ, his only Son, our Lord.  
+He was conceived by the power of the Holy Spirit  
+and born of the Virgin Mary.  
+He suffered under Pontius Pilate,  
+was crucified, died, and was buried.  
+He descended to the dead.  
+On the third day he rose again.  
+He ascended into heaven,  
+and is seated at the right hand of the Father.  
+He will come again to judge the living and the dead.**  
+
+---
+> **I believe in the Holy Spirit,  
+the holy catholic Church,  
+the communion of saints,  
+the forgiveness of sins,  
+the resurrection of the body,  
+and the life everlasting. Amen.**
+
+Officiant:
+
+> The Lord be with you.
+
+**People:**
+
+> **And also with you.**
+
+Officiant:
+
+> Let us pray.
+
+---
+Officiant and **People:**
+
+> Our Father in heaven,  
+**hallowed be your Name,  
+your kingdom come,  
+your will be done,  
+on earth as in heaven.  
+Give us today our daily bread.  
+Forgive us our sins  
+as we forgive those  
+who sin against us.  
+Save us from the time of trial,  
+and deliver us from evil.  
+For the kingdom, the power,  
+and the glory are yours,  
+now and for ever. Amen.**
+
+---
+## Suffrages .smaller[_(BCP 122)_]
+
+Officiant:
+
+> That this evening may be holy, good, and peaceful,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+Officiant:
+
+> That your holy angels may lead us in paths of peace and goodwill,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+---
+
+ Officiant:
+
+> That we may be pardoned and forgiven for our sins and offenses,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+Officiant:
+
+> That there may be peace to your Church and to the whole world,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+---
+
+ Officiant:
+
+> That we may depart this life in your faith and fear, and not be condemned before the great judgment seat of Christ,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+Officiant:
+
+> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, Blessed Peter, Blessed Thomas, and all your saints, entrusting one another and all our life to Christ,
+
+**People:**
+
+> **We entreat you, O Lord.**
+
+---
+### The Collect of the Day
+
+Officiant:
+
+> Almighty Father, who inspired Simon Peter, first among the apostles, to confess Jesus as Messiah and Son of the living God: Keep your Church steadfast upon the rock of this faith, so that in unity and peace we may proclaim the one truth and follow the one Lord, our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, now and for ever.
+
+**People:**
+
+> **Amen.**
+
+---
+### A Collect for Aid Against Perils
+
+> Be our light in the darkness, O Lord, and in your great mercy defend us from all perils and dangers of this night; for the love of your only Son, our Savior Jesus Christ. **Amen.**
+
+---
+### A Prayer for Mission
+
+> O God and Father of all, whom the whole heavens adore: Let the whole earth also worship you, all nations obey you, all tongues confess and bless you, and men and women everywhere love you and serve you in peace; through Jesus Christ our Lord. **Amen.**
+
+##### Intercessions and thanksgivings may follow.
+
+---
+### A Prayer of St. Chrysostom .smaller[_(BCP 102)_]
+Officiant:
+
+> Almighty God, you have given us grace at this time with one accord to make our common supplication to you; and you have promised through your well-beloved Son that when two or three are gathered together in his Name you will be in the midst of them: Fulfill now, O Lord, our desires and petitions as may be best for us; granting us in this world knowledge of your truth, and in the age to come life everlasting.
+
+**People:**
+
+> **Amen.**
+
+---
+ 
+Officiant:
+
+> Let us bless the Lord.
+
+**People:**
+
+> **Thanks be to God.**
+
+##### The Officiant then concludes with the following sentence of scripture:
+> Glory to God whose power, working in us, can do infinitely more than we can ask or imagine: Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** .smaller[_(Ephesians 3:20,21)_]
