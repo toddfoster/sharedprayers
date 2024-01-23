@@ -29,7 +29,7 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/lordhavemercy %}}
-{{% he/misc/litanyforachurch %}}
+{{% misc/litanyforachurch %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
