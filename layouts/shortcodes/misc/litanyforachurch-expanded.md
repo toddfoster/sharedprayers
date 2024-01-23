@@ -61,17 +61,14 @@ For the fellowship of the Blessed Virgin Mary, Blessed Thomas our patron, and al
 ##### **People:**
 **We thank you, Lord.**
 
-##### **People:**
-**We thank you, Lord.**
-
-##### Celebrant:
+##### After a brief silence, the Celebrant concludes with the following Doxology
 Yours, O Lord, is the greatness, the power, the glory, the victory, and the majesty;
 
 ##### **People:**
-For everything in heaven and on earth is yours.
+**For everything in heaven and on earth is yours.**
 
 ##### Celebrant:
 Yours, O Lord, is the kingdom;
 
 ##### **People:**
-And you are exalted as head over all. Amen.
+**And you are exalted as head over all. Amen.**
