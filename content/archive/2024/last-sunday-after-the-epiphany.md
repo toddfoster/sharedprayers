@@ -15,12 +15,12 @@ tags:
 {{% hymn Entrance "l-41" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/trishagion %}}
+{{% hymn "Praise" "l-1" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-56" %}}
 {{% lesson "gospel" /%}}

@@ -15,15 +15,14 @@ tags:
 {{% hymn Entrance "l-158" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-#### LEVAS 1
-### Hymn of Praise: Lift ev'ry Voice and Sing
+{{% he/songofpraise/acapellachoice %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-62" %}}
+{{% hymn Sequence "l-221" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -45,7 +44,7 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "l-203" %}}
-{{% hymn Communion "l-221" %}}
+{{% hymn Communion "l-62" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
 {{% hymn Processional "l-12" %}}
