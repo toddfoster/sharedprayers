@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-56" %}}
+### Sequence Anthem: _Ride On King Jesus_
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,6 +42,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+### Communion Anthem: _Run Li'l Chillun_
 {{% hymn Communion "l-18" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}

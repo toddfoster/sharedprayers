@@ -20,9 +20,9 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-221" %}}
+### Sequence Anthem: _Deep River_
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -43,7 +43,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-203" %}}
+### Communion Anthem: _Go Down Moses_
 {{% hymn Communion "l-62" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
