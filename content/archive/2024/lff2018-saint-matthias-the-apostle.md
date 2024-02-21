@@ -7,9 +7,12 @@ season: lent
 weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
@@ -29,7 +32,7 @@ bcppage: 355ff.
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+{{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
