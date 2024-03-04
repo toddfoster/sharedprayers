@@ -1,11 +1,11 @@
 ---
-title: "Good Friday for Good Friday"
+title: "Veneration of the Cross for Good Friday"
 date: 2024-03-29
 lectionaryyear: b
 proper: good-friday
 season: lent
 weekday: friday
-rite: Good Friday
+rite: Veneration of the Cross
 bcppage: 276ff.
 tags:
 - StT

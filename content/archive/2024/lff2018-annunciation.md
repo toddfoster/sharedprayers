@@ -1,9 +1,9 @@
 ---
 title: "Holy Eucharist for The Annunciation of Our Lord Jesus Christ to the Blessed Virgin Mary"
-date: 2024-03-25
+date: 2024-04-08
 lectionaryyear: b
 proper: lff2018-annunciation
-season: lent
+season: easter
 weekday: monday
 rite: Holy Eucharist
 bcppage: 355ff.

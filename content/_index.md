@@ -6,11 +6,8 @@ title: Shared Prayers
 
 ------
 
-<!-- 
 **Liturgies for Holy Week**
-{{% index/listliturgies "StT holyweek" 2023-04 %}}
--->
-
+{{% index/listliturgies "StT holyweek" %}}
 
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
