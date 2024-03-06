@@ -24,7 +24,6 @@ tags:
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 ### Sequence Anthem: _This is Why We Sing_
-{{% H-296 %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
