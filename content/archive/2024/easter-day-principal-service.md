@@ -23,7 +23,8 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "H-296" %}}
+### Sequence Anthem: _This is Why We Sing_
+{{% H-296 %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -41,7 +42,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _He is Risen_
+### Communion Anthem: _Declare Ye This_
 {{% hymn Communion "h-190" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}

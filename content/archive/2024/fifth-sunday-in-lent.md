@@ -29,7 +29,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-439" %}}
+### Communion Anthem: _Praise God for Faithful Women_
 {{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -38,6 +38,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+### Communion Anthem: _What Wondrous Love is This_
 {{% hymn Communion "h-691" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}

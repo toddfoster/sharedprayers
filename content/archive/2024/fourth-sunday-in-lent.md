@@ -41,8 +41,8 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+### Communion Anthem: _Of the Father's love begotten_
 {{% hymn Communion "h-685" %}}
-{{% hymn Communion "h-690" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
 {{% hymn Processional "h-473" %}}
