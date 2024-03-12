@@ -11,7 +11,7 @@ tags:
 - StT
 - holyweek
 ---
-{{% he/palmsunday/palms/a %}}
+{{% he/palmsunday/palms/b %}}
 {{% he/palmsunday/palms/procession %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -19,10 +19,26 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-498" %}}
+{{% he/palmsunday/passion/b %}}
+## We Respond in Faith
+{{% he/pop/lordhavemercy %}}
+{{% he/peace %}}
+{{% stt/announcements %}}
+{{% stt/2023/offertory %}}
+{{% hymn Offertory "h-168" %}}
+{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
+#### Hymnal S-119
+{{% he/lordsprayer/1 %}}
+#### Hymnal S-161
+{{% he/fraction/agnusdei %}}
+##### pb
+### We Receive the Gift of God
+{{% stt/2022/communion %}}
+{{% hymn Communion "h-337" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% hymn Processional "h-154" %}}
+{{% hymn Processional "h-474" %}}
 {{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 
