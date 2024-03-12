@@ -34,7 +34,6 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "L-137" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
 {{% hymn Processional "l-137" %}}

@@ -28,7 +28,6 @@ tags:
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% hymn Offertory "L-214" %}}
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long-lent %}}
@@ -37,7 +36,7 @@ tags:
 {{% stt/2022/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% hymn Processional "h-448" %}}
+{{% hymn Processional "l-214" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
