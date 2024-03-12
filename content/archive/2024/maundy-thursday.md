@@ -12,7 +12,6 @@ tags:
 - holyweek
 ---
 ## We Gather in God's Name
-{{% hymn Entrance %}}
 {{% he/greeting/blessthelord %}}
 {{% he/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
