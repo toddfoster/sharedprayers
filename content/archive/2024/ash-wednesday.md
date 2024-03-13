@@ -12,7 +12,7 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
-{{% he/songofpraise/kyrie %}}
+#### BCP 264
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
