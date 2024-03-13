@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-### Sequence Anthem: _This is Why We Sing_
+### Sequence Anthem: _How Can I Keep From Singing?_
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -41,7 +41,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _Declare Ye This_
+### Communion Anthem: _Now the Green Blade Riseth_
 {{% hymn Communion "h-190" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}
