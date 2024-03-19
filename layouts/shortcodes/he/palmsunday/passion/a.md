@@ -400,7 +400,7 @@ You have a guard of soldiers; go, make it as secure as you can.
 ##### Narrator:
 So they went with the guard and made the tomb secure by sealing the stone.
 
-##### There follows a great silence. Please remain standing if you are able.
+##### There follows a great silence. You may be seated for silent reflection.
 
 -----
 

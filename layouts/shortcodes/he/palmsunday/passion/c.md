@@ -204,7 +204,6 @@ Now there was a good and righteous man named Joseph, who, though a member of the
 
 On the sabbath they rested according to the commandment.
 
-
 ##### There follows a great silence. You may be seated for silent reflection.
 
 ----

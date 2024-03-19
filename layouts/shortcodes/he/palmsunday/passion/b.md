@@ -233,6 +233,6 @@ _Narrator:_	There were also women looking on from a distance; among them were Ma
 
 When evening had come, and since it was the day of Preparation, that is, the day before the sabbath, Joseph of Arimathea, a respected member of the council, who was also himself waiting expectantly for the kingdom of God, went boldly to Pilate and asked for the body of Jesus. Then Pilate wondered if he were already dead; and summoning the centurion, he asked him whether he had been dead for some time. When he learned from the centurion that he was dead, he granted the body to Joseph. Then Joseph bought a linen cloth, and taking down the body, wrapped it in the linen cloth, and laid it in a tomb that had been hewn out of the rock. He then rolled a stone against the door of the tomb. Mary Magdalene and Mary the mother of Joses saw where the body was laid.
 
-##### There follows a great silence. Please remain standing if you are able.
+##### There follows a great silence. You may be seated for silent reflection.
 
 ----
