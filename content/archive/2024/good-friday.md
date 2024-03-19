@@ -18,7 +18,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-31" %}}
+{{% hymn Sequence "l-37" %}}
 {{% he/goodfriday/passion-homily %}}
 ## We Respond in Faith
 {{% hymn "l-29" %}}
