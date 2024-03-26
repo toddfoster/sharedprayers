@@ -31,6 +31,7 @@ tags:
 {{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long-lent %}}
+##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% he/postcommunion/eternal %}}

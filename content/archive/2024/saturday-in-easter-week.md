@@ -23,7 +23,6 @@ bcppage: 355ff.
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
 {{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}

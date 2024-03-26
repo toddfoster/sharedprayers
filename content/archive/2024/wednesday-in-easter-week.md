@@ -25,7 +25,6 @@ tags:
 ## We Respond in Faith
 {{% he/pop/form3 %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
 {{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
