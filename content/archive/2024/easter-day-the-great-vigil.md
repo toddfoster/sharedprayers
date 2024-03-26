@@ -9,7 +9,7 @@ rite: Holy Eucharist
 bcppage: 285ff.
 tags:
 - StT
-- holyweek
+- triduum
 ---
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}

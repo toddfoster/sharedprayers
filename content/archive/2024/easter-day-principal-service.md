@@ -9,7 +9,7 @@ rite: Holy Eucharist
 bcppage: 355ff.
 tags:
 - StT
-- holyweek
+- weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-179" %}}

@@ -25,14 +25,12 @@ tags:
 ## We Respond in Faith
 {{% he/pop/form3 %}}
 {{% he/peace %}}
-{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
 {{% he/dismissal/goinpeace %}}

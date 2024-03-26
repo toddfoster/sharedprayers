@@ -9,7 +9,7 @@ rite: Veneration of the Cross
 bcppage: 276ff.
 tags:
 - StT
-- holyweek
+- triduum
 ---
 ## We Gather in God's Name
 {{% he/goodfriday/greeting %}}

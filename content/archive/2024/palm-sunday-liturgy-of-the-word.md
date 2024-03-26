@@ -9,7 +9,7 @@ rite: Holy Eucharist
 bcppage: 270ff.
 tags:
 - StT
-- holyweek
+- weekend
 ---
 {{% he/palmsunday/palms/b %}}
 {{% he/palmsunday/palms/procession %}}
