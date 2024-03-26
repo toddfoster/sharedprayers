@@ -14,7 +14,7 @@ tags:
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}
 {{% he/eastervigil/exsultet %}}
-{{% he/eastervigil/liturgyword2023 %}}
+{{% he/eastervigil/liturgyword2024 %}}
 {{% he/eastervigil/transition %}}
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
@@ -22,7 +22,7 @@ tags:
 ## We Hear God's Word
 {{% lesson "second" /%}}
 {{% he/eastervigil/greatalleluia %}}
-{{% lesson "psalm" 114 /%}}
+{{% lesson "psalm-sac" 114 /%}}
 {{% lesson "gospel" /%}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsvigil %}}
@@ -30,17 +30,16 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 ## We Offer Ourselves to God
-{{% he/anthem "_Christ is Risen, Alleluia_ (St. Thomas' Choir)" %}}
 {{% hymn Offertory "h-174" %}}
-{{% he/eucharisticprayer/d sanctus="Hymnal S-128" %}}
+{{% he/eucharisticprayer/d sanctus="Hymnal S-130" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### S-164
+#### S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% he/anthem "_He is Risen_ (St. Thomas' Choir)" %}}
+{{% he/anthem "_Now the Green Blade Riseth_ (St. Thomas' Choir)" %}}
 {{% hymn Communion "h-190" %}}
 {{% hymn Communion "h-490" %}}
 {{% he/postcommunion/almighty %}}

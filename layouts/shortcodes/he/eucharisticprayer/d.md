@@ -59,11 +59,11 @@ Grant that all who share this bread and cup may become one body and one spirit, 
 
 Remember, Lord, your one holy catholic and apostolic Church, redeemed by the blood of your Christ. Reveal its unity, guard its faith, and preserve it in peace.
 
-Remember Justin, Archbishop of Canterbury, Michael, our Presiding Bishop, Sally our Bishop, and all who minister in your Church.
+Remember Justin, Archbishop of Canterbury, Michael, our Presiding Bishop, Sally, our Bishop, and all who minister in your Church.
 
 Remember all your people and those who seek your truth.
 
-Remember _N. and_ all who this night have been united to Christ’s death in baptism, and so united to Christ’s risen life forever.
+Remember [_N. and_] all who this night have been united to Christ’s death in baptism, and so united to Christ’s risen life forever.
 
 Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
 
