@@ -17,12 +17,12 @@ tags:
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
-{{% lesson "second" /%}}
+{{% lesson "second" "Hebrews 4:14-16; 5:7-9" /%}}
 {{% hymn Sequence "l-37" %}}
-{{% he/goodfriday/passion-homily %}}
+{{% he/goodfriday/passion-trialuse-homily %}}
 ## We Respond in Faith
 {{% hymn "l-29" %}}
-{{% he/goodfriday/solemncollects %}}
+{{% he/goodfriday/solemncollects-trialuse %}}
 {{% hymn "l-38" %}}
 ##### Prayers left in the box before the cross will be burned on the new fire at the Great Vigil of Easter.
 {{% he/goodfriday/veneration %}}

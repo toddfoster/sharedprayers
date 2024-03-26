@@ -41,13 +41,13 @@ Priest:
 
 
 Deacon:
-> Let us pray for all who suffer and are afflicted in body or in mind; For the hungry and the homeless, the destitute and the oppressed; For the sick, the wounded, and the crippled; For those in loneliness, fear, and anguish; For those who face temptation, doubt, and despair; For the sorrowful and bereaved; For prisoners and captives, and those in mortal danger; That God in his mercy will comfort and relieve them, and grant them the knowledge of his love, and stir up in us the will and patience to minister to their needs.
+> Let us pray for all who suffer and are afflicted in body or in mind; For those who are hungry and homeless, destitute and oppressed; For those who are ill or disabled, in body, mind, or spirit; For those in loneliness, fear, and anguish; For those who face temptation, doubt, and despair; For those who are sorrowful and bereaved; For those who are persecuted for the sake of Christ; For prisoners, refugees, and captives; For victims of war, genocide, and trafficking, and all those in mortal danger: that God in God’s mercy will comfort and relieve them, and grant them the knowledge of his love, and stir up in us the will and patience to minister to their needs.
 
 ##### Silence
 
 
 Priest:
-> Let us pray for all who suffer and are afflicted in body or in mind; For those who are hungry and homeless, destitute and oppressed; For those who are ill or disabled, in body, mind, or spirit; For those in loneliness, fear, and anguish; For those who face temptation, doubt, and despair; For those who are sorrowful and bereaved; For those who are persecuted for the sake of Christ; For prisoners, refugees, and captives; For victims of war, genocide, and trafficking, and all those in mortal danger: that God in God’s mercy will comfort and relieve them, and grant them the knowledge of his love, and stir up in us the will and patience to minister to their needs.
+> Gracious God, the comfort of all who sorrow, the strength of all who suffer: Let the cry of those in misery and need come to you, that they may find your mercy present with them in all their afflictions; and give us, we pray, the strength to serve them for the sake of him who suffered for us, your Son Jesus Christ our Lord.
 
 **People:**
 > **Amen.**
