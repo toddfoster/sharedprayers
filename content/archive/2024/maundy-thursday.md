@@ -39,7 +39,6 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "h-171" %}}
-{{% hymn Communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/maundythursday/stripaltar %}}
 {{% nrsv %}}
