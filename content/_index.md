@@ -9,11 +9,13 @@ title: Shared Prayers
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
 
+<!---
 **The Great Three Days (Triduum)**
 {{% index/listliturgies "StT triduum" %}}
 
 **Liturgies for Holy Week**
 {{% index/listliturgies "StT holyweek" %}}
+--->
 
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
