@@ -13,6 +13,7 @@ tags:
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
+##### pb
 {{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 ## We Hear God's Word
@@ -21,11 +22,13 @@ tags:
 {{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
+##### pb
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
