@@ -24,7 +24,6 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}

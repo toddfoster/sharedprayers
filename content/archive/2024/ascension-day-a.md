@@ -11,7 +11,7 @@ tags:
 - cardinalvillage
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
@@ -24,7 +24,6 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
@@ -35,6 +34,6 @@ tags:
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% he/dismissal/letusbless %}}
+{{% he/dismissal/easter/letusbless %}}
 {{% nrsv %}}
 
