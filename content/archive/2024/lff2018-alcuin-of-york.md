@@ -21,6 +21,7 @@ bcppage: 355ff.
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/pop/form3 %}}
+{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}

@@ -9,9 +9,9 @@ rite: Holy Eucharist
 bcppage: 355ff.
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
