@@ -42,7 +42,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem
+{{% hymn Communion "h-510" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
 {{% hymn Processional "h-344" %}}
