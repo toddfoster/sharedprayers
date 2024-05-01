@@ -7,9 +7,6 @@ season: pentecost
 weekday: saturday
 rite: Holy Eucharist
 bcppage: 355ff.
-tags:
-- StT
-- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
