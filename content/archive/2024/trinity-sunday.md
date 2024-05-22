@@ -33,10 +33,8 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory "l-201" %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
