@@ -12,17 +12,18 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-64" %}}
+{{% hymn Entrance "h-542" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/acapellachoice %}}
+#### Hymnal S-280
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-62" %}}
+{{% hymn Sequence "h-510" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -32,19 +33,19 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-54" %}}
-{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+### Special Music for Offertory
+{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-136" %}}
+{{% hymn Communion "h-508" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-192" %}}
+{{% hymn Processional "h-690" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
