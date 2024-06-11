@@ -1,43 +1,41 @@
 ---
-title: "Holy Eucharist for Proper 6"
-date: 2024-06-13
+title: "Evening Prayer for Proper 6"
+date: 2024-06-15
 lectionaryyear: b
 proper: proper-6
 season: pentecost
-weekday: thursday
-rite: Holy Eucharist
-bcppage: 355ff.
-tags:
-- cardinalvillage
+weekday: saturday
+rite: Evening Prayer
+bcppage: 115ff.
 ---
-## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
-{{% he/collect-purity %}}
-##### pb
-{{% he/songofpraise/trishagion %}}
-{{% he/propercollect %}}
-## We Hear God's Word
+{{% office/ep/sentence %}}
+{{% office/ep/confession %}}
+{{% office/ep/invitatory %}}
+{{% office/psalmintro %}}
+{{% lesson "psalm-sac" /%}}
+{{% office/psalmgloria %}}
+# The Lessons
+##### The people sit for the readings and stand for the canticles.
 {{% lesson "first" /%}}
-{{% lesson "psalm" /%}}
+{{% office/ep/canticle/first %}}
 {{% lesson "second" /%}}
-{{% lesson "gospel" /%}}
+{{% office/ep/canticle/second %}}
+{{% lesson "third" /%}}
 {{% he/homily/brief %}}
-##### pb
-## We Respond in Faith
-{{% he/creed/nicene %}}
-{{% he/pop/form3 %}}
-{{% he/confession %}}
-{{% he/peace %}}
-##### pb
-{{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/b /%}}
-{{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
-##### pb
-### We Receive the Gift of God
-{{% stt/2022/communion %}}
-{{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
-{{% he/dismissal/letusbless %}}
+{{% office/ep/apostlescreed %}}
+# The Prayers
+#### BCP 121
+##### The people stand or kneel.
+{{% letuspray %}}
+{{% lordsprayer2 %}}
+{{% office/ep/suffragesb %}}
+{{% he/propercollect %}}
+{{% office/ep/collect/sundays %}}
+{{% office/ep/mission %}}
+##### Here may be sung a hymn or anthem.
+##### Authorized intercessions and thanksgivings may follow.
+{{% office/ep/beforetheclose %}}
+{{% office/ep/letusbless %}}
+{{% office/mp/conclusion %}}
 {{% nrsv %}}
 

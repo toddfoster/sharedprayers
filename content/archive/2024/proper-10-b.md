@@ -22,7 +22,7 @@ bcppage: 115ff.
 {{% office/ep/canticle/second %}}
 {{% lesson "third" /%}}
 {{% he/homily/brief %}}
-{{% office/apostlescreed %}}
+{{% office/ep/apostlescreed %}}
 # The Prayers
 #### BCP 121
 ##### The people stand or kneel.
@@ -34,8 +34,8 @@ bcppage: 115ff.
 {{% office/ep/mission %}}
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
-{{% office/mp/beforetheclose %}}
-{{% office/mp/letusbless %}}
+{{% office/ep/beforetheclose %}}
+{{% office/ep/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}
 
