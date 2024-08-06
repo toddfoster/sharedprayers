@@ -1,14 +1,12 @@
 ---
-title: "Holy Eucharist for Proper 14"
+title: "Eucharistic Visit for Proper 14"
 date: 2024-08-08
 lectionaryyear: b
 proper: proper-14
 season: pentecost
 weekday: thursday
-rite: Holy Eucharist
+rite: Eucharistic Visit
 bcppage: 355ff.
-tags:
-- cardinalvillage
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
@@ -26,18 +24,9 @@ tags:
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
-{{% he/confession %}}
+{{% he/ev/collect %}}
 {{% he/peace %}}
-##### pb
-{{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/b /%}}
-{{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
-##### pb
-### We Receive the Gift of God
-{{% stt/2022/communion %}}
-{{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
+{{% he/ev/specialcircumstances %}}
 {{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 
