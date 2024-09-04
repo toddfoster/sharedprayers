@@ -31,6 +31,7 @@ tags:
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% he/special/blessingbackpacks %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Special Music for Offertory
