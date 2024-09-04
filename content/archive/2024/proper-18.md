@@ -32,6 +32,7 @@ tags:
 {{% he/confession %}}
 {{% he/peace %}}
 {{% he/special/blessingbackpacks %}}
+{{% misc/comissionsundayschool %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Special Music for Offertory
