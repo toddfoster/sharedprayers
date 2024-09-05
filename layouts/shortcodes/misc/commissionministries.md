@@ -11,6 +11,7 @@ Praise be to God, who has called you to this service.
 
 ##### Presenter:
 Let us pray. 
+#
 ##### (Silence) 
 Look with favor upon those whom you have called, O God, and grant that they may be so filled with your Holy Spirit, that they may minister in their chosen task with joy and steadfast devotion; through Jesus Christ our Savior.
 

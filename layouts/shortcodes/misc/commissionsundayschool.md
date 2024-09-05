@@ -3,7 +3,7 @@
 Friends in Christ, we are all baptized by the one Spirit into one Body, and given gifts for a variety of ministries for the common good.
 
 ##### Presenter:
-    N... have been called to the ministry of Sunday School Teacher / Children’s Chapel Leader.
+NN... have been called to the ministry of Sunday School Teacher / Children’s Chapel Leader.
 
 ##### **People:**
 Praise be to God, who has called you to this service.
