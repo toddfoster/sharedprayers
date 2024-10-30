@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-129" %}}
+{{% hymn Entrance "h-293" %}}
 {{% baptism/blessedbegod %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -20,7 +20,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-### Choir Anthem
+{{% hymn Sequence "h-287" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -29,23 +29,24 @@ tags:
 {{% baptism/prayers %}}
 {{% baptism/thanksgiving %}}
 {{% baptism/baptism %}}
+{{% hymn  "h-707" %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "L-227" %}}
-{{% he/eucharisticprayer/d sanctus="LEVAS 255" %}}
-#### LEVAS 264
+### Choir Anthem: _Never Weather-beaten Sail_ by T. Campion
+{{% he/eucharisticprayer/d sanctus="Hymnal S-125" %}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "L-120" %}}
+{{% hymn Communion "h-551" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-157" %}}
+{{% hymn Processional "h-376" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
