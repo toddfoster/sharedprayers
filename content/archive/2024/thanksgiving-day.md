@@ -7,9 +7,6 @@ season: pentecost
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
-tags:
-- StT
-- weekday
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-290" %}}
@@ -32,7 +29,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-288" %}}
+{{% hymn Offertory %}}
 {{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -41,10 +38,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-343" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-long %}}
-{{% hymn Processional "h-397" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

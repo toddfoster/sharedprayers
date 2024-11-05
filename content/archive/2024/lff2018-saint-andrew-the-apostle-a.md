@@ -1,42 +1,44 @@
 ---
-title: "Vespers for Saint Andrew the Apostle"
-date: 2023-11-30
-lectionaryyear: a
+title: "Evening Prayer for Saint Andrew the Apostle"
+date: 2024-11-27
+lectionaryyear: b
 proper: lff2018-saint-andrew-the-apostle
 season: pentecost
-weekday: thursday
-rite: Vespers
-bcppage: 109ff.
+weekday: wednesday
+rite: Evening Prayer
+bcppage: 115ff.
+tags:
+- StT
+- weekday
 ---
-{{% office/ep/vespersbegin %}}
+{{% office/ep/sentence %}}
+{{% office/ep/confession %}}
+{{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
-{{% lesson psalm /%}}
+{{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
-## The Lessons
-{{% lesson first /%}}
-##### Silence may be kept
-{{% rubric-stand %}}
-{{% canticles/15-magnificat-ep %}}
-{{% rubric-sit %}}
-{{% lesson second /%}}
-{{% rubric-stand %}}
-{{% canticles/17-nunc-ep %}}
-{{% rubric-sit %}}
-{{% lesson third /%}}
-##### Silence may be kept
+# The Lessons
+##### The people sit for the readings and stand for the canticles.
+{{% lesson "first" /%}}
+{{% office/ep/canticle/first %}}
+{{% lesson "second" /%}}
+{{% office/ep/canticle/second %}}
+{{% lesson "third" /%}}
 {{% he/homily/brief %}}
 {{% office/ep/apostlescreed %}}
-##### The people stand or kneel
+# The Prayers
+#### BCP 121
+##### The people stand or kneel.
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/ep/suffragesb "blessed Andrew" %}}
-##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
-{{% office/propercollect %}}
-{{% office/ep/collect/protection %}}
-{{% office/ep/collect/ogodyoumanifest %}}
-##### Intercessions and thanksgivings may follow.
-{{% office/ep/generalthanksgiving %}}
-{{% office/mp/letusbless %}}
-{{% office/mp/conclusion/thegrace %}}
+{{% office/ep/suffragesb %}}
+{{% he/propercollect %}}
+{{% office/ep/collect/sundays %}}
+{{% office/ep/mission %}}
+##### Here may be sung a hymn or anthem.
+##### Authorized intercessions and thanksgivings may follow.
+{{% office/ep/beforetheclose %}}
+{{% office/ep/letusbless %}}
+{{% office/mp/conclusion %}}
 {{% nrsv %}}
 
