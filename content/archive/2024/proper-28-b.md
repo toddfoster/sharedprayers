@@ -7,6 +7,9 @@ season: pentecost
 weekday: sunday
 rite: Evening Prayer
 bcppage: 115ff.
+tags:
+- StT
+- weekend
 ---
 {{% office/ep/sentence %}}
 {{% office/ep/confession %}}
