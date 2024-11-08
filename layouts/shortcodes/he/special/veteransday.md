@@ -1,21 +1,29 @@
-#### (David Lose, TEF)
 ### Prayer for Veterans
 ##### Presider:
-God of peace,
+Governor of Nations, our Strength and Shield:
+we give you thanks for the devotion and courage
+of all those who have offered military service for this country:
+For those who have fought for freedom; for those who laid down their lives for others;
+for those who have borne suffering of mind or of body;
+for those who have brought their best gifts to times of need.
 
-We pray for those who have served our nation and laid down their lives to protect and defend our freedom, asking that we remember their sacrifice and make right use of our liberty.
+On our behalf they have entered into danger,
+endured separation from those they love,
+labored long hours, and borne hardship in war and in peacetime.
 
-We pray for those who still bear the scars of their service, asking for healing for them in mind, body, and spirit.
+Lift up by your mighty Presence those who are now at war;
+encourage and heal those in hospitals
+or mending their wounds at home;
+guard those in any need or trouble;
+hold safely in your hands all military families;
+and bring the returning troops to joyful reunion
+and tranquil life at home;
 
-We pray for all those who have served in the armed forces, giving of themselves to make our country strong, to defend the common good, and to create a better world for all your children.
-
-We pray for those who serve us now, especially for those in harm’s way, asking that you shield them from danger and bring them home in safety.
-
-We pray for all those who govern, asking that you turn their hearts and minds to the work of establishing a peace born of justice and equity.
-
-We pray for all those who are caught up in conflict around the globe this day, civilians and peace-keepers and the poor who have no escape, asking that we have the courage to defend the defenseless, make room for those who flee for safety, and look to that day when we will train for war no more.
-
-May the peace you gave us, the peace that passes all human understanding, be the peace that guides and sustains us. For it is in Jesus’ name that we pray.
+Give to us, your people, grateful hearts
+and a united will to honor these men and women
+and hold them always in our love and our prayers;
+until your world is perfected in peace
+through Jesus Christ our Savior.
 
 ##### **People:**
 **Amen.**
