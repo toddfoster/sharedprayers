@@ -20,7 +20,7 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% canticles/hannahsong %}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-136" %}}
 {{% lesson "gospel" /%}}
