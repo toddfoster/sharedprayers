@@ -24,7 +24,7 @@ tags:
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 ### Sequence Anthem: _How Can I Keep From Singing?_
-{{% lesson "gospel" "Mark 16:1-8" /%}}
+{{% lesson "gospel" "Luke 24:1-12" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
