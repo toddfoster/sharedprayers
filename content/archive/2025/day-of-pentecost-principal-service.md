@@ -19,11 +19,11 @@ tags:
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
-{{% lesson "first" "Ezekiel 37:1-14" /%}}
+{{% lesson "first" "Genesis 11:1-9" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" "Acts 2:1-21" /%}}
 {{% hymn Sequence "l-115" %}}
-{{% lesson "gospel" "John 15:26-27, 16:4b-15" /%}}
+{{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}
