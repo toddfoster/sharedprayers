@@ -38,7 +38,7 @@ tags:
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-155
-{{% he/fraction/agnusdei %}}
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
