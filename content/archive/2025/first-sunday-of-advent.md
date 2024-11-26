@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-637" %}}
+{{% hymn Sequence "h-65" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
@@ -33,8 +33,8 @@ tags:
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-74" %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
+### Choir Anthem: _Prepare (L. Larson)_
+{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-164
@@ -42,10 +42,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-655" %}}
+{{% hymn Communion "h-711" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/advent-long %}}
-{{% hymn Processional "h-73" %}}
+{{% hymn Processional "h-66" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
