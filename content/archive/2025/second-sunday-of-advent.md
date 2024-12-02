@@ -15,10 +15,11 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-{{% hymn Entrance %}}
+{{% hymn Entrance "h-76" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+#### Hymnal S-102
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ##### pb
@@ -26,7 +27,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-337" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
@@ -37,8 +38,8 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
+### Choir Anthem: _Waiting for a King (J. Martin)_
+{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-164
@@ -46,10 +47,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-325" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/advent-short %}}
-{{% hymn Processional %}}
+{{% hymn Processional "h-53" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

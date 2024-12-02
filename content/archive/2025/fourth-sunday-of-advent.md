@@ -18,14 +18,15 @@ tags:
 {{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+#### Hymnal S-102
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-#### Hymnal 438
-{{% canticles/15-magnificat %}}
+#### Hymnal 679
+{{% canticles/9-ecce %}}
 {{% lesson "second" /%}}
 {{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
