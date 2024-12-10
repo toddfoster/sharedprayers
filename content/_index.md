@@ -8,6 +8,7 @@ title: Shared Prayers
 
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
+[2025-01-12: Evening Prayer for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-b/)
 [2025-01-12: Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-a/)
 
 <!---
