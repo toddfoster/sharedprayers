@@ -18,10 +18,10 @@ tags:
 {{% he/eow/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
-{{% lesson "first" /%}}
+{{% lesson "first" "christmas-day-i" /%}}
 {{% hymn h-109 %}}
-{{% lesson "second" /%}}
-### Sequence Anthem: _Mary's Boy Child_ by St. Thomas' Children
+{{% lesson second /%}}
+{{% hymn Sequence "h-87" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -30,16 +30,16 @@ tags:
 {{% he/eow/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-101" %}}
+### Choir Anthem: Feliz Navidad
 {{% he/eucharisticprayer/eow2 sanctus="Hymnal S-130" %}}
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
+{{% hymn Communion "h-101" %}}
 {{% hymn Communion "h-111" %}}
-{{% hymn Communion "h-89" %}}
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
 {{% hymn Processional "h-100" %}}

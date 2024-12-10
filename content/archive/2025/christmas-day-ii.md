@@ -19,7 +19,7 @@ tags:
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" "christmas-day-i" /%}}
-{{% lesson "psalm-sac" "christmas-day-i" /%}}
+{{% hymn h-109 %}}
 {{% lesson "second" "christmas-day-i" /%}}
 ### Sequence Anthem: _Behold That Star_ by St. Thomas' Choir
 {{% lesson "gospel" "christmas-day-i" /%}}
@@ -30,17 +30,16 @@ tags:
 {{% he/eow/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-89" %}}
+### Choir Anthem: Seven Joys of Mary (R. Shepherd)
 {{% he/eucharisticprayer/eow2 sanctus="Hymnal S-130" %}}
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _Of the Father's Love_ by the Choral Scholars
-### Communion Anthem: _Amid the Cold of Winter_ by the St. Thomas' Choir
-{{% hymn Communion "h-79" %}}
+### Communion Anthem: _Echoing Carols_ (C. P. Cooman)
+{{% hymn Communion "h-112" %}}
 {{% he/postcommunion/loving %}}
 {{% he/blessing/xmas-long %}}
 {{% hymn "h-101" %}}

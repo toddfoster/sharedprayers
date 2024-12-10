@@ -15,7 +15,7 @@ tags:
 ## We Gather in God's Name
 {{% advent/wreath %}}
 {{% advent/ocome %}}
-{{% hymn Entrance %}}
+{{% hymn Entrance "l-14" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 #### Hymnal S-102
@@ -25,10 +25,9 @@ tags:
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-#### Hymnal 679
 {{% canticles/9-ecce %}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "l-69" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ##### pb
@@ -39,7 +38,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
+### Special Music
 {{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
@@ -48,10 +47,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "l-109" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/advent-short %}}
-{{% hymn Processional %}}
+{{% hymn Processional "l-12" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

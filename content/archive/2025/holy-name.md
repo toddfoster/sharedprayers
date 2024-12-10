@@ -12,6 +12,7 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
+{{% hymn Entrance "l-70" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 {{% he/songofpraise/kyrie %}}
@@ -25,13 +26,13 @@ tags:
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
-{{% lent/greatlitany %}}
 {{% he/creed/nicene %}}
+{{% lent/greatlitany %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
-#### Hymnal S-119
+{{% hymn Offertory "l-95" %}}
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
@@ -39,7 +40,7 @@ tags:
 {{% stt/2022/communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-short %}}
-{{% hymn Processional "h-87" %}}
+{{% hymn Processional "l-62" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
