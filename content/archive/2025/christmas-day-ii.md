@@ -8,7 +8,7 @@ weekday: tuesday
 rite:  7 & 11pm Holy Eucharist
 tags:
 - StT
-- weekday
+- xmas
 ---
 ## We Gather in God's Name
 {{% advent/wreath %}}
