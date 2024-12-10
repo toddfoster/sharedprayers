@@ -605,7 +605,7 @@ def convert_spreadsheet(year, target_day, force_rewrite_history):
 
         # don't write on dry_run
         if args.dry_run:
-            print("DRY RUN: Not writing liturgy for " + filename + ": " + row[COL_DATE])
+            print("DRY RUN: Not writing liturgy for " + filename + ": " + str(row[COL_DATE]))
             continue
 
         print("Writing liturgy for " + filename + ": " + str(row[COL_DATE]))
