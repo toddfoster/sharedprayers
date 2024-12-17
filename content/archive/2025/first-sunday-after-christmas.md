@@ -35,13 +35,12 @@ tags:
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-154
-{{% he/fraction/long %}}
+#### Hymnal S-164
+{{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% hymn Communion "h-81" %}}
-{{% hymn Communion "h-112" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-short %}}
 {{% hymn Processional "h-100" %}}
