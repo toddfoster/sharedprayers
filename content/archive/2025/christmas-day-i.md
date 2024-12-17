@@ -21,7 +21,7 @@ tags:
 {{% lesson "first" "christmas-day-i" /%}}
 {{% hymn h-109 %}}
 {{% lesson second /%}}
-{{% hymn Sequence "h-87" %}}
+{{% hymn Sequence "h-105" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -31,10 +31,10 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Choir Anthem: Feliz Navidad
-{{% he/eucharisticprayer/eow2 sanctus="Hymnal S-130" %}}
+{{% he/eucharisticprayer/eow2 sanctus="Hymnal S-129" %}}
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-155
-{{% he/fraction/long %}}
+#### Hymnal S-164
+{{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
