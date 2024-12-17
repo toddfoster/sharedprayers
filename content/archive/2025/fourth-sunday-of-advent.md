@@ -25,7 +25,7 @@ tags:
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% canticles/9-ecce %}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "l-69" %}}
 {{% lesson "gospel" /%}}
