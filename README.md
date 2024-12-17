@@ -7,6 +7,10 @@ This is a [static site](https://www.sharedprayers.net) to share liturgies for pr
 # Prerequisites
 "It runs on my box!"
 
+**WARNING** In 2024, SharedPrayers makes _extensive_ use of file-system symlinks. These [were deprecated](https://discourse.gohugo.io/t/filesystem-soft-links-broken/52781) in v.0.123.0. So, without extensive re-work, SharedPrayer is now stuck at hugo v.0.122.0. It won't build with anything newer.
+
+Fortunately, hugo is just building a static website. So there's no danger to deploying a website built with old hugo code. It just lacks newer features/bug-fixes for the build system. But this isn't just technical debt; for SharedPrayers it's a technical mortgage! I installed the needed version of hugo with `go install github.com/gohugoio/hugo@v0.122.0`. Then make sure it's in your path and you're running the right version. (I removed the system-installed hugo.)
+
 At a minimum you're going to want:
 - [hugo](https://gohugo.io/)
 - [python](https://www.python.org/)
