@@ -12,29 +12,28 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-41" %}}
+{{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% hymn "Praise" "l-1" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-### Choir Scholar: _Ride On King Jesus_
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
+{{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Offertory Anthem: We've Come This Far by Faith
-{{% hymn Offertory "l-44" %}}
+{{% hymn Offertory %}}
 {{% he/eucharisticprayer/c sanctus="LEVAS 255" %}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
@@ -43,11 +42,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _Run Li'l Chillun_
-{{% hymn Communion "l-18" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
-{{% hymn Processional "l-64" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

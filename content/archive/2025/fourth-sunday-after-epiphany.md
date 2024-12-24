@@ -7,12 +7,14 @@ season: epiphany
 weekday: sunday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-493" %}}
+{{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-#### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -20,18 +22,18 @@ bcppage: 355ff.
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-536" %}}
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/lordhavemercy %}}
-{{% misc/litanyforachurch %}}
+{{% he/pop/hearourprayer %}}
+{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-371" %}}
+{{% hymn Offertory %}}
 {{% he/eucharisticprayer/c sanctus="Hymnal S-125" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -40,10 +42,10 @@ bcppage: 355ff.
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-577" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
-{{% hymn Processional "h-448" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
