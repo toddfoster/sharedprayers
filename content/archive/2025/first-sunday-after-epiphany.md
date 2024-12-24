@@ -7,9 +7,6 @@ season: epiphany
 weekday: sunday
 rite: Holy Baptism
 bcppage: 299ff.
-tags:
-- StT
-- weekend
 ---
 ## We Gather in God's Name
 {{% hymn Entrance %}}
@@ -30,15 +27,12 @@ tags:
 {{% baptism/thanksgiving %}}
 {{% baptism/baptism %}}
 {{% he/peace %}}
-{{% he/peace %}}
 ### Epiphany Proclamation
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/c sanctus="Hymnal S-125" %}}
-#### Hymnal S-119
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
