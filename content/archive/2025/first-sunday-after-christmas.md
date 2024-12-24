@@ -43,7 +43,7 @@ tags:
 {{% hymn Communion "h-115" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/xmas-short %}}
-{{% hymn Processional "h-119" %}}
+{{% hymn Processional "h-99" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
