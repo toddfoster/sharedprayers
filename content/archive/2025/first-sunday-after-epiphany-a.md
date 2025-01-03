@@ -37,6 +37,7 @@ tags:
 {{% he/eucharisticprayer/b sanctus="Hymnal 130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
+#### Hymnal S-155
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
