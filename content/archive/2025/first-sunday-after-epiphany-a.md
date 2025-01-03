@@ -34,7 +34,7 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Special Music
-{{% he/eucharisticprayer/b sanctus="Hymnal 130" /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-155
