@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-133" %}}
+{{% hymn Sequence "h-321" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -34,15 +34,15 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Special Music
-{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-30" %}}
+{{% hymn Communion "h-488" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/epiphany-short %}}
 {{% hymn Processional "h-474" %}}
