@@ -31,7 +31,7 @@ bcppage: 299ff.
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal 130" /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
 ##### pb
