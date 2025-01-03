@@ -4,7 +4,7 @@ weight: 50
 ---
 --------
 ### The Daily Office
-* [Readings and Collects for the Daily Office](https://www.commonprayeronline.org/en/readings/office) ([alt. source](https://www.venite.app/daily-readings))
+* [Readings and Collects for the Daily Office](https://prayer.forwardmovement.org/daily-readings) ([alt. source](https://www.venite.app/daily-readings))
 * Morning Prayer
   * in Advent: [Mon](mp/mp-advent-mon) / [Tues](mp/mp-advent-tue) / [Wed](mp/mp-advent-wed) / [Thurs](mp/mp-advent-thu) / [Fri](mp/mp-advent-fri) / [Sat](mp/mp-advent-sat) / [Sun](mp/mp-advent-sun)
   * in Christmas: [Mon](mp/mp-xmas-mon) / [Tues](mp/mp-xmas-tue) / [Wed](mp/mp-xmas-wed) / [Thurs](mp/mp-xmas-thu) / [Fri](mp/mp-xmas-fri) / [Sat](mp/mp-xmas-sat) / [Sun](mp/mp-xmas-sun)
