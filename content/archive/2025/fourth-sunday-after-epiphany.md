@@ -27,10 +27,11 @@ bcppage: 355ff.
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% stt/commissionvestry %}}
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
+### Special Music
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}

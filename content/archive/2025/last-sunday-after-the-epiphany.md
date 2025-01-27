@@ -34,10 +34,10 @@ tags:
 {{% stt/2023/offertory %}}
 ### Offertory Anthem: We've Come This Far by Faith
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/c sanctus="LEVAS 255" %}}
+{{% he/eucharisticprayer/b sanctus="LEVAS 256" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
+#### LEVAS 271
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
