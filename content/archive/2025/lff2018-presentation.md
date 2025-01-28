@@ -12,10 +12,10 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-221" %}}
+{{% hymn Entrance "l-221" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% hymn Praise "l-1" %}}
+{{% hymn Praise "l-216" %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
