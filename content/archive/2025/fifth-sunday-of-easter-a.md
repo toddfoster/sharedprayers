@@ -7,9 +7,6 @@ season: easter
 weekday: saturday
 rite: Evening Prayer
 bcppage: 115ff.
-tags:
-- StT
-- weekend
 ---
 {{% office/ep/sentence %}}
 {{% office/ep/invitatory %}}

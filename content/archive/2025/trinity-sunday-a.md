@@ -1,35 +1,35 @@
 ---
-title: "Holy Eucharist for Proper 15"
-date: 2025-08-17
+title: "Holy Eucharist for The First Sunday after Pentecost: Trinity Sunday"
+date: 2025-06-12
 lectionaryyear: c
-proper: proper-15
+proper: trinity-sunday
 season: pentecost
-weekday: sunday
+weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- cardinalvillage
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "h-551" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/alleluiaamen %}}
+##### pb
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
-{{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-708" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
+##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/announcements %}}
+##### pb
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-711" %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/long %}}
@@ -38,7 +38,6 @@ bcppage: 355ff.
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "h-679" %}}
-{{% he/dismissal/goinpeace %}}
+{{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 

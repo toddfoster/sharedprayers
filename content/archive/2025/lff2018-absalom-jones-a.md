@@ -1,15 +1,17 @@
 ---
-title: "Evening Prayer for Proper 7"
-date: 2025-06-21
+title: "Evening Prayer for Absalom Jones, Priest, 1818"
+date: 2025-02-13
 lectionaryyear: c
-proper: proper-7
-season: pentecost
-weekday: saturday
+proper: lff2018-absalom-jones
+season: epiphany
+weekday: thursday
 rite: Evening Prayer
 bcppage: 115ff.
+tags:
+- StT
+- weekday
 ---
 {{% office/ep/sentence %}}
-{{% office/ep/confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm-sac" /%}}
@@ -18,9 +20,8 @@ bcppage: 115ff.
 ##### The people sit for the readings and stand for the canticles.
 {{% lesson "first" /%}}
 {{% office/ep/canticle/first %}}
-{{% lesson "second" /%}}
-{{% office/ep/canticle/second %}}
 {{% lesson "third" /%}}
+{{% office/ep/canticle/second %}}
 {{% he/homily/brief %}}
 {{% office/ep/apostlescreed %}}
 # The Prayers

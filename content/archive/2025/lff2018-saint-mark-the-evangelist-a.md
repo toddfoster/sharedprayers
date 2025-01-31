@@ -7,9 +7,6 @@ season: easter
 weekday: friday
 rite: Evening Prayer
 bcppage: 115ff.
-tags:
-- StT
-- weekday
 ---
 {{% office/ep/sentence %}}
 {{% office/ep/invitatory %}}
