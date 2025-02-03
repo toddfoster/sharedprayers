@@ -32,7 +32,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-### Special Music
+### Choir Anthem: _Every Time I Feel the Spirit_
 {{% he/eucharisticprayer/b sanctus="LEVAS 256" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
