@@ -32,8 +32,7 @@ tags:
 {{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-### Offertory Anthem: We've Come This Far by Faith
-{{% hymn Offertory %}}
+### Choir Anthem: _Transfiguration_
 {{% he/eucharisticprayer/b sanctus="LEVAS 256" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}

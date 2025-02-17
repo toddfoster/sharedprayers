@@ -30,7 +30,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-30" %}}
+### Choir Anthem: _Come Ye Sinners Poor and Needy_
 {{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}

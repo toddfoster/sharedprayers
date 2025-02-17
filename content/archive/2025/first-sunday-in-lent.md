@@ -28,7 +28,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "l-188" %}}
+### Choir Anthem: _Bread of the World_
 {{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
 #### LEVAS 264
 {{% he/lordsprayer/1 %}}
