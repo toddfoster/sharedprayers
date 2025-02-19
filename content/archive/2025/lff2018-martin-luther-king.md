@@ -7,6 +7,9 @@ season: lent
 weekday: friday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StT
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
