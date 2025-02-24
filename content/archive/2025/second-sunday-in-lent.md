@@ -13,15 +13,14 @@ tags:
 ---
 ## We Gather in God's Name
 {{% he/penitentialorder %}}
-#### LEVAS 1
-### Hymn of Praise: Lift ev'ry Voice and Sing
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-49" %}}
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -31,18 +30,18 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Choir Anthem: _Come Ye Sinners Poor and Needy_
-{{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
+#### Hymnal S-164
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-89" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "l-136" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

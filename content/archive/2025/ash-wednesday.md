@@ -19,7 +19,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-411" %}}
+{{% hymn Sequence "h-448" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -29,22 +29,21 @@ tags:
 {{% lesson psalm "51:1-18" /%}}
 {{% lent/litanyofpenitence %}}
 {{% he/peace %}}
-{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-143" %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
+### Special Music
+{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
+#### Hymnal S-164
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "H-383" %}}
+{{% hymn Communion "h-343" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "h-559" %}}
+{{% hymn Processional "h-708" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

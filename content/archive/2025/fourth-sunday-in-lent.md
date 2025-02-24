@@ -22,7 +22,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-533" %}}
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -32,20 +32,19 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-448" %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
+### Special Music
+{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
+#### Hymnal S-164
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _Of the Father's love begotten_
-{{% hymn Communion "h-685" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "h-473" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

@@ -20,7 +20,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-90" %}}
+{{% hymn Sequence "h-143" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -29,18 +29,18 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Choir Anthem: _Bread of the World_
-{{% he/eucharisticprayer/a sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
+#### Hymnal S-164
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-70" %}}
+{{% hymn Communion "h-707" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional "l-178" %}}
+{{% hymn Processional "h-529" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

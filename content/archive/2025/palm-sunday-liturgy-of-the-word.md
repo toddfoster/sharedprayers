@@ -27,15 +27,15 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory "h-168" %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
+{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-161
+#### Hymnal S-164
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-337" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
 {{% hymn Processional "h-474" %}}
