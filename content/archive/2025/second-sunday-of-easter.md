@@ -32,7 +32,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "H-192" %}}
+### Choir Anthem: _Now the Green Blade Riseth_
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -41,7 +41,8 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "h-693" %}}
+### Choir Anthem: _A Gaelic Blessing_
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
 {{% hymn Processional "H-191" %}}

@@ -26,7 +26,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory "h-168" %}}
+### Choir Anthem: _My Song is Love Unknown_
 {{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
