@@ -20,7 +20,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
+{{% hymn Sequence "h-288" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -38,10 +38,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-324" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/lent %}}
-{{% hymn Processional %}}
+{{% hymn Processional "h-370" %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
