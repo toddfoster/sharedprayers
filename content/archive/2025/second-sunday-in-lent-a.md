@@ -22,18 +22,15 @@ tags:
 {{% lesson "second" /%}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
-##### pb
 ## We Respond in Faith
 {{% he/creed/nicene %}}
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
-##### pb
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
 {{% he/fraction/agnusdei %}}
-##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
