@@ -11,7 +11,7 @@ tags:
 - cardinalvillage
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/blessthelord %}}
 {{% he/collect-purity %}}
 ##### pb
 {{% he/songofpraise/trishagion %}}
@@ -28,6 +28,7 @@ tags:
 {{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
+##### pb
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
