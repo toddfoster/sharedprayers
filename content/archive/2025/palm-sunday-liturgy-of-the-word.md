@@ -19,7 +19,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "h-498" %}}
+{{% hymn Sequence "h-495" %}}
 {{% he/palmsunday/passion/b %}}
 ## We Respond in Faith
 {{% he/pop/lordhavemercy %}}
@@ -35,10 +35,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+{{% hymn Communion "h-168" %}}
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% hymn Processional "h-474" %}}
+{{% hymn Processional "h-498" %}}
 {{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 
