@@ -2,6 +2,8 @@
 
 This is a [static site](https://www.sharedprayers.net) to share liturgies for prayer, generally based on the [Book of Common Prayer](https://www.episcopalchurch.org/what-we-believe/book-common-prayer/) currently in use by [The Episcopal Church](https://www.episcopalchurch.org/). The top of each liturgy can contain a QR code, enabling people to share with one another by displaying the code and allowing someone else to scan it on their own smartphone.
 
+This site was originally composed during the COVID-19 pandemic for use both remotely and without requiring physical contact between people and objects when we began gathering (tentatively and outdoors). 
+
 [See the site!](https://www.sharedprayers.net)
 
 # Prerequisites
@@ -36,6 +38,11 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - The Rev. Greg Johnston, author of the amazing [venite.app](https://www.venite.app/home) and [Common Prayer Online](https://www.commonprayeronline.org/) with [readings for the daily office](https://www.commonprayeronline.org/en/daily-readings), who generously shares [digital resources](https://github.com/gbj), especially json encodings of data from the BCP.
 
 # Tasks
+
+### URGENT
+- Update Palm Sunday to take account of liturgical year
+- Update to work with current version of hugo
+- Establish good generic liturgies
 
 ### IDEAS
 - provide aliases to bcp/xxx to include by page number
