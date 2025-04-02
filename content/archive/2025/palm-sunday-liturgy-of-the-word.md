@@ -11,7 +11,7 @@ tags:
 - StT
 - weekend
 ---
-{{% he/palmsunday/palms/b %}}
+{{% he/palmsunday/palms/c %}}
 {{% he/palmsunday/palms/procession %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -20,7 +20,7 @@ tags:
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence "h-495" %}}
-{{% he/palmsunday/passion/b %}}
+{{% he/palmsunday/passion/c %}}
 ## We Respond in Faith
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
