@@ -17,7 +17,7 @@ tags:
 {{% he/collect-purity %}}
 #### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
-{{% he/propercollect "easter-day-the-day" %}}
+{{% collects/easter-1 %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
