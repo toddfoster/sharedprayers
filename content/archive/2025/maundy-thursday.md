@@ -28,6 +28,7 @@ tags:
 {{% he/maundythursday/washfeet %}}
 {{% hymn "h-602" %}}
 {{% he/pop/lordhavemercy %}}
+{{% he/peace %}}
 {{% stt/announcements %}}
 ### Offertory Anthem: _Thirty Pieces of Silver_ by L. Smith
 {{% he/eucharisticprayer/a sanctus="S-125" /%}}
