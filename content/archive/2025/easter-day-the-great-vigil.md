@@ -14,7 +14,7 @@ tags:
 ## We Gather in God's Name
 {{% he/eastervigil/lightingcandle %}}
 {{% he/eastervigil/exsultet %}}
-{{% he/eastervigil/liturgyword2024 %}}
+{{% he/eastervigil/liturgyword2025 %}}
 {{% he/eastervigil/transition %}}
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
@@ -30,7 +30,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 ## We Offer Ourselves to God
-{{% hymn Offertory "h-174" %}}
+### Offertory Anthem: _Alleluia, Christ is Risen_, J. Kirkby
 {{% he/eucharisticprayer/d sanctus="Hymnal S-130" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -39,11 +39,9 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% he/anthem "_Now the Green Blade Riseth_ (St. Thomas' Choir)" %}}
-{{% hymn Communion "h-190" %}}
 {{% hymn Communion "h-490" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}
-{{% hymn Processional "h-536" %}}
+{{% hymn Processional "h-174" %}}
 {{% he/dismissal/easter/goinpeace %}}
 

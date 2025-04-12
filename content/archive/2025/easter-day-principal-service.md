@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-### Sequence Anthem: _How Can I Keep From Singing?_
+{{% hymn Sequence "h-178" %}}
 {{% lesson "gospel" "Luke 24:1-12" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -32,7 +32,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-### Choir Anthem: _Alleluia, Christ is Risen!_
+### Offertory Anthem: _Alleluia, Christ is Risen_, J. Kirkby
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -41,7 +41,7 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Communion Anthem: _Now the Green Blade Riseth_
+### Communion Anthem: _Alleluia_, W. Boyce
 {{% hymn Communion "h-190" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-long %}}

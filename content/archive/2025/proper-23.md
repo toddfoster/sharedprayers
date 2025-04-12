@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-141" %}}
+{{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 ### Hymn of Praise (Sunday School) or:
@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-99" %}}
+{{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -42,10 +42,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-216" %}}
+{{% hymn Communion %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/thepeace %}}
-{{% hymn Processional "l-181" %}}
+{{% hymn Processional %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

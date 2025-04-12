@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "H-182" %}}
+{{% hymn Entrance "h-180" %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
@@ -23,7 +23,7 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "H-296" %}}
+{{% hymn Sequence "h-182" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
@@ -32,7 +32,7 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-### Choir Anthem: _Now the Green Blade Riseth_
+### Choir Anthem: _Now the Green Blade Riseth_, S. Andrews
 {{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
@@ -41,11 +41,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-### Choir Anthem: _A Gaelic Blessing_
-{{% hymn Communion %}}
+{{% hymn Communion "h-325" %}}
 {{% he/postcommunion/almighty %}}
 {{% he/blessing/easter-short %}}
-{{% hymn Processional "H-191" %}}
+{{% hymn Processional "h-199" %}}
 {{% he/dismissal/easter/goinpeace %}}
 {{% nrsv %}}
 
