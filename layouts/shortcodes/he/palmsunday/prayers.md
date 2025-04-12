@@ -27,7 +27,7 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> For all nations and their leaders, including _Joseph_, our President; members of the U.S. Congress, _Phillip,_ our Governor, and _John, our Mayor_; for justice, mercy, and peace in all the world, let us pray.
+> For all nations and their leaders, including _Donald, our President; members of the U.S. Congress, _Phillip,_ our Governor, and _John, our Mayor_; for justice, mercy, and peace in all the world, let us pray.
 
 **People:**
 > **Lord, have mercy.**

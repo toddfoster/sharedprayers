@@ -17,7 +17,7 @@ Priest:
 > **Amen.**
 
 Deacon:
-> Let us pray for all nations and peoples of the earth, and for those in authority among them; For Joseph, the President of the United States; For the Congress and the Supreme Court; For the Members and Representatives of the United Nations; For all who serve the common good; That by God’s help they may seek justice and truth, and live in peace and concord.
+> Let us pray for all nations and peoples of the earth, and for those in authority among them; For Donald, the President of the United States; For the Congress and the Supreme Court; For the Members and Representatives of the United Nations; For all who serve the common good; That by God’s help they may seek justice and truth, and live in peace and concord.
 
 ##### Silence
 
