@@ -58,6 +58,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 - Psalms  page to access psalms individually
 - ods2sp: only regenerate pages older than spreadsheet
+- DRY references to POTUS, make easier to update (or find authoritative source!)
 
 ### MAYBE/SOMEDAY
 - (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
