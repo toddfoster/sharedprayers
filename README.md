@@ -59,6 +59,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - Psalms  page to access psalms individually
 - ods2sp: only regenerate pages older than spreadsheet
 - DRY references to POTUS, make easier to update (or find authoritative source!)
+- DRY references to ABp Canterbury, make easier to update
 
 ### MAYBE/SOMEDAY
 - (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
