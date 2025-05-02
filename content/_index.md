@@ -13,11 +13,13 @@ title: Shared Prayers
 [2025-01-12: Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-a/)
 --->
 
+<!---
 **The Great Three Days (Triduum)**
 {{% index/listliturgies "StT triduum" %}}
 
 **Liturgies for Holy Week**
 {{% index/listliturgies "StT holyweek" %}}
+--->
 
 <!---
 **Seasonal Liturgies**
