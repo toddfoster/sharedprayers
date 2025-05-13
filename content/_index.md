@@ -37,6 +37,9 @@ title: Shared Prayers
 **Cardinal Village Liturgies:**
 {{% index/listliturgies "cardinalvillage" %}}
 
+**Roosevelt Care Center Liturgies:**
+{{% index/listliturgies "roosevelt" %}}
+
 **Liturgies for any time:**
 - [Liturgies for Stations of the Cross](other/stations)
 - [Holy Eucharist for Weekdays](archive/he-covid-weekday)
