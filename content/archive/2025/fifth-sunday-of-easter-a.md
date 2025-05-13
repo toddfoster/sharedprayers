@@ -24,7 +24,8 @@ tags:
 {{% he/homily/brief %}}
 ##### pb
 ## We Respond in Faith
-{{% hymn "Prayers" "What a friend we have in Jesus" "he/pop/form3" %}}
+{{% hymn "Prayers" "What a friend we have in Jesus" %}}
+{{% he/pop/form3 %}}
 {{% he/peace %}}
 ##### pb
 {{% stt/2023/offertory %}}
