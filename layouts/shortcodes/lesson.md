@@ -140,16 +140,28 @@ A reading from {{ $intro }}
     {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
 	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
   	{{ if not (fileExists $filepath) }}
-      {{ $filepath = printf "layouts/shortcodes/readings/lpn/%s" $filename }}
-      {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-	  {{ if not (fileExists $filepath) }}
-        {{ $filepath = printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+        {{ $filepath = ( printf "layouts/shortcodes/readings/pss/responsively/%s" $ref_slug ) }}
         {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-      {{ end }}
-	{{ end }}
+        {{ if not (fileExists $filepath) }}
+            {{ $filepath = ( printf "layouts/shortcodes/readings/pss/markdown/%s" $ref_slug ) }}
+            {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+            {{ if not (fileExists $filepath) }}
+                {{ $filepath = ( printf "layouts/shortcodes/readings/pss/plaintext/%s" $ref_slug ) }}
+                {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+                {{ if not (fileExists $filepath) }}
+                      {{ $filepath = printf "layouts/shortcodes/readings/lpn/%s" $filename }}
+                      {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+                      {{ if not (fileExists $filepath) }}
+                            {{ $filepath = printf "layouts/shortcodes/readings/nrsv/%s" $filename }}
+                            {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+                      {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
     {{ if fileExists $filepath }}
 {{ $filepath | readFile | safeHTML  }}
-     {{ else }}
+    {{ else }}
        {{ $url := printf "http://bible.oremus.org/?version=NRSVAE&passage=%s" $reference }}
        {{ $url = replace $url " " "%20" }}
        {{ $link := printf "[%s](%s)" $reference $url }}
