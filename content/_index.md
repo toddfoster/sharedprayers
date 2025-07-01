@@ -33,12 +33,13 @@ title: Shared Prayers
 <!--
 **Rowan Liturgies:**
 {{% index/listliturgies "tecatru" %}}
--->
+
 **Cardinal Village Liturgies:**
 {{% index/listliturgies "cardinalvillage" %}}
 
 **Roosevelt Care Center Liturgies:**
 {{% index/listliturgies "roosevelt" %}}
+-->
 
 **Liturgies for any time:**
 - [Liturgies for Stations of the Cross](other/stations)
