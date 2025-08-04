@@ -15,7 +15,8 @@ tags:
 {{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/trishagion %}}
+#### Hymnal S-280
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
