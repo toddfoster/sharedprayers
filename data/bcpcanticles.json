@@ -3,252 +3,294 @@
         "office": "mp",
         "season": "proper",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "11-surge"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "friday",
+        "order":  "first",
         "canticle": "10-quaerite"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "proper",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "16-benedictusdominus"
     },
     {
         "office": "mp",
         "season": "advent",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "11-surge"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "friday",
+        "order":  "first",
         "canticle": "10-quaerite"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "advent",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "11-surge"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "friday",
+        "order":  "first",
         "canticle": "10-quaerite"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "christmas",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "16-benedictusdominus"
     },
     {
         "office": "mp",
         "season": "easter",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "11-surge"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "friday",
+        "order":  "first",
         "canticle": "10-quaerite"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "easter",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "11-surge"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "friday",
+        "order":  "first",
         "canticle": "10-quaerite"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "epiphany",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "16-benedictusdominus"
     },
     {
         "office": "mp",
         "season": "lent",
         "day": "monday",
+        "order":  "first",
         "canticle": "9-ecce"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "tuesday",
+        "order":  "first",
         "canticle": "13-benedictuses"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "wednesday",
+        "order":  "first",
         "canticle": "14-kyrie"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "thursday",
+        "order":  "first",
         "canticle": "8-cantemus"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "friday",
+        "order":  "first",
         "canticle": "14-kyrie"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "saturday",
+        "order":  "first",
         "canticle": "12-benedicite"
     },
     {
         "office": "mp",
         "season": "lent",
         "day":    "sunday",
+        "order":  "first",
         "canticle": "14-kyrie"
     }
 ]
