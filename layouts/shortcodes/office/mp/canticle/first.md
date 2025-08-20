@@ -1,4 +1,18 @@
+{{/* office/mp/canticle/first.md 0=season 1=day  */}}
+{{/* ----------------------------------------------- */}}
+{{/* Experimenting with how to get rid of symlinks. */}}
+{{/* Creating data file bcpcanticles  */}}
+{{/*     with fields: office, season, day, order, canticle */}}
+{{/* ----------------------------------------------- */}}
+{{ $DEBUG := true }}
+{{/* ----------------------------------------------- */}}
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
-{{ $weekday := default "monday" (default ($.Page.Params.weekday) (.Get 1)) }}
-{{ $canticle := printf "layouts/shortcodes/office/mp/canticle/first/%s/%s.md" $season $weekday }}
+{{ $day := default "monday" (default ($.Page.Params.day) (.Get 1)) }}
+{{ $canticleref := "default" }}
+{{  with first 1 (where (where (where (where $.Site.Data.bcpcanticles "office" "mp") "season" $season) "day" $day) "order" "first") }}
+	{{ $canticleref = (index . 0).canticle }}
+{{ end }}
+{{ if $DEBUG }}{{ printf "=== DEBUG === season=%s  day=%s" $season $day }}{{ end }}
+{{ if $DEBUG }}{{ printf "=== DEBUG === canticleref = %s" $canticleref }}{{ end }}
+{{ $canticle := printf "layouts/shortcodes/canticles/%s.md" $canticleref }}
 {{ readFile $canticle | safeHTML }}
