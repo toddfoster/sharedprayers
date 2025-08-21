@@ -44,7 +44,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x offices/mp/canticles/first
 - x offices/mp/canticles/second
 - Combine offices/mp/first and office/mp/second
-- readings/pss : DRY references to avoid symlinks
+- x readings: DRY references and otherwise avoid symlinks
 - advent/ocomechoices - by sunday
 - advent/wreathchoices - by sunday
 - office/mp/confession - by weekday
