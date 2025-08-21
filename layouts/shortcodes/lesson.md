@@ -133,6 +133,8 @@ A reading from {{ $intro }}
 {{ if $reference }}
    {{/* Hard code a few tweaks */}}
    {{ $reference = replace $reference "Ecclesiasticus" "Sirach" }}
+   {{ $reference = replace $reference "Canticle 3 or 15" "Canticle 15" }}
+
    {{ if not ( in ($reference | lower | replaceRE "[^a-z]+" "") "solomon") }}
       {{ $reference = replace $reference "Wisdom" "Wisdom of Solomon" }}
    {{ end }}
@@ -142,6 +144,11 @@ A reading from {{ $intro }}
    {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
    {{ $ref_slug := $filename | replaceRE "psalm" "" }}
    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
+   {{ if in $ordinal "psalm" }}
+      {{ if in $filepath "1samuel2110" }}
+         {{ $filepath = "layouts/shortcodes/canticles/hannahsong.md" }}
+      {{ end }}
+   {{ end }}
    {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
    {{ if not (fileExists $filepath) }}
         {{ $filepath = ( printf "layouts/shortcodes/readings/pss/responsively/%s" $ref_slug ) }}
