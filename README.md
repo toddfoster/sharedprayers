@@ -39,6 +39,32 @@ No effort stands alone. I particularly want to recognize important inspirations 
 
 # Tasks
 
+### WIP
+- Remove symlinks as holders of information (no longer supported by hugo)
+- x offices/mp/canticles/first
+- x offices/mp/canticles/second
+- Combine offices/mp/first and office/mp/second
+- readings/pss : DRY references to avoid symlinks
+- advent/ocomechoices - by sunday
+- advent/wreathchoices - by sunday
+- office/mp/confession - by weekday
+- office/mp/sentence - by weekday AND sunday
+- office/mp/antiphon - by weekday
+- office/mp/beforetheclose - by weekday
+- office/mp/collect - by weekday
+- office/mp/invitatory - by season
+- office/mp/mission - by weekday
+- office/mp/suffrages - by weekday
+- office/mp/confession - by weekday
+- office/ep/sentence - by season
+- office/ep/canticle - first/second
+- office/ep/beforetheclose - weekday
+- office/ep misc texts
+- office/ep/mission - weekday
+- he/penitentialordersentence- by sunday
+- lent/penitentialordersentence - by sunday
+
+
 ### URGENT
 - Update Palm Sunday to take account of liturgical year
 - Update to work with current version of hugo
