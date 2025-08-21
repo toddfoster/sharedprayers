@@ -4,10 +4,11 @@
 {{/* Creating data file bcpcanticles  */}}
 {{/*     with fields: office, season, day, order, canticle */}}
 {{/* ----------------------------------------------- */}}
-{{ $DEBUG := true }}
+{{ $DEBUG := false }}
 {{/* ----------------------------------------------- */}}
 {{ $season := default ($.Page.Params.season) (.Get 0) }}
-{{ $day := default "monday" (default ($.Page.Params.day) (.Get 1)) }}
+{{ if eq $season "pentecost" }} {{ $season = "proper" }} {{ end }}
+{{ $day := default "monday" (default ($.Page.Params.weekday) (.Get 1)) }}
 {{ $canticleref := "default" }}
 {{  with first 1 (where (where (where (where $.Site.Data.bcpcanticles "office" "mp") "season" $season) "day" $day) "order" "first") }}
 	{{ $canticleref = (index . 0).canticle }}
