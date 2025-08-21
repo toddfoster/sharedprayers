@@ -128,18 +128,22 @@ A reading from {{ $intro }}
 {{/* Provide reading itself */}}
 {{/* ---------------------------- */}}
 {{ with .Inner }}
-	{{ . | safeHTML}}
+   {{ . | safeHTML}}
 {{ else }}
 {{ if $reference }}
+   {{/* Hard code a few tweaks */}}
    {{ $reference = replace $reference "Ecclesiasticus" "Sirach" }}
    {{ if not ( in ($reference | lower | replaceRE "[^a-z]+" "") "solomon") }}
-	 {{ $reference = replace $reference "Wisdom" "Wisdom of Solomon" }}
+      {{ $reference = replace $reference "Wisdom" "Wisdom of Solomon" }}
+   {{ end }}
+   {{ if ( in $psalm_rendering "sac" ) }}
+      {{ $reference = replace $reference "105:1-6,23-26,45c" "105:1-6,23-26,45b" }}
    {{ end }}
    {{ $filename := $reference | lower | replaceRE "[^a-z0-9]+" "" }}
-	{{ $ref_slug := $filename | replaceRE "psalm" "" }}
-    {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
-	{{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
-  	{{ if not (fileExists $filepath) }}
+   {{ $ref_slug := $filename | replaceRE "psalm" "" }}
+   {{ $filepath := ( printf "layouts/shortcodes/readings/pss/%s/%s" $psalm_rendering $ref_slug ) }}
+   {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
+   {{ if not (fileExists $filepath) }}
         {{ $filepath = ( printf "layouts/shortcodes/readings/pss/responsively/%s" $ref_slug ) }}
         {{ if $DEBUG }}{{ printf "file=%v" $filepath }}{{ end }}
         {{ if not (fileExists $filepath) }}
