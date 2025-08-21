@@ -294,297 +294,346 @@
         "canticle": "14-kyrie"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "thursday",
+        "order": "second",
         "canticle": "20-gloria"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "proper",
         "day":    "sunday",
+        "order": "second",
         "canticle": "21-tedeum"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "thursday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "advent",
         "day":    "sunday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "thursday",
+        "order": "second",
         "canticle": "20-gloria"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "christmas",
         "day":    "sunday",
+        "order": "second",
         "canticle": "21-tedeum"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "thursday",
+        "order": "second",
         "canticle": "20-gloria"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "epiphany",
         "day":    "sunday",
+        "order": "second",
         "canticle": "21-tedeum"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "thursday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "lent",
         "day":    "sunday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "thursday",
+        "order": "second",
         "canticle": "20-gloria"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "easter",
         "day":    "sunday",
+        "order": "second",
         "canticle": "21-tedeum"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day": "monday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "tuesday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "wednesday",
+        "order": "second",
         "canticle": "16-benedictusdominus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "thursday",
+        "order": "second",
         "canticle": "20-gloria"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "friday",
+        "order": "second",
         "canticle": "18-dignus"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "saturday",
+        "order": "second",
         "canticle": "19-magna"
     },
     {
-        "office": "ep",
+        "office": "mp",
         "season": "ascension",
         "day":    "sunday",
+        "order": "second",
         "canticle": "21-tedeum"
     }
 ]
