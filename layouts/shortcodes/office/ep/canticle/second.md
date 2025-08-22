@@ -1,1 +1,1 @@
-../../../canticles/17-nunc-ep.md
+{{ readFile ( "layouts/shortcodes/canticles/17-nunc-ep.md" | safeHTML) }}
