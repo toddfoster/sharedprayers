@@ -9,7 +9,7 @@ rite: Evening Prayer
 bcppage: 115ff.
 ---
 {{% office/ep/sentence %}}
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm-sac" /%}}

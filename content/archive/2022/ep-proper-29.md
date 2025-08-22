@@ -14,7 +14,7 @@ tags:
 
 {{% office/ep/sentence "1" %}}
 ##### pb
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 
 {{% office/ep/invitatory "pentecost" %}}
 

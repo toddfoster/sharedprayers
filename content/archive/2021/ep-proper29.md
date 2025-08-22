@@ -9,7 +9,7 @@ proper: proper-29-christ-the-king
 ---
 ##### pb
 {{% office/ep/sentence %}}
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 ##### pb
 {{% office/ep/invitatory  %}}
 {{% lesson "psalm" /%}}

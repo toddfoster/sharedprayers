@@ -10,7 +10,7 @@ proper: proper-11
 ---
 
 {{% office/ep/sentence %}}
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 {{% office/ep/invitatory  %}}
 
 {{% lesson "psalm" /%}}

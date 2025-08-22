@@ -11,7 +11,7 @@ bcppage: 115ff.
 
 {{% office/ep/sentence %}}
 ##### pb
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 
 {{% office/ep/invitatory "pentecost" %}}
 

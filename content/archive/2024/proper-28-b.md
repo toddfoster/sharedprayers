@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 {{% office/ep/sentence %}}
-{{% office/ep/confession %}}
+{{% choose-weekday ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm-sac" /%}}
