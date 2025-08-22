@@ -76,7 +76,7 @@ Jesus said, “This is my commandment, that you love one another as I have loved
 
 {{% he/pop/form3 %}}
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% rubric-stand %}}
 

@@ -1,1 +1,0 @@
-../confession2.md

@@ -133,7 +133,7 @@ Today the response to the prompt, “For I am persuaded that your love is establ
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% rubric-stand %}}
 

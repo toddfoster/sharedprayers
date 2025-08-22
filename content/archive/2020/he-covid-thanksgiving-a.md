@@ -193,7 +193,7 @@ Leader:
 Presider:
 > Above all, we give you thanks for the great mercies and promises given to us in Christ Jesus our Lord; To him be praise and glory, with you, O Father, and the Holy Spirit, now and for ever. **Amen.**
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% rubric-stand %}}
 

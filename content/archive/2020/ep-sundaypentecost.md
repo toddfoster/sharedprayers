@@ -14,7 +14,7 @@ _according to the Book of Common Prayer (p. 115ff.)_
 
 > Yours is the day, O God, yours also the night; you established the moon and the sun. You fixed all the boundaries of the earth; you made both summer and winter. _(Psalm 74:15, 16)_
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% office/ep/invitatorypsalter %}}
 

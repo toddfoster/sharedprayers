@@ -8,7 +8,7 @@ weekday: sunday
 ---
 {{% office/ep/sentence "7" %}}
 
-{{% office/ep/confession2 %}}
+{{% office/confession-short %}}
 
 {{% office/ep/invitatory %}}
 

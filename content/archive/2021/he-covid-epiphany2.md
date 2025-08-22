@@ -133,7 +133,7 @@ Today the response to the prompt, "Give us courage to say," is **“Speak, Lord,
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% rubric-stand %}}
 

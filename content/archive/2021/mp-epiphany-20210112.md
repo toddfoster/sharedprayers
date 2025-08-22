@@ -11,7 +11,7 @@ _according to the Book of Common Prayer (p. 75ff.)_
 
 > I will give you as a light to the nations, that my salvation may reach to the end of the earth. _(Isaiah 49:6b)_
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% office/mp/invitatory/intro %}}
 

@@ -1,1 +1,1 @@
-../../confession2.md
+../../confession-short.md

@@ -105,7 +105,7 @@ Today the response to the prompt, “For God alone my soul in silence waits” i
 ##### Silence
 ##### The Celebrant adds a concluding Collect.
 
-{{% office/confession2 %}}
+{{% office/confession-short %}}
 
 {{% rubric-stand %}}
 
