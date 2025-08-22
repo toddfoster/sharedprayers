@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% he/penitentialorder %}}
+{{% lent/penitentialorder %}}
 #### LEVAS 1
 ### Hymn of Praise: Lift ev'ry Voice and Sing
 {{% he/propercollect %}}

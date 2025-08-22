@@ -9,7 +9,7 @@ bcppage: 274/355
 
 ## We Gather in God's Name
 {{% he/greeting/blessthelord %}}
-{{% he/penitentialorder %}}
+{{% lent/penitentialorder %}}
 {{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}

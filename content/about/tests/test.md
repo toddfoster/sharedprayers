@@ -25,7 +25,7 @@ bcppage: 355ff.
 # TEST: penitentialorder
 **NOTE:** There are two additional greetings for use in the Penitential order. But "Bless the Lord" is designated for "Lent and on other penitential occasions." If I'm using the Penitential order, it's probably during "Lent and on other penitential occasions." According to my past practice it certainly isn't during the Easter season!
 
-{{% he/penitentialorder %}}
+{{% lent/penitentialorder %}}
 
 # TEST: songofpraise
 ## TEST: gloriaexcelsis

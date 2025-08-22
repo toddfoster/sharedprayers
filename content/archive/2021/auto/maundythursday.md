@@ -8,6 +8,7 @@ bcppage: 274/355ff.
 {{% stt/2021/preparing-covid %}}
 
 ## We Gather in God's Name
+{{% he/greeting/blessthelord %}}
 {{% lent/penitentialorder %}}
 {{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}

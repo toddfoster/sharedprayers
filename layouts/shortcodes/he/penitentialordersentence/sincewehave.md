@@ -1,1 +1,0 @@
-Since we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. _(Hebrews 4:14, 16)_

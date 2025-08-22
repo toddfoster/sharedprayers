@@ -10,7 +10,7 @@ bcppage: 355ff.
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessthelord %}}
-{{% he/penitentialorder %}}
+{{% lent/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}

@@ -7,6 +7,7 @@ bcppage: 355ff.
 ---
 {{% stt/2021/preparing-covid %}}
 ---
+{{% he/greeting/blessthelord %}}
 {{% lent/penitentialorder %}}
 
 {{% he/songofpraise/kyrie %}}

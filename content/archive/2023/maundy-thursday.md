@@ -14,7 +14,7 @@ tags:
 ## We Gather in God's Name
 {{% hymn Entrance "h-445" %}}
 {{% he/greeting/blessthelord %}}
-{{% he/penitentialorder %}}
+{{% lent/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}

@@ -1,1 +1,0 @@
-Jesus said, “The first commandment is this: Hear, O Israel: The Lord our God is the only Lord. Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength. The second is this: Love your neighbor as yourself. There is no other commandment greater than these.” _(Mark 12:29-31)_

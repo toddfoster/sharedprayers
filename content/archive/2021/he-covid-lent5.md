@@ -7,7 +7,7 @@ liturgydate: 2021-03-21
 bcppage: 351ff.
 ---
 {{% stt/2021/preparing-covid %}}
-
+{{% he/greeting/blessthelord %}}
 {{% lent/penitentialorder %}}
 {{% he/songofpraise/kyrie %}}
 
