@@ -45,8 +45,8 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x offices/mp/canticles/second
 - Combine offices/mp/first and office/mp/second
 - x readings: DRY references and otherwise avoid symlinks
-- advent/ocomechoices - by sunday
-- advent/wreathchoices - by sunday
+- x advent/ocomechoices - by sunday
+- x advent/wreathchoices - by sunday
 - office/mp/confession - by weekday
 - office/mp/sentence - by weekday AND sunday
 - office/mp/antiphon - by weekday
@@ -61,8 +61,8 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - office/ep/beforetheclose - weekday
 - office/ep misc texts
 - office/ep/mission - weekday
-- he/penitentialordersentence- by sunday
-- lent/penitentialordersentence - by sunday
+- x he/penitentialordersentence- by sunday
+- x lent/penitentialordersentence - by sunday
 
 
 ### URGENT
