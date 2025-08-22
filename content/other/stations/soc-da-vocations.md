@@ -35,7 +35,7 @@ Jesus, we ask that you call young men and women today to publicly accept your in
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

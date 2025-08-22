@@ -1,1 +1,0 @@
-../office/gloriapatri.md

@@ -32,7 +32,7 @@ I hear the pain in the voices of my loved ones and know that I have hurt them. F
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

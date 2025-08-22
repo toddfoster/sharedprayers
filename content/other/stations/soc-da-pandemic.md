@@ -33,7 +33,7 @@ You have already been scourged and crowned with thorns. We fear a corona in our 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

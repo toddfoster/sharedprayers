@@ -38,7 +38,7 @@ O God, we confess that we have fallen into the temptation of believing that we c
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

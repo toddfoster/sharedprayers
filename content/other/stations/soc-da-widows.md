@@ -34,7 +34,7 @@ Your Son, who was to be judge of all the living and the dead, stood before a Rom
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

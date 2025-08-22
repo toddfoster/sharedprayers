@@ -32,7 +32,7 @@ When was the last time you were punished? How did you feel? Have you ever been p
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -50,7 +50,7 @@ What in your life is really hard to handle? Sometimes it is a person. Sometimes 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -68,7 +68,7 @@ It is good to know where we are weak. It might be obeying someone. It might mean
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -86,7 +86,7 @@ Jesus’ mother came to give him strength. How many times have your parents show
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -106,7 +106,7 @@ When did you last see someone struggle with a problem? Did you help them? If you
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -125,7 +125,7 @@ Jesus helped people all through his life. Veronica helped Jesus. She showed love
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -144,7 +144,7 @@ Even though we know our problems, it doesn’t mean they go away. We can fall ag
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -164,7 +164,7 @@ Have you ever been hurt at the same time as someone else? Did you reach out to h
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -184,7 +184,7 @@ Sometimes we want to give up on our problems. Sometimes we give into them. No on
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -204,7 +204,7 @@ Have you ever been made fun of in front of a crowd? It’s like feeling naked an
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -224,7 +224,7 @@ If you were hanging on a cross, up high, for all the world to see your complete 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -243,7 +243,7 @@ Jesus gave his life to God the Father as a sacrifice for our sins. We’re all g
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -262,7 +262,7 @@ Jesus’ Body is placed in his mother’s arms. Can you imagine her sorrow? Mary
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -281,7 +281,7 @@ Joseph of Arimathea gave his own tomb to Jesus. He did this at great risk becaus
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
@@ -299,7 +299,7 @@ God promises us eternal life if we accept him. Let Christ live in you today!
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**

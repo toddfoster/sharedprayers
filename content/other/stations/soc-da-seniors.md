@@ -36,7 +36,7 @@ In the name of the Father, and of the Son and of the Holy Spirit. **Amen.**
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

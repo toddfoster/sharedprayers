@@ -36,7 +36,7 @@ Lord, you stood alone, an innocent man sentenced to death, while I kneel before 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

@@ -45,7 +45,7 @@ _(PS 83:2-3, 4-5, 6 & 13b, 17 & 19)_
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

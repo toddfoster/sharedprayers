@@ -32,7 +32,7 @@ Lord Jesus, often I feel unjustly judged by the court system, just as you were. 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 

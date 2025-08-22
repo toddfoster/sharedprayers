@@ -35,7 +35,7 @@ The narrative of the lie begins to spin the story of Jesus by those who wish to 
 
 {{% misc/hailmary2 %}}
 
-{{% misc/gloriapatri %}}
+{{% office/gloriapatri %}}
 
 May the souls of the faithful departed, through the mercy of God, rest in peace. **Amen**
 
