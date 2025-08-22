@@ -74,7 +74,7 @@ _At any Time_
 
 {{% office/mp/confession/long %}}
 ##### or this
-{{% office/mp/confession/short %}}
+{{% office/confession2 %}}
 
 {{% office/mp/invitatory/intro %}}
 
