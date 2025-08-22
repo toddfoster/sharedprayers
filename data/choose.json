@@ -180,5 +180,30 @@
         "day": "christmas-day-iii",
         "rubric" : "",
         "path": "advent/wreath5.md"
+    },
+    {
+        "item": "penitentialorder-sentence",
+        "day": "maundy-thursday",
+        "path": "sincewehave.md"
+    },
+    {
+        "item": "penitentialorder-sentence",
+        "day": "second-sunday-in-lent",
+        "path": "jesussaid.md"
+    },
+    {
+        "item": "penitentialorder-sentence",
+        "day": "third-sunday-in-lent",
+        "path": "ifwesay.md"
+    },
+    {
+        "item": "penitentialorder-sentence",
+        "day": "fourth-sunday-in-lent",
+        "path": "sincewehave.md"
+    },
+    {
+        "item": "penitentialorder-sentence",
+        "day": "fifth-sunday-in-lent",
+        "path": "jesussaid.md"
     }
 ]

@@ -46,11 +46,21 @@ Celebrant:
 > You shall not covet anything that belongs to your neighbor.
 > **Amen. Lord have mercy.**
 
+
+{{/* DRY: logic adapted from choose-proper */}}
 {{ $week := default $.Page.Params.proper (.Get 0) }}
-{{ $sentence := printf "layouts/shortcodes/lent/penitentialordersentence/%s.md" $week }}
-{{ if not (fileExists $sentence) -}}{{ $sentence = "layouts/shortcodes/lent/penitentialordersentence/default.md" }}{{- end}}
+{{ $path := "" }}
+{{  with first 1 (where (where $.Site.Data.choose "item" "penitentialorder-sentence") "day" $week)  }}
+   {{ $path = default "" (index . 0).path }}
+{{ end }}
+{{ $DEBUG := false }}
+{{ if $DEBUG }}{{ printf "=== DEBUG === week=%s path=%s" $week $path }}{{ end }}
+{{ $fullpath := printf "layouts/shortcodes/lent/penitentialordersentence/%s.md" $path }}
+{{ if not (fileExists $fullpath) -}}
+  {{ $fullpath = "layouts/shortcodes/lent/penitentialordersentence/jesussaid.md" }}
+{{- end}}
 Officiant:
-> {{ readFile $sentence }}
+> {{ readFile ($fullpath | safeHTML) }}
 
 Deacon or Celebrant:
 > Let us confess our sins against God and our neighbor.
