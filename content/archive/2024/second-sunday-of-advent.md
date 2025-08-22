@@ -13,7 +13,7 @@ tags:
 ---
 ##### pb
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% choose-proper he ocome %}}
 {{% hymn Entrance "h-76" %}}
 {{% he/greeting/blessedbegod %}}

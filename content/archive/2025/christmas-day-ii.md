@@ -11,7 +11,7 @@ tags:
 - xmas
 ---
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% hymn Entrance "h-83" %}}
 {{% he/greeting/blessedareyou %}}
 {{% hymn "Praise" "h-96" %}}

@@ -12,7 +12,7 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% hymn Entrance "l-27" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}

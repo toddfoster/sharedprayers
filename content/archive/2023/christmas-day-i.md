@@ -11,7 +11,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% he/greeting/blessedareyou %}}
 {{% hymn h-83 %}}
 {{% he/eow/propercollect %}}

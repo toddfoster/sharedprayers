@@ -14,7 +14,7 @@ tags:
 
 ##### pb
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% choose-proper he ocome %}}
 {{% lent/greatlitany %}}
 {{% he/propercollect %}}

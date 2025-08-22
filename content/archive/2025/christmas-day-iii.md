@@ -12,7 +12,7 @@ tags:
 - xmas
 ---
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% hymn Entrance "l-21" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}

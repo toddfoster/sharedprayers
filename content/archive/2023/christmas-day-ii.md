@@ -11,7 +11,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% advent/wreath %}}
+{{% choose-proper he wreath %}}
 {{% hymn Entrance "h-83" %}}
 {{% he/greeting/blessedareyou %}}
 ### Hymn of Praise (7pm): Song of Zechariah by St. Thomas' Choir

@@ -159,5 +159,26 @@
         "day": "fourth-sunday-of-advent",
         "rubric" : "",
         "path": "advent/wreath4.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "christmas-day-i",
+        "rubric" : "",
+        "path": "advent/wreath5.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "christmas-day-ii",
+        "rubric" : "",
+        "path": "advent/wreath5.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "christmas-day-iii",
+        "rubric" : "",
+        "path": "advent/wreath5.md"
     }
 ]
