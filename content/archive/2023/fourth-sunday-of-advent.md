@@ -14,7 +14,7 @@ tags:
 ##### pb
 ## We Gather in God's Name
 {{% advent/wreath %}}
-{{% advent/ocome %}}
+{{% choose-proper he ocome %}}
 {{% hymn Entrance "L-21" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}

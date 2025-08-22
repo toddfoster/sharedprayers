@@ -9,7 +9,7 @@ bcppage: 355ff.
 ##### pb
 ## We Gather in God's Name
 {{% advent/wreath %}}
-{{% advent/ocome %}}
+{{% choose-proper he ocome %}}
 ##### pb
 {{% he/propercollect %}}
 {{% rubric-sit %}}

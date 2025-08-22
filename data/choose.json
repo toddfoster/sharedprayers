@@ -96,5 +96,68 @@
         "day": "sunday",
         "rubric" : "BCP 116",
         "path": "office/confession-ep-long.md"
+    },
+    {
+        "office": "he",
+        "item": "ocome",
+        "day": "first-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/ocome1.md"
+    },
+    {
+        "office": "he",
+        "item": "ocome",
+        "day": "second-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/ocome2.md"
+    },
+    {
+        "office": "he",
+        "item": "ocome",
+        "day": "third-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/ocome3.md"
+    },
+    {
+        "office": "he",
+        "item": "ocome",
+        "day": "fourth-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/ocome4.md"
+    },
+    {
+        "office": "he",
+        "item": "ocome",
+        "day": "christmas-day-iii",
+        "rubric" : "",
+        "path": "advent/ocome5.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "first-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/wreath1.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "second-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/wreath2.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "third-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/wreath3.md"
+    },
+    {
+        "office": "he",
+        "item": "wreath",
+        "day": "fourth-sunday-of-advent",
+        "rubric" : "",
+        "path": "advent/wreath4.md"
     }
 ]
