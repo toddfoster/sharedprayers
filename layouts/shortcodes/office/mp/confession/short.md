@@ -1,1 +1,0 @@
-../../confession-short.md

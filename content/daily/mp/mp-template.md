@@ -22,12 +22,12 @@ office/mp/sentence can be used in three ways:
         and choose a sentence in office/mp/sentence/choose
 {{% /comment %}}
 
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 {{% comment %}}
-office/mp/confession can be used in two ways:
+choose-weekday mp confession can be used in two ways:
 1. specify "short" or "long" as a parameter
 2. it will implicitly take the weekday from frontmatter
-     and choose from office/mp/confession/choose
+     and choose from choose-weekday mp confession/choose
 {{% /comment %}}
 
 {{% office/mp/invitatory  %}}

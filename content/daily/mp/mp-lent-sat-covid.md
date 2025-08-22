@@ -9,7 +9,7 @@ weekday: saturday
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 {{% office/mp/invitatory  %}}
 
 {{% lesson "psalm" %}}

@@ -11,7 +11,7 @@ bcppage: 78ff.
 
 {{% office/mp/sentence %}}
 ##### pb
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 ##### pb
 {{% office/mp/invitatory "proper" %}}
 ##### pb

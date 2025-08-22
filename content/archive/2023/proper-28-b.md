@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 {{% office/mp/sentence %}}
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 {{% office/mp/invitatory proper venite %}}
 {{% office/psalmintro %}}
 {{% lesson psalm "Psalm 66" /%}}

@@ -1,0 +1,51 @@
+[
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "monday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-mp-long.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "tuesday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-short.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "wednesday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-short.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "thursday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-short.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "friday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-short.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "saturday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-short.md"
+    },
+    {
+        "office": "mp",
+        "item": "confession",
+        "day": "sunday",
+        "rubric" : "BCP 79",
+        "path": "office/confession-mp-long.md"
+    }
+]

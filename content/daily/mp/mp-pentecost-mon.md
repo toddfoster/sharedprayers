@@ -9,10 +9,10 @@ weekday: monday
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 {{% office/mp/invitatory  %}}
 {{% office/psalmintro %}}
-{{% lesson "psalm" /%}}
+{{% lesson psalm /%}}
 {{% office/psalmgloria %}}
 
 # The Lessons

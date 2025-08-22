@@ -1,1 +1,0 @@
-../../confession-mp-long.md

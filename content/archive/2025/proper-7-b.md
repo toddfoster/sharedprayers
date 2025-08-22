@@ -9,7 +9,7 @@ rite: Morning Prayer
 bcppage: 75ff.
 ---
 {{% office/mp/sentence %}}
-{{% office/mp/confession %}}
+{{% choose-weekday mp confession %}}
 #### Hymnal 377
 {{% office/mp/invitatory/jubilate %}}
 {{% office/psalmintro %}}
