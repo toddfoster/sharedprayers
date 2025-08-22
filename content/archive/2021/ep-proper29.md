@@ -48,6 +48,6 @@ proper: proper-29-christ-the-king
 ##### Authorized intercessions and thanksgivings may follow.
 
 ##### pb
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

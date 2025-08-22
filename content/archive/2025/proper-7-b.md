@@ -36,7 +36,7 @@ bcppage: 75ff.
 {{% office/mp/collect/sundays %}}
 {{% office/mp/mission %}}
 ##### Authorized intercessions and thanksgivings may follow.
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

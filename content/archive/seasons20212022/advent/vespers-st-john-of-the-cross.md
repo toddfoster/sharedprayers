@@ -63,7 +63,7 @@ Almighty God, give us grace to cast away the works of darkness, and put on the a
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/ep/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion/thegrace %}}
 {{% nrsv %}}

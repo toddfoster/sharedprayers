@@ -52,6 +52,6 @@ proper: proper-10
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

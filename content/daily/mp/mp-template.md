@@ -140,7 +140,7 @@ or point to day of week (e.g., "choose/sunday")
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% comment %}}
 Uses front matter to decide day of week for the
 general thanks giving or prayer of St. Chrysostom.

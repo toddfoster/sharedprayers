@@ -44,7 +44,7 @@ weekday: sunday
 {{% office/ep/mission "2" %}}
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/ep/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

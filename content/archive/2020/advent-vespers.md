@@ -119,7 +119,7 @@ _20. For the Sick (BCP 260)_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/ep/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 
 Officiant:
 > Let us bless the Lord.

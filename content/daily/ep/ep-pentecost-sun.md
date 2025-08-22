@@ -80,6 +80,6 @@ _Collect Proper to the Day_
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday ep beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

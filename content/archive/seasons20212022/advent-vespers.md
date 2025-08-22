@@ -72,7 +72,7 @@ _Collect Proper to the Day_
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/ep/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion/thegrace %}}
 {{% nrsv %}}

@@ -44,6 +44,6 @@ bcppage: 78ff.
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

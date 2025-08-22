@@ -97,7 +97,7 @@ Now after John was arrested, Jesus came to Galilee, proclaiming the good news of
 
 ##### Intercessions and thanksgivings may follow.
 
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 

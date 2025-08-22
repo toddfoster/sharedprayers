@@ -38,7 +38,7 @@ tags:
 {{% office/ep/collect/protection %}}
 {{% office/ep/collect/ogodyoumanifest %}}
 ##### Intercessions and thanksgivings may follow.
-{{% office/ep/generalthanksgiving %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion/thegrace %}}
 {{% nrsv %}}

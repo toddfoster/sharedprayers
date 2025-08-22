@@ -98,6 +98,104 @@
         "path": "office/confession-ep-long.md"
     },
     {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "monday",
+        "rubric" : "BCP 79",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "tuesday",
+        "rubric" : "BCP 79",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "wednesday",
+        "rubric" : "BCP 79",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "thursday",
+        "rubric" : "BCP 79",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "friday",
+        "rubric" : "BCP 80",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "saturday",
+        "rubric" : "BCP 80",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
+        "office": "mp",
+        "item": "beforetheclose",
+        "day": "sunday",
+        "rubric" : "BCP 80",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "monday",
+        "rubric" : "BCP 125",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "tuesday",
+        "rubric" : "BCP 125",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "wednesday",
+        "rubric" : "BCP 125",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "thursday",
+        "rubric" : "BCP 125",
+        "path": "office/mp/beforetheclose/generalthanksgiving.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "friday",
+        "rubric" : "BCP 126",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "saturday",
+        "rubric" : "BCP 126",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
+        "office": "ep",
+        "item": "beforetheclose",
+        "day": "sunday",
+        "rubric" : "BCP 126",
+        "path": "office/mp/beforetheclose/prayer-chrysostom.md"
+    },
+    {
         "office": "he",
         "item": "ocome",
         "day": "first-sunday-of-advent",

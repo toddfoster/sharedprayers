@@ -1,1 +1,0 @@
-/home/todd/gh/sharedprayers/layouts/shortcodes/office/mp/beforetheclose/generalthanksgiving.md

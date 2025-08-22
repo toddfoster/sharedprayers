@@ -1,1 +1,0 @@
-../generalthanksgiving.md

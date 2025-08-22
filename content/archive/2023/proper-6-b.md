@@ -40,7 +40,7 @@ tags:
 {{% office/mp/mission %}}
 {{% hymn "" h-554 "  " %}}
 ##### Authorized intercessions and thanksgivings may follow.
-{{% office/mp/beforetheclose %}}
+{{% choose-weekday mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% hymn Processional "H-470" %}}
