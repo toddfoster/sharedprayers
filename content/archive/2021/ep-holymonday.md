@@ -40,7 +40,7 @@ weekday: monday
 {{% office/ep/suffragesb %}}
 {{% office/propercollect %}}
 {{% office/ep/collect/presence %}}
-{{% office/ep/mission "2" %}}
+{{% choose ep mission monday %}}
 ##### Intercessions and thanksgivings may follow.
 
 {{% office/mp/beforetheclose/generalthanksgiving %}}

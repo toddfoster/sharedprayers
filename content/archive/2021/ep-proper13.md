@@ -47,7 +47,7 @@ proper: proper-13
 
 {{% office/ep/collect/sundays %}}
 {{% collects/20-ForTheSick-covid %}}
-{{% office/ep/mission %}}
+{{% choose-weekday ep mission %}}
 
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.

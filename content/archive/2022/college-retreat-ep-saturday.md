@@ -43,7 +43,7 @@ bcppage: 115ff.
 {{% office/propercollect %}}
 {{% office/propercollect "proper-28" %}}
 {{% office/ep/collect/presence %}}
-{{% office/ep/mission %}}
+{{% choose-weekday ep mission %}}
 ##### Intercessions and thanksgivings may follow.
 {{% office/ep/prayer-chrysostom %}}
 ##### pb

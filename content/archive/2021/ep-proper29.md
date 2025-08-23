@@ -41,7 +41,7 @@ proper: proper-29-christ-the-king
 {{% office/propercollect %}}
 {{% office/ep/collect/sundays %}}
 {{% collects/20-ForTheSick-covid %}}
-{{% office/ep/mission %}}
+{{% choose-weekday ep mission %}}
 
 ##### Here may be sung a hymn or anthem.
 

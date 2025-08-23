@@ -74,7 +74,7 @@ weekday: sunday
 _Collect Proper to the Day_
 
 {{% office/ep/collect/sundays %}}
-{{% office/ep/mission %}}
+{{% choose-weekday ep mission %}}
 
 ##### Here may be sung a hymn or anthem.
 

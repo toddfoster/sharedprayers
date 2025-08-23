@@ -47,7 +47,7 @@ bcppage: 115ff.
 {{% office/ep/suffragesb %}}
 {{% office/propercollect %}}
 {{% office/ep/collect/presence %}}
-{{% office/ep/mission "2" %}}
+{{% choose ep mission monday %}}
 ##### Intercessions and thanksgivings may follow.
 {{% office/ep/prayer-chrysostom %}}
 ##### pb

@@ -106,7 +106,7 @@ _Collect Proper to the Day_
 
 {{% office/ep/collect/presence %}}
 
-{{% office/ep/mission/keepwatch %}}
+{{% choose-weekday ep mission monday %}}
 
 ##### Here may be sung a hymn or anthem.
 

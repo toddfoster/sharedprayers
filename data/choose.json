@@ -196,6 +196,55 @@
         "path": "office/mp/beforetheclose/prayer-chrysostom.md"
     },
     {
+        "office": "ep",
+        "item": "mission",
+        "day": "monday",
+        "rubric" : "BCP 124",
+        "path": "office/ep/mission/keepwatch.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "tuesday",
+        "rubric" : "BCP 124",
+        "path": "office/ep/mission/keepwatch.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "wednesday",
+        "rubric" : "BCP 124",
+        "path": "office/ep/mission/keepwatch.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "thursday",
+        "rubric" : "BCP 124",
+        "path": "office/ep/mission/keepwatch.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "friday",
+        "rubric" : "BCP 125",
+        "path": "office/ep/mission/youmanifest.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "saturday",
+        "rubric" : "BCP 125",
+        "path": "office/ep/mission/youmanifest.md"
+    },
+    {
+        "office": "ep",
+        "item": "mission",
+        "day": "sunday",
+        "rubric" : "BCP 124",
+        "path": "office/ep/mission/wholeheavens.md"
+    },
+    {
         "office": "he",
         "item": "ocome",
         "day": "first-sunday-of-advent",

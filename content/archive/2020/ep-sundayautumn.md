@@ -96,7 +96,7 @@ _Collect Proper to the Day_
 
 {{% collects/21-socialjustice %}}
 
-{{% office/ep/mission/keepwatch %}}
+{{% choose-weekday ep mission monday %}}
 
 ##### Here may be sung a hymn or anthem.
 

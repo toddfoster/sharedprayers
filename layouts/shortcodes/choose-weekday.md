@@ -12,7 +12,7 @@
 {{/* $season := default ($.Page.Params.season) (.Get 0) */}}
 {{ $office := (.Get 0) }}
 {{ $item := (.Get 1) }}
-{{ $day := $.Page.Params.weekday }}
+{{ $day := default $.Page.Params.weekday (.Get 2) }}
 {{ $rubric := ""  }}
 {{ $path := "" }}
 {{  with first 1 (where (where (where $.Site.Data.choose "office" $office) "item" $item) "day" $day)  }}

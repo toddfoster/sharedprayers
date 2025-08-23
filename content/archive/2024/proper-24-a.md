@@ -34,7 +34,7 @@ tags:
 {{% office/ep/suffragesb %}}
 {{% he/propercollect %}}
 {{% office/ep/collect/sundays %}}
-{{% office/ep/mission %}}
+{{% choose-weekday ep mission %}}
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
 {{% choose-weekday ep beforetheclose %}}
