@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hybrid Holy Week 2021 on Shared Prayers</title>
-    <link>http://localhost:1313/archive/seasons20212022/holyweek/</link>
+    <link>http://www.sharedprayers.net/archive/seasons20212022/holyweek/</link>
     <description>Recent content in Hybrid Holy Week 2021 on Shared Prayers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-      <atom:link href="http://localhost:1313/archive/seasons20212022/holyweek/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://www.sharedprayers.net/archive/seasons20212022/holyweek/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
