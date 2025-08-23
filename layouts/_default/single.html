@@ -28,7 +28,7 @@
     {{ if.Params.bcppage | default false }}<em>according to the Book of Common Prayer (p. {{ .Params.bcppage }})</em>{{ end -}}
   </p>
   <h2 id="share-these-prayers"> Share These Prayers</h2>
-<img id="qr_code" src="{{ printf "/images/qr/%s.png" ( replace ( strings.TrimSuffix ".md" .Page.File ) "_" "" ) }}" alt="{{ .Page.Permalink }}" width="200" />
+<img id="qr_code" src="{{ printf "/images/qr/%s.png" ( replace ( strings.TrimSuffix "/" .Page.RelPermalink ) "_" "" ) }}" alt="{{ .Page.Permalink }}" width="200" />
   <p>Invite someone to scan this QR code to pray with you.</p>
   <br clear="all" />
   <hr />
