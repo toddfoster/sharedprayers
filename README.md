@@ -51,7 +51,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x office/mp/collect - by weekday
 - x office/mp/mission - by weekday
 - x office/mp/suffrages - by weekday
-- office/mp/confession - by weekday
+- x office/mp/confession - by weekday
 - x office/ep/sentence - by season
 - x office/ep/canticle - first/second
 - x office/ep/beforetheclose - weekday
@@ -59,9 +59,9 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x office/ep/mission - weekday
 - x he/penitentialordersentence- by sunday
 - x lent/penitentialordersentence - by sunday
-- office/mp/sentence - by weekday AND sunday
-- office/mp/antiphon - by weekday
-- office/mp/invitatory - by season AND by weekday
+- x office/mp/sentence - by weekday AND sunday
+- x office/mp/antiphon - by weekday
+- x office/mp/invitatory - by season AND by weekday
 - catch up liturgyplans.ods to use new shortcodes
 - x add optional third parameter day to choose-weekly to DRY with choose.md
 

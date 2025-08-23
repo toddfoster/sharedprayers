@@ -50,6 +50,48 @@
     },
     {
         "office": "mp",
+        "item": "invitatory",
+        "day": "advent",
+        "path": "venite"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "easter",
+        "path": "christourpassover"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "epiphany",
+        "path": "jubilate"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "lent",
+        "path": "venite"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "pentecost",
+        "path": "venite"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "proper",
+        "path": "venite"
+    },
+    {
+        "office": "mp",
+        "item": "invitatory",
+        "day": "christmas",
+        "path": "jubilate"
+    },
+    {
+        "office": "mp",
         "item": "confession",
         "day": "monday",
         "rubric" : "BCP 79",

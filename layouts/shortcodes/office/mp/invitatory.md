@@ -26,8 +26,15 @@ as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}*
 **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}
 
-{{ $invitatory := default $season (.Get 1) }}
-{{ if and (eq $season "lent") (eq $.Page.Params.weekday "friday") }}{{ $invitatory = "psalm95" }}{{ end }}
+{{ $invitatory := default "" (.Get 1) }}
+{{ if and (eq $season "lent") (eq $.Page.Params.weekday "friday") }}
+    {{ $invitatory = "psalm95" }}
+{{ end }}
+{{ if eq $invitatory "" }}
+    {{  with first 1 (where (where (where $.Site.Data.choose "office" "mp") "item" "invitatory") "day" $season)  }}
+        {{ $invitatory = (index . 0).path   }}
+    {{ end }}
+{{ end }}
 {{ $invitatory = printf "layouts/shortcodes/office/mp/invitatory/%s.md" $invitatory }}
 {{ readFile $invitatory | safeHTML }}
 
