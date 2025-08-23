@@ -78,7 +78,7 @@ Thanks be to God.
 
 _Collect Proper to the Day_
 
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% collects/20-ForTheSick-covid %}}
 {{% choose mp mission %}}
 

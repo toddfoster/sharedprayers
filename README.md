@@ -47,12 +47,8 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x readings: DRY references and otherwise avoid symlinks
 - x advent/ocomechoices - by sunday
 - x advent/wreathchoices - by sunday
-- office/mp/confession - by weekday
-- office/mp/sentence - by weekday AND sunday
-- office/mp/antiphon - by weekday
 - x office/mp/beforetheclose - by weekday
-- office/mp/collect - by weekday
-- office/mp/invitatory - by season
+- x office/mp/collect - by weekday
 - x office/mp/mission - by weekday
 - x office/mp/suffrages - by weekday
 - office/mp/confession - by weekday
@@ -63,6 +59,9 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x office/ep/mission - weekday
 - x he/penitentialordersentence- by sunday
 - x lent/penitentialordersentence - by sunday
+- office/mp/sentence - by weekday AND sunday
+- office/mp/antiphon - by weekday
+- office/mp/invitatory - by season AND by weekday
 - catch up liturgyplans.ods to use new shortcodes
 - x add optional third parameter day to choose-weekly to DRY with choose.md
 

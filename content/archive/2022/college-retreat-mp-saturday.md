@@ -41,7 +41,7 @@ bcppage: 78ff.
 {{% choose mp suffrages %}}
 {{% office/propercollect "lff2018-elizabeth-of-hungary" %}}
 {{% office/propercollect %}}
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% choose mp mission %}}
 
 ##### Authorized intercessions and thanksgivings may follow.

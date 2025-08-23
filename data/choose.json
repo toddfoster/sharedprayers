@@ -246,6 +246,48 @@
     },
     {
         "office": "mp",
+        "item": "collect",
+        "day": "monday",
+        "path": "office/mp/collect/renewal.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "tuesday",
+        "path": "office/mp/collect/peace.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "wednesday",
+        "path": "office/mp/collect/grace.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "thursday",
+        "path": "office/mp/collect/guidance.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "friday",
+        "path": "office/mp/collect/fridays.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "saturday",
+        "path": "office/mp/collect/saturdays.md"
+    },
+    {
+        "office": "mp",
+        "item": "collect",
+        "day": "sunday",
+        "path": "office/mp/collect/sundays.md"
+    },
+    {
+        "office": "mp",
         "item": "mission",
         "day": "monday",
         "rubric" : "BCP 100",

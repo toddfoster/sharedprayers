@@ -39,7 +39,7 @@ bcppage: 78ff.
 {{% lordsprayer2 %}}
 {{% choose mp suffrages %}}
 {{% office/propercollect %}}
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% choose mp mission %}}
 
 ##### Authorized intercessions and thanksgivings may follow.

@@ -71,7 +71,7 @@ Thanks be to God.
 
 _Collect Proper to the Day_
 
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% office/mp/special-collect/lent %}}
 {{% choose mp mission %}}
 

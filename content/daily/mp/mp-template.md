@@ -121,7 +121,7 @@ Uses front matter to decide day of week; override with parameter
 
 _Collect Proper to the Day_
 
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% comment %}}
 Uses front matter to decide day of week for collect; override with parameter
 Parameter can be name of collect (e.g., guidance)

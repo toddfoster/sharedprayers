@@ -50,7 +50,7 @@ tags:
 {{% he/lordsprayer/2 bcp="97" %}}
 {{% choose mp suffrages %}}
 {{% office/propercollect %}}
-{{% office/mp/collect %}}
+{{% choose mp collect %}}
 {{% choose mp mission %}}
 
 ##### Authorized intercessions and thanksgivings may follow.
