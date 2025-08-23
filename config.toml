@@ -5,6 +5,7 @@ theme = "zen"
 publishDir = "docs"
 pluralizelisttitles = false
 buildfuture = true
+sectionPagesMenu = 'main'
 
 [markup.goldmark.renderer]
 hardWraps = true
@@ -14,7 +15,4 @@ copyright = "CC-SA-4.0"
 favicon = "apple-touch-icon.png"
 realfavicongenerator = true
 jquery = false
-menuInHeader = true
-mobileMenu = true
 mainSections = ""
-

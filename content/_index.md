@@ -1,10 +1,10 @@
 ---
-title: Shared Prayers
+menu: main
+title: Home
+weight: 1
 ---
 
 [Pray the Daily Office](daily/)
-
-**MENU:** [Archive](archive/), [Daily](daily/), [Other](other/), [About](about/)
 
 ------
 
