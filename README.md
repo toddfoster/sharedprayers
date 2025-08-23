@@ -45,35 +45,14 @@ No effort stands alone. I particularly want to recognize important inspirations 
 # Tasks
 
 ### WIP
-- x Remove symlinks as holders of information (no longer supported by hugo)
-- x offices/mp/canticles/first
-- x offices/mp/canticles/second
-- Combine offices/mp/first and office/mp/second
-- x readings: DRY references and otherwise avoid symlinks
-- x advent/ocomechoices - by sunday
-- x advent/wreathchoices - by sunday
-- x office/mp/beforetheclose - by weekday
-- x office/mp/collect - by weekday
-- x office/mp/mission - by weekday
-- x office/mp/suffrages - by weekday
-- x office/mp/confession - by weekday
-- x office/ep/sentence - by season
-- x office/ep/canticle - first/second
-- x office/ep/beforetheclose - weekday
-- x office/ep misc texts
-- x office/ep/mission - weekday
-- x he/penitentialordersentence- by sunday
-- x lent/penitentialordersentence - by sunday
-- x office/mp/sentence - by weekday AND sunday
-- x office/mp/antiphon - by weekday
-- x office/mp/invitatory - by season AND by weekday
-- x catch up liturgyplans.ods to use new shortcodes
-- x add optional third parameter day to choose-weekly to DRY with choose.md
 
 ### URGENT
+- Warning on build
+- The top-level menu disappeared with the updated theme! How to get it back?
 - Update Palm Sunday to take account of liturgical year
 - Update to work with current version of hugo
 - Establish good generic liturgies
+- Combine offices/mp/first and office/mp/second
 
 ### IDEAS
 - provide aliases to bcp/xxx to include by page number
@@ -128,6 +107,9 @@ No effort stands alone. I particularly want to recognize important inspirations 
     - For each season
     - For Major Feasts during each season
 - Full years for each prayer?
+
+### 2025 July
+- x Remove symlinks as holders of information (no longer supported by hugo; big project!)
 
 ### 2022 February
 - x summaries of each week's lesson references for easy cut/paste
