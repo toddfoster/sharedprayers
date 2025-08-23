@@ -7,7 +7,7 @@
 {{ $DEBUG := false }}
 {{ $content := "" }}
 {{ $title := "" }}
-{{ $hymn_function := .Get 0 }}
+{{ $hymn_function := default "" (.Get 0) }}
 {{ $arg := .Get 1 }}
 
 {{ if not $arg }}
@@ -48,10 +48,11 @@
 {{ end }}
 
 {{/* If no title, output argument verbatim */}}
+{{/* TODO: leave out colon if no arguments for function or title */}}
 {{ if $content }}
-### {{ $hymn_function}} Hymn: {{$content }}
+### {{ $hymn_function }} Hymn: {{ $content }}
 {{ else if not $title }}
-### {{ $hymn_function }} Hymn: {{$arg}}
+### {{ $hymn_function }} Hymn: {{ $arg }}
 {{ else }}
 ### {{ $hymn_function }} Hymn: _{{ $title }}_ ({{- $hymnal }} {{ $number -}})
 {{ end }}
