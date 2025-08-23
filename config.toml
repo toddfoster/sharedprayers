@@ -7,12 +7,14 @@ pluralizelisttitles = false
 buildfuture = true
 
 [markup.goldmark.renderer]
-      hardWraps = true
+hardWraps = true
 
 [params]
 copyright = "CC-SA-4.0"
 favicon = "apple-touch-icon.png"
 realfavicongenerator = true
 jquery = false
+menuInHeader = true
 mobileMenu = true
-mainsections = ""
+mainSections = ""
+

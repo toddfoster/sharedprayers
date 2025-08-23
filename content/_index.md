@@ -4,6 +4,8 @@ title: Shared Prayers
 
 [Pray the Daily Office](daily/)
 
+**MENU:** [Archive](archive/), [Daily](daily/), [Other](other/), [About](about/)
+
 ------
 
 **Weekend Liturgies:** 
