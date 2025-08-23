@@ -28,7 +28,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
 <link rel="stylesheet" href="/css/styles.b73c247115fd22d2424d22f2545da0a4e6d4cb414e28a8d02374811122769010.css">
-<link rel="stylesheet" href="/css/mobilemenu.dbbf7de443967fe1d83dce47fb19895d79710b23ccd02b84f54d4d39c37e3d2d.css" media="screen">
 <link rel="stylesheet" href="/css/print.1912ba13950e7434fb50dd14d3951bc7f57bb0c16b4f204158b72f0b3844f7a1.css" media="print">
 
 <script type="application/ld+json">
@@ -51,7 +50,6 @@
 
 <script src="/js/script-early.2d6255816e36e34bd1948dc5c26ede35687a256c4e2e516e0cd75f383a510c6a.js"></script>
 
-<script defer src="/js/mobilemenu.7ce1f75fd1d49cd683a008352ad9001f800349629be01d531a19c02b5a84817b.js"></script>
 <script defer src="/js/script.f2979a93a325fecf9605263bd141398a311c8e23388ed7dcff74f92f7e632866.js"></script>
 
 
@@ -71,31 +69,18 @@
 <a href="/" title="Home" class="header__site-link" rel="home"><span>Shared Prayers</span></a>
 </h1>
 <div class="region header__region">
-<nav class="main-menu" aria-label="Main menu">
-<ul class="flex-inline mx--0">
-</ul>
-</nav>
 </div>
 </header>
 
-<div class="mobile-nav" dir="ltr" hidden>
-  <div class="mobile-nav__cover"></div>
-  <button class="mobile-nav__toggle button" aria-expanded="false" aria-controls="sheet">
-    Menu
-    <svg class="mobile-nav__hamburger" viewBox="0 0 100 100" focusable="false" aria-hidden="true">
-      <rect width="80" height="12" x="10" y="20" rx="5"></rect>
-      <rect width="80" height="12" x="10" y="45" rx="5"></rect>
-      <rect width="80" height="12" x="10" y="70" rx="5"></rect>
-    </svg>
-  </button>
-  <div class="mobile-nav__sheet link-inverted link-nav" id="sheet" aria-hidden="true">
-    <div class="mobile-nav__region"></div>
-    <nav class="mobile-nav__main-menu" aria-label="Main menu">
-    <ul class="mobile-nav__navbar">
-    </ul>
-    </nav>
-  </div>
-</div>
+<nav class="main-menu mx--xs layout__navigation" aria-label="Main menu">
+<ul class="flex-inline mx--0">
+<li><a href="/"><span>Home</span></a></li>
+<li><a href="/daily/"><span>Daily</span></a></li>
+<li><a href="/other/"><span>Other</span></a></li>
+<li><a href="/archive/"><span>Archive</span></a></li>
+<li><a href="/about/" aria-current="page"><span>About</span></a></li>
+</ul>
+</nav>
 <main class="main layout__main">
   <h1 class="title">About</h1>
 <p>Shared Prayers was inspired by an encounter at Forma 2020 where a congregation that regularly meets outdoors hosted Morning Prayers. They handed out pages, but I thought it made sense to let people pray from their phones. My favorite part is that every liturgy has a QR code at top, so anyone who has already loaded the prayers can share with others, e.g., with those who arrive after the service has started. When using Shared Prayers, everyone&rsquo;s an usher!</p>

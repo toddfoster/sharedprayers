@@ -11,7 +11,7 @@
 
 
 <meta property="og:site_name" content="Shared Prayers">
-<meta property="og:title" content="Shared Prayers">
+<meta property="og:title" content="Home">
 <meta property="og:url" content="http://localhost:1313/">
 <meta property="og:type" content="website">
 
@@ -28,7 +28,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
 <link rel="stylesheet" href="/css/styles.css">
-<link rel="stylesheet" href="/css/mobilemenu.css" media="screen">
 <link rel="stylesheet" href="/css/print.css" media="print">
 
 <script type="application/ld+json">
@@ -36,7 +35,7 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "url" : "http://localhost:1313/",
-    "name": "Shared Prayers",
+    "name": "Home",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http://localhost:1313/"
@@ -51,7 +50,6 @@
 
 <script src="/js/script-early.13eca1c44b48885517a4dc79e153a2da63e3825a7a37c271c88558877cb570b5.js"></script>
 
-<script defer src="/js/mobilemenu.91539dcbc30264a42d652fdd6446fb725e2e13cecc3644eab74db3aad1b1d9d2.js"></script>
 <script defer src="/js/script.5ed52cdd956021fd7194109b25dbc5cbe93a1085461b9f29b1284df94c19481c.js"></script>
 
 
@@ -71,31 +69,18 @@
 <a href="/" title="Home" class="header__site-link" rel="home"><span>Shared Prayers</span></a>
 </h1>
 <div class="region header__region">
-<nav class="main-menu" aria-label="Main menu">
-<ul class="flex-inline mx--0">
-</ul>
-</nav>
 </div>
 </header>
 
-<div class="mobile-nav" dir="ltr" hidden>
-  <div class="mobile-nav__cover"></div>
-  <button class="mobile-nav__toggle button" aria-expanded="false" aria-controls="sheet">
-    Menu
-    <svg class="mobile-nav__hamburger" viewBox="0 0 100 100" focusable="false" aria-hidden="true">
-      <rect width="80" height="12" x="10" y="20" rx="5"></rect>
-      <rect width="80" height="12" x="10" y="45" rx="5"></rect>
-      <rect width="80" height="12" x="10" y="70" rx="5"></rect>
-    </svg>
-  </button>
-  <div class="mobile-nav__sheet link-inverted link-nav" id="sheet" aria-hidden="true">
-    <div class="mobile-nav__region"></div>
-    <nav class="mobile-nav__main-menu" aria-label="Main menu">
-    <ul class="mobile-nav__navbar">
-    </ul>
-    </nav>
-  </div>
-</div>
+<nav class="main-menu mx--xs layout__navigation" aria-label="Main menu">
+<ul class="flex-inline mx--0">
+<li><a href="/" aria-current="page"><span>Home</span></a></li>
+<li><a href="/daily/"><span>Daily</span></a></li>
+<li><a href="/other/"><span>Other</span></a></li>
+<li><a href="/archive/"><span>Archive</span></a></li>
+<li><a href="/about/"><span>About</span></a></li>
+</ul>
+</nav>
 <main class="main layout__main">
 <p><a href="daily/">Pray the Daily Office</a></p>
 <hr>
