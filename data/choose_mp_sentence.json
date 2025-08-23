@@ -1,0 +1,295 @@
+[
+    {
+        "season": "advent",
+        "day": "sunday",
+        "path": "advent1.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "wednesday",
+        "path": "advent1.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "saturday",
+        "path": "advent1.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "monday",
+        "path": "advent2.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "thursday",
+        "path": "advent2.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "tuesday",
+        "path": "advent3.md"
+    },
+
+    {
+        "season": "advent",
+        "day": "friday",
+        "path": "advent3.md"
+    },
+    {
+        "season": "christmas",
+        "day": "sunday",
+        "path": "xmas1.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "monday",
+        "path": "xmas2.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "tuesday",
+        "path": "xmas1.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "wednesday",
+        "path": "xmas2.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "thursday",
+        "path": "xmas1.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "friday",
+        "path": "xmas2.md"
+    },
+
+    {
+        "season": "christmas",
+        "day": "saturday",
+        "path": "xmas1.md"
+    },
+    {
+        "season": "epiphany",
+        "day": "sunday",
+        "path": "epiphany1.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "monday",
+        "path": "epiphany2.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "tuesday",
+        "path": "epiphany3.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "wednesday",
+        "path": "epiphany1.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "thursday",
+        "path": "epiphany2.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "friday",
+        "path": "epiphany3.md"
+    },
+
+    {
+        "season": "epiphany",
+        "day": "saturday",
+        "path": "epiphany1.md"
+    },
+    {
+        "season": "lent",
+        "day": "sunday",
+        "path": "lent1.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "monday",
+        "path": "lent1.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "tuesday",
+        "path": "lent2.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "wednesday",
+        "path": "lent3.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "thursday",
+        "path": "lent4.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "friday",
+        "path": "lent5.md"
+    },
+
+    {
+        "season": "lent",
+        "day": "saturday",
+        "path": "lent5.md"
+    },
+    {
+        "season": "holyweek",
+        "day": "sunday",
+        "path": "holyweek1.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "monday",
+        "path": "holyweek1.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "tuesday",
+        "path": "holyweek1.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "wednesday",
+        "path": "holyweek2.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "thursday",
+        "path": "holyweek2.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "friday",
+        "path": "holyweek2.md"
+    },
+
+    {
+        "season": "holyweek",
+        "day": "saturday",
+        "path": "holyweek2.md"
+    },
+    {
+        "season": "easter",
+        "day": "sunday",
+        "path": "easter1.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "monday",
+        "path": "easter1.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "tuesday",
+        "path": "easter2.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "wednesday",
+        "path": "easter3.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "thursday",
+        "path": "easter4.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "friday",
+        "path": "easter5.md"
+    },
+
+    {
+        "season": "easter",
+        "day": "saturday",
+        "path": "easter6.md"
+    },
+    {
+        "season": "trinity",
+        "day": "sunday",
+        "path": "trinity.md"
+    },
+    {
+        "season": "any",
+        "day": "sunday",
+        "path": "any1.md"
+    },
+
+    {
+        "season": "any",
+        "day": "monday",
+        "path": "any2.md"
+    },
+
+    {
+        "season": "any",
+        "day": "tuesday",
+        "path": "any3.md"
+    },
+
+    {
+        "season": "any",
+        "day": "wednesday",
+        "path": "any4.md"
+    },
+
+    {
+        "season": "any",
+        "day": "thursday",
+        "path": "any5.md"
+    },
+
+    {
+        "season": "any",
+        "day": "friday",
+        "path": "any6.md"
+    },
+
+    {
+        "season": "any",
+        "day": "saturday",
+        "path": "any7.md"
+    }
+]
+
