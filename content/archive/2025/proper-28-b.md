@@ -8,7 +8,7 @@ weekday: sunday
 rite: Evening Prayer
 bcppage: 115ff.
 ---
-{{% choose-season ep sentence %}}
+{{% choose ep sentence %}}
 {{% choose ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}

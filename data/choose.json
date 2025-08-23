@@ -595,6 +595,55 @@
         "path": "office/ep/sentence/2.md"
     },
     {
+        "office": "ep",
+        "item": "sentence",
+        "day": "monday",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/3.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "tuesday",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/4.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "wednesday",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/5.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "thursday",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/6.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "friday",
+        "rubric" : "BCP 116",
+        "path": "office/ep/sentence/7.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "saturday",
+        "rubric" : "BCP 116",
+        "path": "office/ep/sentence/8.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "sunday",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/1.md"
+    },
+    {
         "office": "he",
         "item": "ocome",
         "day": "first-sunday-of-advent",
