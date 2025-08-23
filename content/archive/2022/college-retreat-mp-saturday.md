@@ -38,7 +38,7 @@ bcppage: 78ff.
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/mp/suffrages %}}
+{{% choose mp suffrages %}}
 {{% office/propercollect "lff2018-elizabeth-of-hungary" %}}
 {{% office/propercollect %}}
 {{% office/mp/collect %}}

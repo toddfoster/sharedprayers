@@ -48,7 +48,7 @@ tags:
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% he/lordsprayer/2 bcp="97" %}}
-{{% office/mp/suffrages %}}
+{{% choose mp suffrages %}}
 {{% office/propercollect %}}
 {{% office/mp/collect %}}
 {{% office/mp/mission %}}

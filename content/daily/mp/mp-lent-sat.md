@@ -67,7 +67,7 @@ Thanks be to God.
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/mp/suffrages %}}
+{{% choose mp suffrages %}}
 
 _Collect Proper to the Day_
 

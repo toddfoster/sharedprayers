@@ -69,7 +69,7 @@ The Word of the Lord.
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/mp/suffrages %}}
+{{% choose mp suffrages %}}
 
 _Collect Proper to the Day_
 

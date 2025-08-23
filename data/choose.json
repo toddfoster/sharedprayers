@@ -99,6 +99,55 @@
     },
     {
         "office": "mp",
+        "item": "suffrages",
+        "day": "monday",
+        "rubric" : "BCP 97",
+        "path": "office/mp/suffrages/a.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "tuesday",
+        "rubric" : "BCP 98",
+        "path": "office/mp/suffrages/b.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "wednesday",
+        "rubric" : "BCP 97",
+        "path": "office/mp/suffrages/a.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "thursday",
+        "rubric" : "BCP 98",
+        "path": "office/mp/suffrages/b.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "friday",
+        "rubric" : "BCP 97",
+        "path": "office/mp/suffrages/a.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "saturday",
+        "rubric" : "BCP 98",
+        "path": "office/mp/suffrages/b.md"
+    },
+    {
+        "office": "mp",
+        "item": "suffrages",
+        "day": "sunday",
+        "rubric" : "BCP 97",
+        "path": "office/mp/suffrages/a.md"
+    },
+    {
+        "office": "mp",
         "item": "beforetheclose",
         "day": "monday",
         "rubric" : "BCP 79",

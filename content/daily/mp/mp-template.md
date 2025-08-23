@@ -114,7 +114,7 @@ Thanks be to God.
 
 {{% lordsprayer2 %}}
 
-{{% office/mp/suffrages %}}
+{{% choose mp suffrages %}}
 {{% comment %}}
 Uses front matter to decide day of week; override with parameter
 {{% /comment %}}
