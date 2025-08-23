@@ -87,7 +87,7 @@ _At any Time_
 {{% office/mp/antiphon/advent %}}
 
 ##### On the Twelve Days of Christmas
-{{% office/mp/antiphon/xmas %}}
+{{% office/mp/antiphon/christmas %}}
 
 ##### From the Epiphany through the Baptism of Christ, and on the Feasts of the Transfiguration and Holy Cross
 {{% office/mp/antiphon/epiphany %}}
