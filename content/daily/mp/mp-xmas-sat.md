@@ -80,4 +80,4 @@ _Collect Proper to the Day_
 
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}

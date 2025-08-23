@@ -56,5 +56,5 @@ tags:
 {{% office/ep/prayer-chrysostom %}}
 ##### pb
 {{% office/ep/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% nrsv %}}

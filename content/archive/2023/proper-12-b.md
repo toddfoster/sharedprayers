@@ -42,7 +42,7 @@ tags:
 ##### Authorized intercessions and thanksgivings may follow.
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% hymn Processional "h-488" %}}
 {{% nrsv %}}
 

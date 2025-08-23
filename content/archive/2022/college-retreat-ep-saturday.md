@@ -48,5 +48,5 @@ bcppage: 115ff.
 {{% office/ep/prayer-chrysostom %}}
 ##### pb
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% nrsv %}}

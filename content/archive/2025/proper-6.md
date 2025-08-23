@@ -36,6 +36,6 @@ bcppage: 115ff.
 ##### Authorized intercessions and thanksgivings may follow.
 {{% choose ep beforetheclose %}}
 {{% office/ep/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% nrsv %}}
 

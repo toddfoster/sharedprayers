@@ -156,7 +156,7 @@ add the Alleluias for Easter, or
 override with parameter for name of season.
 {{% /comment %}}
 
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% comment %}}
 Uses front matter to decide day of week for the conclusion.
 override with parameter

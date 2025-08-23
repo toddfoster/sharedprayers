@@ -45,5 +45,5 @@ weekday: monday
 
 {{% office/mp/beforetheclose/generalthanksgiving %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 {{% nrsv %}}

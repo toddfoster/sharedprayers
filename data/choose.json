@@ -336,6 +336,48 @@
         "path": "office/mp/mission/bywhosespirit.md"
     },
     {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "monday",
+        "path": "office/mp/conclusion/thegrace.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "tuesday",
+        "path": "office/mp/conclusion/maythegod.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "wednesday",
+        "path": "office/mp/conclusion/glorytogod.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "thursday",
+        "path": "office/mp/conclusion/thegrace.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "friday",
+        "path": "office/mp/conclusion/maythegod.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "saturday",
+        "path": "office/mp/conclusion/glorytogod.md"
+    },
+    {
+        "office": "mp",
+        "item": "conclusion",
+        "day": "sunday",
+        "path": "office/mp/conclusion/glorytogod.md"
+    },
+    {
         "office": "ep",
         "item": "mission",
         "day": "monday",

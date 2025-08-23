@@ -52,4 +52,4 @@ bcppage: 78ff.
 
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}

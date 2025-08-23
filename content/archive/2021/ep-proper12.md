@@ -54,4 +54,4 @@ proper: proper-12
 
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}

@@ -50,4 +50,4 @@ proper: proper-29-christ-the-king
 ##### pb
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}

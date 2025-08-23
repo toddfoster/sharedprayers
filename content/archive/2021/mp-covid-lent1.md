@@ -99,6 +99,6 @@ Now after John was arrested, Jesus came to Galilee, proclaiming the good news of
 
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
-{{% office/mp/conclusion %}}
+{{% choose mp conclusion %}}
 
 {{% nrsv %}}
