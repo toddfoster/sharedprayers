@@ -8,7 +8,7 @@ lectionaryyear: b
 proper: proper-29-christ-the-king
 ---
 ##### pb
-{{% office/ep/sentence %}}
+{{% choose-season ep sentence %}}
 {{% choose ep confession %}}
 ##### pb
 {{% office/ep/invitatory  %}}

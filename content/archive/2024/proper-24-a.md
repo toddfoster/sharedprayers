@@ -11,7 +11,7 @@ tags:
 - StT
 - weekend
 ---
-{{% office/ep/sentence %}}
+{{% choose-season ep sentence %}}
 {{% choose ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}

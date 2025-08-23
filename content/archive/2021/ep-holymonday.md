@@ -6,7 +6,7 @@ season: lent
 bcppage: 115ff.
 weekday: monday
 ---
-{{% office/ep/sentence "1" %}}
+{{% choose-season ep sentence advent %}}
 {{% he/confession %}}
 {{% office/ep/invitatory %}}
 

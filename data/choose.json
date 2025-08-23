@@ -245,6 +245,83 @@
         "path": "office/ep/mission/wholeheavens.md"
     },
     {
+        "office": "ep",
+        "item": "sentence",
+        "day": "advent",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/1.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "any",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/6.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "ascension",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/5.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "easter",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/4.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "epiphany",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/3.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "holyweek",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/2.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "lent",
+        "rubric" : "BCP 116",
+        "path": "office/ep/sentence/7.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "pentecost",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/6.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "proper",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/6.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "trinity",
+        "rubric" : "BCP 116",
+        "path": "office/ep/sentence/8.md"
+    },
+    {
+        "office": "ep",
+        "item": "sentence",
+        "day": "xmas",
+        "rubric" : "BCP 115",
+        "path": "office/ep/sentence/2.md"
+    },
+    {
         "office": "he",
         "item": "ocome",
         "day": "first-sunday-of-advent",

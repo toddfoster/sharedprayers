@@ -9,7 +9,7 @@ proper: proper-10
 
 ---
 
-{{% office/ep/sentence %}}
+{{% choose-season ep sentence %}}
 {{% choose ep confession %}}
 {{% office/ep/invitatory  %}}
 

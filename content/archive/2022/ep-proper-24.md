@@ -9,7 +9,7 @@ rite: Evening Prayer
 bcppage: 115ff.
 ---
 
-{{% office/ep/sentence "1" %}}
+{{% choose-season ep sentence advent %}}
 ##### pb
 {{% choose ep confession %}}
 

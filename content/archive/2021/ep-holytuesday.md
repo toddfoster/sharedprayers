@@ -6,7 +6,7 @@ season: lent
 bcppage: 115ff.
 weekday: tuesday
 ---
-{{% office/ep/sentence "4" %}}
+{{% choose-season ep sentence easter %}}
 {{% he/confession %}}
 {{% office/ep/invitatory %}}
 {{% lesson "psalm" "Psalm 71:1-14" /%}}

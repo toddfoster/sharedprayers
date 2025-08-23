@@ -8,7 +8,7 @@ weekday: friday
 rite: Evening Prayer
 bcppage: 115ff.
 ---
-{{% office/ep/sentence %}}
+{{% choose-season ep sentence %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm-sac" /%}}

@@ -8,7 +8,7 @@ bcppage: 115ff.
 weekday: sunday
 ---
 
-{{% office/ep/sentence "1" %}}
+{{% choose-season ep sentence advent %}}
 {{% office/ep/invitatory %}}
 
 {{% lesson "psalm" /%}}
