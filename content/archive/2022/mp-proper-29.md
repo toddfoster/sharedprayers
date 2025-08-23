@@ -21,7 +21,6 @@ tags:
 ##### pb
 {{% office/psalmintro %}}
 {{% lesson psalm /%}}
-{{% comment office/psalmgloria %}}
 ##### pb
 # The Lessons
 {{% lesson first /%}}

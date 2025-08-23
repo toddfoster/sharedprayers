@@ -1,6 +1,6 @@
 ---
 title: Church in the Woods / Holy Eucharist (Proper 19)
-date: 2022-09-8
+date: 2022-09-08
 lectionaryyear: c
 proper: proper-19
 season: pentecost

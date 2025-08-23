@@ -1,6 +1,6 @@
 ---
 title: Advent Vespers - St. Nicholas
-date: 2021-12-7
+date: 2021-12-07
 proper: st-nicholas
 bcppage: 109
 ---

@@ -1,6 +1,6 @@
 ---
 title: Holy Eucharist - Feast of Thurgood Marshall, Lawyer and Jurist
-date: 2021-050-17
+date: 2021-05-17
 bcppage: 355ff.
 season: ascension
 ---

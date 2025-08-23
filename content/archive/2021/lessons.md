@@ -1,6 +1,6 @@
 ---
 title: Lessons (October, November 2021)
-date: 2021-0930
+date: 2021-09-30
 lectionaryyear: b
 ---
 ##### pb
