@@ -2,21 +2,17 @@
 
 This is a [static site](https://www.sharedprayers.net) to share liturgies for prayer, generally based on the [Book of Common Prayer](https://www.episcopalchurch.org/what-we-believe/book-common-prayer/) currently in use by [The Episcopal Church](https://www.episcopalchurch.org/). The top of each liturgy can contain a QR code, enabling people to share with one another by displaying the code and allowing someone else to scan it on their own smartphone.
 
-This site was originally composed during the COVID-19 pandemic for use both remotely and without requiring physical contact between people and objects when we began gathering (tentatively and outdoors). 
+This site was originally composed during the COVID-19 pandemic for use both remotely and without requiring physical contact between people and objects when we began gathering (tentatively and outdoors).  It was inspired by the [Church of the Woods](https://www.churchofthewoods.church/), representatives of whom led daily Morning Prayer outdoors at Forma 2020 in Atlanta (only weeks before COVID locked us down!).
 
 [See the site!](https://www.sharedprayers.net)
 
 # Prerequisites
 "It runs on my box!"
 
-**WARNING** In 2024, SharedPrayers makes _extensive_ use of file-system symlinks. These [were deprecated](https://discourse.gohugo.io/t/filesystem-soft-links-broken/52781) in v.0.123.0. So, without extensive re-work, SharedPrayer is now stuck at hugo v.0.122.0. It won't build with anything newer.
-
-Fortunately, hugo is just building a static website. So there's no danger to deploying a website built with old hugo code. It just lacks newer features/bug-fixes for the build system. But this isn't just technical debt; for SharedPrayers it's a technical mortgage! I installed the needed version of hugo with `go install github.com/gohugoio/hugo@v0.122.0`. Then make sure it's in your path and you're running the right version. (I removed the system-installed hugo.)
-
 At a minimum you're going to want:
-- [hugo](https://gohugo.io/)
+- [hugo](https://gohugo.io/) ("extended" version seems to be the default)
 - [python](https://www.python.org/)
-- [myqr](https://pypi.org/project/MyQR/): a Python library to generate QR codes
+- [amzqr](https://github.com/x-hw/amazing-qr): a Python library to generate QR codes
 - [pyexcel_ods3](https://pypi.org/project/pyexcel-ods3/): a python library to parse LibeCalc files
 - [LibreOffice](https://www.libreoffice.org/) is my tool of choice for editing spreadsheets. Why are you still paying the Microsoft tax? Especially now that they want to sell you an annual subscription. LibreOffice (and Open/Star Office before it) have been my go-to office suite for nearly 30 years!
 
@@ -33,8 +29,7 @@ At a minimum you're going to want:
 - To update: `git submodule update --remote --merge`
 
 # Tags
-There's a tags field that can be filled in, and picked up by index pages to automatically include select pages. The way I include them 
-`index/listliturgies "StT weekend"` will pick up pages containing _all_ the specified tags for the current month _or_ the first week of the subsequent month. Because that's how I like to populate my indices.
+There's a tags field that can be filled in, and picked up by index pages to automatically include select pages. The way I include them `index/listliturgies "StT weekend"` will pick up pages containing _all_ the specified tags for the current month _or_ the first week of the subsequent month. Because that's how I like to populate my indices.
 
 # Acknowledgements
 No effort stands alone. I particularly want to recognize important inspirations and data sources specific to this project:
@@ -48,11 +43,11 @@ No effort stands alone. I particularly want to recognize important inspirations 
 
 ### URGENT
 - Warning on build
+- Updated theme changed text rendering: polish my fit with it (css, ¿config linebreaks?)
 - The top-level menu disappeared with the updated theme! How to get it back?
-- Update Palm Sunday to take account of liturgical year
-- Update to work with current version of hugo
-- Establish good generic liturgies
 - Combine offices/mp/first and office/mp/second
+- Update Palm Sunday to take account of liturgical year
+- Establish good generic liturgies
 
 ### IDEAS
 - provide aliases to bcp/xxx to include by page number
@@ -63,9 +58,6 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - add tags to filenames created by ods2sp
 - update lff2json to remove accents from slugs
 - regenerate & re-import lff2018keys.csv into liturgy plans
-- x add lff2018 feasts to template spreadsheet
-- x use lff2018.json to generate collects, lessons from shortcodes
-- x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 - Psalms  page to access psalms individually
 - ods2sp: only regenerate pages older than spreadsheet
 - DRY references to POTUS, make easier to update (or find authoritative source!)
@@ -76,7 +68,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - (python) generate monthly home pages for the year; quick script to copy into index.html, and update archive/he-current.md to forward to the current week
 - (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
  - (python) Daily Office RCL: begin by just drawing down from https://www.commonprayeronline.org/api/daily_summary/en/2022-2-16.json
-- Add proper prefaces to Prayer A, Prayer B using bcpcollects
+- Add proper prefaces to Prayer A, Prayer B using bcpcollects -- or leave at presider's option!
 - Calendar interface simple range exercises
 - Liturgical colors
 - rename hymns/* to match h- l- wlp- convention of shortcode hymns
@@ -110,6 +102,12 @@ No effort stands alone. I particularly want to recognize important inspirations 
 
 ### 2025 July
 - x Remove symlinks as holders of information (no longer supported by hugo; big project!)
+- x Update to work with current version of hugo
+
+## 2022-2024
+- x add lff2018 feasts to template spreadsheet
+- x use lff2018.json to generate collects, lessons from shortcodes
+- x provide options & defaults for page numbers, hymn numbers for sanctus, Lord's prayer, fraction
 
 ### 2022 February
 - x summaries of each week's lesson references for easy cut/paste
