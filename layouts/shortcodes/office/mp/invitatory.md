@@ -17,8 +17,11 @@ as it was in the beginning, is now, and will be for ever.  Amen.{{ $alleluia }}*
 {{ $antiphon := printf "layouts/shortcodes/office/mp/antiphon/%s.md" $season }}
 {{ if not (eq $season "easter") }}
 {{ if or (not (fileExists $antiphon)) (eq $season "other") (eq $season "proper") }}
-    {{ $antiphon = printf "layouts/shortcodes/office/mp/antiphon/choose/other/%s.md" $day }}
-  {{ end }}
+    {{  with first 1 (where (where (where $.Site.Data.choose "office" "mp") "item" "antiphon") "day" $day)  }}
+        {{ $path := default "" (index . 0).path   }}
+        {{ $antiphon = printf "layouts/shortcodes/office/mp/antiphon/%s" $path }}
+    {{ end }}
+{{ end }}
 ##### **People:**
 **{{ readFile $antiphon | replaceRE "\n" "" | safeHTML }}**
 {{ end }}

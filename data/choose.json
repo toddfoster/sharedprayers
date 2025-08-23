@@ -1,6 +1,55 @@
 [
     {
         "office": "mp",
+        "item": "antiphon",
+        "day": "monday",
+        "rubric" : "BCP 79",
+        "path": "other1.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "tuesday",
+        "rubric" : "BCP 79",
+        "path": "other1.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "wednesday",
+        "rubric" : "BCP 79",
+        "path": "other2.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "thursday",
+        "rubric" : "BCP 79",
+        "path": "other2.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "friday",
+        "rubric" : "BCP 79",
+        "path": "other3.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "saturday",
+        "rubric" : "BCP 79",
+        "path": "other3.md"
+    },
+    {
+        "office": "mp",
+        "item": "antiphon",
+        "day": "sunday",
+        "rubric" : "BCP 79",
+        "path": "other1.md"
+    },
+    {
+        "office": "mp",
         "item": "confession",
         "day": "monday",
         "rubric" : "BCP 79",
