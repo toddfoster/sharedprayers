@@ -27,6 +27,11 @@ At a minimum you're going to want:
 - Run `hugo` to build static pages
 - Push to [github](https://github.com/toddfoster/sharedprayers) (or your host of choice) to deploy
 
+# Theme
+- I'm using the [Zen theme](https://github.com/frjo/hugo-theme-zen?tab=readme-ov-file#configuration)
+- To install: `git submodule add https://github.com/frjo/hugo-theme-zen.git themes/zen`
+- To update: `git submodule update --remote --merge`
+
 # Tags
 There's a tags field that can be filled in, and picked up by index pages to automatically include select pages. The way I include them 
 `index/listliturgies "StT weekend"` will pick up pages containing _all_ the specified tags for the current month _or_ the first week of the subsequent month. Because that's how I like to populate my indices.
@@ -40,7 +45,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 # Tasks
 
 ### WIP
-- Remove symlinks as holders of information (no longer supported by hugo)
+- x Remove symlinks as holders of information (no longer supported by hugo)
 - x offices/mp/canticles/first
 - x offices/mp/canticles/second
 - Combine offices/mp/first and office/mp/second
@@ -62,7 +67,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - x office/mp/sentence - by weekday AND sunday
 - x office/mp/antiphon - by weekday
 - x office/mp/invitatory - by season AND by weekday
-- catch up liturgyplans.ods to use new shortcodes
+- x catch up liturgyplans.ods to use new shortcodes
 - x add optional third parameter day to choose-weekly to DRY with choose.md
 
 ### URGENT
