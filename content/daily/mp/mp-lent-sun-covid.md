@@ -80,7 +80,7 @@ _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
 {{% collects/20-ForTheSick-covid %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 
 ##### Here may be sung a hymn or anthem.
 

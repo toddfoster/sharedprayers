@@ -42,7 +42,7 @@ bcppage: 78ff.
 {{% office/propercollect "lff2018-elizabeth-of-hungary" %}}
 {{% office/propercollect %}}
 {{% office/mp/collect %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 
 ##### Authorized intercessions and thanksgivings may follow.
 

@@ -211,9 +211,9 @@ _Collect Proper to the Day_
 {{% office/mp/collect/grace %}}
 {{% office/mp/collect/guidance %}}
 
-{{% office/mp/mission/1 %}}
-{{% office/mp/mission/2 %}}
-{{% office/mp/mission/3 %}}
+{{% choose mp mission monday %}}
+{{% choose mp mission wednesday %}}
+{{% choose mp mission friday %}}
 
 ##### Here may be sung a hymn or anthem.
 

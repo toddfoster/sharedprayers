@@ -46,7 +46,7 @@ bcppage: 78ff.
 {{% choose mp suffrages %}}
 {{% office/propercollect %}}
 {{% office/mp/collect %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 
 ##### Authorized intercessions and thanksgivings may follow.
 

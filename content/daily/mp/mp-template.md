@@ -128,7 +128,7 @@ Parameter can be name of collect (e.g., guidance)
 or point to day of week (e.g., "choose/sunday")
 {{% /comment %}}
 
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 {{% comment %}}
 Uses front matter to decide day of week for prayer for mission
 override with parameter

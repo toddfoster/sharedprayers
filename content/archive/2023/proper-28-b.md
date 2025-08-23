@@ -34,7 +34,7 @@ tags:
 {{% choose mp suffrages %}}
 {{% he/propercollect %}}
 {{% office/mp/collect/sundays %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 ##### Authorized intercessions and thanksgivings may follow.
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}

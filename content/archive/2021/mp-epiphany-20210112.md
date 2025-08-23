@@ -211,7 +211,7 @@ _Collect Proper to the Day_
 
 {{% collects/17-ForTheNation %}}
 
-{{% office/mp/mission/1 %}}
+{{% choose mp mission monday %}}
 
 ##### Here may be sung a hymn or anthem.
 

@@ -102,7 +102,7 @@ _Collect Proper to the Day_
 
 {{% collects/21-socialjustice %}}
 
-{{% office/mp/mission/1 %}}
+{{% choose mp mission monday %}}
 
 ##### Here may be sung a hymn or anthem.
 

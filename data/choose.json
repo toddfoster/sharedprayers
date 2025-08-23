@@ -245,6 +245,55 @@
         "path": "office/mp/beforetheclose/prayer-chrysostom.md"
     },
     {
+        "office": "mp",
+        "item": "mission",
+        "day": "monday",
+        "rubric" : "BCP 100",
+        "path": "office/mp/mission/bywhosespirit.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "tuesday",
+        "rubric" : "BCP 100",
+        "path": "office/mp/mission/bywhosespirit.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "wednesday",
+        "rubric" : "BCP 100",
+        "path": "office/mp/mission/youhavemade.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "thursday",
+        "rubric" : "BCP 100",
+        "path": "office/mp/mission/youhavemade.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "friday",
+        "rubric" : "BCP 101",
+        "path": "office/mp/mission/youstretchedout.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "saturday",
+        "rubric" : "BCP 101",
+        "path": "office/mp/mission/youstretchedout.md"
+    },
+    {
+        "office": "mp",
+        "item": "mission",
+        "day": "sunday",
+        "rubric" : "BCP 100",
+        "path": "office/mp/mission/bywhosespirit.md"
+    },
+    {
         "office": "ep",
         "item": "mission",
         "day": "monday",

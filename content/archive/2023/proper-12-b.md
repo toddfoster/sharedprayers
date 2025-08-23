@@ -37,7 +37,7 @@ tags:
 {{% choose mp suffrages %}}
 {{% he/propercollect %}}
 {{% office/mp/collect/sundays %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 {{% hymn "" h-711 "  " %}}
 ##### Authorized intercessions and thanksgivings may follow.
 {{% choose mp beforetheclose %}}

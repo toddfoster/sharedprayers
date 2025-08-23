@@ -73,7 +73,7 @@ _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
 {{% office/mp/special-collect/lent %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 
 ##### Here may be sung a hymn or anthem.
 

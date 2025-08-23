@@ -74,7 +74,7 @@ The Word of the Lord.
 _Collect Proper to the Day_
 
 {{% office/mp/collect %}}
-{{% office/mp/mission %}}
+{{% choose mp mission %}}
 
 ##### Here may be sung a hymn or anthem.
 

@@ -91,7 +91,7 @@ Now after John was arrested, Jesus came to Galilee, proclaiming the good news of
 
 {{% collects/20-ForTheSick-covid %}}
 
-{{% office/mp/mission/1 %}}
+{{% choose mp mission monday %}}
 
 {{% lent/greatlitany %}}
 

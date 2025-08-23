@@ -195,8 +195,8 @@ _Collect Proper to the Day_
 
 {{% collects/20-ForTheSick-covid %}}
 
-{{% office/mp/mission/1-unison %}}
-
+{{% choose mp mission monday %}}
+ 
 ##### Here may be sung a hymn or anthem.
 
 ##### Intercessions and thanksgivings may follow.
