@@ -10,7 +10,7 @@ proper: proper-10
 ---
 
 {{% office/ep/sentence %}}
-{{% choose-weekday ep confession %}}
+{{% choose ep confession %}}
 {{% office/ep/invitatory  %}}
 
 {{% lesson "psalm" /%}}
@@ -47,11 +47,11 @@ proper: proper-10
 
 {{% office/ep/collect/sundays %}}
 {{% collects/20-ForTheSick-covid %}}
-{{% choose-weekday ep mission %}}
+{{% choose ep mission %}}
 
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% choose-weekday mp beforetheclose %}}
+{{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

@@ -9,7 +9,7 @@ weekday: friday
 {{% office/lessonssource %}}
 
 {{% office/mp/sentence %}}
-{{% choose-weekday mp confession %}}
+{{% choose mp confession %}}
 {{% office/mp/invitatory  %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm" /%}}
@@ -79,6 +79,6 @@ _Collect Proper to the Day_
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% choose-weekday mp beforetheclose %}}
+{{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}

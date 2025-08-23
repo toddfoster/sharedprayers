@@ -1,9 +1,10 @@
-{{/* choose 0=office 1=item 2=day  */}}
+{{/* choose-weekday 0=office 1=item */}}
 {{/* ----------------------------------------------- */}}
 {{/* Parts of liturgy that change a lot can be encoded in json for */}}
 {{/* easy reference. Returned record may contain: */}}
 {{/* rubric (optional text to be included) */}}
 {{/* path (path to .md file to include */}}
+{{/* Get day from $.Page.Params.weekday */}}
 {{/* ----------------------------------------------- */}}
 {{ $DEBUG := false }}
 {{/* ----------------------------------------------- */}}
@@ -11,7 +12,7 @@
 {{/* $season := default ($.Page.Params.season) (.Get 0) */}}
 {{ $office := (.Get 0) }}
 {{ $item := (.Get 1) }}
-{{ $day := (.Get 2) }}
+{{ $day := default $.Page.Params.weekday (.Get 2) }}
 {{ $rubric := ""  }}
 {{ $path := "" }}
 {{  with first 1 (where (where (where $.Site.Data.choose "office" $office) "item" $item) "day" $day)  }}

@@ -60,11 +60,11 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - office/ep/canticle - first/second
 - x office/ep/beforetheclose - weekday
 - office/ep misc texts
-- office/ep/mission - weekday
+- x office/ep/mission - weekday
 - x he/penitentialordersentence- by sunday
 - x lent/penitentialordersentence - by sunday
 - catch up liturgyplans to use new shortcodes
-- add optional third parameter day to choose-weekly to DRY with choose.md
+- x add optional third parameter day to choose-weekly to DRY with choose.md
 
 ### URGENT
 - Update Palm Sunday to take account of liturgical year

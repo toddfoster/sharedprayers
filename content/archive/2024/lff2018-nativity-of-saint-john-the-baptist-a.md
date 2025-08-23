@@ -12,7 +12,7 @@ tags:
 - weekday
 ---
 {{% office/ep/sentence %}}
-{{% choose-weekday ep confession %}}
+{{% choose ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm-sac" /%}}
@@ -34,10 +34,10 @@ tags:
 {{% office/ep/suffragesb %}}
 {{% he/propercollect %}}
 {{% office/ep/collect/sundays %}}
-{{% choose-weekday ep mission %}}
+{{% choose ep mission %}}
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
-{{% choose-weekday ep beforetheclose %}}
+{{% choose ep beforetheclose %}}
 {{% office/ep/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

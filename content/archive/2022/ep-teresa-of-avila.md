@@ -11,7 +11,7 @@ bcppage: 117ff.
 
 {{% office/ep/sentence %}}
 
-{{% choose-weekday ep confession %}}
+{{% choose ep confession %}}
 
 {{% office/ep/invitatory %}}
 

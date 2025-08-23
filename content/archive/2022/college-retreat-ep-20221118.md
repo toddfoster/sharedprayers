@@ -11,7 +11,7 @@ bcppage: 115ff.
 
 {{% office/ep/sentence %}}
 ##### pb
-{{% choose-weekday ep confession %}}
+{{% choose ep confession %}}
 
 {{% office/ep/invitatory "pentecost" %}}
 
@@ -47,7 +47,7 @@ bcppage: 115ff.
 {{% office/ep/suffragesb %}}
 {{% office/propercollect %}}
 {{% office/ep/collect/presence %}}
-{{% choose-weekday ep mission %}}
+{{% choose ep mission %}}
 ##### Intercessions and thanksgivings may follow.
 {{% office/ep/prayer-chrysostom %}}
 ##### pb

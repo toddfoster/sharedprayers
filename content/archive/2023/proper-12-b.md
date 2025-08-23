@@ -13,7 +13,7 @@ tags:
 ---
 {{% hymn Entrance "h-551" %}}
 {{% office/mp/sentence %}}
-{{% choose-weekday mp confession %}}
+{{% choose mp confession %}}
 #### Hymnal 377
 {{% office/mp/invitatory/jubilate %}}
 {{% office/psalmintro %}}
@@ -40,7 +40,7 @@ tags:
 {{% office/mp/mission %}}
 {{% hymn "" h-711 "  " %}}
 ##### Authorized intercessions and thanksgivings may follow.
-{{% choose-weekday mp beforetheclose %}}
+{{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% hymn Processional "h-488" %}}

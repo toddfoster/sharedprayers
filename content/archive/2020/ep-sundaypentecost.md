@@ -97,7 +97,7 @@ _Collect Proper to the Day_
 
 {{% collects/36-oppressed %}}
 
-{{% choose-weekday ep mission monday %}}
+{{% choose ep mission monday %}}
 
 ##### Here may be sung a hymn or anthem.
 

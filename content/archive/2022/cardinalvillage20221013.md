@@ -27,7 +27,7 @@ reigns for ever and ever.
 ##### **People:**
 **Amen.**
 
-{{% choose-weekday mp confession %}}
+{{% choose mp confession %}}
 
 ##### The Peace may then be exchanged.
 

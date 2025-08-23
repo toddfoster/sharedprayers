@@ -9,7 +9,7 @@ rite: Morning Prayer
 bcppage: 75ff.
 ---
 {{% office/mp/sentence %}}
-{{% choose-weekday mp confession %}}
+{{% choose mp confession %}}
 #### Hymnal 377
 {{% office/mp/invitatory/jubilate %}}
 {{% office/psalmintro %}}
@@ -36,7 +36,7 @@ bcppage: 75ff.
 {{% office/mp/collect/sundays %}}
 {{% office/mp/mission %}}
 ##### Authorized intercessions and thanksgivings may follow.
-{{% choose-weekday mp beforetheclose %}}
+{{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 {{% office/mp/sentence %}}
-{{% choose-weekday mp confession %}}
+{{% choose mp confession %}}
 {{% office/mp/invitatory proper venite %}}
 {{% office/psalmintro %}}
 {{% lesson psalm "Psalm 66" /%}}
@@ -36,7 +36,7 @@ tags:
 {{% office/mp/collect/sundays %}}
 {{% office/mp/mission %}}
 ##### Authorized intercessions and thanksgivings may follow.
-{{% choose-weekday mp beforetheclose %}}
+{{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
 {{% nrsv %}}

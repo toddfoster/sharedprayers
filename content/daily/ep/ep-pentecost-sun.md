@@ -9,7 +9,7 @@ weekday: sunday
 {{% office/lessonssource %}}
 
 {{% office/ep/sentence %}}
-{{% choose-weekday ep confession %}}
+{{% choose ep confession %}}
 {{% office/ep/invitatory  %}}
 {{% office/psalmintro %}}
 {{% lesson "psalm" /%}}
@@ -74,12 +74,12 @@ weekday: sunday
 _Collect Proper to the Day_
 
 {{% office/ep/collect/sundays %}}
-{{% choose-weekday ep mission %}}
+{{% choose ep mission %}}
 
 ##### Here may be sung a hymn or anthem.
 
 ##### Authorized intercessions and thanksgivings may follow.
 
-{{% choose-weekday ep beforetheclose %}}
+{{% choose ep beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% office/mp/conclusion %}}
