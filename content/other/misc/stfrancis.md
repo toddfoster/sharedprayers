@@ -37,3 +37,6 @@ _The service concludes as follows_
 
 ##### **People:**
 > **Thanks be to God.**
+
+##### Animals may be blessed at this time with the following or similar prayer:
+Bless O God, this your creature, and all who love them and are involved in their care and protection.
