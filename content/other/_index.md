@@ -10,3 +10,4 @@ weight: 150
 - [Slides](slides)
 - Miscellaneous
   - [Blessing Backpacks](misc/blessingbackpacks)
+  - [Noonday Prayer for the Blessing of the Pets](misc/stfrancis)
