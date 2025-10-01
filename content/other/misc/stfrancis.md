@@ -2,6 +2,9 @@
 title: Noonday Prayer in honor of St. Francis of Assisi
 date: 2025-10-04
 bcppage: 103ff.
+tags:
+- StT
+- weekend
 ---
 ##### Officiant:
 > O God, make speed to save us.
@@ -29,6 +32,7 @@ _The Officiant then begins the Prayers_
 {{% office/compline/lordhearourprayer %}}
 
 {{% office/propercollect "lff2018-francis-of-assisi" %}}
+{{% collects/animals %}}
 
 _The service concludes as follows_
 
