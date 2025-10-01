@@ -4,7 +4,7 @@ date: 2025-10-04
 bcppage: 103ff.
 tags:
 - StT
-- weekend
+- weekday
 ---
 ##### Officiant:
 > O God, make speed to save us.
