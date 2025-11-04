@@ -7,6 +7,9 @@ pluralizelisttitles = false
 buildfuture = true
 sectionPagesMenu = 'main'
 
+# Disable rss?
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
 [markup.goldmark.renderer]
 hardWraps = true
 
@@ -16,3 +19,4 @@ favicon = "apple-touch-icon.png"
 realfavicongenerator = true
 jquery = false
 mainSections = ""
+
