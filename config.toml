@@ -7,8 +7,8 @@ pluralizelisttitles = false
 buildfuture = true
 sectionPagesMenu = 'main'
 
-# Disable rss?
-disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+# Disable rss to eliminate oversized index.xml (56M) per github complaint
+disableKinds = ['rss']
 
 [markup.goldmark.renderer]
 hardWraps = true
