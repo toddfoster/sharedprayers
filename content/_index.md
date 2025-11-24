@@ -10,6 +10,7 @@ weight: 1
 
 **Weekend Liturgies:** 
 {{% index/listliturgies "StT weekend" %}}
+{{% index/listliturgies "StL weekend" %}}
 <!---
 [2025-01-12: Evening Prayer for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-b/)
 [2025-01-12: Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-a/)
@@ -31,6 +32,7 @@ weight: 1
 
 **Weekday Liturgies:**
 {{% index/listliturgies "StT weekday" %}}
+{{% index/listliturgies "StL weekday" %}}
 
 <!--
 **Rowan Liturgies:**
