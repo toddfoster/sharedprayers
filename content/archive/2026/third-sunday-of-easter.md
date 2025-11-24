@@ -15,7 +15,7 @@ tags:
 {{% hymn Entrance %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-#### Hymnal S-280
+#### Hymnal S-278
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -28,16 +28,16 @@ tags:
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/gloryandpraise %}}
+{{% he/pop/alleluia %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="LEVAS 255" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/b sanctus="Hymnal S-128" /%}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 269
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-155
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

@@ -39,7 +39,7 @@ tags:
 {{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-164
+#### Hymnal S-161
 {{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God

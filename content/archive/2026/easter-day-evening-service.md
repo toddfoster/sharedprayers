@@ -11,7 +11,8 @@ bcppage: 355ff.
 ## We Gather in God's Name
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/trishagion %}}
+#### Hymnal S-278
+{{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word

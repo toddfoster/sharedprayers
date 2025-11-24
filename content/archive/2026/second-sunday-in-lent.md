@@ -13,6 +13,7 @@ tags:
 ---
 ## We Gather in God's Name
 {{% lent/penitentialorder %}}
+#### Hymnal S-95
 {{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
@@ -30,10 +31,10 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-125" /%}}
+{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-164
+#### Hymnal S-161
 {{% he/fraction/agnusdei %}}
 ##### pb
 ### We Receive the Gift of God

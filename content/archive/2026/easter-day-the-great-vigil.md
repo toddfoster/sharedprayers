@@ -31,7 +31,7 @@ tags:
 {{% stt/announcements %}}
 ## We Offer Ourselves to God
 ### Offertory Anthem: _Alleluia, Christ is Risen_, J. Kirkby
-{{% he/eucharisticprayer/d sanctus="Hymnal S-130" %}}
+{{% he/eucharisticprayer/d sanctus="Hymnal S-125" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### S-155

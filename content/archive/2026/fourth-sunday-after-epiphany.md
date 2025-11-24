@@ -31,11 +31,11 @@ bcppage: 355ff.
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="LEVAS 256" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### LEVAS 271
-{{% he/fraction/agnusdei %}}
+#### Hymnal S-164
+{{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

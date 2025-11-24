@@ -34,10 +34,10 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-125" /%}}
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-155
+#### Hymnal S-154
 {{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God

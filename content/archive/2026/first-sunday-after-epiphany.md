@@ -31,9 +31,11 @@ bcppage: 299ff.
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
-{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+#### Hymnal S-119
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/long %}}
+#### Hymnal S-164
+{{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}

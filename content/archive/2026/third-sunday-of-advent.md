@@ -16,8 +16,7 @@ tags:
 {{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-#### Hymnal S-102
-{{% he/songofpraise/trishagion %}}
+{{% hymn Praise %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ##### pb
@@ -36,10 +35,8 @@ tags:
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% he/eucharisticprayer/a sanctus="Hymnal S-129" /%}}
-#### Hymnal S-119
+{{% he/eucharisticprayer/a /%}}
 {{% he/lordsprayer/1 %}}
-#### Hymnal S-164
 {{% he/fraction/agnus164 %}}
 ##### pb
 ### We Receive the Gift of God

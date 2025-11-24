@@ -33,7 +33,7 @@ tags:
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 ### Offertory Anthem
-{{% he/eucharisticprayer/b sanctus="Hymnal S-130" /%}}
+{{% he/eucharisticprayer/b sanctus="Hymnal S-128" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-155
