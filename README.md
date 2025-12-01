@@ -18,8 +18,8 @@ At a minimum you're going to want:
 
 # Instructions
 - Fill out a spreadsheet page for the desired year.
-- Run `./ods2sp` to build liturgies for that year.
-- Run `./makeqrcodes` in root directory to automatically generate QR codes for every page.
+- Run `./bin/ods2sp` to build liturgies for that year.
+- Run `./bin/makeqrcodes` in root directory to automatically generate QR codes for every page.
 - Run `hugo` to build static pages
 - Push to [github](https://github.com/toddfoster/sharedprayers) (or your host of choice) to deploy
 
@@ -44,7 +44,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 ### URGENT
 - Warning on build
 - Updated theme changed text rendering: polish my fit with it (css, ¿config linebreaks?)
-- The top-level menu disappeared with the updated theme! How to get it back?
+- x The top-level menu disappeared with the updated theme! How to get it back?
 - Combine offices/mp/first and office/mp/second
 - Update Palm Sunday to take account of liturgical year
 - Establish good generic liturgies
@@ -87,7 +87,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - Get consistent on presider vs. celebrant: match BCP
 - Review shortcodes for updated formatting
 - Be able to select which readings/collects when alternatives are available (alt=2) -- or just require manual override?
-- Generate lesser feasts
+- x Generate lesser feasts
 - Versioned shortcodes to maintain older liturgies?
 - Consider lost formatting in lectionarypage.net texts (e.g., Hebrew poetry in Wisdom 3.1-9)
 - (python) Ensure all oremus texts are reproduced in lpn folder: can oremus be removed?
