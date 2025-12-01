@@ -9,7 +9,6 @@ weight: 1
 ------
 
 **Weekend Liturgies:** 
-{{% index/listliturgies "StT weekend" %}}
 {{% index/listliturgies "StL weekend" %}}
 <!---
 [2025-01-12: Evening Prayer for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-b/)
@@ -18,20 +17,19 @@ weight: 1
 
 <!---
 **The Great Three Days (Triduum)**
-{{% index/listliturgies "StT triduum" %}}
+{{% index/listliturgies "StL triduum" %}}
 
 **Liturgies for Holy Week**
-{{% index/listliturgies "StT holyweek" %}}
+{{% index/listliturgies "StL holyweek" %}}
 --->
 
 <!---
 **Seasonal Liturgies**
 [Longest Night Mass](archive/seasons20212022/advent/longestnight-a)
-{{% index/listliturgies "StT xmas" %}}
+{{% index/listliturgies "StL xmas" %}}
 --->
 
 **Weekday Liturgies:**
-{{% index/listliturgies "StT weekday" %}}
 {{% index/listliturgies "StL weekday" %}}
 
 <!--
