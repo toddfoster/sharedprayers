@@ -7,11 +7,8 @@ season: pentecost
 weekday: wednesday
 rite: Evening Prayer
 bcppage: 115ff.
-tags:
-- StT
-- weekday
 ---
-{{% choose-season ep sentence %}}
+{{% choose ep sentence %}}
 {{% choose ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
