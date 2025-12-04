@@ -42,29 +42,22 @@ No effort stands alone. I particularly want to recognize important inspirations 
 ### WIP
 
 ### URGENT
-- Warning on build
-- Updated theme changed text rendering: polish my fit with it (css, ¿config linebreaks?)
-- x The top-level menu disappeared with the updated theme! How to get it back?
-- Combine offices/mp/first and office/mp/second
-- Update Palm Sunday to take account of liturgical year
-- Establish good generic liturgies
 
-### IDEAS
+### TODO
+- warning in ods2sp
+- Combine offices/mp/first and office/mp/second
+- DRY references to POTUS, make easier to update (or find authoritative source!)
+- DRY references to ABp Canterbury, make easier to update
+- Update Palm Sunday to take account of liturgical year
+- Psalms  page to access psalms individually
+
+### MAYBE/SOMEDAY
+- Updated theme changed text rendering: polish my fit with it (css, ¿config linebreaks?)
 - provide aliases to bcp/xxx to include by page number
 - provide he/rite1/ versions
 - provide he/eow/ versions
-
-### TODO
-- add tags to filenames created by ods2sp
-- update lff2json to remove accents from slugs
-- regenerate & re-import lff2018keys.csv into liturgy plans
-- Psalms  page to access psalms individually
-- ods2sp: only regenerate pages older than spreadsheet
-- DRY references to POTUS, make easier to update (or find authoritative source!)
-- DRY references to ABp Canterbury, make easier to update
-
-### MAYBE/SOMEDAY
 - (python) draw hymns from hymntracker spreadsheet automatically (or build json table with defaults?)
+- static site that doesn't need index updated monthly
 - (python) generate monthly home pages for the year; quick script to copy into index.html, and update archive/he-current.md to forward to the current week
 - (python) build json table of dates for each sunday/bcp holiday for 2000-2100 (automate dates in templates)
  - (python) Daily Office RCL: begin by just drawing down from https://www.commonprayeronline.org/api/daily_summary/en/2022-2-16.json
@@ -77,8 +70,8 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - Add json db of BCP page number for Pss, Eucharistic Ps selections
 - Test suite for lesson shortcode
 - About
-    - Inspiration & Intended uses
-	- Opinionated options, readings
+    - x Inspiration & Intended uses
+	- x Opinionated options, readings
     - About me
 	- About QR codes
 	- About shortcodes
@@ -99,10 +92,16 @@ No effort stands alone. I particularly want to recognize important inspirations 
     - For each season
     - For Major Feasts during each season
 - Full years for each prayer?
+- add tags to filenames created by ods2sp
+- update lff2json to remove accents from slugs
+- regenerate & re-import lff2018keys.csv into liturgy plans
+- ods2sp: only regenerate pages older than spreadsheet
 
 ### 2025 July
 - x Remove symlinks as holders of information (no longer supported by hugo; big project!)
 - x Update to work with current version of hugo
+- x Warning on build
+- x The top-level menu disappeared with the updated theme! How to get it back?
 
 ## 2022-2024
 - x add lff2018 feasts to template spreadsheet
