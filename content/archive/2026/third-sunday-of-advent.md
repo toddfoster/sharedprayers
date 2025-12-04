@@ -22,7 +22,7 @@ tags:
 ##### pb
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% canticles/15-magnificat-ep %}}
+{{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence %}}
 {{% lesson "gospel" /%}}
