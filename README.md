@@ -50,6 +50,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 - DRY references to ABp Canterbury, make easier to update
 - Update Palm Sunday to take account of liturgical year
 - Psalms  page to access psalms individually
+- Don't hard-code parish patron into ep/suffragesb (or elsewhere! grep Thomas/Luke)
 
 ### MAYBE/SOMEDAY
 - Updated theme changed text rendering: polish my fit with it (css, ¿config linebreaks?)

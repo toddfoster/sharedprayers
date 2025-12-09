@@ -1,4 +1,4 @@
-{{ $communion := (printf "the Blessed Virgin Mary, blessed Thomas, %s and" (default "" (.Get 0))) }}
+{{ $communion := (printf "the Blessed Virgin Mary, blessed Luke, %s and" (default "" (.Get 0))) }}
 #### BCP 122
 _Suffrages B_
 ##### Officiant:
