@@ -29,6 +29,9 @@ weight: 1
 {{% index/listliturgies "StL xmas" %}}
 --->
 
+**Advent Liturgies:**
+{{% index/listliturgies "Advent" %}}
+
 **Weekday Liturgies:**
 [2025-11-30: Holy Eucharist for Saint Andrew the Apostle](https://www.sharedprayers.net/archive/2026/lff2018-saint-andrew-the-apostle/)
 {{% index/listliturgies "StL weekday" %}}

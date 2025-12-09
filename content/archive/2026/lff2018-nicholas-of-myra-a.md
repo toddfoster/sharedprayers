@@ -7,6 +7,9 @@ season: advent
 weekday: saturday
 rite: Vespers
 bcppage: 109ff.
+tags:
+- StL
+- Advent
 ---
 {{% office/ep/vespersbegin %}}
 {{% office/psalmintro %}}

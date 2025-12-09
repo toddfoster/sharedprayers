@@ -7,6 +7,9 @@ season: advent
 weekday: sunday
 rite: Vespers
 bcppage: 109ff.
+tags:
+- StL
+- Advent
 ---
 {{% office/ep/vespersbegin %}}
 {{% office/psalmintro %}}
@@ -29,7 +32,7 @@ bcppage: 109ff.
 ##### The people stand or kneel
 {{% letuspray %}}
 {{% lordsprayer2 %}}
-{{% office/ep/suffragesb %}}
+{{% office/ep/suffragesb "blessed Thomas" %}}
 ##### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 {{% office/propercollect %}}
 {{% office/ep/collect/protection %}}
