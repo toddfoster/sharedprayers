@@ -7,6 +7,9 @@ season: epiphany
 weekday: thursday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StL
+- weekday
 ---
 ## We Gather in God's Name
 {{% he/greeting/blessedbegod %}}
