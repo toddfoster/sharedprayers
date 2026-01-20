@@ -31,6 +31,7 @@ tags:
 {{% he/pop/hearourprayer %}}
 {{% he/confession %}}
 {{% he/peace %}}
+{{% stt/commissionvestry %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
 {{% hymn Offertory %}}
