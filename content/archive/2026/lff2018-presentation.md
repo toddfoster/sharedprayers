@@ -12,41 +12,32 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
-{{% hymn Entrance "l-221" %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
-{{% hymn Praise "l-216" %}}
+{{% he/songofpraise/kyrie %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
 {{% lesson "first" /%}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence "l-181" %}}
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/nicene %}}
-{{% he/pop/hearourprayer %}}
+{{% he/pop/form3 %}}
 {{% he/confession %}}
 {{% he/peace %}}
-{{% stt/commissionvestry %}}
-{{% stt/birthdaysanniversaries %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-### Choir Anthem: _The Lord's My Light_ by H. Ruthven
-{{% he/eucharisticprayer/b sanctus="LEVAS 256" /%}}
-#### LEVAS 264
+{{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-#### LEVAS 271
-{{% he/fraction/agnusdei %}}
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion "l-152" %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/epiphany-short %}}
-{{% hymn Processional "l-187" %}}
+{{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 
