@@ -1,5 +1,15 @@
+#### BCP 351
 ## A Penitential Order
-##### The people kneel or stand as able.
+##### The people stand as able.
+### Greeting
+
+##### Celebrant:
+Bless the Lord who forgives all our sins.
+
+##### People:
+**God's mercy endures for ever.**
+
+##### The people kneel as able.
 
 ### The Decalogue
 ##### The _Celebrant_ and the **People** call and respond:
@@ -105,4 +115,3 @@ to the glory of your Name. Amen.**
 ##### Priest:
 > Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. **Amen.**
 
-##### A deacon or lay person using the preceding form remains kneeling, and substitutes “us” for “you” and “our” for “your.”
