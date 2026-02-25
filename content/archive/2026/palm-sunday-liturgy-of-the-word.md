@@ -19,15 +19,15 @@ tags:
 {{% lesson "first" /%}}
 {{% lesson "psalm" /%}}
 {{% lesson "second" /%}}
-{{% hymn Sequence %}}
-{{% he/palmsunday/passion/c %}}
+{{% hymn Sequence "h-474" %}}
+{{% he/palmsunday/passion/a %}}
 ## We Respond in Faith
 {{% he/pop/lordhavemercy %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
-{{% hymn Offertory %}}
-{{% he/eucharisticprayer/a /%}}
+### Offertory Anthem
+{{% he/eucharisticprayer/a sanctus="Hymnal S-124" /%}}
 #### Hymnal S-119
 {{% he/lordsprayer/1 %}}
 #### Hymnal S-161
@@ -35,10 +35,10 @@ tags:
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
-{{% hymn Communion %}}
+### Communion Anthem
 {{% he/postcommunion/eternal %}}
 {{% he/blessing/palmsunday %}}
-{{% hymn Processional %}}
+{{% hymn Processional "h-158" %}}
 {{% he/dismissal/letusbless %}}
 {{% nrsv %}}
 
