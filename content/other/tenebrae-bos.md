@@ -52,14 +52,15 @@ V. Deliver me, my God, from the hand of the wicked:
 ##### Lector:
 A Reading from the Lamentations of Jeremiah the Prophet.
 
-> _Aleph._ How solitary lies the city, once so full of people! How like a widow has she become, she that was great among the nations! She that was queen among the cities has now become a vassal. Beth. She weeps bitterly in the night, tears run down her cheeks; among all her lovers she has none to comfort her; all become her enemies.
+> _Aleph._ How solitary lies the city, once so full of people! How like a widow has she become, she that was great among the nations! She that was queen among the cities has now become a vassal. 
 
-> _Gimel._ Judah has gone into the misery of exile and of hard servitude; she dwells now among the nations, but finds no resting place; all her pursuers overtook her in the midst of her anguish. Daleth. The roads to Zion mourn, because none come to the solemn feasts; all her gates are desolate, her priests groan and sigh; her virgins are afflicted, and she is in bitterness.
+> _Beth._ She weeps bitterly in the night, tears run down her cheeks; among all her lovers she has none to comfort her; all become her enemies.
 
-> _He._ Her adversaries have become her masters, her enemies prosper;
-because the Lord has punished her for the multitude of her
-rebellions; her children are gone, driven away as captives by the
-enemy.
+> _Gimel._ Judah has gone into the misery of exile and of hard servitude; she dwells now among the nations, but finds no resting place; all her pursuers overtook her in the midst of her anguish. 
+
+> _Daleth._ The roads to Zion mourn, because none come to the solemn feasts; all her gates are desolate, her priests groan and sigh; her virgins are afflicted, and she is in bitterness.
+
+> _He._ Her adversaries have become her masters, her enemies prosper; because the Lord has punished her for the multitude of her rebellions; her children are gone, driven away as captives by the enemy.
 
 > Jerusalem, Jerusalem, return to the Lord your God!
 
@@ -170,22 +171,11 @@ V. They divide my garments among them:
 > A Reading from the Treatise of Saint Augustine the Bishop on the
 Psalms.
 
-> Hear my prayer, O God; do not hide yourself from my petition.
-Listen to me and answer me. I mourn in my trial and am troubled.”
-These are the words of one disquieted, in trouble and anxiety. He
-prays under much suffering, desiring to be delivered from evil. Let
-us now see under what evil he lies; and when he begins to speak, let
-us place ourselves beside him, that, by sharing his tribulation, we
-may also join in his prayer.
+> Hear my prayer, O God; do not hide yourself from my petition. Listen to me and answer me. I mourn in my trial and am troubled.” These are the words of one disquieted, in trouble and anxiety. He prays under much suffering, desiring to be delivered from evil. Let us now see under what evil he lies; and when he begins to speak, let us place ourselves beside him, that, by sharing his tribulation, we may also join in his prayer.
 
 > “I mourn in my trial,” he says, “and am troubled.”
 
-> When does he mourn? When is he troubled? He says, “In my trial.”
-He has in mind the wicked who cause him suffering, and he calls
-this suffering his “trial.” Do not think that the evil are in the world
-for no purpose, and that God makes no good use of them. Every
-wicked person lives either that he may be corrected, or that through
-him the righteous may be tried and tested.
+> When does he mourn? When is he troubled? He says, “In my trial.” He has in mind the wicked who cause him suffering, and he calls this suffering his “trial.” Do not think that the evil are in the world for no purpose, and that God makes no good use of them. Every wicked person lives either that he may be corrected, or that through him the righteous may be tried and tested.
 
 
 ## Responsory 4 _Tamquam ad latronem_
