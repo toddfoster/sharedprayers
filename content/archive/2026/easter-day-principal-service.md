@@ -24,7 +24,7 @@ tags:
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" /%}}
 {{% hymn Sequence %}}
-{{% lesson "gospel" "Luke 24:1-12" /%}}
+{{% lesson "gospel" "Matthew 28:1-10" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/creed/baptismalvowsrenewal %}}

@@ -11,7 +11,7 @@ tags:
 - StL
 - weekend
 ---
-{{% he/palmsunday/palms/c %}}
+{{% he/palmsunday/palms/a %}}
 {{% he/palmsunday/palms/procession %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
