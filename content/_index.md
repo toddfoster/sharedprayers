@@ -17,6 +17,7 @@ weight: 1
 
 **Liturgies for Holy Week**
 {{% index/listliturgies "StL holyweek" %}}
+[Tenebrae](other/tenebrae-bos)
 
 **The Great Three Days (Triduum)**
 {{% index/listliturgies "StL triduum" %}}
@@ -47,8 +48,6 @@ weight: 1
 
 **Liturgies for any time:**
 - [Liturgies for Stations of the Cross](other/stations)
-- [Holy Eucharist for Weekdays](archive/he-covid-weekday)
-- [Holy Eucharist for Major Feasts](archive/he-covid-feasts)
 - Ministration at the time of death [for him](archive/occasions/atdeath-m), [for her](archive/occasions/atdeath-f)
 
 ------------
