@@ -45,6 +45,7 @@ No effort stands alone. I particularly want to recognize important inspirations 
 
 ### TODO
 - warning in ods2sp
+- Make json files for lff2022
 - Combine offices/mp/first and office/mp/second
 - DRY references to POTUS, make easier to update (or find authoritative source!)
 - DRY references to ABp Canterbury, make easier to update
