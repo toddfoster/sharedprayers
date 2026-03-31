@@ -12,9 +12,7 @@ tags:
 - holyweek
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessthelord %}}
-{{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% lent/orderForEvening %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
