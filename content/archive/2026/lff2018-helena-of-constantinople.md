@@ -12,9 +12,9 @@ tags:
 - weekday
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessedbegod %}}
+{{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
@@ -24,7 +24,6 @@ tags:
 {{% he/homily/brief %}}
 ## We Respond in Faith
 {{% he/pop/form3 %}}
-{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
@@ -35,7 +34,6 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

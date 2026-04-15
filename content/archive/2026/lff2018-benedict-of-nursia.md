@@ -35,7 +35,6 @@ tags:
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

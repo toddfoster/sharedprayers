@@ -7,11 +7,14 @@ season: easter
 weekday: tuesday
 rite: Holy Eucharist
 bcppage: 355ff.
+tags:
+- StL
+- weekday
 ---
 ## We Gather in God's Name
-{{% he/greeting/blessthelord %}}
+{{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-{{% he/songofpraise/kyrie %}}
+{{% he/songofpraise/trishagion %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
@@ -26,12 +29,11 @@ bcppage: 355ff.
 {{% stt/2023/offertory %}}
 {{% he/eucharisticprayer/b /%}}
 {{% he/lordsprayer/1 %}}
-{{% he/fraction/agnusdei %}}
+{{% he/fraction/long %}}
 ##### pb
 ### We Receive the Gift of God
 {{% stt/2022/communion %}}
 {{% he/postcommunion/almighty %}}
-{{% he/blessing/thepeace %}}
 {{% he/dismissal/goinpeace %}}
 {{% nrsv %}}
 

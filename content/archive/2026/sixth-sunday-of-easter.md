@@ -15,7 +15,7 @@ tags:
 {{% hymn Entrance %}}
 {{% he/greeting/alleluia %}}
 {{% he/collect-purity %}}
-#### Hymnal S-278
+#### Hymnal S-280
 {{% he/songofpraise/gloriaexcelsis %}}
 {{% he/propercollect %}}
 {{% rubric-sit %}}
