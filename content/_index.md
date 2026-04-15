@@ -15,12 +15,14 @@ weight: 1
 [2025-01-12: Holy Baptism for The First Sunday after the Epiphany: The Baptism of Our Lord](archive/2025/first-sunday-after-epiphany-a/)
 --->
 
+<!---
 **Liturgies for Holy Week**
 {{% index/listliturgies "StL holyweek" %}}
 [Tenebrae](other/tenebrae-bos)
 
 **The Great Three Days (Triduum)**
 {{% index/listliturgies "StL triduum" %}}
+--->
 
 <!---
 **Advent & Christmas Liturgies**
