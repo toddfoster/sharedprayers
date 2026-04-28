@@ -57,7 +57,7 @@ For all the faithful who have died and been buried from this parish and now rest
 **We thank you, Lord.**
 
 ##### Leader:
-For the fellowship of the Blessed Virgin Mary, Blessed Thomas our patron, and all your Saints,
+For the fellowship of the Blessed Virgin Mary, Blessed Luke our patron, and all your Saints,
 ##### **People:**
 **We thank you, Lord.**
 

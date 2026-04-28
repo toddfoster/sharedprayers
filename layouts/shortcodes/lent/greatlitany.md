@@ -110,7 +110,7 @@ That it may please thee to strengthen such as do stand; to comfort and help the 
 That it may please thee to grant to all the faithful departed eternal life and peace,
 > **We beseech thee to hear us, good Lord.**
 
-That it may please thee to grant that, in the fellowship of the Blessed Virgin Mary, Blessed Thomas, and all the saints, we may attain to thy heavenly kingdom,
+That it may please thee to grant that, in the fellowship of the Blessed Virgin Mary, Blessed Luke, and all the saints, we may attain to thy heavenly kingdom,
 > **We beseech thee to hear us, good Lord.**
 
 Son of God, we beseech thee to hear us.

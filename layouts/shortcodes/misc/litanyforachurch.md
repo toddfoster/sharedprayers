@@ -52,7 +52,7 @@ For the faith of those who have gone before us and for our encouragement by thei
 **We thank you, Lord.**
 
 ##### Leader:
-For the fellowship of the Blessed Virgin Mary, Blessed Thomas our patron, and all your Saints,
+For the fellowship of the Blessed Virgin Mary, Blessed Luke our patron, and all your Saints,
 ##### **People:**
 **We thank you, Lord.**
 

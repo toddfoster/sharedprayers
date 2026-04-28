@@ -67,7 +67,7 @@ Remember [_N. and_] all who this night have been united to Christ’s death in b
 
 Remember all who have died in the peace of Christ, and those whose faith is known to you alone; bring them into the place of eternal joy and light.
 
-And grant that we may find our inheritance with the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, with Blessed Thomas and all the saints who have found favor with you in ages past. We praise you in union with them and give you glory through your Son Jesus Christ our Lord. Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.
+And grant that we may find our inheritance with the Blessed Virgin Mary, with patriarchs, prophets, apostles, and martyrs, with Blessed Luke and all the saints who have found favor with you in ages past. We praise you in union with them and give you glory through your Son Jesus Christ our Lord. Through Christ, and with Christ, and in Christ, all honor and glory are yours, Almighty God and Father, in the unity of the Holy Spirit, for ever and ever.
 
 ##### **People:**
 **AMEN.**

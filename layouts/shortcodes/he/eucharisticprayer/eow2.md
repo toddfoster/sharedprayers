@@ -44,7 +44,7 @@ As supper was ending, Jesus took the cup of wine. Again, he gave thanks to you, 
 
 Now gathered at your table, O God of all creation, and remembering Christ, crucified and risen, who was and is and is to come, we offer to you our gifts of bread and wine, 	and ourselves, a living sacrifice. Pour out your Spirit upon these gifts that they may be the Body and Blood of Christ. Breathe your Spirit over the whole earth and make us your new creation, the Body of Christ given for the world you have made.
 
-In the fullness of time bring us, with blessed Thomas, the blessed Virgin Mary, and all your saints, from every tribe and language and people and nation, to feast at the banquet prepared from the foundation of the world.
+In the fullness of time bring us, with blessed Luke, the blessed Virgin Mary, and all your saints, from every tribe and language and people and nation, to feast at the banquet prepared from the foundation of the world.
 
 Through Christ and with Christ and in Christ, in the unity of the Holy Spirit, to you be honor, glory, and praise, for ever and ever.
 

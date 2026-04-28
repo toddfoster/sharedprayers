@@ -51,7 +51,7 @@ Reader:
 > **Lord, have mercy.**
 
 Reader:
-> Remembering the blessed Virgin Mary, _blessed Thomas_, and all the saints, let us offer ourselves and one another to the living God through Christ.
+> Remembering the blessed Virgin Mary, _blessed Luke, and all the saints, let us offer ourselves and one another to the living God through Christ.
 
 **People:**
 > **To you, O Lord.**
