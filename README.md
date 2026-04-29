@@ -16,6 +16,16 @@ At a minimum you're going to want:
 - [pyexcel_ods3](https://pypi.org/project/pyexcel-ods3/): a python library to parse LibeCalc files
 - [LibreOffice](https://www.libreoffice.org/) is my tool of choice for editing spreadsheets. Why are you still paying the Microsoft tax? Especially now that they want to sell you an annual subscription. LibreOffice (and Open/Star Office before it) have been my go-to office suite for nearly 30 years!
 
+# About python...
+Python is awesome because it makes life easy. Until it doesn't because of dependencies. 
+
+A fresh install of Linux revealed my python dependencies. Ubuntu doesn't like to install random python libraries with pip. Instead I used:
+```
+python3 -m venv bin/venv
+bin/venv/bin/pip install pyexcel_ods3 python-dateutil
+bin/venv/bin/python3 bin/ods2sp 2026
+```
+
 # Instructions
 - Fill out a spreadsheet page for the desired year.
 - Run `./bin/ods2sp` to build liturgies for that year.
