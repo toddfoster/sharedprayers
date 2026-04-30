@@ -24,6 +24,7 @@ A fresh install of Linux revealed my python dependencies. Ubuntu doesn't like to
 python3 -m venv bin/venv
 bin/venv/bin/pip install pyexcel_ods3 python-dateutil
 bin/venv/bin/python3 bin/ods2sp 2026
+pipx install amzqr --force
 ```
 
 # Instructions
