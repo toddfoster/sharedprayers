@@ -13,7 +13,7 @@ tags:
 ---
 ## We Gather in God's Name
 {{% hymn Entrance "h-225" %}}
-{{% /he/greeting/blessedbegod %}}
+{{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 #### Hymnal S-278
 {{% he/songofpraise/gloriaexcelsis %}}
