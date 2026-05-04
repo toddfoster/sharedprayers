@@ -128,9 +128,9 @@ Loving God, you have taught us to welcome one another as Christ welcomed us: Ble
 _Antiphon_
 **I will sprinkle you with clean water, and you will be cleansed.**
 
-**V. Let us hold fast the confession of our hope without wavering: R.**
+V. Let us hold fast the confession of our hope without wavering: 
+**R. Having our bodies washed with pure water.**
 
-Having our bodies washed with pure water.
 Let us pray. 
 ##### (Silence)
 O holy God, in the incarnation of your Son our Lord you made our flesh the instrument of your self-revelation: Give us a proper respect and reverence for our mortal bodies, keeping them clean and fair, whole and sound; that, glorifying you in them, we may confidently await our being clothed upon with spiritual bodies, when that which is mortal is transformed by life; through Jesus Christ our Lord. **Amen.**
@@ -169,9 +169,9 @@ _Antiphon_
 
 V. He brings forth food from the earth, 
 and wine to gladden our hearts: 
-
 **R. Oil to make a cheerful countenance, 
 and bread to strengthen the heart.**
+
 Let us pray. 
 ##### (Silence)
 Blessed are you, O Lord, King of the universe, for you give us food and drink to sustain our lives: Make us grateful for all your mercies, and mindful of the needs of others; through Jesus Christ our Lord. **Amen.**
