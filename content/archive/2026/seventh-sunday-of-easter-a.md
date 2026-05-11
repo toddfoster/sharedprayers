@@ -11,10 +11,11 @@ tags:
 - StL
 - weekend
 ---
-{{% choose ep sentence %}}
+## We Gather in God's Name
+{{% he/greeting/alleluia %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
-{{% lesson "psalm-sac" /%}}
+{{% lesson "psalm" /%}}
 {{% office/psalmgloria %}}
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
@@ -29,15 +30,16 @@ tags:
 #### BCP 121
 ##### The people stand or kneel.
 {{% letuspray %}}
-{{% he/lordsprayer/1 %}}
+{{% lordsprayer2 %}}
 {{% office/ep/suffragesb %}}
-{{% he/propercollect %}}
+{{% office/propercollect %}}
 {{% office/ep/collect/sundays %}}
 {{% choose ep mission %}}
 ##### Here may be sung a hymn or anthem.
 ##### Authorized intercessions and thanksgivings may follow.
-{{% choose ep beforetheclose %}}
-{{% office/ep/letusbless %}}
-{{% choose mp conclusion %}}
+{{% office/mp/beforetheclose/generalthanksgiving %}}
+{{% office/mp/beforetheclose/prayer-chrysostom %}}
+{{% office/mp/letusbless %}}
+{{% office/mp/conclusion/glorytogod %}}
 {{% nrsv %}}
 

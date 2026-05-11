@@ -1,6 +1,7 @@
 _The General Thanksgiving_
 ##### Officiant and **People:**
-**Almighty God, Father of all mercies,
+Almighty God, 
+**Father of all mercies,
 we your unworthy servants give you humble thanks
 for all your goodness and loving-kindness
 to us and to all whom you have made.
