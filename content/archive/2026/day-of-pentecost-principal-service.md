@@ -20,7 +20,7 @@ tags:
 {{% he/propercollect %}}
 {{% rubric-sit %}}
 ## We Hear God's Word
-{{% lesson "first" "Genesis 11:1-9" /%}}
+{{% lesson "first" "Numbers 11:24-30" /%}}
 {{% lesson "psalm-sac" /%}}
 {{% lesson "second" "Acts 2:1-21" /%}}
 {{% hymn Sequence "h-507" %}}

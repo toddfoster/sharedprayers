@@ -44,6 +44,6 @@ tags:
 {{% choose mp beforetheclose %}}
 {{% office/mp/letusbless %}}
 {{% choose mp conclusion %}}
-{{% hymn Processional "H-470" %}}
+{{% hymn Processional "H-370" %}}
 {{% nrsv %}}
 
