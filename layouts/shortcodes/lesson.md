@@ -84,6 +84,7 @@
 {{ end }}
 
 {{ $reference = $reference | chomp }}
+{{ $reference = replace $reference "Song of Songs" "Song of Solomon" }}
 {{ $ref_slug := replace $reference "Ecclesiasticus" "Sirach" }}
 {{ $ref_slug = $ref_slug | lower | replaceRE "(\\s)" "" | replaceRE "^(..[a-z]{1,5}).*"  "$1" }}
 {{ $ref_slug = substr $ref_slug 0 5 }}
