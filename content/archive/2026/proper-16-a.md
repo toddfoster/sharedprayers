@@ -12,7 +12,7 @@ tags:
 - weekend
 ---
 ## We Gather in God's Name
-{{% office/ep/sentence %}}
+{{% office/ep/sentence/1 %}}
 {{% choose ep confession %}}
 {{% office/ep/invitatory %}}
 {{% office/psalmintro %}}
