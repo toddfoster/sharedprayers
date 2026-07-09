@@ -17,7 +17,7 @@ tags:
 {{% choose mp confession %}}
 {{% office/mp/invitatory/jubilate %}}
 {{% office/psalmintro %}}
-{{% lesson "psalm" /%}}
+{{% lesson "psalm-sac" /%}}
 {{% office/psalmgloria %}}
 # The Lessons
 ##### The people sit for the readings and stand for the canticles.
