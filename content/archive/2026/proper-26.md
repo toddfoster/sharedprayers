@@ -9,6 +9,7 @@ rite: Holy Eucharist
 bcppage: 355ff.
 ---
 ## We Gather in God's Name
+{{% hymn Entrance %}}
 {{% he/greeting/blessedbegod %}}
 {{% he/collect-purity %}}
 #### Hymnal S-280
@@ -23,8 +24,9 @@ bcppage: 355ff.
 {{% lesson "gospel" /%}}
 {{% he/homily/brief %}}
 ## We Respond in Faith
-{{% he/creed/baptismalvowsrenewal %}}
+{{% he/creed/nicene %}}
 {{% he/pop/hearourprayer %}}
+{{% he/confession %}}
 {{% he/peace %}}
 {{% stt/announcements %}}
 {{% stt/2023/offertory %}}
