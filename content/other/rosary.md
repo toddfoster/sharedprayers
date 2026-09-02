@@ -10,7 +10,7 @@ A rosary can have a variety of shapes but is usually encountered as a string of 
 
 The prayer finds its root in the greeting of the angel Gabriel to the Blessed Mother at the Annunciation. In 590AD, Pope Gregory the Great invited Christians to echo the angel's words of greeting and reverence on the Fourth Sunday of Advent. Through the centuries, this simple greeting has been expanded and amplified. The form that is used today was fixed by the Roman Catholic Church in 1568AD.
 
-The Rosary is repetitive by design: it is intended to allow one's lips and intentions to utter holy words while giving one's mind space to listen. Special intentions (listed at the bottom of this page) may guide each decade.
+The Rosary is repetitive by design: it is intended to allow one's lips and intentions to utter holy words while giving one's mind space to listen. [Special intentions (listed at the bottom of this page)](#special-intentions-for-meditation) may guide each decade.
 
 The Rosary may be prayed alone or in community, silently or aloud. 
 
@@ -147,7 +147,7 @@ Amen.**
 -------
 
 
-# For Meditation
+# Special Intentions For Meditation
 ## Joyful Mysteries of the Rosary (Monday & Saturday)
 1. The Annunciation of the Lord to Mary
 Mary is chosen to be the mother of Jesus.
