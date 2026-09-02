@@ -4,6 +4,7 @@ weight: 150
 ---
 
 - [Stations of the Cross](stations)
+- [The Holy Rosary](rosary)
 - Ministration at the Time of Death ([female](atdeath/atdeath-f) / [male](atdeath/atdeath-m))
 - [House Blessing](houseblessing)
 - [Tenebrae](tenebrae-bos)
