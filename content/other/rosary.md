@@ -14,6 +14,8 @@ The Rosary is repetitive by design: it is intended to allow one's lips and inten
 
 The Rosary may be prayed alone or in community, silently or aloud. 
 
+Note that there is no _wrong_ way to pray. In particular, if you are accustomed to other forms of the Gloria Patri, the Apostles' Creed, the Lord's Prayer, or other pieces of the prayer, there is no reason not to use them.
+
 -------
 
 ##### All sit quietly in preparation.
@@ -56,6 +58,20 @@ Save us from the time of trial,
 and deliver us from evil.
 Amen.**
 
+#### or:
+
+Our Father, **who art in heaven,
+	hallowed be thy Name,
+	thy kingdom come,
+	thy will be done,
+	on earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our trespasses,
+	as we forgive those who trespass against us.
+And lead us not into temptation,
+	but deliver us from evil.
+Amen.**
+
 ## 3. Hail Mary
 ##### On each of the three small beads pray the Hail Mary:
 ##### 3x:
@@ -74,7 +90,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit: *
 
 ##### or:
 
-Glory be to the Father, the Son, and the Holy Spirit;
+Glory be to the Father, and to the Son, and the Holy Spirit;
 **as it was in the beginning, is now, 
 and ever shall be, world without end. Amen.**
 
@@ -149,66 +165,66 @@ Amen.**
 
 # Special Intentions For Meditation
 ## Joyful Mysteries of the Rosary (Monday & Saturday)
-1. The Annunciation of the Lord to Mary
+1. _The Annunciation of the Lord to Mary_
 Mary is chosen to be the mother of Jesus.
 
-2. The Visitation of Mary to Elizabeth
+2. _The Visitation of Mary to Elizabeth_
 Elizabeth recognizes Mary as the mother of our Lord.
 
-3. The Nativity of our Lord Jesus Christ
+3. _The Nativity of our Lord Jesus Christ_
 Jesus is born and laid in a manger.
 
-4. The Presentation of our Lord
+4. _The Presentation of our Lord_
 Jesus is presented in the Temple of Jerusalem.
 
-5. Finding Jesus in the Temple
+5. _Finding Jesus in the Temple_
 At age 12 Jesus is found discussing God's laws in the temple.
 
 ## Sorrowful Mysteries of the Rosary (Tuesday & Friday)
-1. The Agony of Jesus in the Garden
+1. _The Agony of Jesus in the Garden_
 Jesus prays when confronted with the sins of the world.
 
-2. The Scourging at the Pillar
+2. _The Scourging at the Pillar_
 Jesus is whipped before His execution.
 
-3. Jesus is Crowned with Thorns
+3. _Jesus is Crowned with Thorns_
 Jesus is mocked with a painful crown of thorns.
 
-4. Jesus Carried the Cross
+4. _Jesus Carried the Cross_
 Jesus carries the weight of our sins to His crucifixion.
 
-5. The Crucifixion of our Lord
+5. _The Crucifixion of our Lord_
 Jesus Christ dies to save all mankind. 
 
 ## Glorious Mysteries of the Rosary (Wednesday & Sunday)
-1. The Resurrection of Jesus Christ
+1. _The Resurrection of Jesus Christ_
 Jesus rises triumphant over death.
 
-2. The Ascension of Jesus to Heaven
+2. _The Ascension of Jesus to Heaven_
 As Jesus ascends, He gives us a special task.
 
-3. The Descent of the Holy Ghost
+3. _The Descent of the Holy Ghost_
 At Pentecost the Church is born.
 
-4. The Assumption of Mary into Heaven
+4. _The Assumption of Mary into Heaven_
 The Virgin Mary is gloriously assumed into heaven.
 
-5. Mary is Crowned as Queen of Heaven and Earth
+5. _Mary is Crowned as Queen of Heaven and Earth_
 Mary is honored above all creatures.
 
 ## Luminous Mysteries of the Rosary (Thursday)
-1. The Baptism in the Jordan
+1. _The Baptism in the Jordan_
 God proclaims Jesus is His Son.
 
-2. The Wedding at Cana
+2. _The Wedding at Cana_
 Jesus performs a surprising miracle at a wedding.
 
-3. The Proclamation of the Kingdom
+3. _The Proclamation of the Kingdom_
 Jesus calls us to do something important.
 
-4. The Transfiguration
+4. _The Transfiguration_
 Jesus is gloriously transformed.
 
-5. The Institution of the Eucharist
+5. _The Institution of the Eucharist_
 Jesus shares His Body and Blood for our salvation.
 
