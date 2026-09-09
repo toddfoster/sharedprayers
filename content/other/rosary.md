@@ -37,11 +37,11 @@ Glory be to the Father, and to the Son, and to the Holy Spirit.
 **As it was in the beginning, is now, and ever shall be, world without end. Amen.**
 
 ### 6. For each decade:
-#### a. Announce the mystery.
-#### b. Pray the Our Father.
-#### c. Pray ten Hail Mary's.
-#### d. Pray the Glory Be.
-#### e. Pray the Fatima Prayer (optional)
+### a. Announce the mystery.
+### b. Pray the Our Father.
+### c. Pray ten Hail Mary's.
+### d. Pray the Glory Be.
+### e. Pray the Fatima Prayer (optional)
 O my Jesus, **forgive us our sins, save us from the fires of hell, and lead all souls to heaven, especially those in most need of Thy mercy.**
 
 ### 7. Repeat for all five decades.
