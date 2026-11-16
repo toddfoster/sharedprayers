@@ -1,0 +1,51 @@
+---
+title: "Holy Eucharist for Proper 13"
+date: 2027-08-01
+lectionaryyear: b
+proper: proper-13
+season: pentecost
+weekday: sunday
+rite: Holy Eucharist
+bcppage: 355ff.
+tags:
+- StL
+- weekend
+---
+## We Gather in God's Name
+{{% hymn Entrance "h-48" %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/collect-purity %}}
+#### Hymnal S-278
+{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/propercollect %}}
+{{% rubric-sit %}}
+## We Hear God's Word
+{{% lesson "first" /%}}
+{{% lesson "psalm-sac" /%}}
+{{% lesson "second" /%}}
+{{% hymn Sequence "h-51" %}}
+{{% lesson "gospel" /%}}
+{{% he/homily/brief %}}
+## We Respond in Faith
+{{% he/creed/nicene %}}
+{{% he/pop/hearourprayer %}}
+{{% he/confession %}}
+{{% he/peace %}}
+{{% stt/announcements %}}
+{{% stt/2023/offertory %}}
+### Choir Anthem
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+#### Hymnal S-119
+{{% he/lordsprayer/1 %}}
+#### Hymnal S-154
+{{% he/fraction/long %}}
+##### pb
+### We Receive the Gift of God
+{{% stt/2022/communion %}}
+{{% hymn Communion "h-309" %}}
+{{% he/postcommunion/almighty %}}
+{{% he/blessing/thepeace %}}
+{{% hymn Processional "h-690" %}}
+{{% he/dismissal/goinpeace %}}
+{{% nrsv %}}
+

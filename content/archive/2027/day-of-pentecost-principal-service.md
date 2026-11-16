@@ -1,0 +1,50 @@
+---
+title: "Holy Eucharist for The Day of Pentecost: Whitsunday"
+date: 2027-05-16
+lectionaryyear: b
+proper: day-of-pentecost-principal-service
+season: pentecost
+weekday: sunday
+rite: Holy Eucharist
+bcppage: 355ff.
+tags:
+- StL
+- weekend
+---
+## We Gather in God's Name
+{{% hymn Entrance "h-225" %}}
+{{% he/greeting/blessedbegod %}}
+{{% he/collect-purity %}}
+#### Hymnal S-278
+{{% he/songofpraise/gloriaexcelsis %}}
+{{% he/propercollect %}}
+{{% rubric-sit %}}
+## We Hear God's Word
+{{% lesson "first" "Numbers 11:24-30" /%}}
+{{% lesson "psalm-sac" /%}}
+{{% lesson "second" "Acts 2:1-21" /%}}
+{{% hymn Sequence "h-507" %}}
+{{% lesson "gospel" /%}}
+{{% he/homily/brief %}}
+## We Respond in Faith
+{{% he/creed/baptismalvowsrenewal %}}
+{{% he/pop/hearourprayer %}}
+{{% he/peace %}}
+{{% stt/announcements %}}
+{{% stt/2023/offertory %}}
+### Choir Anthem
+{{% he/eucharisticprayer/c sanctus="Hymnal S-130" %}}
+#### Hymnal S-119
+{{% he/lordsprayer/1 %}}
+#### Hymnal S-154
+{{% he/fraction/long %}}
+##### pb
+### We Receive the Gift of God
+{{% stt/2022/communion %}}
+### Choir Anthem
+{{% he/postcommunion/almighty %}}
+{{% he/blessing/pentecost-long %}}
+{{% hymn Processional "h-511" %}}
+{{% he/dismissal/goinpeace %}}
+{{% nrsv %}}
+
